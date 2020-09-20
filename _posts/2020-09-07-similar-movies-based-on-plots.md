@@ -1,11 +1,11 @@
 ---
 layout: post
 full-width: true
-title: How to Find the Similarity Between Movies Based on their Plots
+title: How to Find Similarity Between Movies Based on Their Plots
 subtitle: Use this to find out if you'll like a new movie based on movies you've already watched
-cover-img: https://vedantmadane.github.io/assets/img/movie-plot.png
-thumbnail-img: https://assets.datacamp.com/production/project_648/img/movie2.jpg
-share-img: https://assets.datacamp.com/production/project_648/img/movie1.jpg
+cover-img: https://assets.datacamp.com/production/project_648/img/movie2.jpg
+thumbnail-img: https://assets.datacamp.com/production/project_648/img/movie1.jpg
+share-img: https://assets.datacamp.com/production/project_648/img/movie2.jpg
 tags: [project]
 ---
 ## 1. Import and observe dataset
@@ -912,7 +912,7 @@ plt.show()
     
 
 
-![png](output_21_1.png)
+![https://vedantmadane.github.io/assets/img/movie-plot.png](https://vedantmadane.github.io/assets/img/movie-plot.png)
 
 
 ## 12. Which movies are most similar?
