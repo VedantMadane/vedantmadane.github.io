@@ -1,4 +1,5 @@
 ---
+layout: post
 full-width: true
 title: How to Find the Similarity Between Movies Based on their Plots
 subtitle: Use this to find out if you'll like a new movie based on movies you've already watched
