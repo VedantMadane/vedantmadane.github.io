@@ -3,9 +3,9 @@ layout: post
 full-width: true
 title: How to Find Similarity Between Movies Based on Their Plots
 subtitle: Use this to find out if you'll like a new movie based on movies you've already watched
-cover-img: https://assets.datacamp.com/production/project_648/img/movie2.jpg
+cover-img: https://vedantmadane.github.io/assets/img/movie2.jpg
 thumbnail-img: https://assets.datacamp.com/production/project_648/img/movie1.jpg
-share-img: https://assets.datacamp.com/production/project_648/img/movie2.jpg
+share-img: https://vedantmadane.github.io/assets/img/movie2.jpg
 tags: [project]
 ---
 ## 1. Import and observe dataset
