@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: 
+#title: 
+subtitle: About
 ---
 I like learning languages - both natual and programming. 
 Talk to me in tounges:
