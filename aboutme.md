@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: 
 ---
+I like learning languages - both natual and programming. 
+Talk to me in tounges:
+- Sanskrit: can listen and understand but cannot speak without making mistakes.
+- Russian: can hold small talk but my eyes begin to roll when I see blocks of text in Cyrillic.
+- Fluent in Marathi, Hindi and English. 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+All languages are imperfect, except Sanskrit.
+So here I try to document how to say interesting things in them.
+If you know a better way of doing what I'm trying to do, then let me know!
