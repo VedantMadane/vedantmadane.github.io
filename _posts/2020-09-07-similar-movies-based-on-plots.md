@@ -6,7 +6,7 @@ subtitle: Use this to find out if you'll like a new movie based on movies you've
 cover-img: https://vedantmadane.github.io/assets/img/movie2.jpg
 thumbnail-img: https://assets.datacamp.com/production/project_648/img/movie1.jpg
 share-img: https://vedantmadane.github.io/assets/img/movie2.jpg
-tags: [project]
+tags: [projects]
 ---
 ## 1. Import and observe dataset
 <p>We all love watching movies! There are some movies we like, some we don't. Most people have a preference for movies of a similar genre. Some of us love watching action movies, while some of us like watching horror. Some of us like watching movies that have ninjas in them, while some of us like watching superheroes.</p>
