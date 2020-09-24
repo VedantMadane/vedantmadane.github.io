@@ -5,7 +5,7 @@ subtitle: Transliteration of Sergey Yesenin's poem Отговорила Роща
 tags: [sanskrit, russian]
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mEWTAasr9uM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#आत्गवारिला रोषा ज़लाताया \
+आत्गवारिला रोषा ज़लाताया \
 बिर्योज़वीम् वेस्योलीम् येज़ीकोम् । \
 इ झ़ुराव्लि पेचल्ना प्रलेताया \
 उझ़् ने झ़ालेयुत् बोल्शे नि आ कोम् ॥ 
