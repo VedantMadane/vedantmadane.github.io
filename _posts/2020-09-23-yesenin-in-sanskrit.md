@@ -2,8 +2,9 @@
 layout: post
 title: Yesenin in Sanskrit
 subtitle: Transliteration of Sergey Yesenin's poem Отговорила Роща Золотая in devanAgarI phonetic
-tags: [sanskrit russian]
+tags: [sanskrit, russian]
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mEWTAasr9uM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #आत्गवारिला रोषा ज़लाताया \
 बिर्योज़वीम् वेस्योलीम् येज़ीकोम् । \
 इ झ़ुराव्लि पेचल्ना प्रलेताया \
@@ -33,4 +34,4 @@ tags: [sanskrit russian]
 स्ग्रेब्योत् इख् व्से व् आदिन् नेनुझ़्नीय् कोम् … । \
 स्काझ़िच़े ताक् ... श्तो रोषा ज़लाताया  \
 आत्गवारिला मिलीम् याज़ीकोम् ॥ 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mEWTAasr9uM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
