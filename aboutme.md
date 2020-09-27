@@ -15,14 +15,3 @@ Talk to me in tounges:
 All languages are imperfect, except Sanskrit.
 So here I try to document how to say interesting things in them.
 If you know a better way of doing what I'm trying to do, then let me know!
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60753416-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-60753416-2');
-</script>
-
