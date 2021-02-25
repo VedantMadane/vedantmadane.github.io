@@ -3,7 +3,7 @@ layout: page
 #title: 
 subtitle: About
 ---
-I like learning languages - both natual and otherwise.
+I like learning languages - both natual and programing.
 Talk to me in tounges:
 
   **Sanskrit**: can listen and understand but cannot speak without making mistakes.
