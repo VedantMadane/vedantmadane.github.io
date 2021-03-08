@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Cyrillic to Devanāgarī Transliteration Scheme
-#subtitle: Proposal of a Transliteration Scheme for Cyrillic to Devanāgarī in order to promote writing of Russian in Devanāgarī 
+subtitle: Proposal of a Transliteration Scheme for Cyrillic to Devanāgarī in order to promote writing of Russian in Devanāgarī 
 tags: [sanskrit, russian]
 ---
-----
-Cyrillic|Devanāgarī
+
+Cyrillic  |Devanāgarī
 ----------|----------
 А а       | अ    
 Б б       | ब्       
