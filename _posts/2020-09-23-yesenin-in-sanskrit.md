@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Yesenin in Sanskrit
+title: Russian Song in Sanskrit
 subtitle: Transliteration of Sergey Yesenin's poem Отговорила Роща Золотая in devanAgarI phonetic
 tags: [sanskrit, russian]
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mEWTAasr9uM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/tqiA63vryDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 आत्गवारिला रोषा ज़लाताया \
 बिर्योज़वीम् वेस्योलीम् येज़ीकोम् । \
 इ झ़ुराव्लि पेचल्ना प्रलेताया \
