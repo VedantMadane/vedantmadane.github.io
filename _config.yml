@@ -14,7 +14,7 @@ author: Vedant Madane
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  
+  CV: "https://vedantmadane.github.io/cv/"
   Project: "https://vedantmadane.github.io/maha"
   Journal: "https://vedantmadane.github.io/tags#journal"
   About: "aboutme"
