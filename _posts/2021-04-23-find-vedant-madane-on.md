@@ -10,33 +10,33 @@ Analyze Vedant Madane on Data Camp : [datacamp.com/profile/vedantnm](https://www
 
 Compete with Vedant Madane on Hacker Rank : [hackerrank.com/VedantMadane](https://www.hackerrank.com/VedantMadane)
 
-Follow Vedant Madane on Twitter : [https://twitter.com/Vedant__Madane](https://twitter.com/Vedant__Madane)
+Follow Vedant Madane on Twitter : [twitter.com/Vedant__Madane](https://twitter.com/Vedant__Madane)
 
-Vue Vedant Madane on Jovian AI : [https://jovian.ai/vedant-madane](https://jovian.ai/vedant-madane)
+Vue Vedant Madane on Jovian AI : [jovian.ai/vedant-madane](https://jovian.ai/vedant-madane)
 
-Network with Vedant Madane on Linked In : [https://www.linkedin.com/in/vedant-madane-7b129ba8/](https://www.linkedin.com/in/vedant-madane-7b129ba8/)
+Network with Vedant Madane on Linked In : [linkedin.com/in/vedant-madane-7b129ba8/](https://www.linkedin.com/in/vedant-madane-7b129ba8/)
 
-Challenge Vedant Madane on Solo Learn : [https://www.sololearn.com/profile/19008401](https://www.sololearn.com/profile/19008401)
+Challenge Vedant Madane on Solo Learn : [sololearn.com/profile/19008401](https://www.sololearn.com/profile/19008401)
 
-Follow Vedant Madane on Git Hub : [https://github.com/VedantMadane](https://github.com/VedantMadane)
+Follow Vedant Madane on Git Hub : [github.com/VedantMadane](https://github.com/VedantMadane)
 
-Find Vedant Madane on Stack Overflow : [https://stackoverflow.com/users/4652148/vedant-madane](https://stackoverflow.com/users/4652148/vedant-madane)
+Find Vedant Madane on Stack Overflow : [stackoverflow.com/users/4652148/vedant-madane](https://stackoverflow.com/users/4652148/vedant-madane)
 
-Be-Friend Vedant Madane on Face Book : [https://www.facebook.com/vedantnm/](https://www.facebook.com/vedantnm/)
+Be-Friend Vedant Madane on Face Book : [fb.com/vedantnm/](https://www.facebook.com/vedantnm/)
 
-Fork Vedant Madane on Git Lab : [https://gitlab.com/vedev](https://gitlab.com/vedev)
+Fork Vedant Madane on Git Lab : [gitlab.com/vedev](https://gitlab.com/vedev)
 
-Phsyco analyse Vedant Madane on Quora: [https://www.quora.com/Vedant-Madane-1](https://www.quora.com/Vedant-Madane-1)
+Phsyco analyse Vedant Madane on Quora: [quora.com/Vedant-Madane-1](https://www.quora.com/Vedant-Madane-1)
 
-Battle Vedant Madane on Code Wars : [https://www.codewars.com/users/vedantmadane](https://www.codewars.com/users/vedantmadane)
+Battle Vedant Madane on Code Wars : [codewars.com/users/vedantmadane](https://www.codewars.com/users/vedantmadane)
 
-Cite Vedant Madane on Wiki Pedia : [https://en.wikipedia.org/wiki/User:VedantMadane](https://en.wikipedia.org/wiki/User:VedantMadane)
+Cite Vedant Madane on Wiki Pedia : [wikipedia.org/wiki/User:VedantMadane](https://en.wikipedia.org/wiki/User:VedantMadane)
 
-Up-vote Vedant Madane on Redd It : [https://reddit.com/user/Vedant--Madane](https://reddit.com/user/Vedant--Madane)
+Up-vote Vedant Madane on Redd It : [reddit.com/user/Vedant--Madane](https://reddit.com/user/Vedant--Madane)
 
-Out-compete Vedant Madane on Brilliant : [https://brilliant.org/profile/vedant-lzcmzs/](https://brilliant.org/profile/vedant-lzcmzs/)
+Out-compete Vedant Madane on Brilliant : [brilliant.org/profile/vedant-lzcmzs/](https://brilliant.org/profile/vedant-lzcmzs/)
 
-Hug Vedant Madane on Hugging Face : [https://huggingface.co/vedant](https://huggingface.co/vedant)
+Hug Vedant Madane on Hugging Face : [huggingface.co/vedant](https://huggingface.co/vedant)
 
-Develop with Vedant Madane on Dev To : [https://dev.to/vedantmadane]()
+Develop with Vedant Madane on Dev To : [dev.to/vedantmadane](https://dev.to/vedantmadane)
 
