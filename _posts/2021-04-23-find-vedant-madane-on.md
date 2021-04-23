@@ -2,13 +2,13 @@ You have found Vedant Madane on his website.
 
 Now find Vedant Madane on...
 
-Stalk Vedant Madane on Plural Sight : [https://app.pluralsight.com/profile/vedant-madane](https://app.pluralsight.com/profile/vedant-madane)
+Stalk Vedant Madane on Plural Sight : [pluralsight.com/profile/vedant-madane](https://app.pluralsight.com/profile/vedant-madane)
 
-Subscribe to Vedant Madane on You Tube : [https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
+Subscribe to Vedant Madane on You Tube : [youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
 
-Analyze Vedant Madane on Data Camp : [https://www.datacamp.com/profile/vedantnm](https://www.datacamp.com/profile/vedantnm)
+Analyze Vedant Madane on Data Camp : [datacamp.com/profile/vedantnm](https://www.datacamp.com/profile/vedantnm)
 
-Compete with Vedant Madane on Hacker Rank : [https://www.hackerrank.com/VedantMadane](https://www.hackerrank.com/VedantMadane)
+Compete with Vedant Madane on Hacker Rank : [hackerrank.com/VedantMadane](https://www.hackerrank.com/VedantMadane)
 
 Follow Vedant Madane on Twitter : [https://twitter.com/Vedant__Madane](https://twitter.com/Vedant__Madane)
 
