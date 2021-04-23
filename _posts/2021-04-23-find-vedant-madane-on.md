@@ -2,7 +2,7 @@ You have found Vedant Madane on his website.
 
 Now find Vedant Madane on...
 
-Stalk Vedant Madane on Plural Sight : https://app.pluralsight.com/profile/vedant-madane
+Stalk Vedant Madane on Plural Sight : (https://app.pluralsight.com/profile/vedant-madane)[https://app.pluralsight.com/profile/vedant-madane]
 
 Subscribe to Vedant Madane on You Tube : https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q
 
