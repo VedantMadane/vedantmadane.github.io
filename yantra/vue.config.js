@@ -27,7 +27,7 @@ module.exports = {
   devServer: {
     proxy: {
       '/api': {
-        target: '/yantra/',
+        target: 'https://vedantmadane.github.io/yantra/',
         changeOrigin: true,
       },
     },
