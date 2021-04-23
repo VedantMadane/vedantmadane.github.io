@@ -15,14 +15,14 @@ Follow Vedant Madane on Twitter : [twitter.com/Vedant__Madane](https://twitter.c
 
 Vue Vedant Madane on Jovian AI : [jovian.ai/vedant-madane](https://jovian.ai/vedant-madane)
 
-Network with Vedant Madane on Linked In : 
+Network with Vedant Madane on Linked In : \
 [linkedin.com/in/vedant-madane-7b129ba8/](https://www.linkedin.com/in/vedant-madane-7b129ba8/)
 
 Challenge Vedant Madane on Solo Learn : [sololearn.com/profile/19008401](https://www.sololearn.com/profile/19008401)
 
 Follow Vedant Madane on Git Hub : [github.com/VedantMadane](https://github.com/VedantMadane)
 
-Find Vedant Madane on Stack Overflow : 
+Find Vedant Madane on Stack Overflow : \
 [stackoverflow.com/users/4652148/vedant-madane](https://stackoverflow.com/users/4652148/vedant-madane)
 
 Be-Friend Vedant Madane on Face Book : [fb.com/vedantnm/](https://www.facebook.com/vedantnm/)
