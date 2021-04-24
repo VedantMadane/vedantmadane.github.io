@@ -43,3 +43,4 @@ Hug Vedant Madane on Hugging Face : [huggingface.co/vedant](https://huggingface.
 
 Develop with Vedant Madane on Dev To : [dev.to/vedantmadane](https://dev.to/vedantmadane)
 
+Annotate Vedant Madane on Rap Genius: (https://genius.com/Vedant_Madane)
