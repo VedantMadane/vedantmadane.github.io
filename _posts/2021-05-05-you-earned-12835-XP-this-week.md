@@ -1,4 +1,4 @@
-[https://i.imgur.com/OVzLT1G.png](https://i.imgur.com/OVzLT1G.png)
+![https://i.imgur.com/OVzLT1G.png](https://i.imgur.com/OVzLT1G.png)
 Weekly Progress
 
 APR 26 - MAY 2
