@@ -2,10 +2,9 @@
 
 
 Weekly Progress | APR 26 - MAY 2
------------- | -------------
-
+------------ | ---------------------------------------
 	
-Productivity | ou earned more XP than 98% of learners!
+Productivity | You earned more XP than 98% of learners!
 
 XP earned | 12835 XP
 
