@@ -14,11 +14,11 @@ author: Vedant Madane
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "https://vedantmadane.github.io/cv/" 
-  Project: "https://vedantmadane.github.io/maha" 
-    - Poster: "https://vedantmadane.github.io/maha/poster" 
-    - Telecom: "https://vedantmadane.github.io/telecom/" 
-  Journal: "https://vedantmadane.github.io/tags#journal" 
+  CV: "cv"
+  Project: "maha" 
+    - Poster: "maha/poster" 
+    - Telecom: "telecom" 
+  Journal: "tags#journal" 
   About: "aboutme" 
   Blog:    
     - 
