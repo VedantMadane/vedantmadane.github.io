@@ -16,6 +16,8 @@ author: Vedant Madane
 navbar-links:
   CV: "https://vedantmadane.github.io/cv/"
   Project: "https://vedantmadane.github.io/maha"
+   - Poster: "https://vedantmadane.github.io/maha/poster"
+   - Telecom: "https://vedantmadane.github.io/telecom/"
   Journal: "https://vedantmadane.github.io/tags#journal"
   About: "aboutme"
   #Blog:
