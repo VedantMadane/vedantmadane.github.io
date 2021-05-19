@@ -1,9 +1,9 @@
 ---
 layout:post
 title: You earned more XP than 79 percent of learners
-subtitle: By making 42 correct submissions, you are on a 4 week learning streak.
 tags: [journal]
 ---
+
 You earned more XP than 79% of learners!
 
 You earned 2550 XP.
