@@ -1,7 +1,6 @@
 ---
 layout:post
 title: You earned more XP than 79 percent of learners
-tags: [journal]
 ---
 
 You earned more XP than 79% of learners!
