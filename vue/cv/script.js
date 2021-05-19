@@ -2,6 +2,7 @@ const app = Vue.createApp({
   el: "#curriculum-vitae",
   data() {
     return {
+      title: "Vedant Madane's Curriculum Vitae Database",
       searchInput: "",
       dataColumns: ["certification", "date", "institution", "percentage"],
       dataset:  [
