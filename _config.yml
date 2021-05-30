@@ -14,10 +14,10 @@ author: Vedant Madane
 # --- List of links in the navigation bar --- #
 navbar-links:
   CV: "https://vedantmadane.github.io/cv"
-  Project:
-    - Poster: "https://vedantmadane.github.io/maha/poster"
-    - Pre-processing: "https://vedantmadane.github.io/maha"
-    - Telecom: "https://vedantmadane.github.io/telecom"
+  Project: "https://vedantmadane.github.io/maha/poster"
+#    - Poster: "https://vedantmadane.github.io/maha/poster"
+#    - Pre-processing: "https://vedantmadane.github.io/maha"
+#    - Telecom: "https://vedantmadane.github.io/telecom"
   About: "https://vedantmadane.github.io/aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
