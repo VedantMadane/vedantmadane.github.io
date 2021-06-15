@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are Recurrent Neural Networks?
-subtitle: Read if you are hearing about RNNs for the first time
+subtitle: Set started with an understanding of RNNs and where you could use them
 ---
 
 # What are RNNs?
@@ -63,7 +63,7 @@ In TensorFlow we can use the SimpleRNN layer.
 
 # How to train an RNN model?
 
-
+In RNNs, instead of backpropagating 
 
 # What are RNNs used for?
 
