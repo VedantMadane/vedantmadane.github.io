@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are Recurrent Neural Networks?
-subtitle: Set started with an understanding of RNNs and where you could use them
+subtitle: Get started with an understanding of RNNs and where you could use them or read if you're hearing about them for the first time
 ---
 
 # What are RNNs?
@@ -63,7 +63,11 @@ In TensorFlow we can use the SimpleRNN layer.
 
 # How to train an RNN model?
 
-In RNNs, instead of backpropagating 
+Instead of backpropagating errors through a single feed forward network, RNNs backpropagate the error all the way back to the begining of our sequence.
+Problems faced when training an RNN model is:
+
+1. Exploding Gradients
+2. Vanishing Gradients
 
 # What are RNNs used for?
 
