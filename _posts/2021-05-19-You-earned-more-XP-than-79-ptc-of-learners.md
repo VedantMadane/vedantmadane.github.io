@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You earned more XP than 79 percent of learners
+subtitle: You are on a 4 week learning streak.
 ---
 
 * You made 42 correct submissions on your way to mastery this week. 
