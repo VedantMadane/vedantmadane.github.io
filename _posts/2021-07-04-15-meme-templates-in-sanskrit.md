@@ -17,13 +17,14 @@ y u do dis किमिति करोषि
 ![](https://i.imgflip.com/5fhjvu.jpg)
 ## Ceiling Cat is watching you in Sanskrit
 
-![https://pbs.twimg.com/media/C6rsqkZWgAAt3KM.jpg](https://pbs.twimg.com/media/C6rsqkZWgAAt3KM.jpg)
+![https://i.imgflip.com/5fhk7z.jpg](https://i.imgflip.com/5fhk7z.jpg)
 
 पटलमार्जारः लोचते
 
 ## Imma let you finish in Sanskrit
 
 अहन्त्वां सासितुन्दासिष्यामि
+![](https://i.imgflip.com/5fhkdl.jpg)
 
 ## That's what she said in Sanskrit
 
