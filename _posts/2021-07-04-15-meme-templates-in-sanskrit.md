@@ -7,8 +7,6 @@ tags: [sanskrit]
 # y u do dis in Sanskrit
 y u do dis किमिति करोषि
 
-# Listen Linda in Sanskrit 
-Listen Linda शृणु लीण्डा
 # Keep Calm and Carry On
 ![keep calm and carry on in sankrit](https://assets3.thrillist.com/v1/image/2617171/1584x1054/crop;jpeg_quality=60.jpg)
 शान्तम्भवत कर्यङ्कुरुत
@@ -73,3 +71,6 @@ Listen Linda शृणु लीण्डा
 न कश्चिद् वृणीते
 # Epic Fail in Sanskrit
 महद्विफलता
+
+## Listen Linda in Sanskrit 
+Listen Linda शृणु लीण्डा
