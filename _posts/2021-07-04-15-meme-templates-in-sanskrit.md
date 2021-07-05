@@ -37,7 +37,7 @@ y u do dis किमिति करोषि
 
 ## I see what you did there in Sanskrit
 
-
+![](https://i.imgflip.com/5fhknt.jpg)
 अहम् पश्यामि किम्भवान् तत्र अकरोत्
 
 ## ??? -> Profit  in Sanskrit
@@ -49,7 +49,6 @@ y u do dis किमिति करोषि
 धन्यवादाः  ओबामा
 
 ## It's a trap in Sanskrit
-
 
 जालङ्खलु
 
