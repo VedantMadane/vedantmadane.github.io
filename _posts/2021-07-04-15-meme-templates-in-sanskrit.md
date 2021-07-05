@@ -45,11 +45,11 @@ y u do dis किमिति करोषि
 ??? -> लब्धि
 
 ## Thanks Obama in Sanskrit
-
+![](https://i.imgflip.com/5fhl0z.jpg)
 धन्यवादाः  ओबामा
 
 ## It's a trap in Sanskrit
-
+![](https://i.imgflip.com/5fhl40.jpg)
 जालङ्खलु
 
 ## U mad bro?  in Sanskrit
