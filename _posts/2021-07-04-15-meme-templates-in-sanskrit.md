@@ -55,6 +55,7 @@ y u do dis किमिति करोषि
 ## U mad bro?  in Sanskrit
 
 त्वङ्कुपित भ्रात?
+![](https://i.imgflip.com/5fhm8g.jpg)
 
 ## All Your Base Are Belong to Us in Sanskrit
 
