@@ -29,9 +29,9 @@ y u do dis किमिति करोषि
 ## That's what she said in Sanskrit
 
 एतावत् सा अवदत्
-
+![](https://i.imgflip.com/5fhkh0.jpg)
 ## Bye, Felicia in Sanskrit
-
+![](https://i.imgflip.com/5fhkkc.jpg)
 
 मेलिष्याव फलीषिया
 
