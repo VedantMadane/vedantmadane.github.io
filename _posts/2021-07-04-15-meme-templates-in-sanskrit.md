@@ -6,8 +6,8 @@ tags: [sanskrit]
 ---
 # y u do dis in Sanskrit
 y u do dis किमिति करोषि
-
-# Keep Calm and Carry On
+![](https://i.imgflip.com/5fhj8b.jpg)
+# Keep Calm and Carry On in Sanskrit
 ![keep calm and carry on in sankrit](https://assets3.thrillist.com/v1/image/2617171/1584x1054/crop;jpeg_quality=60.jpg)
 शान्तम्भवत कर्यङ्कुरुत
 
