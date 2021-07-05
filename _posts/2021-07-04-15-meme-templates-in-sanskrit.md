@@ -67,8 +67,9 @@ y u do dis किमिति करोषि
 
 ## Nobody Cares in Sanskrit
 
-![SpongeBob](https://giphy.com/gifs/129OnZ9Qn2i0Ew)
+![SpongeBob](https://i.imgflip.com/5fhlfw.jpg)
 न कश्चिद् वृणीते
+
 ## Epic Fail in Sanskrit
 महद्विफलता
 
