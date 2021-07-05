@@ -14,7 +14,7 @@ y u do dis किमिति करोषि
 ## Are you not entertained? in Sanskrit
 
  भवन्तः लालयामास वा 
-
+![](https://i.imgflip.com/5fhjvu.jpg)
 ## Ceiling Cat is watching you in Sanskrit
 
 ![https://pbs.twimg.com/media/C6rsqkZWgAAt3KM.jpg](https://pbs.twimg.com/media/C6rsqkZWgAAt3KM.jpg)
