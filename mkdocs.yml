@@ -1,0 +1,118 @@
+# Project information
+site_name: Vedant Madane's Projects
+site_url: https://vedantmadane.github.io/projects
+site_author: IBM Developer
+
+# Repository
+repo_name: projects
+repo_url: https://github.com/vedantmadane/projects
+# Change the middle parameter to the default branch, "master" or "main"
+edit_uri: edit/main/docs
+
+# Navigation
+nav:
+  - Mahābārata:
+    - Data Cleaning: maha/index.md
+    - Exploratory Data Analysis: maha/eda.md
+    - Topic Modelling: maha/topic-modelling.md
+    - Sentiment Analysis: maha/sentiment-analysis.md
+    - Auto Page Summarization: maha/page-summarization.md
+    - 
+    
+  - Get started:
+    - Prerequisites: get-started/prereqs.md
+    - The environment: get-started/environment.md
+    - About the data set: get-started/data-set.md
+    - Feedback survey: get-started/survey.md
+  - Workshop:
+    - Lab 1: workshop/lab-1.md
+    - Lab 2: workshop/lab-2.md
+    - Lab 3: workshop/lab-3.md
+  - Reference:
+    - Additional resources: reference/resources.md
+    - Admin guide: reference/admin-guide.md
+    - Mkdocs examples: reference/mkdocs.md
+  - Changelog:
+    - Release notes: changelog.md
+
+## DO NOT CHANGE BELOW THIS LINE
+
+# Copyright
+copyright: Copyright &copy; 2021 Vedant Madane
+
+# Theme
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  # Choose between specifying a file with "logo"
+  # or using a built-in one with "icon"
+  #logo: assets/img/orange_bg.jpg
+  icon:
+    logo: material/library
+  features:
+    #- navigation.tabs
+    - navigation.instant
+    - navigation.expand
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
+
+# Plugins
+plugins:
+  - search
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/VedantMadane
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Vedant__Madane
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/vedant-madane-7b129ba8/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/vedantmadane
+  version:
+    provider: mike
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
