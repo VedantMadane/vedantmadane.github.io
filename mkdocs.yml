@@ -1,24 +1,20 @@
 # Project information
-site_name: Vedant Madane's Projects
-site_url: https://vedantmadane.github.io/projects
+site_name: Minimal Workshop
+site_url: https://vedantmadane.github.io/minimal-workshop-mkdocs
 site_author: IBM Developer
 
 # Repository
-repo_name: projects
-repo_url: https://github.com/vedantmadane/projects
+repo_name: minimal-workshop-mkdocs
+repo_url: https://github.com/vedantmadane/minimal-workshop-mkdocs
 # Change the middle parameter to the default branch, "master" or "main"
-edit_uri: edit/main/docs
+edit_uri: edit/master/docs
 
 # Navigation
 nav:
-  - Mahābārata:
-    - Data Cleaning: maha/index.md
-    - Exploratory Data Analysis: maha/eda.md
-    - Topic Modelling: maha/topic-modelling.md
-    - Sentiment Analysis: maha/sentiment-analysis.md
-    - Auto Page Summarization: maha/page-summarization.md
-    - 
-    
+  - Welcome:
+    - About the workshop: index.md
+    - Compatability: welcome/compatability.md
+    - Authors: welcome/authors.md
   - Get started:
     - Prerequisites: get-started/prereqs.md
     - The environment: get-started/environment.md
@@ -38,7 +34,7 @@ nav:
 ## DO NOT CHANGE BELOW THIS LINE
 
 # Copyright
-copyright: Copyright &copy; 2021 Vedant Madane
+copyright: Copyright &copy; 2020 IBM Developer
 
 # Theme
 theme:
@@ -48,7 +44,7 @@ theme:
     code: IBM Plex Mono
   # Choose between specifying a file with "logo"
   # or using a built-in one with "icon"
-  #logo: assets/img/orange_bg.jpg
+  #logo: assets/bee.png
   icon:
     logo: material/library
   features:
@@ -68,15 +64,15 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/VedantMadane
+      link: https://github.com/ibm
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/Vedant__Madane
+      link: https://twitter.com/ibmdeveloper
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/vedant-madane-7b129ba8/
+      link: https://www.linkedin.com/company/ibm/
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q
+      link: https://www.youtube.com/user/developerworks
     - icon: fontawesome/brands/dev
-      link: https://dev.to/vedantmadane
+      link: https://dev.to/ibmdeveloper
   version:
     provider: mike
 
