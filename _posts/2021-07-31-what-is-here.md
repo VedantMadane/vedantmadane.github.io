@@ -1,9 +1,9 @@
 ---
 title: What Exists Here May Be Found Elsewhere
 subtitle: What exists here may be found elsewhere, What is not here can scarcely be found. ~MBh1.62.53
-cover-img: ![image](https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png)
+cover-img: https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png
 thumbnail-img: https://jovian.ml/api/user/vedant-madane/avatar/d38cb98c1c1240769984fde7615eba01
-share-img: ![image](https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png)
+share-img: https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png
 tags:[project]
 ---
 # यत् इह अस्ति तत् अन्यत्र यत् न इह अस्ति न तत् क्वचित् ॥ १.६२.५३
@@ -25,4 +25,5 @@ One-hot encoding is another approach for vectorizing text. Vectorizing means imp
 
 In this way, we build features from our text data using the bag-of-words, as well as the bag-of-n-grams representation. This allowed us to gain insights from the Mahābhārata, summarize any given page of the text, classify any page into a category of topics- main war narrative, philosophy and side-quests. Then we plotted the change of sentiment from page-to-page by having the progress from 0% to 100% on the X-axis and the sentiment score from -1 (negative sentiment) to +1 (positive sentiment) on the Y-axis. We also plotted word clouds to garner information of the relative importance of the people mentioned in the Mahabhārata, and how their position changes with changing circumstances from Parva to Parva.
 
+Click below to access the interactive project page:
 [![Click here to go to the project page](https://user-images.githubusercontent.com/6527493/127737965-60049c6c-6ae7-4467-b36b-675b9777bb35.png)](https://vedantmadane.github.io/maha/poster)
