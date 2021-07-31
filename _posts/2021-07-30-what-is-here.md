@@ -1,7 +1,8 @@
 ---
+layout: post
 title: What Exists Here May Be Found Elsewhere
 subtitle:  What is not here can scarcely be found
-#cover-img: https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png
+cover-img: https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png
 thumbnail-img: https://jovian.ml/api/user/vedant-madane/avatar/d38cb98c1c1240769984fde7615eba01
 tags:[project]
 ---
