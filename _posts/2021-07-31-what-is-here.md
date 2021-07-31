@@ -1,6 +1,6 @@
 ---
 title: What Exists Here May Be Found Elsewhere
-subtitle: What exists here may be found elsewhere, What is not here can scarcely be found.
+subtitle:  What is not here can scarcely be found
 #cover-img: https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png
 thumbnail-img: https://jovian.ml/api/user/vedant-madane/avatar/d38cb98c1c1240769984fde7615eba01
 tags:[project]
@@ -9,7 +9,8 @@ Vaiśampāyana told Janamejaya,\
 `What exists here may be found elsewhere, `\
 `What is not here can scarcely be found. `
 
-## यत् इह अस्ति तत् अन्यत्र यत् न इह अस्ति न तत् क्वचित् ॥ १.६२.५३
+## यत् इह अस्ति तत् अन्यत्र 
+## यत् न इह अस्ति न तत् क्वचित् ॥ १.६२.५३
 
 Although India's IT industry has been reporting record breaking profits year on year, the benefits of this superficial digital transformation rarely trickles down beyond tier-2 cities. A testament to this fact is that most Indian languages are considered low-resource despite having centuries of written literature. A language is generally considered low-resource when there are less than ten thousand annotated sentences for a given language pair. This becomes a problem for carrying out natural language processing tasks without machine learning.
 
