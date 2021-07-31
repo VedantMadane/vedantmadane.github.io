@@ -5,7 +5,7 @@ cover-img: https://user-images.githubusercontent.com/6527493/127737983-83b6619f-
 thumbnail-img: https://jovian.ml/api/user/vedant-madane/avatar/d38cb98c1c1240769984fde7615eba01
 tags:[project]
 ---
-Vaiśampāyana told Janamejaya,
+Vaiśampāyana told Janamejaya,\
 `What exists here may be found elsewhere, `\
 `What is not here can scarcely be found. `
 
@@ -15,10 +15,10 @@ Although India's IT industry has been reporting record breaking profits year on 
 
 Natural language processing is a broad term encompassing everything from chatbots to speech recognition. We have to work with unstructured data for the majority of NLP tasks. Unstructured data means the information is not neatly organized in tables in a database. Written text, voice commands, sensor input are all examples of unstructured data which form a large portion of the data in the public domain. The easy way out would be to simply run a pre-trained language model on your corpus and get state-of-the-art results. However, SOTA models have the drawback of giving jaw-dropping but unreproducible results, unless you have the means to afford the compute resources.
 
-[![](https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png)](https://user-images.githubusercontent.com/6527493/127737965-60049c6c-6ae7-4467-b36b-675b9777bb35.png)](https://vedantmadane.github.io/maha/poster)
+[![](https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png)](https://vedantmadane.github.io/maha/poster)
 
 In order to work with text, it's often important that you encode it in numeric form. Mining Data from text includes building feature vector representations of text, which involves representing text in numeric form. Now let's say you have a host of labeled text data and you want to train a classification model, and you want this classification model to perform sentiment analysis. Once you have a fully trained classifier, you want to feed in input in the form of sentences, that is, text, and you want to get an output that tells you whether the text is positive or negative. In order to work with text, it's often important that you encode it in numeric form. Mining Data from text includes building feature vector representations of text, which involves representing text in numeric form. Now let's say you have a host of labeled text data and you want to train a classification model, and you want this classification model to perform sentiment analysis. Once you have a fully trained classifier, you want to feed in input in the form of sentences, that is, text, and you want to get an output that tells you whether the text is positive or negative.
-[![image](https://user-images.githubusercontent.com/6527493/127738035-6b75e64f-2c3d-4651-89dd-c5143296b3fe.png)](https://user-images.githubusercontent.com/6527493/127737965-60049c6c-6ae7-4467-b36b-675b9777bb35.png)](https://vedantmadane.github.io/maha/poster)
+[![image](https://user-images.githubusercontent.com/6527493/127738035-6b75e64f-2c3d-4651-89dd-c5143296b3fe.png)](https://vedantmadane.github.io/maha/poster)
 
 There are multiple ways of transforming unstructured data into something a computer can understand. For our project we used the bag-of-words approach. In BoW, we disregard the order in which the words occur in the text, giving them weights instead in accordance with the frequency with which they occur in the text.
 post.png
