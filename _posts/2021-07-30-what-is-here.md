@@ -1,9 +1,8 @@
 ---
 layout: post
 title: What Exists Here May Be Found Elsewhere
-subtitle:  What is not here can scarcely be found
-cover-img: https://user-images.githubusercontent.com/6527493/127737983-83b6619f-1811-4165-9872-0ae8a8762238.png
-thumbnail-img: https://jovian.ml/api/user/vedant-madane/avatar/d38cb98c1c1240769984fde7615eba01
+subtitle:  Although India’s IT industry has been reporting record breaking profits year on year, the benefits of this superficial digital transformation rarely trickles down beyond tier-2 cities.
+cover-img: https://user-images.githubusercontent.com/6527493/127737965-60049c6c-6ae7-4467-b36b-675b9777bb35.png
 tags: [project]
 ---
 Vaiśampāyana told Janamejaya,\
