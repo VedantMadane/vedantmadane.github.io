@@ -7,8 +7,8 @@ tags:[project]
 ---
 Vaiśampāyana told Janamejaya,
 
-`What exists here may be found elsewhere, \
- What is not here can scarcely be found. \
+`What exists here may be found elsewhere, /
+ What is not here can scarcely be found. /
 `
 ## यत् इह अस्ति तत् अन्यत्र यत् न इह अस्ति न तत् क्वचित् ॥ १.६२.५३
 
