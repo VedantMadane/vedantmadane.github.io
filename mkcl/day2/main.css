@@ -1,0 +1,55 @@
+body{
+  margin: 5px;
+}
+header{
+  padding: 20px;
+  width: 50%;
+  background: salmon;
+  height: 22px;  
+}
+
+#śīrśaka{
+  background: red;
+  width: 75%;
+  height: 22px;
+}
+main{
+  height: calc(100vh - 100px);
+  background: indigo;
+  color: #0f0f0f;
+  display: inline;
+}
+p
+{
+  width:28;
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+  margin: 0;
+  padding:0;
+}
+
+p1
+{
+   color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+#foot{
+  font-size: 20px;
+  margin: 10px;
+  outline: 2px solid gold;
+  padding:5px;
+}
+.logo{
+  width:10px;
+  height: 10px;
+}
+img{
+  padding-top: 50px;
+  padding-right:5px;
+  padding-left:5px;
+  padding-bottom: 4px;
+  outline: 2px solid white;
+  margin: 0px;
+}
