@@ -15,6 +15,9 @@
     .is-128x128 {
 
     }
+    .is-rounded {
+      border-radius:50%
+    }
   </style>
 
   <!-- js -->
@@ -77,8 +80,8 @@
         },
         moveButton: function(e) {
           this.buttonOffsets = {
-            top: `${Math.random() * window.innerHeight}px`,
-            left: `${Math.random() * window.innerWidth}px`
+            top: `${Math.floor(Math.random() * (window.innerHeight -200))}px`,
+            left: `${Math.floor(Math.random() * (window.innerWidth - 200))}px`
           };
         }
       }
