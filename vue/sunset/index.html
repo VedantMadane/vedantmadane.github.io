@@ -1,0 +1,191 @@
+<div id="app">
+  <div class="text-center">
+    <svg viewBox="0 0 1600 900" class="w-full">
+      <mask id="waterMask">
+        <rect fill="white" x="0" y="550" width="1600" height="350" />
+      </mask>
+
+      <Stars :time="time" />
+
+      <Moon :time="time" />
+
+      <Sun :time="time" />
+      <Mountains :time="time" />
+
+      <Clouds :cloud-count="cloudCount" :time="time" />
+
+      <rect :fill="waterColor.hex()" x="0" y="550" width="1600" height="350" />
+
+      <g opacity="0.3" mask="url(#waterMask)">
+        <g transform="translate(0 1100) scale(1 -1)">
+          <Sun :time="time" />
+          <Mountains :time="time" />
+        </g>
+      </g>
+
+      <transition name="boat">
+        <g v-if="boatVisible">
+          <Boat :fill="boatColor.hex()" />
+          <g transform="translate(0 1380) scale(1 -1)">
+            <Boat :fill="boatShadowColor.hex()" />
+          </g>
+        </g>
+      </transition>
+
+      <fg-mountains :time="time" />
+
+      <g opacity="0.3" transform="translate(0 1573) scale(1 -1)">
+        <fg-mountains :time="time" :right-only="true" />
+      </g>
+    </svg>
+
+    <div class="relative h-24 mt-5">
+      <transition name="controls">
+        <div
+          v-if="controlSection === 0"
+          class="absolute inset-x-0 top-0 space-x-4 controls--0"
+        >
+          <button class="button bg-bgMain" @click="boatVisible = !boatVisible">
+            Toggle boat
+          </button>
+          <button class="button bg-bgMain" @click="cloudCount++">
+            Add cloud
+          </button>
+          <button class="button bg-bgMain" @click="cloudCount--">
+            Remove cloud
+          </button>
+          <button class="button bg-bgMain" @click="controlSection++">
+            →
+          </button>
+        </div>
+
+        <div
+          v-else-if="controlSection === 1"
+          class="absolute inset-x-0 top-0 flex items-end justify-center space-x-4 controls--1"
+        >
+          <button class="button bg-bgMain" @click="controlSection--">
+            ←
+          </button>
+          <div class="w-72">
+            <input v-model="time" type="range" min="14" max="20" step="0.1" />
+<!--             <vue-slider
+              v-model="time"
+              :min="14"
+              :max="20"
+              :interval="1 / 60"
+              :duration="0"
+              :contained="true"
+              tooltip="always"
+              :tooltip-formatter="numToTime"
+            /> -->
+          </div>
+          <button class="button bg-bgMain" @click="goToTime(14)">Day</button>
+          <button class="button bg-bgMain" @click="goToTime(18)">Dusk</button>
+          <button class="button bg-bgMain" @click="goToTime(20)">Night</button>
+        </div>
+      </transition>
+    </div>
+    
+    <p class="opacity-50">
+      Inspired by
+      <a href="https://dribbble.com/shots/16236792-Serenity">
+        Serenity by El B
+      </a>
+    </p>
+  </div>
+</div>
+
+<script type="x-template" id="boat">
+  <path
+    fill="orange"
+    d="M 232 690 H 320 L 336 670 H 216 M 232 658 H 282 V 582.8 M 294 658 H 320 L 294 610"
+  />
+</script>
+
+<script type="x-template" id="clouds">
+  <transition-group name="cloud">
+    <g v-for="c of clouds" :key="c.id">
+      <path
+        :fill="cloudColor.hex()"
+        :transform="`translate(${c.x} ${c.y}) scale(${c.scaleX} ${c.scaleY})`"
+        d="M 0 0 C 8 -11 28 -13.2 32 -13.2 C 46 -13.2 52 -24.2 74 -24.2 C 92 -24.2 94 -13.2 104 -13.2 S 124 -6.6 130 0"
+      />
+    </g>
+  </transition-group>
+</script>
+
+<script type="x-template" id="fgMountains">
+  <path
+    v-if="!rightOnly"
+    :fill="fgColor.hex()"
+    d="M -940 900 C -844 836 -604 823.2 -556 823.2 C -388 823.2 -316 759.2 -102 755 C 100 766 146 859 297 836 S 548 861.6 620 900"
+  />
+  <path
+    v-if="!rightOnly"
+    :fill="bgColor.hex()"
+    d="M -900 900 C -820 788 -620 765.6 -580 765.6 C -440 765.6 -380 653.6 -182 766 C 21 677 40 765.6 140 765.6 S 340 832.8 360 900"
+  />
+
+  <path
+    :fill="fgColor.hex()"
+    d="M 2200 786.5 C 2144.2 730.7 2004.9 719.6 1633 728 C 1595 728 1577 686 1479 732 C 1384 773 1396 764 1361 769 S 1270 768 1243 786"
+  />
+  <path
+    :fill="bgColor.hex()"
+    d="M 2200 786.5 C 2144.2 730.7 2004.9 719.6 1977 719.6 C 1879.4 719.6 1837.6 663.8 1713.3 660.2 C 1596 669.8 1569.3 750.8 1481.6 730.7 S 1335.8 753 1294 786.5"
+  />
+</script>
+
+<script type="x-template" id="mountains">
+  <path
+    :fill="bgColor.hex()"
+    d="M -600 550 C -520 470 -320 454 -280 454 C -140 454 -80 374 140 374 C 320 374 340 454 440 454 S 640 502 700 550"
+  />
+  <path
+    :fill="fgColor.hex()"
+    d="M -1020 550 C -924 486 -684 473.2 -636 473.2 C -468 473.2 -396 409.2 -182 405 C 20 416 66 509 217 486 S 468 511.6 540 550"
+  />
+  <path
+    :fill="bgColor.hex()"
+    d="M 900 550 C 988 454 1208 434.8 1252 434.8 C 1406 434.8 1472 338.8 1714 338.8 C 1912 338.8 1934 434.8 2044 434.8 S 2264 492.4 2330 550"
+  />
+  <path
+    :fill="fgColor.hex()"
+    d="M 1050 550 C 1059 521 1233 480 1330 509 C 1501 550 1703 306 1710 176 C 2062 423.28 2084 480.88 2194 480.88 S 2414 515.44 2480 550"
+  />
+</script>
+
+<script type="x-template" id="moon">
+  <path
+    fill="#2b8b51"
+    :opacity="opacity"
+    d="M 640 435 A 180 180 90 1 1 550 165 A 144 144 90 1 0 640 435"
+  />
+</script>
+
+<script type="x-template" id="sun">
+  <circle
+    fill="yellow"
+    r="150"
+    cx="800"
+    cy="550"
+    transform-origin="100 600"
+    :transform="`rotate(${rotation})`"
+  />
+</script>
+
+<script type="x-template" id="stars">
+  <g
+    :opacity="opacity"
+    :transform="`rotate(${rotation}) translate(-1600 -1600)`"
+  >
+    <circle
+      v-for="star of stars"
+      :key="star.i"
+      :fill="`hsl(${star.h}, 100%, 90%)`"
+      :r="star.r"
+      :cx="star.cx"
+      :cy="star.cy"
+    />
+  </g>
+</script>
