@@ -4,7 +4,7 @@ import {
   setupPipes,
   getPassedPipesCount,
   getPipeRects,
-} from "./pipe.js"
+} from "./danda.js"
 
 document.addEventListener("keypress", handleStart, { once: true })
 const title = document.querySelector("[data-title]")
