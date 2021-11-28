@@ -74,7 +74,7 @@ tags: [sanskrit]
 
 **सञ्चार_संविद्** | Transmission control protocol (TCP)
 
-**अन्तर्जालर_संविद्** | Internet Protocol (IP)
+**अन्तर्जाल_संविद्** | Internet Protocol (IP)
 
 **परोक्षाङ्ग**| Back-end
 
