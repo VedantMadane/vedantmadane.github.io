@@ -40,11 +40,15 @@ tags: [sanskrit]
 
 **संलाप** | Group chat
 
-**कर्तन**| Copy
+**कर्तन**| Cut
+
+**प्रतिकृति** | Copy
 
 **लेपन**| Paste
 
-**कर्तनलेपन** | Copy & paste
+**कर्तनलेपन** | Cut & paste
+
+**प्रतिकृतिलेपन** | Copy & paste
 
 **द्विमानीयान्वेषण** | Binary search
 
@@ -53,8 +57,6 @@ tags: [sanskrit]
 **गवेषक** | Search engine
 
 **अन्तर्लेख** | Annotation
-
-**प्रतिकृति** | Clone as in clone a repo
 
 **प्रत्याधान** | Repo as in a repository
 
