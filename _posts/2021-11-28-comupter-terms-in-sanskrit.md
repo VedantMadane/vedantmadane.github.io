@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 125 Programming Terms in Sanskrit
-subtitle: Computer-related termimology with their equivalent (तत्सम्) or alternate (तत्भाव) words in Sanskrit which are frequently used in Indic languages
+subtitle: Computer-related terminology with their equivalent (तत्सम्) or alternate (तत्भाव) words in Sanskrit which are frequently used in Indic languages
 tags: [sanskrit]
 ---
 **सूचि_शलाका** | Menu bar
