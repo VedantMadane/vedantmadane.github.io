@@ -32,7 +32,7 @@ tags: [sanskrit]
 
 **अवारोपण** | Download
 
-**उपारोपण ** | Upload
+**उपारोपण** | Upload
 
 **प्रणाली_विस्तार** | Bandwidth
 
@@ -104,7 +104,7 @@ tags: [sanskrit]
 
 **ज्ञापक** | Cookies as in a browser cookie
 
-**दूराभिगम ** | Remote access as in taking control of a PC remotely
+**दूराभिगम** | Remote access as in taking control of a PC remotely
 
 **प्रत्यावृत्ति** | Recursion
 
