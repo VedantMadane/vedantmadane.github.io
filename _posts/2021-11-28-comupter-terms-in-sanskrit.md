@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 124 Programming Terms in Sanskrit
+title: 125 Programming Terms in Sanskrit
 subtitle: Computer-related termimology with their equivalent (तत्सम्) or alternate (तत्भाव) words in Sanskrit which are frequently used in Indic languages
 tags: [sanskrit]
 ---
@@ -246,4 +246,4 @@ tags: [sanskrit]
 
 **वृत्तकधारणशक्ति** | Disk capacity
 
-[**प्रधान_पदार्थ_विश्लेषण**](https://vedantmadane.github.io/2021-07-19-pca/)|[Principal component analysis](https://vedantmadane.github.io/2021-07-19-pca/)
+[**प्रधान_पदार्थ_विश्लेषण**](https://vedantmadane.github.io/2021-07-19-pca/) | [Principal component analysis](https://vedantmadane.github.io/2021-07-19-pca/)
