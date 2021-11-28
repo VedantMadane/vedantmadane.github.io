@@ -10,7 +10,7 @@ tags: [sanskrit]
 
 **सारण_शलाका** | Scroll bar
 
-**शीर्षक_शलाका** | Title bar
+**शीर्षक_पटल** | Title bar
 
 **साधन_शलाका** | Tool bar
 
