@@ -24,21 +24,37 @@ tags: [sanskrit]
 
 पक्षनिर्देश | Switch case
 
+नियोजय | Assign
+
+जीवीकरण | Animation
+
 रोपय | Load
 
 अवारोपण | Download
 
 उपारोपण | Upload
 
+प्रणाली_विस्तार | Bandwidth
+
 विलाप | Chat
 
-संविलाप | Group chat
+संलाप | Group chat
 
 कर्तन | Copy
 
 लेपन | Paste
 
 कर्तनलेपन | Copy & paste
+
+द्विमानीयान्वेषण | Binary search
+
+विगवेषण | Backward search
+
+
+
+गवेषक | Search engine
+
+अन्तर्लेख | Annotation
 
 प्रतिकृति | Clone as in clone a repo
 
@@ -54,15 +70,27 @@ tags: [sanskrit]
 
 मिश्र_जाल_कृति | Mesh network topology
 
+मण्डलित_जालाकृति | Ring network topology
+
 सञ्चार_संविद् | Transmission control protocol (TCP)
 
 अन्तर्जालर_संविद् | Internet Protocol (IP)
 
 परोक्षाङ्ग | Back-end
 
+पृष्ठवर्तिसंसाधक | Backend processor
+
 समक्षभाग | Front-end
 
 दत्तांशसंयोगस्तर |  	Data link layer	
+
+प्रस्तुतिस्तर | Presentation layer
+
+भौतिकस्तर | Physical layer
+
+जालकृतिस्तर | Network layer
+
+प्रवहणस्तर | Transport layer
 
 अनुप्रयोग | Application as in an app
 
@@ -73,6 +101,8 @@ tags: [sanskrit]
 नियोज्याह्वान | Function call
 
 साहाय्य | Support as in tech support
+
+समस्यावधारण | Troubleshooting
 
 ज्ञापक | Cookies as in a browser cookie
 
@@ -122,6 +152,8 @@ tags: [sanskrit]
 
 संविपृषा | Structured Query Language (SQL)
 
+उपक्रम_भाषा | Scripting language
+
 प्रतिज्ञात्मक_विधि_भाषा | Declarative programming language
 
 दत्तांश_परिवर्तन_भाषा | Data manipulation language
@@ -169,3 +201,52 @@ tags: [sanskrit]
 
 नैयोगिकपरीक्षा | Functional testing
 
+अनियतपरीक्षा | Random testing
+
+बलपरीक्षा | Stress testing
+
+ऊर्जपरीक्षा | power on self test
+
+आद्यपरीक्षा | Alpha testing
+
+उपान्त्यपरीक्षा | Beta testing
+
+
+
+सङ्गणक_द्वारा_परिकल्पना | Computer aided design (CAD)
+
+अनुष्ठानकाले | at runtime
+
+प्रत्यावर्तन | rollback as in rolling back changes
+
+वितरपरिहरण | Very large scale integration (VLSI)
+
+अभिगमाधिकार | Access rights
+
+अभिगमप्रकार | Access mode such as read/write access
+
+सङ्कुचितसञ्चिका | Compressed folder (.zip, .rar)
+
+तन्तुहीनसञ्चार | Wireless communication
+
+उपयोक्तृ_माध्यम | User Interface (UI)
+
+उपयोक्तृ_निरूपित | User defined
+
+उपयोक्त्राभिधान | User identification (id)
+
+बहूपयोक्तृ_संविधा | multi-user system
+
+स्पर्शाभिज्ञ_माध्यम | Touch screen user interface
+
+चित्रोपयोक्तृमाध्यम | Graphical user interface (GUI)
+
+तन्त्रांशाभियन्त्रण | Software engineering
+
+सङ्कूटनविधिकल्प | Encryption algorithm
+
+गोल_स्थान_निर्धारक | Global positioning system (GPS)
+
+सामान्यप्रश्नोत्तराणि | Frequently asked questions (FAQs)
+
+वृत्तकधारणशक्ति | Disk capacity
