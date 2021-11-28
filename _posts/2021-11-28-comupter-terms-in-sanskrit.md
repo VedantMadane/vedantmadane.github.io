@@ -4,249 +4,244 @@ title: 108 Programming Terms in Sanskrit
 subtitle: Computer-related termimology with their equivalent (तत्सम्) or alternate (तत्भाव) words in Sanskrit which are frequently used in Indic languages
 tags: [sanskrit]
 ---
-सूचि_शलाका | Menu bar
+**सूचि_शलाका** | Menu bar
 
-स्थिति_शलाका | Status bar
+**स्थिति_शलाका** | Status bar
 
-सारण_शलाका | Scroll bar
+**सारण_शलाका | Scroll bar
 
-शीर्षक_शलाका | Title bar
+**शीर्षक_शलाका | Title bar
 
-साधन_शलाका | Tool bar
+**साधन_शलाका | Tool bar
 
-शब्दानुक्रम | Syntax
+**शब्दानुक्रम | Syntax
 
-शब्दानुक्रमदोष | Syntax error
+**शब्दानुक्रमदोष | Syntax error
 
-अक्षरबन्ध | String
+**अक्षरबन्ध | String
 
-वर्णावलि | String
+**वर्णावलि | String
 
-पक्षनिर्देश | Switch case
+**पक्षनिर्देश | Switch case
 
-नियोजय | Assign
+**नियोजय | Assign
 
-जीवीकरण | Animation
+**जीवीकरण | Animation
 
-रोपय | Load
+**रोपय | Load
 
-अवारोपण | Download
+**अवारोपण | Download
 
-उपारोपण | Upload
+**उपारोपण | Upload
 
-प्रणाली_विस्तार | Bandwidth
+**प्रणाली_विस्तार | Bandwidth
 
-विलाप | Chat
+**विलाप | Chat
 
-संलाप | Group chat
+**संलाप | Group chat
 
-कर्तन | Copy
+**कर्तन | Copy
 
-लेपन | Paste
+**लेपन | Paste
 
-कर्तनलेपन | Copy & paste
+**कर्तनलेपन | Copy & paste
 
-द्विमानीयान्वेषण | Binary search
+**द्विमानीयान्वेषण | Binary search
 
-विगवेषण | Backward search
+**विगवेषण | Backward search
 
+**गवेषक | Search engine
 
+**अन्तर्लेख | Annotation
 
-गवेषक | Search engine
+**प्रतिकृति | Clone as in clone a repo
 
-अन्तर्लेख | Annotation
+**प्रत्याधान | Repo as in a repository
 
-प्रतिकृति | Clone as in clone a repo
+**सन्निकर्ष | Repository as in a git repo
 
-प्रत्याधान | Repo as in a repository
+**अन्तर्जाल | Internet
 
-सन्निकर्ष | Repository as in a git repo
+**अन्तर्जालसङ्केत | Internet address
 
-अन्तर्जाल | Internet
+**तारा_जाल_कृति | Star network topology
 
-अन्तर्जालसङ्केत | Internet address
+**मिश्र_जाल_कृति | Mesh network topology
 
-तारा_जाल_कृति | Star network topology
+**मण्डलित_जालाकृति | Ring network topology
 
-मिश्र_जाल_कृति | Mesh network topology
+**सञ्चार_संविद् | Transmission control protocol (TCP)
 
-मण्डलित_जालाकृति | Ring network topology
+**अन्तर्जालर_संविद् | Internet Protocol (IP)
 
-सञ्चार_संविद् | Transmission control protocol (TCP)
+**परोक्षाङ्ग | Back-end
 
-अन्तर्जालर_संविद् | Internet Protocol (IP)
+**पृष्ठवर्तिसंसाधक | Backend processor
 
-परोक्षाङ्ग | Back-end
+**समक्षभाग | Front-end
 
-पृष्ठवर्तिसंसाधक | Backend processor
+**दत्तांशसंयोगस्तर |  	Data link layer	
 
-समक्षभाग | Front-end
+**प्रस्तुतिस्तर | Presentation layer
 
-दत्तांशसंयोगस्तर |  	Data link layer	
+**भौतिकस्तर | Physical layer
 
-प्रस्तुतिस्तर | Presentation layer
+**जालकृतिस्तर | Network layer
 
-भौतिकस्तर | Physical layer
+**प्रवहणस्तर | Transport layer
 
-जालकृतिस्तर | Network layer
+**अनुप्रयोग | Application as in an app
 
-प्रवहणस्तर | Transport layer
+**सङ्गणक | Computer 
 
-अनुप्रयोग | Application as in an app
+**आह्वान | Call as in call a function
 
-सङ्गणक | Computer 
+**नियोज्याह्वान | Function call
 
-आह्वान | Call as in call a function
+**साहाय्य | Support as in tech support
 
-नियोज्याह्वान | Function call
+**समस्यावधारण | Troubleshooting
 
-साहाय्य | Support as in tech support
+**ज्ञापक | Cookies as in a browser cookie
 
-समस्यावधारण | Troubleshooting
+**दूराभिगम | Remote access as in taking control of a PC remotely
 
-ज्ञापक | Cookies as in a browser cookie
+**प्रत्यावृत्ति | Recursion
 
-दूराभिगम | Remote access as in taking control of a PC remotely
+**सत्यकालिक | Real time
 
-प्रत्यावृत्ति | Recursion
+**प्राधान्यता | Priority
 
-सत्यकालिक | Real time
+**पठ्यमात्र | Read-only as in ROM
 
-प्राधान्यता | Priority
+**पठ्यमात्रस्मृति | Read Only Memory (ROM)
 
-पठ्यमात्र | Read-only as in ROM
+**विधिलेखनाधार | Integrated Development Environment (IDE)
 
-पठ्यमात्रस्मृति | Read Only Memory (ROM)
+**सकृदुपादेयं सङ्क्रमपद | One time password (OTP)
 
-विधिलेखनाधार | Integrated Development Environment (IDE)
+**युगपत्संसाधन | Parallel processing
 
-सकृदुपादेयं सङ्क्रमपद | One time password (OTP)
+**पूर्वपृष्ठम् कील | Page-up key on your keyboard
 
-युगपत्संसाधन | Parallel processing
+**जालव्यवस्थापक | Network Admin
 
-पूर्वपृष्ठम् कील | Page-up key on your keyboard
+**संविधाविश्लेषक | System Analyst
 
-जालव्यवस्थापक | Network Admin
+**दत्तांश_सङ्ग्रह | Database
 
-संविधाविश्लेषक | System Analyst
+**दत्तनिधि_प्रबन्धन_संविधा | Database management system (DBMS)
 
-दत्तांश_सङ्ग्रह | Database
+**आन्वयिक_दत्तांशनिधि_प्रबन्धन_संविधा | Relational Database Management System (RDBMS)
 
-दत्तनिधि_प्रबन्धन_संविधा | Database management system (DBMS)
+**सम_दत्तांश_निधि | Flat file database
 
-आन्वयिक_दत्तांशनिधि_प्रबन्धन_संविधा | Relational Database Management System (RDBMS)
+**दत्त_निधि_प्रशासक | Database Admin
 
-सम_दत्तांश_निधि | Flat file database
+**विषयाभि_सम्बन्ध_परिलेख | Entity Relationship Diagram (ERD)
 
-दत्त_निधि_प्रशासक | Database Admin
+**पदानुक्रामिक_सञ्चिका_संविधा | Heirarchical file system
 
-विषयाभि_सम्बन्ध_परिलेख | Entity Relationship Diagram (ERD)
+**वैद्युत_धन_सञ्चार | Electronic fund transfer
 
-पदानुक्रामिक_सञ्चिका_संविधा | Heirarchical file system
+**तन्त्रांश_निर्माण_सम्पुट | Software Development Kit (SDK)
 
-वैद्युत_धन_सञ्चार | Electronic fund transfer
+**संयोग_भाषा | Structured Query Language (SQL)
 
-तन्त्रांश_निर्माण_सम्पुट | Software Development Kit (SDK)
+**संविपृषा | Structured Query Language (SQL)
 
-संयोग_भाषा | Structured Query Language (SQL)
+**उपक्रम_भाषा | Scripting language
 
-संविपृषा | Structured Query Language (SQL)
+**प्रतिज्ञात्मक_विधि_भाषा | Declarative programming language
 
-उपक्रम_भाषा | Scripting language
+**दत्तांश_परिवर्तन_भाषा | Data manipulation language
 
-प्रतिज्ञात्मक_विधि_भाषा | Declarative programming language
+**यौगपद्य_मूल_विधि_भाषा | Parallel programming language 
 
-दत्तांश_परिवर्तन_भाषा | Data manipulation language
+**साङ्गणिक_शाब्दबोध_प्रक्रिया | Natural language processing (NLP)
 
-यौगपद्य_मूल_विधि_भाषा | Parallel programming language 
+**तृतीय_वंशस्तरीय_विधिभाषा | 3rd gen programming language
 
-साङ्गणिक_शाब्दबोध_प्रक्रिया | Natural language processing (NLP)
+**सङ्घटित_प्रतिमान_वर्णनभाषा | Unified modelling language (UML)
 
-तृतीय_वंशस्तरीय_विधिभाषा | 3rd gen programming language
+**प्रविभक्त_संसाधन_संविधा | Distributed processing system
 
-सङ्घटित_प्रतिमान_वर्णनभाषा | Unified modelling language (UML)
+**सकृदुपादेयं सङ्क्रमपद | One time password (OTP)
 
-प्रविभक्त_संसाधन_संविधा | Distributed processing system
+**ग्राहक_सम्बन्ध_व्यवस्थापन | Customer relationship management (CRM)
 
-सकृदुपादेयं सङ्क्रमपद | One time password (OTP)
+**सामान्य_आदान_प्रदान_संविधा | Basic input output system (BIOS)
 
-ग्राहक_सम्बन्ध_व्यवस्थापन | Customer relationship management (CRM)
+**प्रतिलेखनं | Backup
 
-सामान्य_आदान_प्रदान_संविधा | Basic input output system (BIOS)
+**प्रत्याहरणम् | Recovery
 
-प्रतिलेखनं | Backup
+**संयुक्त_विश्लेषणात्मक_संसाधन | OnLine Analytics Processing (OLAP)
 
-प्रत्याहरणम् | Recovery
+**युगपत् संसाधन | Concurrent processing
 
-संयुक्त_विश्लेषणात्मक_संसाधन | OnLine Analytics Processing (OLAP)
+**सार्वत्रिक_वस्तु_सङ्केत | Uniform Resource Locator (URL)
 
-युगपत् संसाधन | Concurrent processing
+**निरपेक्ष सार्वत्रिकवस्तुसङ्केत | Absolute URL
 
-सार्वत्रिक_वस्तु_सङ्केत | Uniform Resource Locator (URL)
+**स्थिरायामक्षेत्र | Fixed-length field
 
-निरपेक्ष सार्वत्रिकवस्तुसङ्केत | Absolute URL
+**निरसनं | Flush
 
-स्थिरायामक्षेत्र | Fixed-length field
+**अभियन्ता | Engineer
 
-निरसनं | Flush
+**परीक्षण | Testing
 
-अभियन्ता | Engineer
+**परीक्षकाभियन्ता | Test Engineer
 
+**समन्वयपरीक्षा | Integration testing
 
-परीक्षण | Testing
+**नैयोगिकपरीक्षा | Functional testing
 
-परीक्षकाभियन्ता | Test Engineer
+**अनियतपरीक्षा | Random testing
 
-समन्वयपरीक्षा | Integration testing
+**बलपरीक्षा | Stress testing
 
-नैयोगिकपरीक्षा | Functional testing
+**ऊर्जपरीक्षा | power on self test
 
-अनियतपरीक्षा | Random testing
+**आद्यपरीक्षा | Alpha testing
 
-बलपरीक्षा | Stress testing
+**उपान्त्यपरीक्षा | Beta testing
 
-ऊर्जपरीक्षा | power on self test
+**सङ्गणक_द्वारा_परिकल्पना | Computer aided design (CAD)
 
-आद्यपरीक्षा | Alpha testing
+**अनुष्ठानकाले | at runtime
 
-उपान्त्यपरीक्षा | Beta testing
+**प्रत्यावर्तन | rollback as in rolling back changes
 
+**वितरपरिहरण | Very large scale integration (VLSI)
 
+**अभिगमाधिकार | Access rights
 
-सङ्गणक_द्वारा_परिकल्पना | Computer aided design (CAD)
+**अभिगमप्रकार | Access mode such as read/write access
 
-अनुष्ठानकाले | at runtime
+**सङ्कुचितसञ्चिका | Compressed folder (.zip, .rar)
 
-प्रत्यावर्तन | rollback as in rolling back changes
+**तन्तुहीनसञ्चार | Wireless communication
 
-वितरपरिहरण | Very large scale integration (VLSI)
+**उपयोक्तृ_माध्यम | User Interface (UI)
 
-अभिगमाधिकार | Access rights
+**उपयोक्तृ_निरूपित | User defined
 
-अभिगमप्रकार | Access mode such as read/write access
+**उपयोक्त्राभिधान | User identification (id)
 
-सङ्कुचितसञ्चिका | Compressed folder (.zip, .rar)
+**बहूपयोक्तृ_संविधा | multi-user system
 
-तन्तुहीनसञ्चार | Wireless communication
+**स्पर्शाभिज्ञ_माध्यम | Touch screen user interface
 
-उपयोक्तृ_माध्यम | User Interface (UI)
+**चित्रोपयोक्तृमाध्यम | Graphical user interface (GUI)
 
-उपयोक्तृ_निरूपित | User defined
+**तन्त्रांशाभियन्त्रण | Software engineering
 
-उपयोक्त्राभिधान | User identification (id)
+**सङ्कूटनविधिकल्प | Encryption algorithm
 
-बहूपयोक्तृ_संविधा | multi-user system
+**गोल_स्थान_निर्धारक | Global positioning system (GPS)
 
-स्पर्शाभिज्ञ_माध्यम | Touch screen user interface
+**सामान्यप्रश्नोत्तराणि | Frequently asked questions (FAQs)
 
-चित्रोपयोक्तृमाध्यम | Graphical user interface (GUI)
-
-तन्त्रांशाभियन्त्रण | Software engineering
-
-सङ्कूटनविधिकल्प | Encryption algorithm
-
-गोल_स्थान_निर्धारक | Global positioning system (GPS)
-
-सामान्यप्रश्नोत्तराणि | Frequently asked questions (FAQs)
-
-वृत्तकधारणशक्ति | Disk capacity
+**वृत्तकधारणशक्ति | Disk capacity
