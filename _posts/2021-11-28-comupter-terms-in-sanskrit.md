@@ -246,4 +246,4 @@ tags: [sanskrit]
 
 **वृत्तकधारणशक्ति** | Disk capacity
 
-!(**प्रधान_पदार्थ_विश्लेषण**)[https://vedantmadane.github.io/2021-07-19-pca/]|!(Principal component analysis)[https://vedantmadane.github.io/2021-07-19-pca/]
+[**प्रधान_पदार्थ_विश्लेषण**](https://vedantmadane.github.io/2021-07-19-pca/)|[Principal component analysis](https://vedantmadane.github.io/2021-07-19-pca/)
