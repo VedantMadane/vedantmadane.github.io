@@ -24,7 +24,7 @@ tags: [sanskrit]
 
 **पक्षनिर्देश** | Switch case
 
-**नियोजय ** | Assign
+**नियोजय** | Assign
 
 **जीवीकरण** | Animation
 
