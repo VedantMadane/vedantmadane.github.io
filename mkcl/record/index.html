@@ -60,7 +60,7 @@ document.getElementById('btn-start-recording').onclick = function() {
                     type: 'video/webm'
                 });
 
-                document.querySelector('h1').innerHTML = 'Recording length: ' + bytesToSize(blob.size);
+                document.querySelector('h1').innerHTML = 'Size of file upto this second: ' + bytesToSize(blob.size);
             }
 
             setTimeout(looper, 1000);
