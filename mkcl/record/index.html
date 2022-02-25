@@ -8,21 +8,21 @@
 <br>
 <!-- <input type="text" id="txt-recording-duration" value="5000"> -->
 <button id="btn-start-recording">Start Recording</button>
-<button id="btn-stop-recording" disabled>Stop Recording</button>
+<!-- <button id="btn-stop-recording" disabled>Stop Recording</button> -->
 <button id="btn-pause-recording" disabled>Pause Recording</button>
 
 <hr>
-<video controls autoplay playsinline></video>
+<video controls autoplay playsinline muted=true volume="0"></video>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/RecordRTC/5.6.2/RecordRTC.min.js"></script>
+<script src="/RecordRTC.js"></script>
 <script>
 var video = document.querySelector('video');
 
 function captureCamera(callback) {
-    navigator.mediaDevices.getUserMedia({ audio: true, video: true }).then(function(camera) {
+    navigator.mediaDevices.getUserMedia({ audio: true, video: true, echoCancellation:true}).then(function(camera) {
         callback(camera);
     }).catch(function(error) {
-        alert('Unable to capture your camera. Please check console logs.');
+        //alert('Unable to capture your camera. Please check console logs.');
         console.error(error);
     });
 }
@@ -47,7 +47,11 @@ document.getElementById('btn-start-recording').onclick = function() {
             type: 'video',
             recorderType: MediaStreamRecorder,
             mimeType: 'video/webm',
-            timeSlice: 1000 // pass this parameter
+            timeSlice: 1000,
+            bitsPerSecond: 128000,
+            audioBitsPerSecond: 128000,
+            videoBitsPerSecond: 128000,
+            frameInterval: 90,
         });
         (function looper() {
             if(!recorder) {
@@ -60,7 +64,7 @@ document.getElementById('btn-start-recording').onclick = function() {
                     type: 'video/webm'
                 });
 
-                document.querySelector('h1').innerHTML = 'Size of file upto this second: ' + bytesToSize(blob.size);
+                document.querySelector('h1').innerHTML = 'Size upto this second: ' + bytesToSize(blob.size);
             }
 
             setTimeout(looper, 1000);
