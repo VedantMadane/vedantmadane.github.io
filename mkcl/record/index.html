@@ -19,7 +19,7 @@
 var video = document.querySelector('video');
 
 function captureCamera(callback) {
-    navigator.mediaDevices.getUserMedia({ audio: true, video: true }).then(function(camera) {
+    navigator.mediaDevices.getUserMedia({ audio: true, video: true, echoCancellation:true }).then(function(camera) {
         callback(camera);
     }).catch(function(error) {
         //alert('Unable to capture your camera. Please check console logs.');
