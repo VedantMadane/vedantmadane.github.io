@@ -4,8 +4,7 @@ let noseX,noseY;
 let reyeX,reyeY;
 let leyeX,leyeY;
 let singlePose,skeleton;
-let actor_img;
-let specs,smoke;
+
 
 function setup() {
     createCanvas(800, 500);
@@ -14,10 +13,6 @@ function setup() {
 
     posenet = ml5.poseNet(capture, modelLoaded);
     posenet.on('pose',receivedPoses);
-
-    actor_img = loadImage('images/shahrukh.png');
-    specs = loadImage('images/spects.png');
-    smoke = loadImage('images/cigar.png');
 
 }
 
