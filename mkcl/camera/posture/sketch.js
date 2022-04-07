@@ -26,7 +26,6 @@ function receivedPoses(poses){
 }
 
 function modelLoaded() {
-    console.log('Model has loaded');
 }
 
 function draw() {
