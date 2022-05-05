@@ -61,3 +61,10 @@ body {
   bottom: 0;
   top: calc(100vh - (var(--hole-top) * 1px) + calc(var(--hole-height) * 1px));
 }
+    .is-128x128 {
+
+    }
+    .is-rounded {
+      border-radius:50%;
+      border: 2px solid gold;
+    }
