@@ -30,7 +30,6 @@ body {
   --bird-top: -1000;
   --bird-size: 60px;
   position: absolute;
-//  background-color: hsl(100, 100%, 100%);
   width: var(--bird-size);
   height: var(--bird-size);
   left: var(--bird-size);
