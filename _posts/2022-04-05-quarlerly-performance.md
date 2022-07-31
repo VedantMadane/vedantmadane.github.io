@@ -1,4 +1,6 @@
 ---
+layout: post
+full-width: true
 title: 2022 Quarter 4 Performance Report
 subtitle: Performance Report for Januray, February and March
 tags: [journal]
