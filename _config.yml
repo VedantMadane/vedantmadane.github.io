@@ -19,6 +19,7 @@ navbar-links:
     - Mahābhārata: "https://vedantmadane.github.io/maha/poster"
     - Posture Detection: "https://vedantmadane.github.io/mkcl/camera/posture/"
     - Calculate Video Size While Recording: "https://vedantmadane.github.io/mkcl/record/"
+    - Telecom: "https://vedantmadane.github.io/telecom/"
     - Auto-Stop Recording On Silence: "https://vedantmadane.github.io/mkcl/record/autoStop.html"
     - Gender Classification: "https://vedantmadane.github.io/mkcl/camera/board/#/"
   Play:
