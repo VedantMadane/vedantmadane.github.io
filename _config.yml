@@ -14,7 +14,17 @@ author: Vedant Madane
 # --- List of links in the navigation bar --- #
 navbar-links:
   CV: "https://vedantmadane.github.io/cv"
-  Project: "https://vedantmadane.github.io/maha/poster"
+  Projects: 
+    - Detect Multiple Faces: "https://vedantmadane.github.io/mkcl/camera/detect/#/"
+    - Mahābhārata: "https://vedantmadane.github.io/maha/poster"
+    - Posture Detection: "https://vedantmadane.github.io/mkcl/camera/posture/"
+    - Calculate Video Size While Recording: "https://vedantmadane.github.io/mkcl/record/"
+    - Auto-Stop Recording On Silence: "https://vedantmadane.github.io/mkcl/record/autoStop.html"
+    - Gender Classification: "https://vedantmadane.github.io/mkcl/camera/board/#/"
+  Play:
+    - Pakshī: "https://vedantmadane.github.io/pakshi/"
+    - Dānav: "https://vedantmadane.github.io/krida/danav/"
+    - 
 #    - Poster: "https://vedantmadane.github.io/maha/poster"
 #    - Pre-processing: "https://vedantmadane.github.io/maha"
 #    - Telecom: "https://vedantmadane.github.io/telecom"
