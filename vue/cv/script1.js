@@ -1,4 +1,3 @@
-import dataSet from 'dataset.json'
 const app = Vue.createApp({
   el: "#curriculum-vitae",
   data() {
