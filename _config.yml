@@ -29,7 +29,10 @@ navbar-links:
 #    - Poster: "https://vedantmadane.github.io/maha/poster"
 #    - Pre-processing: "https://vedantmadane.github.io/maha"
 #    - Telecom: "https://vedantmadane.github.io/telecom"
-  About: "https://vedantmadane.github.io/aboutme"
+  More:
+    - Resume: "https://vedantmadane.github.io/resume/"
+    - CV:  "https://vedantmadane.github.io/resume/"
+    - About: "https://vedantmadane.github.io/aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
