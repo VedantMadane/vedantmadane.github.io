@@ -4,2134 +4,2134 @@ const app = Vue.createApp({
     return {
       searchInput: "",
       dataColumns: ["certification", "date", "institution", "percentage"],
-      dataset: 
-[{"\n
+      dataset: [{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n Master Go (Golang) Programming:The Complete Go Bootcamp 2022\n
-\n ","\n
+ Master Go (Golang) Programming:The Complete Go Bootcamp 2022
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 20th April, 2022\n
-\n ","\n
+ 20th April, 2022
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n \n Andrei Dumitrescu, Crystal Mind Academy \n
-\n ","\n
+  Andrei Dumitrescu, Crystal Mind Academy 
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
+   Certificate of Completion  
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n Building Modern Web Applications with Go (Golang)\n
-\n ","\n
+ Building Modern Web Applications with Go (Golang)
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 27th March, 2022\n
-\n ","\n
+ 27th March, 2022
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n \n Trevor Sawler\n
-\n ","\n
+  Trevor Sawler
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
+   Certificate of Completion  
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n Vue - The Complete Guide (incl. Router & Composition API)\n
-\n ","\n
+ Vue - The Complete Guide (incl. Router & Composition API)
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 24th March, 2022\n
-\n ","\n
+ 24th March, 2022
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n \n Maximilian Schwarzmüller\n
-\n ","\n
+  Maximilian Schwarzmüller
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
+   Certificate of Completion  
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n Degree Certificate\n
-\n ","\n
+ Degree Certificate
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 1st March, 2022\n
-\n ","\n
+ 1st March, 2022
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n \n Mumbai University\n
-\n ","\n
+  Mumbai University
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n \n Bachelor of Engineering\n \n \n
-\n "},{"\n
+   Bachelor of Engineering  
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n Introduction to Microservices\n
-\n ","\n
+ Introduction to Microservices
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 30th January, 2022\n
-\n ","\n
+ 30th January, 2022
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n \n EdYoda Digital University\n
-\n ","\n
+  EdYoda Digital University
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
+   Certificate of Completion  
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n MongoDB - The Complete Developer's Guide\n
-\n ","\n
+ MongoDB - The Complete Developer's Guide
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 22nd January, 2022\n
-\n ","\n
+ 22nd January, 2022
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n \n Academind\n
-\n ","\n
+  Academind
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
+   Certificate of Completion  
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n AWS for Solutions Architect\n
-\n ","\n
+ AWS for Solutions Architect
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 17th January, 2022\n
-\n ","\n
+ 17th January, 2022
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n \n EdYoda Digital University\n
-\n ","\n
+  EdYoda Digital University
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
+   Certificate of Completion  
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-\n \n \n 2nd Covaxin Dose\n \n
-\n ","\n
+   2nd Covaxin Dose 
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 6th Sept, 2021\n
-\n ","\n
+ 6th Sept, 2021
+ ","
 
-\n Institution\n
-\n ":"\n \n
-\n
+ Institution
+ ":" 
 
-\n District Hospital, Aundh, Pune\n
-\n \n ","\n
 
-\n Verification Link\n \n
-\n ":"\n
+ District Hospital, Aundh, Pune
+  ","
 
-\n \n \n COVID-19 Vaccination\n \n \n \n
-\n "},{"\n
+ Verification Link 
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+   COVID-19 Vaccination   
+ "},{"
 
-\n \n \n 1st Covaxin Dose\n \n
-\n ","\n
+  Certification
+ ":"
 
-\n Date\n
-\n ":"\n
+   1st Covaxin Dose 
+ ","
 
-\n 5th Aug, 2021\n
-\n ","\n
+ Date
+ ":"
 
-\n Institution\n
-\n ":"\n
+ 5th Aug, 2021
+ ","
 
-\n \n \n COVID-19 Vaccination\n \n \n \n
-\n "},{"\n
+ Institution
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+   COVID-19 Vaccination   
+ "},{"
 
-\n \n
-
-\n सुभाषितं संस्कृतम्\n
-\n
-
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 2nd Aug, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n \n \n
-
-\n भारतीय प्रोद्योगिकी संस्थानस्य (रूडकी) संस्कृतभारत्याः\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n
-
-\n उत्तमश्रेण्याम्\n
-\n \n \n \n
-
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Bachelor of Engineering Semester 8\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 28th July, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n University
-of
-Mumbai\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n \n \n SGPI: 9.75\n \n \n
-\n \n Aggregate: 68.87%\n \n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n 12th, 15th and 16th Adhyāy Recitation\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 27th July, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n Gītā Parivār\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n \n Marksheet\n \n
-\n \n Certificate\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n AWS Summit India\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 9th July, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n Amazon\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n Certificate of Attendance\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Scrum Fundamentals\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 27th June, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n GenMan Solutions\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Subhāśitaṁ Saṁskr̥taṁ Specialization\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n
-21th June, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n
-\n SanskritBhāratī\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n Course 5 marks: 45/50
-Oral: 18/20\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Scripting in Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 20th June, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n
-\n Edcorner Learning\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Hands-On ML & AI\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 13th June, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n EdYoda Digital University\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n Certificate of Completion\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n 1st Place in Project Presentation Competition\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n
-
-
-19th May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n
-\n SAKEC\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n First Prize Winner\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Create Amazing Vue Apps with JavaScript\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n \n
-\n Mamoth Interactive\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n Certificate of Completing 6.5 Hours\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Importing Data in Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 13th May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n
-
-
-
-\n Data
-Camp\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n Statement of Accomplishment\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Advanced NLP with spaCy\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 11th May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n Statement of Accomplishment\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Natural Language Processing in Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 9th May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n Statement\n of Accomplishment\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Writing Functions in Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 7th May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n Statement\n of Accomplishment\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n BE 8th Semester's 2nd Internal Assessment\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 6th May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n SAKEC\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n 82.5%\n Report Card\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Feature Engineering for NLP in Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 5th May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n
-\n Data
-Camp\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n Statement\n of Accomplishment\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Spoken Language Processing in Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 3rd May, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n Statement\n of Accomplishment\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Android app using Kotlin\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n \n \n
-\n
-
-\n 28th Apr, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n
-\n
-
-\n Spoken Tutorial by IIT Bombay\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n 72.5%\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Java Training
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-70%\n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Arduino Training
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-75%\n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-PHP and MySQL
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-61.1%\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n English Word Play\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 27th Apr, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n Speaker's Club\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n Passing\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Python Data Science Toolbox Part 2\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 25th Apr, 2021\n
-\n
-
-\n \n \n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n
-\n
-\n
-
-\n Data \n
-\n
-
-\n Camp\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n Statement\n of Accomplishment\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Sentiment Analysis in Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 24th Apr, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n Statement\n of Accomplishment\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Python\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 31st Mar, 2021\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Hacker Rank
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Cleared\n assessment
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Software Project Competition
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-30th Mar, 2021
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-IEEE-CRCE & WIE-CRCE
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Sentiment\n Analysis of the Mahābhārata Parvas
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-BE Electronics and Telecommunication Engineering Semester 7\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-13th Mar, 2021
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Shah and Anchor Kutchhi Engineering College
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n \n 9.73 SGPI\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Examination on 12th & 15th Chapters of the\n Bhagavad-gītā
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-28th Feb, 2021
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Gītā Parivār
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Gītā\n Guñjan
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-International Poetry Competition on International Mother Language\n Day
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-20th Feb, 2021
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Russian State University for the Humanities
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Recited\n Marathi Poem Translated into Russian
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Course 4 in Spoken Sanskrit
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-3rd Feb,2021
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-SanskritBharati and
-\n
-
-IIT Roorkee
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n 90 marks
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Third Year Electronics and Telecommunication Engineering Semester\n 6
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-26th Dec, 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n
-
-\n
-
-Shah and Anchor Kutchhi Engineering College
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n 7.92 SGPI (updated, increased)\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Third Year Electronics and Telecommunication Engineering Semester\n 5
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-23rd Dec, 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n 7.93 SGPI\n \n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Course 3 in Spoken Sanskrit
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-13th Dec, 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-SanskritBharati and
-\n
-
-IIT Roorkee
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n 92 marks
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Data Analysis with Python [60 hours]\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 14\n th\n  Oct, 2020\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n Jovian and FreeCodeCamp\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Certificate\n of Accomplishment
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Reinforced Machine Learning in Python
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-12th Oct,\n 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Great Learning
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Certificate\n of Completion
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Git for Version Control
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-11th Oct,\n 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Data Camp
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Statement\n of Accomplishment
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Sergey Yesenin Poem Presentation
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-3rd Oct,\n 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Russian State University
-\n
-
-for the Humanities
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Presented\n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Course 2 in Spoken Sanskrit
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-23rd Sept,\n 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-SanskritBharati and
-\n
-
-IIT Roorkee
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n 95 marks
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Statistical Learning
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-31st Aug,\n 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Great Learning
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Certificate\n of Completion
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Traditional Face Detection with Python
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-26th Aug,\n 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
+  Certification
+ ":"
 
  
-\n
 
-Real Python
-\n
+ सुभाषितं संस्कृतम्
 
-\n ","\n
 
-\n Verification Link\n \n
-\n ":"\n
+ ","
 
-Certificate\n of Achievement
-\n "},{"\n
+ Date
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+ 2nd Aug, 2021
+ ","
 
-New Features in Python version 3.8
-\n ","\n
+ Institution
+ ":"  
 
-\n Date\n
-\n ":"\n
+ भारतीय प्रोद्योगिकी संस्थानस्य (रूडकी) संस्कृतभारत्याः
+ ","
 
-25th Aug,\n 2020
-\n ","\n
+ Verification Link 
+ ":"
 
-\n Institution\n
-\n ":"\n
+  
 
-Certificate\n of Achievement
-\n "},{"\n
+ उत्तमश्रेण्याम्
+   
 
-\n \n Certification\n
-\n ":"\n
+ "},{"
 
-Functional Programing in Python
-\n ","\n
+  Certification
+ ":"
 
-\n Date\n
-\n ":"\n
+ Bachelor of Engineering Semester 8
+ ","
 
-24th Aug,\n 2020
-\n ","\n
+ Date
+ ":"
 
-\n Institution\n
-\n ":"\n
+ 28th July, 2021
+ ","
 
-Certificate\n of Achievement
-\n "},{"\n
+ Institution
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+   University
+of
+Mumbai
+ ","
 
-Semester 6 of Electronics and Telecommunications\n Engineering
-\n ","\n
+ Verification Link 
+ ":"
 
-\n Date\n
-\n ":"\n
+     SGPI: 9.75  
+  Aggregate: 68.87%   
+ "},{"
 
-21st Aug,2020
-\n ","\n
+  Certification
+ ":"
 
-\n Institution\n
-\n ":"\n
+ 12th, 15th and 16th Adhyāy Recitation
+ ","
 
-Shah and Anchor Kutchhi Engineering College
-\n ","\n
+ Date
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+ 27th July, 2021
+ ","
 
-7.76\n SGPI
-\n "},{"\n
+ Institution
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+   Gītā Parivār
+ ","
 
-Python 3.4.3 Training
-\n ","\n
+ Verification Link 
+ ":"
 
-\n Date\n
-\n ":"\n
+    Marksheet 
+  Certificate  
+ "},{"
 
-\n
+  Certification
+ ":"
 
-\n
+ AWS Summit India
+ ","
 
-19th Aug,\n 2020
-\n ","\n
+ Date
+ ":"
 
-\n Institution\n
-\n ":"\n
+ 9th July, 2021
+ ","
 
-\n
+ Institution
+ ":"
 
-SpokenTutorial
-\n
+   Amazon
+ ","
 
-by
-\n
+ Verification Link 
+ ":"
 
-IIT Bombay
-\n ","\n
+   Certificate of Attendance  
+ "},{"
 
-\n Verification Link\n \n
-\n ":"\n
+  Certification
+ ":"
 
-85%\n
-\n "},{"\n
+ Scrum Fundamentals
+ ","
 
-\n \n Certification\n
-\n ":"\n
+ Date
+ ":"
 
-Linux Training
-\n ","\n
+ 27th June, 2021
+ ","
 
-\n Date\n
-\n ":"\n
+ Institution
+ ":"
 
-70%\n
-\n "},{"\n
+   GenMan Solutions
+ ","
 
-\n \n Certification\n
-\n ":"\n
+ Verification Link 
+ ":"
 
-RDBMS PostgreSQL Training
-\n ","\n
+   Certificate of Completion  
+ "},{"
 
-\n Date\n
-\n ":"\n
+  Certification
+ ":"
 
-57.5%\n
-\n "},{"\n
+ Subhāśitaṁ Saṁskr̥taṁ Specialization
+ ","
 
-\n \n Certification\n
-\n ":"\n
+ Date
+ ":"
 
-C++ Training
-\n ","\n
 
-\n Date\n
-\n ":"\n
+21th June, 2021
+ ","
 
-70%\n
-\n "},{"\n
+ Institution
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+ 
+ SanskritBhāratī
+ ","
+
+ Verification Link 
+ ":"
+
+   Course 5 marks: 45/50
+Oral: 18/20  
+ "},{"
+
+  Certification
+ ":"
+
+ Scripting in Python
+ ","
+
+ Date
+ ":"
+
+ 20th June, 2021
+ ","
+
+ Institution
+ ":"
+
+ 
+ Edcorner Learning
+ ","
+
+ Verification Link 
+ ":"
+
+   Certificate of Completion  
+ "},{"
+
+  Certification
+ ":"
+
+ Hands-On ML & AI
+ ","
+
+ Date
+ ":"
+
+ 13th June, 2021
+ ","
+
+ Institution
+ ":"
+
+ EdYoda Digital University
+ ","
+
+ Verification Link 
+ ":"
+
+   Certificate of Completion  
+ "},{"
+
+  Certification
+ ":"
+
+ 1st Place in Project Presentation Competition
+ ","
+
+ Date
+ ":"
+
+
+
+
+19th May, 2021
+ ","
+
+ Institution
+ ":"
+
+ 
+ SAKEC
+ ","
+
+ Verification Link 
+ ":"
+
+   First Prize Winner  
+ "},{"
+
+  Certification
+ ":"
+
+ Create Amazing Vue Apps with JavaScript
+ ","
+
+ Date
+ ":"
+
+ 
+ Mamoth Interactive
+ ","
+
+ Institution
+ ":"
+
+   Certificate of Completing 6.5 Hours  
+ "},{"
+
+  Certification
+ ":"
+
+ Importing Data in Python
+ ","
+
+ Date
+ ":"
+
+ 13th May, 2021
+ ","
+
+ Institution
+ ":"
+
+
+
+
+
+ Data
+Camp
+ ","
+
+ Verification Link 
+ ":"
+
+   Statement of Accomplishment  
+ "},{"
+
+  Certification
+ ":"
+
+ Advanced NLP with spaCy
+ ","
+
+ Date
+ ":"
+
+ 11th May, 2021
+ ","
+
+ Institution
+ ":"
+
+   Statement of Accomplishment  
+ "},{"
+
+  Certification
+ ":"
+
+ Natural Language Processing in Python
+ ","
+
+ Date
+ ":"
+
+ 9th May, 2021
+ ","
+
+ Institution
+ ":"
+
+  Statement of Accomplishment 
+ "},{"
+
+  Certification
+ ":"
+
+ Writing Functions in Python
+ ","
+
+ Date
+ ":"
+
+ 7th May, 2021
+ ","
+
+ Institution
+ ":"
+
+  Statement of Accomplishment 
+ "},{"
+
+  Certification
+ ":"
+
+ BE 8th Semester's 2nd Internal Assessment
+ ","
+
+ Date
+ ":"
+
+ 6th May, 2021
+ ","
+
+ Institution
+ ":"
+
+ SAKEC
+ ","
+
+ Verification Link 
+ ":"
+
+  82.5% Report Card 
+ "},{"
+
+  Certification
+ ":"
+
+ Feature Engineering for NLP in Python
+ ","
+
+ Date
+ ":"
+
+ 5th May, 2021
+ ","
+
+ Institution
+ ":"
+
+ 
+ Data
+Camp
+ ","
+
+ Verification Link 
+ ":"
+
+  Statement of Accomplishment 
+ "},{"
+
+  Certification
+ ":"
+
+ Spoken Language Processing in Python
+ ","
+
+ Date
+ ":"
+
+ 3rd May, 2021
+ ","
+
+ Institution
+ ":"
+
+  Statement of Accomplishment 
+ "},{"
+
+  Certification
+ ":"
+
+ Android app using Kotlin
+ ","
+
+ Date
+ ":"
+
+  
+
+
+ 28th Apr, 2021
+ ","
+
+ Institution
+ ":"
+
+  
+
+
+ Spoken Tutorial by IIT Bombay
+ ","
+
+ Verification Link 
+ ":"
+
+  72.5% 
+ "},{"
+
+  Certification
+ ":"
 
 Java Training
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-57.5%\n
-\n "},{"\n
+70%
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-Course 1 in Spoken Sanskrit
-\n ","\n
+Arduino Training
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-13th Aug, 2020
-\n ","\n
+75%
+ "},{"
 
-\n Institution\n
-\n ":"\n
+  Certification
+ ":"
 
-SanskritBharati
-\n
+PHP and MySQL
+ ","
 
-and IIT Roorkee
-\n ","\n
+ Date
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+61.1% 
+ "},{"
 
-Distinction. Written exam: 61/80\n
-\n "},{"\n
+  Certification
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+ English Word Play
+ ","
 
-Deep Learning with Python
-\n ","\n
+ Date
+ ":"
 
-\n Date\n
-\n ":"\n
+ 27th Apr, 2021
+ ","
 
-8th Aug,\n 2020
-\n ","\n
+ Institution
+ ":"
 
-\n Institution\n
-\n ":"\n
+ Speaker's Club
+ ","
 
-Great Learning
-\n ","\n
+ Verification Link 
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+  Passing 
+ "},{"
 
-Certificate\n of Completion
-\n "},{"\n
+  Certification
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+ Python Data Science Toolbox Part 2
+ ","
 
-Natural Language Processing
-\n ","\n
+ Date
+ ":"
 
-\n Date\n
-\n ":"\n
+ 25th Apr, 2021
 
-6th Aug,\n 2020
-\n ","\n
 
-\n Institution\n
-\n ":"\n
+  
+ ","
 
-SAKEC IT
-\n ","\n
+ Institution
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+  
 
-Certificate\n of Participation
-\n "},{"\n
 
-\n \n Certification\n
-\n ":"\n
 
-Machine Learning
-\n ","\n
+ Data 
 
-\n Date\n
-\n ":"\n
 
-4th Aug,\n 2020
-\n ","\n
+ Camp
+ ","
 
-\n Institution\n
-\n ":"\n
+ Verification Link 
+ ":"
 
-Solo
-\n
+  Statement of Accomplishment 
+ "},{"
 
-Learn
-\n ","\n
+  Certification
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+ Sentiment Analysis in Python
+ ","
 
-Certificate\n
-\n "},{"\n
+ Date
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+ 24th Apr, 2021
+ ","
 
-Data Science with Python
-\n ","\n
+ Institution
+ ":"
 
-\n Date\n
-\n ":"\n
+  Statement of Accomplishment 
+ "},{"
 
-29th July, 2020
-\n ","\n
+  Certification
+ ":"
 
-\n Institution\n
-\n ":"\n
+ Python
+ ","
 
-Certificate\n
-\n "},{"\n
+ Date
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+ 31st Mar, 2021
+ ","
 
-Statistics for Data Science
-\n ","\n
+ Institution
+ ":"
 
-\n Date\n
-\n ":"\n
+Hacker Rank
+ ","
 
-27th July,\n 2020
-\n ","\n
+ Verification Link 
+ ":"
 
-\n Institution\n
-\n ":"\n
+Cleared assessment
+ "},{"
 
-Great Learning
-\n ","\n
+  Certification
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+Software Project Competition
+ ","
 
-Certificate\n of Completion
-\n "},{"\n
+ Date
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+30th Mar, 2021
+ ","
 
-Python version 3 Tutorial
-\n ","\n
+ Institution
+ ":"
 
-\n Date\n
-\n ":"\n
+IEEE-CRCE & WIE-CRCE
+ ","
 
-21st July,\n 2020
-\n ","\n
+ Verification Link 
+ ":"
 
-\n Institution\n
-\n ":"\n
+Sentiment Analysis of the Mahābhārata Parvas
+ "},{"
 
-Solo Learn
-\n ","\n
+  Certification
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+BE Electronics and Telecommunication Engineering Semester 7
+ ","
 
-Certificate\n
-\n "},{"\n
+ Date
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+13th Mar, 2021
+ ","
 
-Russian poem translated into Sanskrit
-\n
+ Institution
+ ":"
 
-\n ","\n
+Shah and Anchor Kutchhi Engineering College
+ ","
 
-\n Date\n
-\n ":"\n
+ Verification Link 
+ ":"
 
-6th June, 2020\n
-\n ","\n
+   9.73 SGPI  
+ "},{"
 
-\n Institution\n
-\n ":"\n
+  Certification
+ ":"
 
-Russian State University
-\n
+Examination on 12th & 15th Chapters of the Bhagavad-gītā
+ ","
 
-for the Humanities
-\n ","\n
+ Date
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+28th Feb, 2021
+ ","
 
- Presented in front of students from 16 universities in 9 countries
-\n "},{"\n
+ Institution
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+Gītā Parivār
+ ","
 
-International Recitation of Alexander Puskhkin’s Poetry\n
-\n ","\n
+ Verification Link 
+ ":"
 
-\n Date\n
-\n ":"\n
+Gītā Guñjan
+ "},{"
 
-6th June,\n 2020
-\n ","\n
+  Certification
+ ":"
 
-\n Institution\n
-\n ":"\n
+International Poetry Competition on International Mother Language Day
+ ","
 
-Russian Center for Science and Culture
-\n ","\n
+ Date
+ ":"
 
-\n Verification Link\n \n
-\n ":"\n
+20th Feb, 2021
+ ","
 
-Certificate\n of Participation
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Russian Language for Foreigners Competition
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-3rd Feb,\n 2020
-\n ","\n
-
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
 Russian State University for the Humanities
-\n ","\n
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-Secured\n Third Place
-\n "},{"\n
+Recited Marathi Poem Translated into Russian
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-RedHat Linux
-\n ","\n
+Course 4 in Spoken Sanskrit
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-18th Jan,\n 2020
-\n ","\n
+3rd Feb,2021
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-SAKEC ACM
-\n ","\n
+SanskritBharati and
 
-\n Verification Link\n \n
-\n ":"\n
 
-Certificate\n of Participation
-\n "},{"\n
+IIT Roorkee
+ ","
 
-\n \n Certification\n
-\n ":"\n
+ Verification Link 
+ ":"
+
+ 90 marks
+ "},{"
+
+  Certification
+ ":"
+
+Third Year Electronics and Telecommunication Engineering Semester 6
+ ","
+
+ Date
+ ":"
+
+26th Dec, 2020
+ ","
+
+ Institution
+ ":"
+
+
+
+
+
+Shah and Anchor Kutchhi Engineering College
+ ","
+
+ Verification Link 
+ ":"
+
+  7.92 SGPI (updated, increased)  
+ "},{"
+
+  Certification
+ ":"
+
+Third Year Electronics and Telecommunication Engineering Semester 5
+ ","
+
+ Date
+ ":"
+
+23rd Dec, 2020
+ ","
+
+ Institution
+ ":"
+
+  7.93 SGPI  
+ "},{"
+
+  Certification
+ ":"
+
+Course 3 in Spoken Sanskrit
+ ","
+
+ Date
+ ":"
+
+13th Dec, 2020
+ ","
+
+ Institution
+ ":"
+
+SanskritBharati and
+
+
+IIT Roorkee
+ ","
+
+ Verification Link 
+ ":"
+
+ 92 marks
+ "},{"
+
+  Certification
+ ":"
+
+ Data Analysis with Python [60 hours]
+ ","
+
+ Date
+ ":"
+
+ 14 th  Oct, 2020
+ ","
+
+ Institution
+ ":"
+
+ Jovian and FreeCodeCamp
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Accomplishment
+ "},{"
+
+  Certification
+ ":"
+
+Reinforced Machine Learning in Python
+ ","
+
+ Date
+ ":"
+
+12th Oct, 2020
+ ","
+
+ Institution
+ ":"
+
+Great Learning
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Completion
+ "},{"
+
+  Certification
+ ":"
+
+Git for Version Control
+ ","
+
+ Date
+ ":"
+
+11th Oct, 2020
+ ","
+
+ Institution
+ ":"
+
+Data Camp
+ ","
+
+ Verification Link 
+ ":"
+
+Statement of Accomplishment
+ "},{"
+
+  Certification
+ ":"
+
+Sergey Yesenin Poem Presentation
+ ","
+
+ Date
+ ":"
+
+3rd Oct, 2020
+ ","
+
+ Institution
+ ":"
+
+Russian State University
+
+
+for the Humanities
+ ","
+
+ Verification Link 
+ ":"
+
+Presented
+ "},{"
+
+  Certification
+ ":"
+
+Course 2 in Spoken Sanskrit
+ ","
+
+ Date
+ ":"
+
+23rd Sept, 2020
+ ","
+
+ Institution
+ ":"
+
+SanskritBharati and
+
+
+IIT Roorkee
+ ","
+
+ Verification Link 
+ ":"
+
+ 95 marks
+ "},{"
+
+  Certification
+ ":"
+
+Statistical Learning
+ ","
+
+ Date
+ ":"
+
+31st Aug, 2020
+ ","
+
+ Institution
+ ":"
+
+Great Learning
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Completion
+ "},{"
+
+  Certification
+ ":"
+
+Traditional Face Detection with Python
+ ","
+
+ Date
+ ":"
+
+26th Aug, 2020
+ ","
+
+ Institution
+ ":"
+
+ 
+
+
+Real Python
+
+
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Achievement
+ "},{"
+
+  Certification
+ ":"
+
+New Features in Python version 3.8
+ ","
+
+ Date
+ ":"
+
+25th Aug, 2020
+ ","
+
+ Institution
+ ":"
+
+Certificate of Achievement
+ "},{"
+
+  Certification
+ ":"
+
+Functional Programing in Python
+ ","
+
+ Date
+ ":"
+
+24th Aug, 2020
+ ","
+
+ Institution
+ ":"
+
+Certificate of Achievement
+ "},{"
+
+  Certification
+ ":"
+
+Semester 6 of Electronics and Telecommunications Engineering
+ ","
+
+ Date
+ ":"
+
+21st Aug,2020
+ ","
+
+ Institution
+ ":"
+
+Shah and Anchor Kutchhi Engineering College
+ ","
+
+ Verification Link 
+ ":"
+
+7.76 SGPI
+ "},{"
+
+  Certification
+ ":"
+
+Python 3.4.3 Training
+ ","
+
+ Date
+ ":"
+
+
+
+
+
+19th Aug, 2020
+ ","
+
+ Institution
+ ":"
+
+
+
+SpokenTutorial
+
+
+by
+
+
+IIT Bombay
+ ","
+
+ Verification Link 
+ ":"
+
+85%
+ "},{"
+
+  Certification
+ ":"
+
+Linux Training
+ ","
+
+ Date
+ ":"
+
+70%
+ "},{"
+
+  Certification
+ ":"
+
+RDBMS PostgreSQL Training
+ ","
+
+ Date
+ ":"
+
+57.5%
+ "},{"
+
+  Certification
+ ":"
+
+C++ Training
+ ","
+
+ Date
+ ":"
+
+70%
+ "},{"
+
+  Certification
+ ":"
+
+Java Training
+ ","
+
+ Date
+ ":"
+
+57.5%
+ "},{"
+
+  Certification
+ ":"
+
+Course 1 in Spoken Sanskrit
+ ","
+
+ Date
+ ":"
+
+13th Aug, 2020
+ ","
+
+ Institution
+ ":"
+
+SanskritBharati
+
+
+and IIT Roorkee
+ ","
+
+ Verification Link 
+ ":"
+
+Distinction. Written exam: 61/80
+ "},{"
+
+  Certification
+ ":"
+
+Deep Learning with Python
+ ","
+
+ Date
+ ":"
+
+8th Aug, 2020
+ ","
+
+ Institution
+ ":"
+
+Great Learning
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Completion
+ "},{"
+
+  Certification
+ ":"
 
 Natural Language Processing
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n 8th Jan, 2020\n
-\n ","\n
+6th Aug, 2020
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-\n ISTE SAKEC\n
-\n ","\n
+SAKEC IT
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-\n \n Certificate\n of Participation\n
-\n "},{"\n
+Certificate of Participation
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-Made a Digital Lock during Winter Internship
-\n ","\n
+Machine Learning
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-2nd Jan,\n 2020
-\n ","\n
+4th Aug, 2020
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-SAKEC EXTC
-\n ","\n
+Solo
 
-\n Verification Link\n \n
-\n ":"\n
 
-Certificate\n of Participation
-\n "},{"\n
+Learn
+ ","
 
-\n \n Certification\n
-\n ":"\n
+ Verification Link 
+ ":"
 
-First Year Engineering Semester 2
-\n ","\n
+Certificate
+ "},{"
 
-\n Date\n
-\n ":"\n
+  Certification
+ ":"
 
-4th Feb,\n 2019
-\n ","\n
+Data Science with Python
+ ","
 
-\n Institution\n
-\n ":"\n
+ Date
+ ":"
 
-Shah & Anchor Kutchhi Engineering College
-\n ","\n
+29th July, 2020
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Institution
+ ":"
 
-6.26\n SGPI
-\n "},{"\n
+Certificate
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-Worked as Freelance Russian Interpreter
-\n ","\n
+Statistics for Data Science
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-23rd Dec, 2019
-\n ","\n
+27th July, 2020
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-Ashish Life Sciences Private Limited
-\n ","\n
+Great Learning
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-Negotiated terms of a JV-partnership
-\n "},{"\n
+Certificate of Completion
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-Microcontroller Programing
-\n ","\n
+Python version 3 Tutorial
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-14th Dec, 2019
-\n ","\n
+21st July, 2020
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-IETE SAKEC
-\n ","\n
+Solo Learn
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-Certificate\n of Participation
-\n "},{"\n
+Certificate
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
-Diploma in Russian Language
-\n
+Russian poem translated into Sanskrit
 
-(536 hour practical course)
-\n ","\n
 
-\n Date\n
-\n ":"\n
+ ","
 
-31st May,\n 2019
-\n ","\n
+ Date
+ ":"
 
-\n Institution\n
-\n ":"\n
+6th June, 2020
+ ","
 
-Pushkin Institute,
-\n
+ Institution
+ ":"
 
-Moscow, Russia
-\n ","\n
+Russian State University
 
-\n Verification Link\n \n
-\n ":"\n
 
-Spoken\n test: 5/5
-\n
+for the Humanities
+ ","
 
-Written\n test: 79/100
-\n "},{"\n
+ Verification Link 
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+ Presented in front of students from 16 universities in 9 countries
+ "},{"
 
-Python Training
-\n ","\n
+  Certification
+ ":"
 
-\n Date\n
-\n ":"\n
+International Recitation of Alexander Puskhkin’s Poetry
+ ","
 
-29th Aug, 2018
-\n ","\n
+ Date
+ ":"
 
-\n Institution\n
-\n ":"\n
+6th June, 2020
+ ","
 
-SpokenTutorial by IIT Bombay
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Certificate\n of Participation
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Total Dictation in Russian
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-14th Apr, 2018
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-TRUD and Russian Center
-\n
-
-for Science and Culture
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Certificate\n of Participation
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Basic Training Course in Air Rifle and Air Pistol
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-16th Mar, 2018
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-Swatantrya Veer Savarkar
-\n
-
-Air Rifle Club
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-Certification 
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-First Year Engineering Semester 1
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-12th Feb, 2018
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n
-
-Shah & Anchor Kutchhi Engineering College
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-6.33\n SGPI
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-Second Year Electronics and Telecommunication Engineering\n Semester 3
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-23rd Jan, 2018
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n \n \n 6.08\n CGPI\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Data Analytics with Python and R\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-6\n th\n  Jan, 2018\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n ISTE SAKEC\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n \n Certificate\n \n \n
-\n
-
-\n of\n Participation\n \n
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Second Year Electronics and Telecommunication Engineering Semester 4\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-\n 20\n th\n  July, 2017\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-\n Shah & Anchor Kutchhi Engineering College\n
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-6.25\n SGPI
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-\n Hands-On Python Programing\n
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-7\n th July, 2017\n
-\n ","\n
-
-\n Institution\n
-\n ":"\n
-
-SAKEC ACM
-\n ","\n
-
-\n Verification Link\n \n
-\n ":"\n
-
-\n Certificate\n \n
-\n
-
-\n of\n Participation
-\n "},{"\n
-
-\n \n Certification\n
-\n ":"\n
-
-A1, A2 and B1 Levels of the Russian Language
-\n ","\n
-
-\n Date\n
-\n ":"\n
-
-2017
-\n ","\n
-
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
 Russian Center for Science and Culture
-\n ","\n
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-Certificates:
-\n
+Certificate of Participation
+ "},{"
 
-A1, A2 , B1\n
-\n "},{"\n
+  Certification
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+Russian Language for Foreigners Competition
+ ","
 
-LibreOffice Suite Writer
-\n ","\n
+ Date
+ ":"
 
-\n Date\n
-\n ":"\n
+3rd Feb, 2020
+ ","
 
-17th Oct, 2016
-\n ","\n
+ Institution
+ ":"
 
-\n Institution\n
-\n ":"\n
+Russian State University for the Humanities
+ ","
 
-\n
+ Verification Link 
+ ":"
+
+Secured Third Place
+ "},{"
+
+  Certification
+ ":"
+
+RedHat Linux
+ ","
+
+ Date
+ ":"
+
+18th Jan, 2020
+ ","
+
+ Institution
+ ":"
+
+SAKEC ACM
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Participation
+ "},{"
+
+  Certification
+ ":"
+
+Natural Language Processing
+ ","
+
+ Date
+ ":"
+
+ 8th Jan, 2020
+ ","
+
+ Institution
+ ":"
+
+ ISTE SAKEC
+ ","
+
+ Verification Link 
+ ":"
+
+  Certificate of Participation
+ "},{"
+
+  Certification
+ ":"
+
+Made a Digital Lock during Winter Internship
+ ","
+
+ Date
+ ":"
+
+2nd Jan, 2020
+ ","
+
+ Institution
+ ":"
+
+SAKEC EXTC
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Participation
+ "},{"
+
+  Certification
+ ":"
+
+First Year Engineering Semester 2
+ ","
+
+ Date
+ ":"
+
+4th Feb, 2019
+ ","
+
+ Institution
+ ":"
+
+Shah & Anchor Kutchhi Engineering College
+ ","
+
+ Verification Link 
+ ":"
+
+6.26 SGPI
+ "},{"
+
+  Certification
+ ":"
+
+Worked as Freelance Russian Interpreter
+ ","
+
+ Date
+ ":"
+
+23rd Dec, 2019
+ ","
+
+ Institution
+ ":"
+
+Ashish Life Sciences Private Limited
+ ","
+
+ Verification Link 
+ ":"
+
+Negotiated terms of a JV-partnership
+ "},{"
+
+  Certification
+ ":"
+
+Microcontroller Programing
+ ","
+
+ Date
+ ":"
+
+14th Dec, 2019
+ ","
+
+ Institution
+ ":"
+
+IETE SAKEC
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Participation
+ "},{"
+
+  Certification
+ ":"
+
+Diploma in Russian Language
+
+
+(536 hour practical course)
+ ","
+
+ Date
+ ":"
+
+31st May, 2019
+ ","
+
+ Institution
+ ":"
+
+Pushkin Institute,
+
+
+Moscow, Russia
+ ","
+
+ Verification Link 
+ ":"
+
+Spoken test: 5/5
+
+
+Written test: 79/100
+ "},{"
+
+  Certification
+ ":"
+
+Python Training
+ ","
+
+ Date
+ ":"
+
+29th Aug, 2018
+ ","
+
+ Institution
+ ":"
 
 SpokenTutorial by IIT Bombay
-\n ","\n
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-Certificate\n
-\n
+Certificate of Participation
+ "},{"
 
-of\n Participation
-\n "},{"\n
+  Certification
+ ":"
 
-\n \n Certification\n
-\n ":"\n
+Total Dictation in Russian
+ ","
 
-LibreOffice Suite Calc
-\n ","\n
+ Date
+ ":"
 
-\n Date\n
-\n ":"\n
+14th Apr, 2018
+ ","
+
+ Institution
+ ":"
+
+TRUD and Russian Center
+
+
+for Science and Culture
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate of Participation
+ "},{"
+
+  Certification
+ ":"
+
+Basic Training Course in Air Rifle and Air Pistol
+ ","
+
+ Date
+ ":"
+
+16th Mar, 2018
+ ","
+
+ Institution
+ ":"
+
+Swatantrya Veer Savarkar
+
+
+Air Rifle Club
+ ","
+
+ Verification Link 
+ ":"
+
+Certification 
+ "},{"
+
+  Certification
+ ":"
+
+First Year Engineering Semester 1
+ ","
+
+ Date
+ ":"
+
+12th Feb, 2018
+ ","
+
+ Institution
+ ":"
+
+
+
+Shah & Anchor Kutchhi Engineering College
+ ","
+
+ Verification Link 
+ ":"
+
+6.33 SGPI
+ "},{"
+
+  Certification
+ ":"
+
+Second Year Electronics and Telecommunication Engineering Semester 3
+ ","
+
+ Date
+ ":"
+
+23rd Jan, 2018
+ ","
+
+ Institution
+ ":"
+
+   6.08 CGPI 
+ "},{"
+
+  Certification
+ ":"
+
+ Data Analytics with Python and R
+ ","
+
+ Date
+ ":"
+
+6 th  Jan, 2018
+ ","
+
+ Institution
+ ":"
+
+ ISTE SAKEC
+ ","
+
+ Verification Link 
+ ":"
+
+  Certificate  
+
+
+ of Participation 
+ "},{"
+
+  Certification
+ ":"
+
+ Second Year Electronics and Telecommunication Engineering Semester 4
+ ","
+
+ Date
+ ":"
+
+ 20 th  July, 2017
+ ","
+
+ Institution
+ ":"
+
+ Shah & Anchor Kutchhi Engineering College
+ ","
+
+ Verification Link 
+ ":"
+
+6.25 SGPI
+ "},{"
+
+  Certification
+ ":"
+
+ Hands-On Python Programing
+ ","
+
+ Date
+ ":"
+
+7 th July, 2017
+ ","
+
+ Institution
+ ":"
+
+SAKEC ACM
+ ","
+
+ Verification Link 
+ ":"
+
+ Certificate 
+
+
+ of Participation
+ "},{"
+
+  Certification
+ ":"
+
+A1, A2 and B1 Levels of the Russian Language
+ ","
+
+ Date
+ ":"
+
+2017
+ ","
+
+ Institution
+ ":"
+
+Russian Center for Science and Culture
+ ","
+
+ Verification Link 
+ ":"
+
+Certificates:
+
+
+A1, A2 , B1
+ "},{"
+
+  Certification
+ ":"
+
+LibreOffice Suite Writer
+ ","
+
+ Date
+ ":"
 
 17th Oct, 2016
-\n ","\n
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
-Certificate\n
-\n
 
-of\n Participation
-\n "},{"\n
 
-\n \n Certification\n
-\n ":"\n
+SpokenTutorial by IIT Bombay
+ ","
+
+ Verification Link 
+ ":"
+
+Certificate
+
+
+of Participation
+ "},{"
+
+  Certification
+ ":"
+
+LibreOffice Suite Calc
+ ","
+
+ Date
+ ":"
+
+17th Oct, 2016
+ ","
+
+ Institution
+ ":"
+
+Certificate
+
+
+of Participation
+ "},{"
+
+  Certification
+ ":"
 
 Higher Secondary Certificate (12th)
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
 2015
-\n ","\n
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
 Kirti M. Doongursee College, Dadar West
-\n ","\n
+ ","
 
-\n Verification Link\n \n
-\n ":"\n
+ Verification Link 
+ ":"
 
-69.38%\n
-\n "},{"\n
+69.38%
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
 Secondary School Certificate (10th)
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
 2013
-\n ","\n
+ ","
 
-\n Institution\n
-\n ":"\n
-
-
+ Institution
+ ":"
 
 
-St Stanislaus’ High\n School, Bandra West
-\n ","\n
 
-\n Verification Link\n \n
-\n ":"\n
+
+St Stanislaus’ High School, Bandra West
+ ","
+
+ Verification Link 
+ ":"
 
 86.2% 
-\n
+
 
 Science: 99/100
-\n "},{"\n
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
 High School Scholarship Examination
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
-\n
+
 
 2010
-\n ","\n
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
 Scholarship awarded
-\n "},{"\n
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
 Intermediate Grade Drawing Examination
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
 C
-\n "},{"\n
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
 Elementary Grade Drawing Examination
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
 2009
-\n ","\n
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
 B
-\n "},{"\n
+ "},{"
 
-\n \n Certification\n
-\n ":"\n
+  Certification
+ ":"
 
 Middle School Scholarship Examination
-\n ","\n
+ ","
 
-\n Date\n
-\n ":"\n
+ Date
+ ":"
 
 2007
-\n ","\n
+ ","
 
-\n Institution\n
-\n ":"\n
+ Institution
+ ":"
 
 Passed 
-\n
+
 
 Language: 90/100
-\n "}],
+ "}
+],
       // dataSet,
       dataset1:  [
         {
