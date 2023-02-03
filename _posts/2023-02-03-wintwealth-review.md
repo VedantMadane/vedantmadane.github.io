@@ -1,7 +1,11 @@
 ---
+layout: post
+title: WintWealth Review
+subtitle: WintWealth Let's You Buy Listed Bonds
+tags: [finance]
 ---
 
-Would not recomment. Bought Oxyzo 1 lakh bonds through them, now they are asking it back. Too much of a hassle:
+Would not recomment. Bought Oxyzo 1 lakh bond through them, now they are asking it back. Too much of a hassle:
 An update: Urgent action required for your investment in Oxyzo Jan’23
 
 Your investment in Oxyzo Jan’23 requires an urgent action
@@ -49,3 +53,5 @@ In case of any queries, please reply to this email and we'll shortly get in touc
 With 💚
 
 Team Wint Wealth
+
+If you still want to check them out, here is the link: 
