@@ -53,5 +53,3 @@ In case of any queries, please reply to this email and we'll shortly get in touc
 With 💚
 
 Team Wint Wealth
-
-If you still want to check them out, here is the link: 
