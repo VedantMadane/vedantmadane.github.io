@@ -5,6 +5,7 @@ const constraints = {
   video: true,
 };
 function Check(){
+  
 navigator.mediaDevices
   .getUserMedia(constraints)
   .then((stream) => {
