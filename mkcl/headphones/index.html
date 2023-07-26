@@ -1,0 +1,8 @@
+navigator.mediaDevices.addEventListener('devicechange', () => {
+alert("You dis/connected your headphone.")
+});
+navigator.mediaDevices.enumerateDevices()
+  .then(devices => {
+    alert("You have headphone device(s) connected.")
+    console.log(devices);  
+  });
