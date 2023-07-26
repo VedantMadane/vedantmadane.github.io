@@ -30,4 +30,20 @@ navigator.mediaDevices
       console.error(`getUserMedia error: ${error.name}`, error);
     }
   });
+  function check1(){
+  navigator.mediaDevices.enumerateDevices()
+  .then(devices => {
+    // Check the connected devices
+    console.log(devices);  
+  });
+  function check2(){
+    navigator.mediaDevices.addEventListener('devicechange', () => {
+  // Do whatever you need to with the devices
+  // Maybe use enumerateDevices() to see what connected
+      enumerateDevices()
+      console.log("device changed");
+      alert("Device dis/connected");
+});
+  }
+  }
 }
