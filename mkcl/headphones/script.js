@@ -4,7 +4,7 @@ const constraints = {
   audio: false,
   video: true,
 };
-
+function Check(){
 navigator.mediaDevices
   .getUserMedia(constraints)
   .then((stream) => {
@@ -29,3 +29,4 @@ navigator.mediaDevices
       console.error(`getUserMedia error: ${error.name}`, error);
     }
   });
+}
