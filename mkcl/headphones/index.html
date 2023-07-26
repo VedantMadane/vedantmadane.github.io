@@ -6,15 +6,8 @@
   </title>
   </head>
   <body>
-    <scrpit>
-navigator.mediaDevices.addEventListener('devicechange', () => {
-alert("You dis/connected your headphone.")
-});
-navigator.mediaDevices.enumerateDevices()
-  .then(devices => {
-    alert("You have headphone device(s) connected.")
-    console.log(devices);  
-  });
+    <scrpit src="scripts.js">
 </scrpit>
+    <button onclick="Check()">Check headphone</button>
   </body>
 </html>
