@@ -50,4 +50,3 @@ navigator.mediaDevices
       alert("Device dis/connected");
 });
   };
-}
