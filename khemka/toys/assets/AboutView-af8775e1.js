@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as _}from"./index-757b7ff4.js";const s={},a={class:"about"},c=_("h1",null,"We are located at Nariman Point.",-1),n=[c];function r(i,d){return t(),o("div",a,n)}const u=e(s,[["render",r]]);export{u as default};
