@@ -2,7 +2,7 @@
   * pinia v2.1.4
   * (c) 2023 Eduardo San Martin Morote
   * @license MIT
-  */const ec=Symbol();var nr;(function(e){e.direct="direct",e.patchObject="patch object",e.patchFunction="patch function"})(nr||(nr={}));function tc(){const e=Vo(!0),t=e.run(()=>Ur({}));let n=[],s=[];const r=ds({install(o){r._a=o,o.provide(ec,r),o.config.globalProperties.$pinia=r,s.forEach(i=>n.push(i)),s=[]},use(o){return!this._a&&!Gl?s.push(o):n.push(o),this},_p:n,_a:null,_e:e,_s:new Map,state:t});return r}const nc="/assets/khemkas_logo-3f001d82.png";/*!
+  */const ec=Symbol();var nr;(function(e){e.direct="direct",e.patchObject="patch object",e.patchFunction="patch function"})(nr||(nr={}));function tc(){const e=Vo(!0),t=e.run(()=>Ur({}));let n=[],s=[];const r=ds({install(o){r._a=o,o.provide(ec,r),o.config.globalProperties.$pinia=r,s.forEach(i=>n.push(i)),s=[]},use(o){return!this._a&&!Gl?s.push(o):n.push(o),this},_p:n,_a:null,_e:e,_s:new Map,state:t});return r}const nc="https://vedantmadane.github.io/khemka/toys/assets/khemkas_logo-3f001d82.png";/*!
   * vue-router v4.2.2
   * (c) 2023 Eduardo San Martin Morote
   * @license MIT
