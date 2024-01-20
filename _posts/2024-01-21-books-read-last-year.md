@@ -2,12 +2,9 @@
 layout: post
 title: Books Read In 2023
 ---
-
-Name
----
 Damn Right!  
 Richer, Wiser, Happier  
-The Great Mental Models 
+The Great Mental Models  
 The Origin and Evolution of New Businesses  
 Diamonds In The Dust  
 The Dhandho Investor  
