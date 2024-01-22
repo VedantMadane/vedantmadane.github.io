@@ -16,3 +16,4 @@ Deep Work
 The Manipulated Man  
 Security Analysis  
 Where Are the Customer's Yachts  
+Fools Rush In
