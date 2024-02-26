@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Books Read This Year
+title: Books Read This Year In 2024
 ---
 1. Peopleware: Productive Projects and Teams  
    Completed reading on 01.02.2024 
@@ -10,7 +10,9 @@ title: Books Read This Year
    Completed reading on 21.02.2024 on World Stroke Day
 4. Debt: The First 5000 Years
 5. Think Again: The Power of Knowing What You Don't Know
+6. Psych: The Story of the Human Mind
+   Completed reading on 26.02.2024
 
 Partially read pile:
 
-1. Psych: The Story of the Human Mind
+1. 
