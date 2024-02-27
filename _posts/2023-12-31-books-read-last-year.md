@@ -22,3 +22,4 @@ title: Books Read In 2023
 18. Fortune's Formula
 19. The Little Book That Beats The Market
 20. Margin of Safety
+21. Letters to Shareholders (Berkshire Hathaway, 50 years)
