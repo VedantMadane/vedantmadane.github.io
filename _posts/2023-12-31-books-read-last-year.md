@@ -18,6 +18,7 @@ title: Books Read In 2023
 14. Where Are the Customer's Yachts
 15. Fools Rush In
 16. Crossing the Chasm
-17. Investments (textbook) by Zvi Bodie
+17. Essentials of Investments (textbook) by Zvi Bodie
 18. Fortune's Formula
 19. The Little Book That Beats The Market
+20. Margin of Safety
