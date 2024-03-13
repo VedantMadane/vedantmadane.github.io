@@ -13,6 +13,10 @@ title: Books Read This Year In 2024
 6. Psych: The Story of the Human Mind
    Completed reading on 26.02.2024
 
+Regarding auctions and bidding:
+
+7. The Economics of Collusion: Cartels and Bidding Rings
+   Completed reading on 13.03.2024
 Partially read pile:
 
 1. 
