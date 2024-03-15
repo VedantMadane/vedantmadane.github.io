@@ -12,11 +12,14 @@ title: Books Read This Year In 2024
 5. Think Again: The Power of Knowing What You Don't Know
 6. Psych: The Story of the Human Mind
    Completed reading on 26.02.2024
+7. The Setup
+   Completed reading on 15.03.2024
+   
+Books Read Regarding auctions and bidding:
 
-Regarding auctions and bidding:
-
-7. The Economics of Collusion: Cartels and Bidding Rings
+1. The Economics of Collusion: Cartels and Bidding Rings
    Completed reading on 13.03.2024
+   
 Partially read pile:
 
 1. 
