@@ -22,4 +22,18 @@ Books Read Regarding auctions and bidding:
    
 Partially read pile:
 
-1. 
+1. Genome: The Autobiography of a Species in 23 Chapters
+   Read uptil and including Chromosome 16: Memory
+3. 
+
+
+
+
+
+
+
+
+
+
+
+
