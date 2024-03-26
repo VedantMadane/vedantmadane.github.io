@@ -14,6 +14,8 @@ title: Books Read This Year In 2024
    Completed reading on 26.02.2024
 7. The Setup
    Completed reading on 15.03.2024
+8. Genome: The Autobiography of a Species in 23 Chapters
+   Completed reading on 26.03.2024
    
 Books Read Regarding auctions and bidding:
 
@@ -22,9 +24,7 @@ Books Read Regarding auctions and bidding:
    
 Partially read pile:
 
-1. Genome: The Autobiography of a Species in 23 Chapters
-   Read uptil and including Chromosome 16: Memory
-3. 
+1. 
 
 
 
