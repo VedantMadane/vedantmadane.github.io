@@ -24,7 +24,7 @@ Books Read Regarding auctions and bidding:
    
 Partially read pile:
 
-1. 
+1. Never Split The Difference: Negotiating As If Your Life Depends On It
 
 
 
