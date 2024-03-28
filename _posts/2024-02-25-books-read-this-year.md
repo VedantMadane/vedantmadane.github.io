@@ -10,11 +10,11 @@ title: Books Read This Year In 2024
    Completed reading on 21.02.2024 on World Stroke Day
 4. Debt: The First 5000 Years
 5. Think Again: The Power of Knowing What You Don't Know
-6. Psych: The Story of the Human Mind
+6. Psych: The Story of the Human Mind  
    Completed reading on 26.02.2024
-7. The Setup
+7. The Setup  
    Completed reading on 15.03.2024
-8. Genome: The Autobiography of a Species in 23 Chapters
+8. Genome: The Autobiography of a Species in 23 Chapters  
    Completed reading on 26.03.2024
    
 Books Read Regarding auctions and bidding:
