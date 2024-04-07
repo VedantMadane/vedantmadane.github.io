@@ -19,7 +19,7 @@ title: Books Read This Year In 2024
 9. Genome: The Autobiography of a Species in 23 Chapters  
    Completed reading on 26.03.2024 
 10. Never Split The Difference: Negotiating As If Your Life Depends On It
-11. Taking the Fear Out of Data Analysis
+11. Taking the Fear Out of Data Analysis  
     Completed reading on 07.04.2024
     
 
