@@ -22,7 +22,9 @@ title: Books Read This Year In 2024
 11. Taking the Fear Out of Data Analysis  
     Completed reading on 07.04.2024
     
+Partially read pile:
 
+1. Deep Simplicity: Bringing Order to Chaos and Complexity
 
 
 
