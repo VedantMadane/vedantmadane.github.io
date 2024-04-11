@@ -21,7 +21,7 @@ title: Books Read This Year In 2024
 10. Never Split The Difference: Negotiating As If Your Life Depends On It
 11. Taking the Fear Out of Data Analysis  
     Completed reading on 07.04.2024  
-12. Deep Simplicity: Bringing Order to Chaos and Complexity
+12. Deep Simplicity: Bringing Order to Chaos and Complexity    
     Completed reading on 11.04.2024   
     
 Partially read pile:
