@@ -23,8 +23,8 @@ title: Books Read This Year In 2024
     Completed reading on 07.04.2024  
 12. Deep Simplicity: Bringing Order to Chaos and Complexity    
     Completed reading on 11.04.2024
-13. Black Swan: The Impact of the Highly Improbable
-    Completed reading on 29.04.2024     
+13. Black Swan: The Impact of the Highly Improbable     
+    Completed reading on 29.04.2024       
     
 Partially read pile:
 
