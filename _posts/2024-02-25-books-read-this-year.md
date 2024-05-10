@@ -30,8 +30,9 @@ title: Books Read This Year In 2024
     
 Partially read pile:
 
-1. 
-
+1. Paul Graham - Hackers and Painters: Big Ideas from the Computer Age   
+   Read the first 100 pages out of 120
+2. 
 
 
 
