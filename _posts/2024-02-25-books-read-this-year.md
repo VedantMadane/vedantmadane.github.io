@@ -27,7 +27,12 @@ title: Books Read This Year In 2024
     Completed reading on 29.04.2024       
 14. Day Game    
     Completed reading on 06.05.2024    
-    
+15. Gandhian Confusion     
+    Completed reading on 24.05.2024      
+16. Notice Inviting Tender read with Annexure-1 Instructions to Bidders
+    Completed reading on 24.05.2024     
+
+        
 Partially read pile:
 
 1. Paul Graham - Hackers and Painters: Big Ideas from the Computer Age   
