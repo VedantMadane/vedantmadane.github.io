@@ -30,7 +30,9 @@ title: Books Read This Year In 2024
 15. Gandhian Confusion     
     Completed reading on 24.05.2024      
 16. Notice Inviting Tender read with Annexure-1 Instructions to Bidders
-    Completed reading on 24.05.2024     
+    Completed reading on 24.05.2024
+17. [Cockroach Approach](https://mcusercontent.com/6750faf5c6091bc898da154ff/files/09f37701-711c-d16c-ea65-b8aab16203be/Cockroach_Approach_1_compressed.pdf)     
+    Completed reading on 11.06.2024     
 
         
 Partially read pile:
