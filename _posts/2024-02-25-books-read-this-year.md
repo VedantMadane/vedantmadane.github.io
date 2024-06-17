@@ -33,7 +33,7 @@ title: Books Read This Year In 2024
     Completed reading on 24.05.2024
 17. [Cockroach Approach](https://mcusercontent.com/6750faf5c6091bc898da154ff/files/09f37701-711c-d16c-ea65-b8aab16203be/Cockroach_Approach_1_compressed.pdf)     
     Completed reading on 11.06.2024
-18. Free-Market Monetary System and Pretense of Knowledge
+18. Free-Market Monetary System and Pretense of Knowledge     
     Completed on 17.06.2024       
         
 Partially read pile:
