@@ -40,8 +40,7 @@ Partially read pile:
 
 1. Paul Graham - Hackers and Painters: Big Ideas from the Computer Age   
    Read the first 100 pages out of 120
-2. 
-
-
+2. Islam: Beliefs and Institutions
+3.    
 
 
