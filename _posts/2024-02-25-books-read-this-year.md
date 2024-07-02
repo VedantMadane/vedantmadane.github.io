@@ -35,12 +35,15 @@ title: Books Read This Year In 2024
     Completed reading on 11.06.2024
 18. Free-Market Monetary System and Pretense of Knowledge     
     Completed on 17.06.2024       
-        
+19. Eminent Historians: Their Technology, Their Line, Their Fraud    
+    Completed on 27.07.2024
+20. 
+    
 Partially read pile:
 
 1. Paul Graham - Hackers and Painters: Big Ideas from the Computer Age   
    Read the first 100 pages out of 120
 2. Islam: Beliefs and Institutions
-3.    
+3. Value Investing and Behavioral Finance: Insights into Indian Stock Market Realities    
 
 
