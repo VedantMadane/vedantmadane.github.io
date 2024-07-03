@@ -37,13 +37,17 @@ title: Books Read This Year In 2024
     Completed on 17.06.2024       
 19. Eminent Historians: Their Technology, Their Line, Their Fraud    
     Completed on 27.07.2024
-20. 
+20. Value Investing and Behavioral Finance: Insights into Indian Stock Market Realities
+    Completed reading on 03.07.2024     
     
 Partially read pile:
 
 1. Paul Graham - Hackers and Painters: Big Ideas from the Computer Age   
    Read the first 100 pages out of 120
 2. Islam: Beliefs and Institutions
-3. Value Investing and Behavioral Finance: Insights into Indian Stock Market Realities    
+3. Latticework: The New Investing
+4. The Political Philosophy of Benjamin Franklin
+5. मोपला कांड अर्थात "मुझे उससे क्या?"
+6. 
 
 
