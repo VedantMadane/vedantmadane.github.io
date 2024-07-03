@@ -47,7 +47,7 @@ Partially read pile:
 2. Islam: Beliefs and Institutions
 3. Latticework: The New Investing
 4. The Political Philosophy of Benjamin Franklin
-5. मोपला कांड अर्थात "मुझे उससे क्या?"
+5. मोपला कांड अर्थात् "मुझे उससे क्या?"
 6. 
 
 
