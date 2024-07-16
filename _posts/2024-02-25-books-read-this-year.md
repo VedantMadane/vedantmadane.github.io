@@ -50,6 +50,6 @@ Partially read pile:
 3. Latticework: The New Investing
 4. The Political Philosophy of Benjamin Franklin
 5. मोपला कांड अर्थात् "मुझे उससे क्या?"
-6. 
-
+6. Hints for Self-Culture, read until page 258 of the document or page 249 of the book
+7. 
 
