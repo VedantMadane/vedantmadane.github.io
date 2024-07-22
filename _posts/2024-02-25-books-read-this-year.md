@@ -40,7 +40,9 @@ title: Books Read This Year In 2024
 20. Value Investing and Behavioral Finance: Insights into Indian Stock Market Realities         
     Completed reading on 03.07.2024
 21. रणशिंग        
-    Completed reading on 11.07.2024        
+    Completed reading on 11.07.2024
+22. The Incredible History of the Indian Ocean
+    Complete don 21.07.2024     
     
 Partially read pile:
 
