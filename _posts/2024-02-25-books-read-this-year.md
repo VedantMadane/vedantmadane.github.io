@@ -41,8 +41,8 @@ title: Books Read This Year In 2024
     Completed reading on 03.07.2024
 21. रणशिंग        
     Completed reading on 11.07.2024
-22. The Incredible History of the Indian Ocean
-    Complete don 21.07.2024     
+22. The Incredible History of the Indian Ocean    
+    Completed on 21.07.2024     
     
 Partially read pile:
 
@@ -52,6 +52,11 @@ Partially read pile:
 3. Latticework: The New Investing
 4. The Political Philosophy of Benjamin Franklin
 5. मोपला कांड अर्थात् "मुझे उससे क्या?"
-6. Hints for Self-Culture, read until page 258 of the document or page 249 of the book
-7. 
+6. Hints for Self-Culture    
+   Read until page 258 of the document or page 249 of the book
+8. The Dictator's Handbook: Why Bad Behaviour Is Almost Always Good Politics
+   Read until Privatized Tax Collection
+9. A Review of the History and Works of the Hindu Mahāsabhā and the Hindu Sangathan Movement
+    Read until page 421 of the document or page 308 of the book
+10. 
 
