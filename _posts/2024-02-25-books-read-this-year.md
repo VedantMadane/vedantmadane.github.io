@@ -42,7 +42,9 @@ title: Books Read This Year In 2024
 21. रणशिंग        
     Completed reading on 11.07.2024
 22. The Incredible History of the Indian Ocean    
-    Completed on 21.07.2024     
+    Completed on 21.07.2024
+23. Transcript of Jeremy Grantham's Interview By The Great Simplification      
+    Completed reading on 31.07.2024
     
 Partially read pile:
 
