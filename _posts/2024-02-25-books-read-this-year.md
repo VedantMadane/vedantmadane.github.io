@@ -43,8 +43,11 @@ title: Books Read This Year In 2024
     Completed reading on 11.07.2024
 22. The Incredible History of the Indian Ocean    
     Completed on 21.07.2024
-23. [Transcript of Jeremy Grantham's Interview By The Great Simplification](https://static1.squarespace.com/static/61d5bc2bb737636144dc55d0/t/656748784bb83b5952d05d38/1701267595159/TGS+99+Jeremy+Grantham+Transcript.docx.pdf)                
+23. [Transcript of Jeremy Grantham's Interview By The Great Simplification](https://static1.squarespace.com/static/61d5bc2bb737636144dc55d0/t/656748784bb83b5952d05d38/1701267595159/TGS+99+Jeremy+Grantham+Transcript.docx.pdf)                               
     Completed reading on 31.07.2024
+25. The Dictator's Handbook: Why Bad Behaviour Is Almost Always Good Politics
+    Completed reading on 3.08.2024                
+
     
 Partially read pile:
 
