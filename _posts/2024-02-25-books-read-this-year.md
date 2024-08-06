@@ -59,12 +59,11 @@ Partially read pile:
 5. मोपला कांड अर्थात् "मुझे उससे क्या?"
 6. Hints for Self-Culture    
    Read until page 258 of the document or page 249 of the book
-8. The Dictator's Handbook: Why Bad Behaviour Is Almost Always Good Politics       
-   Read until Privatized Tax Collection
+8. Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty                
 9. A Review of the History and Works of the Hindu Mahāsabhā and the Hindu Sangathan Movement      
     Read until page 421 of the document or page 308 of the book
 10. How Prime Ministers Decide
 11. The Two Trillion Dollar Meltdown: Easy Money, High Rollers, and the Great Credit Crash    
-    Read upto The Great Unwinding
+    Read upto The Great Unwinding: Hard landing I: Recession
 12.  
 
