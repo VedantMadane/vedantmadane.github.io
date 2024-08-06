@@ -45,7 +45,7 @@ title: Books Read This Year In 2024
     Completed on 21.07.2024
 23. [Transcript of Jeremy Grantham's Interview By The Great Simplification](https://static1.squarespace.com/static/61d5bc2bb737636144dc55d0/t/656748784bb83b5952d05d38/1701267595159/TGS+99+Jeremy+Grantham+Transcript.docx.pdf)                               
     Completed reading on 31.07.2024
-25. The Dictator's Handbook: Why Bad Behaviour Is Almost Always Good Politics
+25. The Dictator's Handbook: Why Bad Behaviour Is Almost Always Good Politics       
     Completed reading on 3.08.2024                
 
     
@@ -64,4 +64,7 @@ Partially read pile:
 9. A Review of the History and Works of the Hindu Mahāsabhā and the Hindu Sangathan Movement      
     Read until page 421 of the document or page 308 of the book
 10. How Prime Ministers Decide
+11. The Two Trillion Dollar Meltdown: Easy Money, High Rollers, and the Great Credit Crash    
+    Read upto The Great Unwinding
+12.  
 
