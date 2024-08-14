@@ -48,7 +48,9 @@ title: Books Read This Year In 2024
 25. The Dictator's Handbook: Why Bad Behaviour Is Almost Always Good Politics       
     Completed reading on 3.08.2024
 26. A Review of the History and Works of the Hindu Mahāsabhā and the Hindu Sangathan Movement                                      
-    Completed reading on 9.08.2024                                       
+    Completed reading on 9.08.2024
+27. Book of Idols](https://ia903105.us.archive.org/10/items/KitabAlAsnam/Allat.pdf)
+    Completed on 14.08.2024
 
     
 Partially read pile:
