@@ -49,8 +49,10 @@ title: Books Read This Year In 2024
     Completed reading on 3.08.2024
 26. A Review of the History and Works of the Hindu Mahāsabhā and the Hindu Sangathan Movement                                      
     Completed reading on 9.08.2024
-27. [Book of Idols](https://ia903105.us.archive.org/10/items/KitabAlAsnam/Allat.pdf)
+27. [Book of Idols](https://ia903105.us.archive.org/10/items/KitabAlAsnam/Allat.pdf)                          
     Completed on 14.08.2024
+28. The Two Trillion Dollar Meltdown: Easy Money, High Rollers, and the Great Credit Crash                            
+    Completed reading on 15.08.2024
 
     
 Partially read pile:
