@@ -54,7 +54,9 @@ title: Books Read This Year In 2024
 28. The Two Trillion Dollar Meltdown: Easy Money, High Rollers, and the Great Credit Crash                            
     Completed reading on 15.08.2024
 29. Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty            
-    Completed on 21.08.2024         
+    Completed on 21.08.2024
+29. Why Nations Fail: The Origins of Power, Prosperity, and Poverty                                    
+    Completed reading on 02.09.2024      
 
     
 Partially read pile:
