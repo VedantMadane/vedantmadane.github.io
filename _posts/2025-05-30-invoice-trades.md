@@ -8,7 +8,7 @@ Try emailing to support@invoicetrades.com, you will never get a reply. There is 
 
 Annexure 1 mentioned but not attached for security guard company VEN00184 live deal ~4Cr deal ID 729. After that there have been no enterprise invoices uploaded so you cannot discern whether it is a PO/BO (purchase order or bill of materials) or reverse invoice discounting going on. There have been only 731 IDs so far but the website will claim 28000 Ids.
 
-When I asked how many people comprise the credit verification team, I got different numbers every time. Preeti Sahu said 8 in the queries tab, on call Preeti said 4-5 and Saswat Patra said 10 on call. They refrain from communicating in writing and allowing the calls to be recorded.
+When I asked how many people comprise the credit verification team, I got different numbers every time. Pragya Khandelwal said 8 in the queries tab, on call Preeti Sahu said 4-5 and Saswat Patra said 10 on call. They refrain from communicating in writing and from allowing the calls to be recorded.
 
 They hide all deals that have happened before, showing only the last 10. The enterprise and vendor search and dropdowns don't work and there are multiple values for CBRE, Wonder Cement etc. in the Enterprise dropdown.
 
