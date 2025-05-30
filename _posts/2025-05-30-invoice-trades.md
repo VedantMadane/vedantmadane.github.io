@@ -103,6 +103,6 @@ Dear Sir, the invoices are presented as is by masking certain details. Our credi
 Please check deal id 707 and 708 have the same anchor company and amount
 Dear Customer, that was a glitch which we fixed it off already. Regards, team Invoice Trades
 
-
+There is no privacy policy available on https://app.invoicetrades.com/Home/Privacy
 
 [If you still want to invest, use this link to signup](https://app.invoicetrades.com/Customer/Register?Referer=NEHXRSNYBW)
