@@ -103,6 +103,16 @@ Dear Sir, the invoices are presented as is by masking certain details. Our credi
 Please check deal id 707 and 708 have the same anchor company and amount  
 Dear Customer, that was a glitch which we fixed it off already. Regards, team Invoice Trades
 
-There is no privacy policy available on https://app.invoicetrades.com/Home/Privacy
+There is no privacy policy available on https://app.invoicetrades.com/Home/Privacy   
+
+
+tell me more about the deal delayed by three weeks   
+
+The ongoing deals expire on 14-Jun-2025.  
+If I invest now, will the return be calculated from 14th June, today or from the deal start date?   
+Do you give the raised amount to the vendor daily or just once when the deal ends.   
+Example, current deal is from 1st to 14th June but you collect some amount daily from investors.   
+Do you transfer the collected amount to vendor at the deal end date 14th June or on a daily basis or when the deal closes?    
+
 
 [If you still want to invest, use this link to signup](https://app.invoicetrades.com/Customer/Register?Referer=NEHXRSNYBW)
