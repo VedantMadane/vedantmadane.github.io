@@ -9,7 +9,8 @@ jobs:
       # - name: Build the site in the jekyll/builder container
         # run: |
       - name: Upgrade RubyGems
-        run: gem update --system 3.3.22
+        run: |
+          gem update --system 3.3.22
           export JEKYLL_VERSION=3.8
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
