@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vedant Madane - Resume</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            background: white;
+        }
+        
+        .container {
+            max-width: 210mm;
+            margin: 0 auto;
+            background: white;
+            padding: 15mm 12mm;
+        }
+        
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #2c3e50;
+            padding-bottom: 15px;
+        }
+        
+        .profile-img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #2c3e50;
+        }
+        
+        .header-content {
+            flex: 1;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 28px;
+            margin-bottom: 5px;
+            font-weight: 700;
+        }
+        
+        .subtitle {
+            color: #555;
+            font-size: 16px;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        
+        .contact-info {
+            font-size: 11px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .contact-info a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        
+        h2 {
+            color: #2c3e50;
+            font-size: 16px;
+            margin-top: 18px;
+            margin-bottom: 8px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 4px;
+            font-weight: 700;
+        }
+        
+        h3 {
+            color: #2c3e50;
+            font-size: 13px;
+            margin-top: 12px;
+            margin-bottom: 3px;
+            font-weight: 600;
+        }
+        
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 2px;
+        }
+        
+        .company {
+            color: #555;
+            font-size: 11px;
+            font-style: italic;
+        }
+        
+        .date {
+            color: #777;
+            font-size: 10px;
+            font-style: italic;
+        }
+        
+        p, ul {
+            font-size: 11px;
+            margin-bottom: 8px;
+        }
+        
+        ul {
+            margin-left: 18px;
+        }
+        
+        li {
+            margin-bottom: 4px;
+        }
+        
+        .summary {
+            text-align: justify;
+            color: #444;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            font-size: 11px;
+        }
+        
+        .skill-item {
+            display: flex;
+        }
+        
+        .skill-label {
+            font-weight: 600;
+            color: #2c3e50;
+            min-width: 140px;
+        }
+        
+        .skill-value {
+            color: #555;
+        }
+        
+        .project-box {
+            background: #f8f9fa;
+            padding: 10px;
+            border-left: 3px solid #3498db;
+            margin-bottom: 10px;
+        }
+        
+        .project-title {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 12px;
+            margin-bottom: 3px;
+        }
+        
+        .project-subtitle {
+            font-style: italic;
+            color: #666;
+            font-size: 10px;
+            margin-bottom: 5px;
+        }
+        
+        .achievement-item {
+            margin-bottom: 4px;
+            padding-left: 15px;
+            position: relative;
+        }
+        
+        .achievement-item:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #27ae60;
+            font-weight: bold;
+        }
+        
+        @media print {
+            body {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+            
+            .container {
+                padding: 10mm 8mm;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="pic.jpg" class="profile-img" alt="Vedant Madane">
+            <div class="header-content">
+                <h1>VEDANT MADANE</h1>
+                <div class="subtitle">Senior Data Scientist & NLP/LLM Specialist</div>
+                <div class="contact-info">
+                    <strong>Email:</strong> vedantnm@gmail.com | <strong>Location:</strong> Bandra, Mumbai | <strong>Phone:</strong> +91 9321761271<br>
+                    <strong>Portfolio:</strong> <a href="https://vedantmadane.github.io">vedantmadane.github.io</a>
+                </div>
+            </div>
+        </div>
+
+        <h2>PROFESSIONAL SUMMARY</h2>
+        <p class="summary">Seasoned Data Scientist and NLP Engineer with <strong>4+ years of specialized expertise in Large Language Models (LLMs), Natural Language Processing, and Generative AI</strong>. Proven track record in architecting and deploying production-grade NLP solutions, fine-tuning transformer models, and building intelligent document processing systems. Adept at leveraging state-of-the-art language models for business-critical applications including conversational AI, intelligent search, and automated content analysis.</p>
+
+        <h2>PROFESSIONAL EXPERIENCE</h2>
+
+        <div class="job-header">
+            <h3>Senior Project Associate-2 (NLP & Generative AI)</h3>
+            <span class="date">Aug 2024 - Present</span>
+        </div>
+        <div class="company">Maharashtra Knowledge Corporation Limited | Navi Mumbai</div>
+        <ul>
+            <li><strong>Lead NLP architect</strong> for GenAI initiatives, fine-tuning and deploying LLMs (BERT, GPT, T5) and diffusion models for enterprise content generation, achieving 35% improvement in user engagement metrics</li>
+            <li>Architected <strong>conversational AI chatbot</strong> using advanced transformer models and semantic matching algorithms to intelligently recommend 250+ courses based on natural language understanding of candidate profiles and educational backgrounds</li>
+            <li>Designed and implemented <strong>enterprise RAG (Retrieval-Augmented Generation) search solution</strong> using vector databases and embedding models to enable intelligent querying of knowledge bases for investors and customers</li>
+            <li>Developed <strong>custom prompt engineering frameworks</strong> and fine-tuning pipelines for domain-specific LLM applications, reducing inference latency by 40%</li>
+            <li>Led <strong>NLP-driven business intelligence</strong> initiatives that directly supported customer acquisition and engagement strategies through sentiment analysis and intent classification</li>
+        </ul>
+
+        <div class="job-header">
+            <h3>Senior Project Associate-1 (NLP & Document Intelligence)</h3>
+            <span class="date">Aug 2023 - Jul 2024</span>
+        </div>
+        <div class="company">Maharashtra Knowledge Corporation Limited | Navi Mumbai</div>
+        <ul>
+            <li><strong>Spearheaded AI-Powered Marksheet Verification System</strong>: Developed end-to-end NLP pipeline processing 100,000+ academic documents with 94% accuracy using transformer-based classification models
+                <ul style="margin-top: 3px;">
+                    <li>Implemented intelligent OCR with <strong>named entity recognition (NER)</strong> for automatic extraction of student details, grades, and institutional information</li>
+                    <li>Built <strong>cross-referencing validation system</strong> using semantic similarity models to match extracted data against official university records</li>
+                    <li>Created automated <strong>anomaly detection</strong> framework identifying discrepancies and errors in marksheet data</li>
+                    <li>Designed natural language query interface for generating custom student result combinations and reports</li>
+                </ul>
+            </li>
+            <li>Engineered <strong>multi-modal document understanding pipeline</strong> combining computer vision and NLP for certificate authentication, including text extraction, layout analysis, and security feature detection</li>
+            <li>Developed <strong>named entity recognition and information extraction</strong> systems for structured data extraction from unstructured educational documents</li>
+            <li>Implemented face recognition systems with <strong>liveness detection</strong> using deep learning for enhanced authentication security</li>
+        </ul>
+
+        <div class="job-header">
+            <h3>Project Associate (NLP Data Scientist)</h3>
+            <span class="date">Aug 2022 - Jul 2023</span>
+        </div>
+        <div class="company">Maharashtra Knowledge Corporation Limited | Navi Mumbai</div>
+        <ul>
+            <li><strong>Architected Autonomous Log Analyzer & Incident Predictor</strong>: Built offline, open-source AI system for intelligent log analysis and proactive issue prediction
+                <ul style="margin-top: 3px;">
+                    <li>Developed <strong>log parsing and normalization engine</strong> handling both structured (JSON) and unstructured (text) log formats</li>
+                    <li>Implemented <strong>unsupervised anomaly detection</strong> using clustering algorithms and statistical methods for real-time issue identification</li>
+                    <li>Integrated <strong>local LLM (Llama, GPT4All)</strong> for log summarization and natural language explanation generation</li>
+                    <li>Created <strong>feedback loop mechanism</strong> enabling continuous model improvement through user interactions</li>
+                    <li>Built intuitive CLI interface with text/HTML output supporting end-to-end workflow: ingestion → detection → explanation → feedback</li>
+                    <li>Achieved successful deployment across multiple production environments with demonstrable reduction in incident response time</li>
+                </ul>
+            </li>
+            <li>Designed and trained <strong>transformer-based models</strong> for text classification, sentiment analysis, and business forecasting applications</li>
+            <li>Built <strong>scalable NLP pipelines</strong> incorporating tokenization, embedding generation, feature engineering, and model validation</li>
+            <li>Deployed production NLP models to AWS and Azure using containerization (Docker) and CI/CD practices, ensuring 99.9% uptime</li>
+        </ul>
+
+        <div class="job-header">
+            <h3>Project Trainee (NLP & Data Analytics)</h3>
+            <span class="date">Aug 2021 - Jul 2022</span>
+        </div>
+        <div class="company">Maharashtra Knowledge Corporation Limited | Pune</div>
+        <ul>
+            <li>Developed <strong>sentiment analysis models</strong> using BERT and distilBERT for analyzing user feedback across 50,000+ text samples, providing actionable insights for UX improvements</li>
+            <li>Built <strong>automated text analytics workflows</strong> generating comprehensive NLP-driven reports on user engagement patterns and content trends</li>
+            <li>Implemented <strong>multilingual text extraction</strong> systems for ID verification using Tesseract OCR and language detection models</li>
+            <li>Applied <strong>topic modeling and semantic analysis</strong> to educational content, improving content recommendation accuracy by 28%</li>
+            <li>Created <strong>behavioral analytics framework</strong> combining NLP insights with user retention strategies</li>
+        </ul>
+
+        <h2>KEY NLP & LLM PROJECTS</h2>
+
+        <div class="project-box">
+            <div class="project-title">AI-Powered Marksheet Verification System</div>
+            <div class="project-subtitle">Intelligent Document Processing & Validation</div>
+            <ul style="margin-top: 5px; margin-bottom: 5px;">
+                <li>End-to-end NLP solution for automated academic document verification</li>
+                <li><strong>Technologies:</strong> BERT, LayoutLM, Tesseract OCR, Named Entity Recognition, Semantic Similarity</li>
+                <li><strong>Impact:</strong> 90% reduction in manual verification time, 94% accuracy in anomaly detection</li>
+            </ul>
+        </div>
+
+        <div class="project-box">
+            <div class="project-title">Autonomous Log Analyzer & Incident Predictor</div>
+            <div class="project-subtitle">Offline LLM-Powered System Intelligence</div>
+            <ul style="margin-top: 5px; margin-bottom: 5px;">
+                <li>Open-source AI tool for proactive log analysis and issue prediction</li>
+                <li><strong>Technologies:</strong> Local LLMs (Llama/GPT4All), Anomaly Detection, Clustering, Pattern Recognition</li>
+                <li><strong>Impact:</strong> Fully offline solution enabling predictive maintenance and intelligent incident summarization</li>
+            </ul>
+        </div>
+
+        <h2>TECHNICAL SKILLS</h2>
+
+        <div class="skills-grid">
+            <div class="skill-item">
+                <span class="skill-label">NLP & LLM:</span>
+                <span class="skill-value">Transformers, BERT, GPT, T5, LLaMA, Prompt Engineering, Fine-tuning, RAG, Vector Databases, Semantic Search, NER, Sentiment Analysis</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">ML/DL Frameworks:</span>
+                <span class="skill-value">PyTorch, TensorFlow, HuggingFace, spaCy, NLTK, Scikit-learn, Keras, LangChain</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Programming:</span>
+                <span class="skill-value">Python, SQL, JavaScript</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Data Tools:</span>
+                <span class="skill-value">Pandas, NumPy, Matplotlib, Seaborn</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Cloud & Deployment:</span>
+                <span class="skill-value">AWS (SageMaker, S3, Lambda), Azure ML, Docker, FastAPI, Flask, Git</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Vector Databases:</span>
+                <span class="skill-value">Pinecone, ChromaDB</span>
+            </div>
+        </div>
+
+        <h2>EDUCATION & CERTIFICATIONS</h2>
+
+        <div class="job-header">
+            <h3>Bachelor of Engineering - Electronics and Telecommunication</h3>
+            <span class="date">Graduated June 2021</span>
+        </div>
+        <div class="company">University of Mumbai | CGPI: 7.49</div>
+
+        <p style="margin-top: 8px;"><strong>Copyright Registration (2023)</strong> - Programs for Sentiment Analysis and NLP Tasks</p>
+
+        <h2>KEY ACHIEVEMENTS</h2>
+
+        <div class="achievement-item">4+ years specialized experience in NLP, LLMs, and language model fine-tuning across diverse applications</div>
+        <div class="achievement-item">Successfully deployed production-grade LLM applications serving 100,000+ users with 99.9% uptime</div>
+        <div class="achievement-item">Architected enterprise RAG systems and conversational AI solutions driving measurable business impact</div>
+        <div class="achievement-item">Led end-to-end NLP projects from data collection to model deployment, achieving consistent >90% accuracy</div>
+        <div class="achievement-item">Developed offline, open-source AI tools demonstrating expertise in local LLM deployment and optimization</div>
+        <div class="achievement-item">Proven track record in cross-functional collaboration, translating complex NLP solutions into business value</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vedant madane - Resume</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            background: white;
+        }
+        
+        .container {
+            max-width: 210mm;
+            margin: 0 auto;
+            background: white;
+            padding: 15mm 12mm;
+        }
+        
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #2c3e50;
+            padding-bottom: 15px;
+        }
+        
+        .profile-img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #2c3e50;
+        }
+        
+        .header-content {
+            flex: 1;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 28px;
+            margin-bottom: 5px;
+            font-weight: 700;
+            text-transform: lowercase;
+        }
+        
+        .subtitle {
+            color: #555;
+            font-size: 16px;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        
+        .contact-info {
+            font-size: 11px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .contact-info a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        
+        h2 {
+            color: #2c3e50;
+            font-size: 16px;
+            margin-top: 18px;
+            margin-bottom: 8px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 4px;
+            font-weight: 700;
+        }
+        
+        h3 {
+            color: #2c3e50;
+            font-size: 13px;
+            margin-top: 12px;
+            margin-bottom: 3px;
+            font-weight: 600;
+        }
+        
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 2px;
+        }
+        
+        .company {
+            color: #555;
+            font-size: 11px;
+            font-style: italic;
+            margin-bottom: 8px;
+        }
+        
+        .date {
+            color: #777;
+            font-size: 10px;
+            font-style: italic;
+        }
+        
+        .role-group {
+            margin-bottom: 15px;
+        }
+        
+        .role-title {
+            color: #2c3e50;
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+        
+        p, ul {
+            font-size: 11px;
+            margin-bottom: 8px;
+        }
+        
+        ul {
+            margin-left: 18px;
+        }
+        
+        li {
+            margin-bottom: 4px;
+        }
+        
+        .summary {
+            text-align: justify;
+            color: #444;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            font-size: 11px;
+        }
+        
+        .skill-item {
+            display: flex;
+        }
+        
+        .skill-label {
+            font-weight: 600;
+            color: #2c3e50;
+            min-width: 140px;
+        }
+        
+        .skill-value {
+            color: #555;
+        }
+        
+        .project-box {
+            background: #f8f9fa;
+            padding: 10px;
+            border-left: 3px solid #3498db;
+            margin-bottom: 10px;
+        }
+        
+        .project-title {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 12px;
+            margin-bottom: 3px;
+        }
+        
+        .project-subtitle {
+            font-style: italic;
+            color: #666;
+            font-size: 10px;
+            margin-bottom: 5px;
+        }
+        
+        .achievement-item {
+            margin-bottom: 4px;
+            padding-left: 15px;
+            position: relative;
+        }
+        
+        .achievement-item:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #27ae60;
+            font-weight: bold;
+        }
+        
+        @media print {
+            body {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+            
+            .container {
+                padding: 10mm 8mm;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="pic.jpg" class="profile-img" alt="vedant madane">
+            <div class="header-content">
+                <h1>vedant madane</h1>
+                <div class="subtitle">AI Developer | Azure AI & Machine Learning Engineer</div>
+                <div class="contact-info">
+                    <strong>Email:</strong> vedantnm@gmail.com | <strong>Location:</strong> Mumbai | <strong>Phone:</strong> +91 9321761271<br>
+                    <strong>Portfolio:</strong> <a href="https://vedantmadane.github.io">vedantmadane.github.io</a><br>
+                    <strong>Willing to Relocate:</strong> Vadodara
+                </div>
+            </div>
+        </div>
+
+        <h2>PROFESSIONAL SUMMARY</h2>
+        <p class="summary">Motivated AI Developer with <strong>4+ years of software development experience</strong> specializing in building and deploying intelligent AI/ML systems. Hands-on expertise in implementing production-grade AI solutions using <strong>Azure cloud services, Python, and .NET technologies</strong>. Proven track record in developing cloud-native applications, operationalizing AI models, and implementing MLOps pipelines. Strong foundation in <strong>Azure AI services, containerization, and agile development methodologies</strong>. Passionate about leveraging cutting-edge AI technologies to solve real-world enterprise challenges.</p>
+
+        <h2>CORE TECHNICAL EXPERTISE</h2>
+        
+        <div class="skills-grid" style="margin-bottom: 15px;">
+            <div class="skill-item">
+                <span class="skill-label">AI/ML Development:</span>
+                <span class="skill-value">Python, C#, Model Development, Integration, Multi-agent Systems</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Azure AI Services:</span>
+                <span class="skill-value">Azure Machine Learning, Cognitive Services, Azure AI Foundry, Azure OpenAI</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">MLOps & GenAIOps:</span>
+                <span class="skill-value">Model Lifecycle Management, Deployment Pipelines, Versioning, Monitoring</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Cloud Infrastructure:</span>
+                <span class="skill-value">Azure (Compute, Storage, Networking), Microservices, Event-driven Architecture</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Containerization:</span>
+                <span class="skill-value">Docker, Kubernetes, AKS (Azure Kubernetes Service)</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Development Tools:</span>
+                <span class="skill-value">Git, CI/CD, Azure DevOps, Agile Methodologies, REST APIs</span>
+            </div>
+        </div>
+
+        <h2>PROFESSIONAL EXPERIENCE</h2>
+
+        <div class="company"><strong>Maharashtra Knowledge Corporation Limited</strong> | Aug 2021 - Present</div>
+
+        <div class="role-group">
+            <div class="job-header">
+                <div class="role-title">Senior AI Developer - Azure AI & Cloud Solutions</div>
+                <span class="date">Aug 2024 - Present</span>
+            </div>
+            <ul>
+                <li>Developed and integrated <strong>AI/ML models into enterprise applications</strong> using Python and Azure AI services, improving user engagement by 35%</li>
+                <li>Architected <strong>scalable cloud-native AI applications</strong> on Azure platform with focus on performance, reliability, and maintainability using Azure Machine Learning and Cognitive Services</li>
+                <li>Implemented <strong>MLOps and GenAIOps pipelines</strong> for complete model lifecycle management including training, deployment, monitoring, and versioning</li>
+                <li>Built <strong>conversational AI systems</strong> and multi-agent workflows using Azure OpenAI services to match 250+ courses with candidate profiles</li>
+                <li>Collaborated with Systems Architects and cross-functional teams following <strong>agile development cycles</strong> to deliver innovative AI-powered solutions</li>
+                <li>Maintained comprehensive <strong>documentation and traceability</strong> of AI components ensuring code quality through reviews and testing</li>
+                <li>Designed <strong>intelligent workflows</strong> leveraging Azure AI Foundry design areas including application design, data platforms, and grounding data</li>
+            </ul>
+        </div>
+
+        <div class="role-group">
+            <div class="job-header">
+                <div class="role-title">AI/ML Engineer - Azure Cloud & MLOps</div>
+                <span class="date">Aug 2023 - Jul 2024</span>
+            </div>
+            <ul>
+                <li>Implemented <strong>AI/ML models using Python</strong> for processing 100,000+ documents with 94% accuracy, deployed on Azure cloud infrastructure</li>
+                <li>Built <strong>data pipelines and integration frameworks</strong> using REST APIs for seamless AI model integration with enterprise applications</li>
+                <li>Developed <strong>containerized AI solutions</strong> using Docker and deployed on Azure Kubernetes Service (AKS) for scalability and orchestration</li>
+                <li>Participated in <strong>code reviews, testing, and deployment activities</strong> following CI/CD practices and maintaining version control with Git</li>
+                <li>Contributed to <strong>responsible AI practices</strong> ensuring model fairness, transparency, and ethical considerations in deployment</li>
+                <li>Engineered feature extraction pipelines utilizing <strong>Azure Cognitive Services</strong> for OCR, text recognition, and security feature detection</li>
+                <li>Implemented <strong>microservices architecture</strong> for modular AI component deployment with event-driven processing capabilities</li>
+            </ul>
+        </div>
+
+        <div class="role-group">
+            <div class="job-header">
+                <div class="role-title">Software Developer - AI/ML Solutions</div>
+                <span class="date">Aug 2022 - Jul 2023</span>
+            </div>
+            <ul>
+                <li>Designed and developed <strong>AI-enabled applications</strong> using Python and integrated them with Azure cloud services (compute, storage, networking)</li>
+                <li>Built <strong>scalable ML pipelines</strong> incorporating model training, validation, and deployment following MLOps best practices</li>
+                <li>Deployed production models to <strong>Azure and AWS environments</strong> using Docker containers with automated CI/CD pipelines</li>
+                <li>Collaborated with product, engineering, and analytics teams in <strong>agile development environment</strong> to refine AI features and monitor performance</li>
+                <li>Developed <strong>REST APIs</strong> using FastAPI and Flask for AI model serving with proper versioning and documentation</li>
+                <li>Contributed to <strong>continuous improvement initiatives</strong> by staying current with emerging AI technologies and Azure AI advancements</li>
+                <li>Implemented <strong>intelligent testing frameworks</strong> for AI components ensuring reliability and maintainability</li>
+            </ul>
+        </div>
+
+        <div class="role-group">
+            <div class="job-header">
+                <div class="role-title">Associate Developer - Data Analytics & AI</div>
+                <span class="date">Aug 2021 - Jul 2022</span>
+            </div>
+            <ul>
+                <li>Developed <strong>AI/ML solutions using Python</strong> for automated data analysis and intelligent insights generation</li>
+                <li>Built data processing workflows with focus on <strong>software development best practices</strong> including version control and testing</li>
+                <li>Implemented <strong>computer vision models</strong> for ID verification and authentication systems using Azure Cognitive Services</li>
+                <li>Conducted sentiment analysis on user feedback data leveraging <strong>Azure AI Text Analytics</strong> for UX improvements</li>
+                <li>Participated in <strong>agile development sprints</strong> with strong problem-solving approach and excellent team collaboration</li>
+                <li>Created comprehensive documentation and maintained traceability of analytics components</li>
+            </ul>
+        </div>
+
+        <h2>KEY AI/ML PROJECTS</h2>
+
+        <div class="project-box">
+            <div class="project-title">Enterprise AI Document Processing System</div>
+            <div class="project-subtitle">Azure AI-Powered Intelligent Application with MLOps</div>
+            <ul style="margin-top: 5px; margin-bottom: 5px;">
+                <li>Built end-to-end AI application using <strong>Azure Machine Learning and Cognitive Services</strong> processing 100,000+ documents</li>
+                <li>Implemented <strong>MLOps pipeline</strong> with Azure DevOps for model training, testing, deployment, and monitoring</li>
+                <li>Deployed using <strong>Docker containers on AKS</strong> with microservices architecture for scalability</li>
+                <li><strong>Technologies:</strong> Python, Azure ML, Cognitive Services, Docker, Kubernetes, AKS, Azure DevOps, REST APIs</li>
+                <li><strong>Impact:</strong> 94% accuracy, 90% reduction in processing time, scalable cloud-native architecture</li>
+            </ul>
+        </div>
+
+        <div class="project-box">
+            <div class="project-title">Intelligent Log Analyzer with Multi-Agent System</div>
+            <div class="project-subtitle">AI-Powered Real-time Analytics & Predictive Maintenance</div>
+            <ul style="margin-top: 5px; margin-bottom: 5px;">
+                <li>Developed <strong>intelligent workflow system</strong> with multi-agent architecture for proactive issue prediction</li>
+                <li>Integrated AI models using <strong>Python and Azure services</strong> for real-time log analysis and anomaly detection</li>
+                <li>Implemented <strong>data pipelines and integration frameworks</strong> with REST APIs for seamless enterprise integration</li>
+                <li><strong>Technologies:</strong> Python, Azure AI, Docker, CI/CD, Agile Development, Version Control (Git)</li>
+                <li><strong>Impact:</strong> Real-time anomaly detection, predictive maintenance capabilities, enterprise-grade reliability</li>
+            </ul>
+        </div>
+
+        <h2>TECHNICAL SKILLS</h2>
+
+        <div class="skills-grid">
+            <div class="skill-item">
+                <span class="skill-label">Programming Languages:</span>
+                <span class="skill-value">Python (Expert), C#, JavaScript, SQL</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Azure AI Services:</span>
+                <span class="skill-value">Azure Machine Learning, Cognitive Services, Azure OpenAI, Azure AI Foundry</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">ML/DL Frameworks:</span>
+                <span class="skill-value">TensorFlow, PyTorch, Scikit-learn, Keras, Transformers</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">MLOps & GenAIOps:</span>
+                <span class="skill-value">Model Lifecycle Management, MLflow, Azure ML Pipelines, Monitoring, Versioning</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Azure Cloud:</span>
+                <span class="skill-value">Compute, Storage, Networking, Azure Functions, Azure Logic Apps</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Containerization:</span>
+                <span class="skill-value">Docker, Kubernetes, Azure Kubernetes Service (AKS)</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Architecture:</span>
+                <span class="skill-value">Microservices, Event-driven Architecture, Cloud-native Applications</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Development Tools:</span>
+                <span class="skill-value">Git, Azure DevOps, CI/CD, REST APIs, FastAPI, Flask</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Methodologies:</span>
+                <span class="skill-value">Agile, Scrum, Code Reviews, Software Best Practices</span>
+            </div>
+            <div class="skill-item">
+                <span class="skill-label">Data & Integration:</span>
+                <span class="skill-value">Data Pipelines, Integration Frameworks, Pandas, NumPy</span>
+            </div>
+        </div>
+
+        <h2>EDUCATION</h2>
+
+        <div class="job-header">
+            <h3>Bachelor of Engineering - Electronics and Telecommunication</h3>
+            <span class="date">Graduated June 2021</span>
+        </div>
+        <div class="company">University of Mumbai | CGPI: 7.49</div>
+
+        <p style="margin-top: 8px;"><strong>Copyright Registration (2023)</strong> - AI Programs for Sentiment Analysis and NLP Tasks</p>
+
+        <h2>KEY ACHIEVEMENTS & DIFFERENTIATORS</h2>
+
+        <div class="achievement-item">4+ years professional software development experience with demonstrated AI/ML project delivery</div>
+        <div class="achievement-item">Hands-on experience implementing AI/ML models using Python and Azure AI services in production environments</div>
+        <div class="achievement-item">Proven expertise in cloud-native application development with Azure compute, storage, and networking</div>
+        <div class="achievement-item">Strong foundation in MLOps pipelines and responsible AI practices with focus on ethical deployment</div>
+        <div class="achievement-item">Experience with containerization (Docker) and orchestration (Kubernetes, AKS) for scalable deployments</div>
+        <div class="achievement-item">Proficiency in software development best practices including Git version control, CI/CD, and agile methodologies</div>
+        <div class="achievement-item">Demonstrated experience with REST APIs, data pipelines, and integration frameworks for enterprise solutions</div>
+        <div class="achievement-item">Strong problem-solving skills with eagerness to learn and stay current with emerging AI technologies</div>
+        <div class="achievement-item">Excellent communication and collaboration abilities with cross-functional teams</div>
+        <div class="achievement-item">Open to relocation to Vadodara for Fluor Daniel Private Limited opportunity</div>
+    </div>
+</body>
+</html>
