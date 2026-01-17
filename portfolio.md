@@ -530,92 +530,6 @@ full-width: true
 }
 </style>
 
-<div class="portfolio-section">
-  <div class="portfolio-header">
-    <h2>🚀 Featured Projects</h2>
-  </div>
-  
-  <div class="project-grid">
-    <div class="project-card">
-      <h3>महाभारत (Mahābhārata) NLP Pipeline</h3>
-      <p>A comprehensive NLP pipeline for processing and analyzing the Sanskrit epic Mahābhārata. Features text preprocessing, morphological analysis, and semantic search capabilities.</p>
-      <div class="project-tags">
-        <span class="tag">Sanskrit</span>
-        <span class="tag secondary">NLP</span>
-        <span class="tag accent">Python</span>
-      </div>
-      <a href="https://vedantmadane.github.io/maha/poster" class="project-link">
-        View Project →
-      </a>
-    </div>
-    
-    <div class="project-card">
-      <h3>पक्षी (Pakshī) - Bird Identification</h3>
-      <p>An interactive web application for identifying Indian bird species using machine learning. Built with modern web technologies and computer vision models.</p>
-      <div class="project-tags">
-        <span class="tag">ML</span>
-        <span class="tag secondary">Computer Vision</span>
-        <span class="tag accent">JavaScript</span>
-      </div>
-      <a href="https://vedantmadane.github.io/pakshi/" class="project-link">
-        Play Now →
-      </a>
-    </div>
-    
-    <div class="project-card">
-      <h3>Real-time Face Detection</h3>
-      <p>Browser-based multi-face detection system using WebRTC and TensorFlow.js. Detects and tracks multiple faces in real-time with bounding boxes.</p>
-      <div class="project-tags">
-        <span class="tag">TensorFlow.js</span>
-        <span class="tag secondary">WebRTC</span>
-        <span class="tag accent">Real-time</span>
-      </div>
-      <a href="https://vedantmadane.github.io/mkcl/camera/detect/#/" class="project-link">
-        Try Demo →
-      </a>
-    </div>
-    
-    <div class="project-card">
-      <h3>Posture Detection System</h3>
-      <p>AI-powered posture analysis tool that helps users maintain proper sitting posture. Uses pose estimation to provide real-time feedback.</p>
-      <div class="project-tags">
-        <span class="tag">Pose Estimation</span>
-        <span class="tag secondary">AI</span>
-        <span class="tag accent">Health Tech</span>
-      </div>
-      <a href="https://vedantmadane.github.io/mkcl/camera/posture/" class="project-link">
-        Launch App →
-      </a>
-    </div>
-    
-    <div class="project-card">
-      <h3>Telecom Analytics Dashboard</h3>
-      <p>Data visualization dashboard for telecom sector analytics, featuring interactive charts and real-time data processing capabilities.</p>
-      <div class="project-tags">
-        <span class="tag">Data Viz</span>
-        <span class="tag secondary">Analytics</span>
-        <span class="tag accent">Vue.js</span>
-      </div>
-      <a href="https://vedantmadane.github.io/telecom/" class="project-link">
-        Explore →
-      </a>
-    </div>
-    
-    <div class="project-card">
-      <h3>दानव (Dānav) - Sanskrit Game</h3>
-      <p>An educational game that teaches Sanskrit vocabulary through interactive gameplay. Combines language learning with entertainment.</p>
-      <div class="project-tags">
-        <span class="tag">EdTech</span>
-        <span class="tag secondary">Sanskrit</span>
-        <span class="tag accent">Game Dev</span>
-      </div>
-      <a href="https://vedantmadane.github.io/krida/danav/" class="project-link">
-        Play Game →
-      </a>
-    </div>
-  </div>
-</div>
-
 <div class="portfolio-section carousel-section">
   <div class="portfolio-header">
     <h2>✅ Merged Contributions</h2>
@@ -859,6 +773,92 @@ full-width: true
     <div class="stat-item">
       <div class="stat-number">25+</div>
       <div class="stat-label">Repos Contributed</div>
+    </div>
+  </div>
+</div>
+
+<div class="portfolio-section">
+  <div class="portfolio-header">
+    <h2>🚀 Featured Projects</h2>
+  </div>
+  
+  <div class="project-grid">
+    <div class="project-card">
+      <h3>महाभारत (Mahābhārata) NLP Pipeline</h3>
+      <p>A comprehensive NLP pipeline for processing and analyzing the Sanskrit epic Mahābhārata. Features text preprocessing, morphological analysis, and semantic search capabilities.</p>
+      <div class="project-tags">
+        <span class="tag">Sanskrit</span>
+        <span class="tag secondary">NLP</span>
+        <span class="tag accent">Python</span>
+      </div>
+      <a href="https://vedantmadane.github.io/maha/poster" class="project-link">
+        View Project →
+      </a>
+    </div>
+    
+    <div class="project-card">
+      <h3>पक्षी (Pakshī) - Bird Identification</h3>
+      <p>An interactive web application for identifying Indian bird species using machine learning. Built with modern web technologies and computer vision models.</p>
+      <div class="project-tags">
+        <span class="tag">ML</span>
+        <span class="tag secondary">Computer Vision</span>
+        <span class="tag accent">JavaScript</span>
+      </div>
+      <a href="https://vedantmadane.github.io/pakshi/" class="project-link">
+        Play Now →
+      </a>
+    </div>
+    
+    <div class="project-card">
+      <h3>Real-time Face Detection</h3>
+      <p>Browser-based multi-face detection system using WebRTC and TensorFlow.js. Detects and tracks multiple faces in real-time with bounding boxes.</p>
+      <div class="project-tags">
+        <span class="tag">TensorFlow.js</span>
+        <span class="tag secondary">WebRTC</span>
+        <span class="tag accent">Real-time</span>
+      </div>
+      <a href="https://vedantmadane.github.io/mkcl/camera/detect/#/" class="project-link">
+        Try Demo →
+      </a>
+    </div>
+    
+    <div class="project-card">
+      <h3>Posture Detection System</h3>
+      <p>AI-powered posture analysis tool that helps users maintain proper sitting posture. Uses pose estimation to provide real-time feedback.</p>
+      <div class="project-tags">
+        <span class="tag">Pose Estimation</span>
+        <span class="tag secondary">AI</span>
+        <span class="tag accent">Health Tech</span>
+      </div>
+      <a href="https://vedantmadane.github.io/mkcl/camera/posture/" class="project-link">
+        Launch App →
+      </a>
+    </div>
+    
+    <div class="project-card">
+      <h3>Telecom Analytics Dashboard</h3>
+      <p>Data visualization dashboard for telecom sector analytics, featuring interactive charts and real-time data processing capabilities.</p>
+      <div class="project-tags">
+        <span class="tag">Data Viz</span>
+        <span class="tag secondary">Analytics</span>
+        <span class="tag accent">Vue.js</span>
+      </div>
+      <a href="https://vedantmadane.github.io/telecom/" class="project-link">
+        Explore →
+      </a>
+    </div>
+    
+    <div class="project-card">
+      <h3>दानव (Dānav) - Sanskrit Game</h3>
+      <p>An educational game that teaches Sanskrit vocabulary through interactive gameplay. Combines language learning with entertainment.</p>
+      <div class="project-tags">
+        <span class="tag">EdTech</span>
+        <span class="tag secondary">Sanskrit</span>
+        <span class="tag accent">Game Dev</span>
+      </div>
+      <a href="https://vedantmadane.github.io/krida/danav/" class="project-link">
+        Play Game →
+      </a>
     </div>
   </div>
 </div>
