@@ -557,38 +557,56 @@ full-width: true
       </div>
       
       <div class="merged-card">
-        <div class="merged-card-icon">🔑</div>
+        <div class="merged-card-icon">🧪</div>
         <div class="repo-name">
           <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          ipfs/kubo
+          tox-dev/tox
         </div>
-        <h4>Add `ipfs key ls` Alias</h4>
-        <p>Added convenient alias for `ipfs key list` command, improving CLI ergonomics.</p>
+        <h4>Fix misleading ENVDIR reference</h4>
+        <p>Aligned devenv docs with the actual CLI parameter to avoid confusion.</p>
         <div class="merged-card-tags">
-          <span class="merged-tag">Go</span>
+          <span class="merged-tag">Python</span>
+          <span class="merged-tag">Docs</span>
           <span class="merged-tag">CLI</span>
-          <span class="merged-tag">IPFS</span>
         </div>
-        <a href="https://github.com/ipfs/kubo/pull/10977" class="merged-card-link" target="_blank">
-          View PR #10977 →
+        <a href="https://github.com/tox-dev/tox/pull/3670" class="merged-card-link" target="_blank">
+          View PR #3670 →
         </a>
       </div>
-      
+
       <div class="merged-card">
-        <div class="merged-card-icon">⚡</div>
+        <div class="merged-card-icon">🔧</div>
         <div class="repo-name">
           <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          TanStack/query
+          jd/tenacity
         </div>
-        <h4>Fix vue-query queryOptions Return Type</h4>
-        <p>Corrected TypeScript return type inference for queryOptions in Vue Query.</p>
+        <h4>Fix wait_chain docstring syntax</h4>
+        <p>Repaired the example to prevent syntax errors when copied by users.</p>
         <div class="merged-card-tags">
-          <span class="merged-tag">TypeScript</span>
-          <span class="merged-tag">Vue</span>
-          <span class="merged-tag">Types</span>
+          <span class="merged-tag">Python</span>
+          <span class="merged-tag">Docs</span>
+          <span class="merged-tag">Resilience</span>
         </div>
-        <a href="https://github.com/TanStack/query/pull/7925" class="merged-card-link" target="_blank">
-          View PR #7925 →
+        <a href="https://github.com/jd/tenacity/pull/548" class="merged-card-link" target="_blank">
+          View PR #548 →
+        </a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">📦</div>
+        <div class="repo-name">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          pnpm/pnpm
+        </div>
+        <h4>Show workspace versions on mismatch</h4>
+        <p>Improved workspace resolution hints to speed up monorepo troubleshooting.</p>
+        <div class="merged-card-tags">
+          <span class="merged-tag">JavaScript</span>
+          <span class="merged-tag">CLI</span>
+          <span class="merged-tag">Monorepo</span>
+        </div>
+        <a href="https://github.com/pnpm/pnpm/pull/10466" class="merged-card-link" target="_blank">
+          View PR #10466 →
         </a>
       </div>
       
@@ -607,24 +625,6 @@ full-width: true
         </div>
         <a href="https://github.com/meilisearch/meilisearch-rust/pull/772" class="merged-card-link" target="_blank">
           View PR #772 →
-        </a>
-      </div>
-      
-      <div class="merged-card">
-        <div class="merged-card-icon">🎙️</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          common-voice/common-voice
-        </div>
-        <h4>Fix Skip Transition Animation</h4>
-        <p>Resolved UI animation glitch when skipping voice recordings in the contribution flow.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">React</span>
-          <span class="merged-tag">Animation</span>
-          <span class="merged-tag">UX</span>
-        </div>
-        <a href="https://github.com/common-voice/common-voice/pull/1052" class="merged-card-link" target="_blank">
-          View PR #1052 →
         </a>
       </div>
       
@@ -666,38 +666,56 @@ full-width: true
       </div>
       
       <div class="merged-card">
-        <div class="merged-card-icon">🔑</div>
+        <div class="merged-card-icon">🧪</div>
         <div class="repo-name">
           <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          ipfs/kubo
+          tox-dev/tox
         </div>
-        <h4>Add `ipfs key ls` Alias</h4>
-        <p>Added convenient alias for `ipfs key list` command, improving CLI ergonomics.</p>
+        <h4>Fix misleading ENVDIR reference</h4>
+        <p>Aligned devenv docs with the actual CLI parameter to avoid confusion.</p>
         <div class="merged-card-tags">
-          <span class="merged-tag">Go</span>
+          <span class="merged-tag">Python</span>
+          <span class="merged-tag">Docs</span>
           <span class="merged-tag">CLI</span>
-          <span class="merged-tag">IPFS</span>
         </div>
-        <a href="https://github.com/ipfs/kubo/pull/10977" class="merged-card-link" target="_blank">
-          View PR #10977 →
+        <a href="https://github.com/tox-dev/tox/pull/3670" class="merged-card-link" target="_blank">
+          View PR #3670 →
         </a>
       </div>
-      
+
       <div class="merged-card">
-        <div class="merged-card-icon">⚡</div>
+        <div class="merged-card-icon">🔧</div>
         <div class="repo-name">
           <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          TanStack/query
+          jd/tenacity
         </div>
-        <h4>Fix vue-query queryOptions Return Type</h4>
-        <p>Corrected TypeScript return type inference for queryOptions in Vue Query.</p>
+        <h4>Fix wait_chain docstring syntax</h4>
+        <p>Repaired the example to prevent syntax errors when copied by users.</p>
         <div class="merged-card-tags">
-          <span class="merged-tag">TypeScript</span>
-          <span class="merged-tag">Vue</span>
-          <span class="merged-tag">Types</span>
+          <span class="merged-tag">Python</span>
+          <span class="merged-tag">Docs</span>
+          <span class="merged-tag">Resilience</span>
         </div>
-        <a href="https://github.com/TanStack/query/pull/7925" class="merged-card-link" target="_blank">
-          View PR #7925 →
+        <a href="https://github.com/jd/tenacity/pull/548" class="merged-card-link" target="_blank">
+          View PR #548 →
+        </a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">📦</div>
+        <div class="repo-name">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          pnpm/pnpm
+        </div>
+        <h4>Show workspace versions on mismatch</h4>
+        <p>Improved workspace resolution hints to speed up monorepo troubleshooting.</p>
+        <div class="merged-card-tags">
+          <span class="merged-tag">JavaScript</span>
+          <span class="merged-tag">CLI</span>
+          <span class="merged-tag">Monorepo</span>
+        </div>
+        <a href="https://github.com/pnpm/pnpm/pull/10466" class="merged-card-link" target="_blank">
+          View PR #10466 →
         </a>
       </div>
       
@@ -716,24 +734,6 @@ full-width: true
         </div>
         <a href="https://github.com/meilisearch/meilisearch-rust/pull/772" class="merged-card-link" target="_blank">
           View PR #772 →
-        </a>
-      </div>
-      
-      <div class="merged-card">
-        <div class="merged-card-icon">🎙️</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          common-voice/common-voice
-        </div>
-        <h4>Fix Skip Transition Animation</h4>
-        <p>Resolved UI animation glitch when skipping voice recordings in the contribution flow.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">React</span>
-          <span class="merged-tag">Animation</span>
-          <span class="merged-tag">UX</span>
-        </div>
-        <a href="https://github.com/common-voice/common-voice/pull/1052" class="merged-card-link" target="_blank">
-          View PR #1052 →
         </a>
       </div>
       
@@ -759,20 +759,111 @@ full-width: true
   
   <div class="merged-stats">
     <div class="stat-item">
-      <div class="stat-number">6</div>
+      <div class="stat-number">30</div>
       <div class="stat-label">PRs Merged</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">40+</div>
-      <div class="stat-label">PRs Submitted</div>
+      <div class="stat-number">53</div>
+      <div class="stat-label">Ongoing PRs</div>
     </div>
     <div class="stat-item">
       <div class="stat-number">5</div>
       <div class="stat-label">Languages</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">25+</div>
+      <div class="stat-number">80+</div>
       <div class="stat-label">Repos Contributed</div>
+    </div>
+  </div>
+</div>
+
+<div class="portfolio-section carousel-section">
+  <div class="portfolio-header">
+    <h2>🔥 Ongoing Contributions</h2>
+  </div>
+  
+  <div class="carousel-container">
+    <div class="carousel-track" style="animation-duration: 60s;">
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🤖</div>
+        <div class="repo-name" style="color: #ffd93d;">vllm-project/vllm</div>
+        <h4>KV Cache Refactor</h4>
+        <p>Refactoring KV cache updates across attention backends.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">CUDA</span></div>
+        <a href="https://github.com/vllm-project/vllm/pull/32509" class="merged-card-link" style="color: #ffd93d;">View PR #32509 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🧠</div>
+        <div class="repo-name" style="color: #ffd93d;">stanfordnlp/dspy</div>
+        <h4>Cost Tracking</h4>
+        <p>Add cost tracking with budget constraints for LLM calls.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
+        <a href="https://github.com/stanfordnlp/dspy/pull/9207" class="merged-card-link" style="color: #ffd93d;">View PR #9207 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🚀</div>
+        <div class="repo-name" style="color: #ffd93d;">crewAIInc/crewAI</div>
+        <h4>OpenAI Responses API</h4>
+        <p>Add OpenAI Responses API integration with streaming.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
+        <a href="https://github.com/crewAIInc/crewAI/pull/4248" class="merged-card-link" style="color: #ffd93d;">View PR #4248 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🔗</div>
+        <div class="repo-name" style="color: #ffd93d;">langchain-ai/langchain</div>
+        <h4>vLLM Fix</h4>
+        <p>Handle null choices from model_dump() for vLLM compatibility.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">LLM</span></div>
+        <a href="https://github.com/langchain-ai/langchain/pull/34791" class="merged-card-link" style="color: #ffd93d;">View PR #34791 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">⚡</div>
+        <div class="repo-name" style="color: #ffd93d;">vitejs/vite</div>
+        <h4>HTML Path Fix</h4>
+        <p>Handle trailing slash in htmlPath for relative URL pre-transform.</p>
+        <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Build</span></div>
+        <a href="https://github.com/vitejs/vite/pull/21429" class="merged-card-link" style="color: #ffd93d;">View PR #21429 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🐳</div>
+        <div class="repo-name" style="color: #ffd93d;">moby/moby</div>
+        <h4>Goroutine Leak Fix</h4>
+        <p>Fix goroutine leak in TestRingLogger.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Docker</span></div>
+        <a href="https://github.com/moby/moby/pull/51854" class="merged-card-link" style="color: #ffd93d;">View PR #51854 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🐼</div>
+        <div class="repo-name" style="color: #ffd93d;">pandas-dev/pandas</div>
+        <h4>PyArrow Tests</h4>
+        <p>Add test for groupby.var() pyarrow dtype retention.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">Data</span></div>
+        <a href="https://github.com/pandas-dev/pandas/pull/63704" class="merged-card-link" style="color: #ffd93d;">View PR #63704 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🤗</div>
+        <div class="repo-name" style="color: #ffd93d;">huggingface/transformers</div>
+        <h4>MobileNet Fix</h4>
+        <p>Fix MobileNet v1/v2 image processor default interpolation.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">ML</span></div>
+        <a href="https://github.com/huggingface/transformers/pull/43313" class="merged-card-link" style="color: #ffd93d;">View PR #43313 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🦖</div>
+        <div class="repo-name" style="color: #ffd93d;">facebook/docusaurus</div>
+        <h4>MD Links</h4>
+        <p>Add support for Markdown file path links in pages plugin.</p>
+        <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Docs</span></div>
+        <a href="https://github.com/facebook/docusaurus/pull/11666" class="merged-card-link" style="color: #ffd93d;">View PR #11666 →</a>
+      </div>
+      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+        <div class="merged-card-icon">🌬️</div>
+        <div class="repo-name" style="color: #ffd93d;">apache/airflow</div>
+        <h4>E2E Tests</h4>
+        <p>Add E2E tests for Pools and Variables page functionality.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">DevOps</span></div>
+        <a href="https://github.com/apache/airflow/pull/60592" class="merged-card-link" style="color: #ffd93d;">View PR #60592 →</a>
+      </div>
     </div>
   </div>
 </div>
@@ -863,6 +954,7 @@ full-width: true
   </div>
 </div>
 
+<!--
 <div class="portfolio-section">
   <div class="portfolio-header">
     <h2>🌟 Open Source Contributions</h2>
@@ -918,6 +1010,7 @@ full-width: true
     </div>
   </div>
 </div>
+-->
 
 <div class="portfolio-section">
   <div class="portfolio-header">
