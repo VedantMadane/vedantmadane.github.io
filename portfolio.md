@@ -230,23 +230,30 @@ full-width: true
 .quote-section {
   text-align: center;
   padding: 3rem 2rem;
-  background: linear-gradient(135deg, #ff7b00 0%, #e65100 50%, #ffab40 100%);
+  background: linear-gradient(135deg, #c45000 0%, #b34700 50%, #e65100 100%);
   border-radius: 20px;
   margin: 3rem 0;
   color: white;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
 }
 
 .quote-section blockquote {
-  font-size: 1.5rem;
-  font-style: italic;
-  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  font-style: normal;
+  margin-bottom: 1rem;
   border: none;
-  padding: 0;
+  padding: 0.5rem 1rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  letter-spacing: 0.05em;
 }
 
 .quote-section cite {
-  font-size: 0.95rem;
-  opacity: 0.9;
+  font-size: 1rem;
+  opacity: 1;
+  display: block;
+  margin-top: 0.5rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
 
 /* Contact CTA */
