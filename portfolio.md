@@ -555,7 +555,135 @@ full-width: true
     font-size: 2rem;
   }
 }
+/* Card Style Options Preview */
+.style-preview {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 2rem;
+  background: #f8f9fa;
+  border-radius: 16px;
+  margin: 2rem 0;
+}
+
+.style-preview h3 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.preview-card {
+  width: 300px;
+  border-radius: 16px;
+  padding: 1.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.preview-card h5 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(128,128,128,0.3);
+}
+
+/* Option 1: Dark + Orange Accents */
+.preview-card.option1 {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+.preview-card.option1::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #ff7b00 0%, #e65100 50%, #ffab40 100%);
+}
+.preview-card.option1 h5 { color: #ff7b00; border-color: rgba(255,123,0,0.3); }
+.preview-card.option1 .repo { color: #ff7b00; font-size: 0.85rem; margin-bottom: 0.5rem; }
+.preview-card.option1 h4 { color: #ffffff; margin: 0.5rem 0; }
+.preview-card.option1 p { color: #a0aec0; font-size: 0.85rem; }
+.preview-card.option1 .tag { background: rgba(255,123,0,0.2); color: #ffab40; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; display: inline-block; margin: 0.25rem 0.25rem 0.25rem 0; }
+.preview-card.option1 .link { color: #ff7b00; font-size: 0.85rem; text-decoration: none; }
+
+/* Option 2: Light Cream + Dark Text */
+.preview-card.option2 {
+  background: linear-gradient(135deg, #fff8f0 0%, #ffe8d6 100%);
+  border: 1px solid rgba(255,123,0,0.2);
+}
+.preview-card.option2::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #ff7b00 0%, #e65100 100%);
+}
+.preview-card.option2 h5 { color: #e65100; border-color: rgba(230,81,0,0.3); }
+.preview-card.option2 .repo { color: #c45000; font-size: 0.85rem; margin-bottom: 0.5rem; }
+.preview-card.option2 h4 { color: #2c3e50; margin: 0.5rem 0; }
+.preview-card.option2 p { color: #5a6c7d; font-size: 0.85rem; }
+.preview-card.option2 .tag { background: rgba(255,123,0,0.15); color: #c45000; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; display: inline-block; margin: 0.25rem 0.25rem 0.25rem 0; }
+.preview-card.option2 .link { color: #e65100; font-size: 0.85rem; text-decoration: none; }
+
+/* Option 3: Deep Orange Gradient + White Text */
+.preview-card.option3 {
+  background: linear-gradient(135deg, #c45000 0%, #b34700 50%, #e65100 100%);
+  box-shadow: 0 8px 24px rgba(196,80,0,0.3);
+}
+.preview-card.option3::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #ffab40 0%, #ffd93d 100%);
+}
+.preview-card.option3 h5 { color: #ffd93d; border-color: rgba(255,217,61,0.3); }
+.preview-card.option3 .repo { color: #ffd93d; font-size: 0.85rem; margin-bottom: 0.5rem; }
+.preview-card.option3 h4 { color: #ffffff; margin: 0.5rem 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.2); }
+.preview-card.option3 p { color: rgba(255,255,255,0.9); font-size: 0.85rem; }
+.preview-card.option3 .tag { background: rgba(255,255,255,0.2); color: #ffffff; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; display: inline-block; margin: 0.25rem 0.25rem 0.25rem 0; }
+.preview-card.option3 .link { color: #ffd93d; font-size: 0.85rem; text-decoration: none; }
 </style>
+
+<div class="style-preview">
+  <h3>Card Style Options - Pick One</h3>
+  
+  <div class="preview-card option1">
+    <h5>Option 1: Dark + Orange Accents</h5>
+    <div class="repo">OpenHands/OpenHands</div>
+    <h4>Dismissible Error Banner UX</h4>
+    <p>Improved frontend error banner with dismiss and expand functionality.</p>
+    <div><span class="tag">TypeScript</span><span class="tag">React</span></div>
+    <a href="#" class="link">View PR #12354 →</a>
+  </div>
+  
+  <div class="preview-card option2">
+    <h5>Option 2: Light Cream + Dark Text</h5>
+    <div class="repo">OpenHands/OpenHands</div>
+    <h4>Dismissible Error Banner UX</h4>
+    <p>Improved frontend error banner with dismiss and expand functionality.</p>
+    <div><span class="tag">TypeScript</span><span class="tag">React</span></div>
+    <a href="#" class="link">View PR #12354 →</a>
+  </div>
+  
+  <div class="preview-card option3">
+    <h5>Option 3: Deep Orange + White Text</h5>
+    <div class="repo">OpenHands/OpenHands</div>
+    <h4>Dismissible Error Banner UX</h4>
+    <p>Improved frontend error banner with dismiss and expand functionality.</p>
+    <div><span class="tag">TypeScript</span><span class="tag">React</span></div>
+    <a href="#" class="link">View PR #12354 →</a>
+  </div>
+</div>
 
 <div class="portfolio-section carousel-section">
   <div class="portfolio-header">
