@@ -33,7 +33,7 @@ full-width: true
   transform: translateX(-50%);
   width: 60px;
   height: 3px;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(90deg, #ff7b00 0%, #e65100 100%);
   border-radius: 2px;
 }
 
@@ -51,7 +51,7 @@ full-width: true
   padding: 1.5rem;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  border: 1px solid rgba(102, 126, 234, 0.1);
+  border: 1px solid rgba(255, 123, 0, 0.1);
   position: relative;
   overflow: hidden;
 }
@@ -63,12 +63,12 @@ full-width: true
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  background: linear-gradient(90deg, #ff7b00 0%, #e65100 50%, #ffab40 100%);
 }
 
 .project-card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 12px 40px rgba(102, 126, 234, 0.2);
+  box-shadow: 0 12px 40px rgba(255, 123, 0, 0.2);
 }
 
 .project-card h3 {
@@ -93,7 +93,7 @@ full-width: true
 }
 
 .tag {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff7b00 0%, #e65100 100%);
   color: white;
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
@@ -114,14 +114,14 @@ full-width: true
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  color: #667eea;
+  color: #ff7b00;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s;
 }
 
 .project-link:hover {
-  color: #764ba2;
+  color: #e65100;
 }
 
 /* Open Source Contributions */
@@ -139,20 +139,20 @@ full-width: true
   background: #ffffff;
   border-radius: 12px;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
-  border-left: 4px solid #667eea;
+  border-left: 4px solid #ff7b00;
   transition: all 0.3s ease;
 }
 
 .contribution-item:hover {
-  box-shadow: 0 4px 20px rgba(102, 126, 234, 0.15);
-  border-left-color: #764ba2;
+  box-shadow: 0 4px 20px rgba(255, 123, 0, 0.15);
+  border-left-color: #e65100;
 }
 
 .contribution-icon {
   width: 48px;
   height: 48px;
   border-radius: 12px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff7b00 0%, #e65100 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -175,7 +175,7 @@ full-width: true
 }
 
 .contribution-content a {
-  color: #667eea;
+  color: #ff7b00;
   text-decoration: none;
 }
 
@@ -222,7 +222,7 @@ full-width: true
 }
 
 .skill-item:hover {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff7b00 0%, #e65100 100%);
   color: white;
 }
 
@@ -230,7 +230,7 @@ full-width: true
 .quote-section {
   text-align: center;
   padding: 3rem 2rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  background: linear-gradient(135deg, #ff7b00 0%, #e65100 50%, #ffab40 100%);
   border-radius: 20px;
   margin: 3rem 0;
   color: white;
@@ -282,23 +282,23 @@ full-width: true
 }
 
 .cta-btn.primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff7b00 0%, #e65100 100%);
   color: white;
 }
 
 .cta-btn.primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 4px 15px rgba(255, 123, 0, 0.4);
 }
 
 .cta-btn.secondary {
   background: white;
-  color: #667eea;
-  border: 2px solid #667eea;
+  color: #ff7b00;
+  border: 2px solid #ff7b00;
 }
 
 .cta-btn.secondary:hover {
-  background: #667eea;
+  background: #ff7b00;
   color: white;
 }
 
@@ -353,7 +353,7 @@ full-width: true
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(90deg, #00d4aa 0%, #00b4d8 50%, #7209b7 100%);
+  background: linear-gradient(90deg, #00d4aa 0%, #00b4d8 50%, #ff5722 100%);
 }
 
 .merged-card::after {
@@ -478,7 +478,7 @@ full-width: true
   gap: 3rem;
   margin-top: 2rem;
   padding: 1.5rem;
-  background: linear-gradient(135deg, rgba(0, 212, 170, 0.05) 0%, rgba(114, 9, 183, 0.05) 100%);
+  background: linear-gradient(135deg, rgba(0, 212, 170, 0.05) 0%, rgba(255, 87, 34, 0.05) 100%);
   border-radius: 12px;
 }
 
@@ -489,7 +489,7 @@ full-width: true
 .stat-number {
   font-size: 2.5rem;
   font-weight: 700;
-  background: linear-gradient(135deg, #00d4aa 0%, #00b4d8 50%, #7209b7 100%);
+  background: linear-gradient(135deg, #00d4aa 0%, #00b4d8 50%, #ff5722 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
