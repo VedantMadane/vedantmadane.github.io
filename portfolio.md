@@ -183,7 +183,7 @@ full-width: true
   text-decoration: underline;
 }
 
-/* Skills Section */
+/* Skills Section - Option 3: Deep Orange */
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -191,19 +191,26 @@ full-width: true
 }
 
 .skill-category {
-  background: white;
+  background: linear-gradient(135deg, #c45000 0%, #b34700 50%, #e65100 100%);
   border-radius: 12px;
   padding: 1.5rem;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 8px 24px rgba(196, 80, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.skill-category:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(196, 80, 0, 0.4);
 }
 
 .skill-category h4 {
-  color: #2c3e50;
+  color: #ffd93d;
   margin-bottom: 1rem;
   font-size: 1rem;
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
 }
 
 .skill-list {
@@ -213,8 +220,8 @@ full-width: true
 }
 
 .skill-item {
-  background: #f1f3f4;
-  color: #5a6c7d;
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
   padding: 0.35rem 0.75rem;
   border-radius: 6px;
   font-size: 0.85rem;
@@ -222,8 +229,8 @@ full-width: true
 }
 
 .skill-item:hover {
-  background: linear-gradient(135deg, #ff7b00 0%, #e65100 100%);
-  color: white;
+  background: rgba(255, 255, 255, 0.35);
+  color: #ffd93d;
 }
 
 /* Quote section */
@@ -362,15 +369,17 @@ full-width: true
   }
 }
 
+/* Option 3: Deep Orange for Merged Cards */
 .merged-card {
   flex-shrink: 0;
   width: 320px;
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  background: linear-gradient(135deg, #c45000 0%, #b34700 50%, #e65100 100%);
   border-radius: 16px;
   padding: 1.5rem;
   position: relative;
   overflow: hidden;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 8px 24px rgba(196, 80, 0, 0.3);
 }
 
 .merged-card::before {
@@ -380,7 +389,7 @@ full-width: true
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(90deg, #00d4aa 0%, #00b4d8 50%, #ff5722 100%);
+  background: linear-gradient(90deg, #ffab40 0%, #ffd93d 100%);
 }
 
 .merged-card::after {
@@ -388,8 +397,8 @@ full-width: true
   position: absolute;
   top: 12px;
   right: 12px;
-  background: linear-gradient(135deg, #00d4aa 0%, #00b4d8 100%);
-  color: #1a1a2e;
+  background: linear-gradient(135deg, #ffd93d 0%, #ffab40 100%);
+  color: #7a3300;
   font-size: 0.65rem;
   font-weight: 700;
   padding: 0.25rem 0.5rem;
@@ -399,14 +408,14 @@ full-width: true
 
 .merged-card:hover {
   transform: translateY(-4px) scale(1.02);
-  box-shadow: 0 20px 40px rgba(0, 212, 170, 0.2);
+  box-shadow: 0 20px 40px rgba(196, 80, 0, 0.4);
 }
 
 .merged-card-icon {
   width: 50px;
   height: 50px;
   border-radius: 12px;
-  background: linear-gradient(135deg, rgba(0, 212, 170, 0.2) 0%, rgba(0, 180, 216, 0.2) 100%);
+  background: rgba(255, 255, 255, 0.2);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -420,10 +429,11 @@ full-width: true
   font-weight: 600;
   margin: 0 0 0.5rem 0;
   line-height: 1.3;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
 }
 
 .merged-card .repo-name {
-  color: #00d4aa;
+  color: #ffd93d;
   font-size: 0.8rem;
   font-weight: 500;
   margin-bottom: 0.75rem;
@@ -438,7 +448,7 @@ full-width: true
 }
 
 .merged-card p {
-  color: #a0aec0;
+  color: rgba(255, 255, 255, 0.9);
   font-size: 0.85rem;
   line-height: 1.5;
   margin: 0 0 1rem 0;
@@ -452,8 +462,8 @@ full-width: true
 }
 
 .merged-tag {
-  background: rgba(255, 255, 255, 0.1);
-  color: #e2e8f0;
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
   padding: 0.2rem 0.5rem;
   border-radius: 4px;
   font-size: 0.7rem;
@@ -464,7 +474,7 @@ full-width: true
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  color: #00d4aa;
+  color: #ffd93d;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
@@ -472,8 +482,82 @@ full-width: true
 }
 
 .merged-card-link:hover {
-  color: #00b4d8;
+  color: #ffffff;
   gap: 0.6rem;
+}
+
+/* Option 1: Dark + Orange Accents for Ongoing Cards */
+.ongoing-card {
+  flex-shrink: 0;
+  width: 320px;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border-radius: 16px;
+  padding: 1.5rem;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.ongoing-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #ff7b00 0%, #e65100 50%, #ffab40 100%);
+}
+
+.ongoing-card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 20px 40px rgba(255, 123, 0, 0.2);
+}
+
+.ongoing-card .merged-card-icon {
+  background: linear-gradient(135deg, rgba(255, 123, 0, 0.2) 0%, rgba(230, 81, 0, 0.2) 100%);
+}
+
+.ongoing-card h4 {
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  line-height: 1.3;
+}
+
+.ongoing-card .repo-name {
+  color: #ff7b00;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ongoing-card .repo-name svg {
+  width: 14px;
+  height: 14px;
+}
+
+.ongoing-card p {
+  color: #a0aec0;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin: 0 0 1rem 0;
+}
+
+.ongoing-card .merged-tag {
+  background: rgba(255, 123, 0, 0.2);
+  color: #ffab40;
+}
+
+.ongoing-card .merged-card-link {
+  color: #ff7b00;
+}
+
+.ongoing-card .merged-card-link:hover {
+  color: #ffab40;
 }
 
 .carousel-controls {
@@ -495,7 +579,7 @@ full-width: true
 
 .carousel-dot.active,
 .carousel-dot:hover {
-  background: linear-gradient(135deg, #00d4aa 0%, #00b4d8 100%);
+  background: linear-gradient(135deg, #ff7b00 0%, #e65100 100%);
   transform: scale(1.2);
 }
 
@@ -505,7 +589,7 @@ full-width: true
   gap: 3rem;
   margin-top: 2rem;
   padding: 1.5rem;
-  background: linear-gradient(135deg, rgba(0, 212, 170, 0.05) 0%, rgba(255, 87, 34, 0.05) 100%);
+  background: linear-gradient(135deg, rgba(255, 123, 0, 0.05) 0%, rgba(230, 81, 0, 0.08) 100%);
   border-radius: 12px;
 }
 
@@ -516,7 +600,7 @@ full-width: true
 .stat-number {
   font-size: 2.5rem;
   font-weight: 700;
-  background: linear-gradient(135deg, #00d4aa 0%, #00b4d8 50%, #ff5722 100%);
+  background: linear-gradient(135deg, #ff7b00 0%, #e65100 50%, #c45000 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -555,135 +639,7 @@ full-width: true
     font-size: 2rem;
   }
 }
-/* Card Style Options Preview */
-.style-preview {
-  display: flex;
-  gap: 2rem;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 2rem;
-  background: #f8f9fa;
-  border-radius: 16px;
-  margin: 2rem 0;
-}
-
-.style-preview h3 {
-  width: 100%;
-  text-align: center;
-  margin-bottom: 1rem;
-  color: #2c3e50;
-}
-
-.preview-card {
-  width: 300px;
-  border-radius: 16px;
-  padding: 1.5rem;
-  position: relative;
-  overflow: hidden;
-}
-
-.preview-card h5 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid rgba(128,128,128,0.3);
-}
-
-/* Option 1: Dark + Orange Accents */
-.preview-card.option1 {
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-}
-.preview-card.option1::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, #ff7b00 0%, #e65100 50%, #ffab40 100%);
-}
-.preview-card.option1 h5 { color: #ff7b00; border-color: rgba(255,123,0,0.3); }
-.preview-card.option1 .repo { color: #ff7b00; font-size: 0.85rem; margin-bottom: 0.5rem; }
-.preview-card.option1 h4 { color: #ffffff; margin: 0.5rem 0; }
-.preview-card.option1 p { color: #a0aec0; font-size: 0.85rem; }
-.preview-card.option1 .tag { background: rgba(255,123,0,0.2); color: #ffab40; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; display: inline-block; margin: 0.25rem 0.25rem 0.25rem 0; }
-.preview-card.option1 .link { color: #ff7b00; font-size: 0.85rem; text-decoration: none; }
-
-/* Option 2: Light Cream + Dark Text */
-.preview-card.option2 {
-  background: linear-gradient(135deg, #fff8f0 0%, #ffe8d6 100%);
-  border: 1px solid rgba(255,123,0,0.2);
-}
-.preview-card.option2::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, #ff7b00 0%, #e65100 100%);
-}
-.preview-card.option2 h5 { color: #e65100; border-color: rgba(230,81,0,0.3); }
-.preview-card.option2 .repo { color: #c45000; font-size: 0.85rem; margin-bottom: 0.5rem; }
-.preview-card.option2 h4 { color: #2c3e50; margin: 0.5rem 0; }
-.preview-card.option2 p { color: #5a6c7d; font-size: 0.85rem; }
-.preview-card.option2 .tag { background: rgba(255,123,0,0.15); color: #c45000; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; display: inline-block; margin: 0.25rem 0.25rem 0.25rem 0; }
-.preview-card.option2 .link { color: #e65100; font-size: 0.85rem; text-decoration: none; }
-
-/* Option 3: Deep Orange Gradient + White Text */
-.preview-card.option3 {
-  background: linear-gradient(135deg, #c45000 0%, #b34700 50%, #e65100 100%);
-  box-shadow: 0 8px 24px rgba(196,80,0,0.3);
-}
-.preview-card.option3::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, #ffab40 0%, #ffd93d 100%);
-}
-.preview-card.option3 h5 { color: #ffd93d; border-color: rgba(255,217,61,0.3); }
-.preview-card.option3 .repo { color: #ffd93d; font-size: 0.85rem; margin-bottom: 0.5rem; }
-.preview-card.option3 h4 { color: #ffffff; margin: 0.5rem 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.2); }
-.preview-card.option3 p { color: rgba(255,255,255,0.9); font-size: 0.85rem; }
-.preview-card.option3 .tag { background: rgba(255,255,255,0.2); color: #ffffff; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; display: inline-block; margin: 0.25rem 0.25rem 0.25rem 0; }
-.preview-card.option3 .link { color: #ffd93d; font-size: 0.85rem; text-decoration: none; }
 </style>
-
-<div class="style-preview">
-  <h3>Card Style Options - Pick One</h3>
-  
-  <div class="preview-card option1">
-    <h5>Option 1: Dark + Orange Accents</h5>
-    <div class="repo">OpenHands/OpenHands</div>
-    <h4>Dismissible Error Banner UX</h4>
-    <p>Improved frontend error banner with dismiss and expand functionality.</p>
-    <div><span class="tag">TypeScript</span><span class="tag">React</span></div>
-    <a href="#" class="link">View PR #12354 →</a>
-  </div>
-  
-  <div class="preview-card option2">
-    <h5>Option 2: Light Cream + Dark Text</h5>
-    <div class="repo">OpenHands/OpenHands</div>
-    <h4>Dismissible Error Banner UX</h4>
-    <p>Improved frontend error banner with dismiss and expand functionality.</p>
-    <div><span class="tag">TypeScript</span><span class="tag">React</span></div>
-    <a href="#" class="link">View PR #12354 →</a>
-  </div>
-  
-  <div class="preview-card option3">
-    <h5>Option 3: Deep Orange + White Text</h5>
-    <div class="repo">OpenHands/OpenHands</div>
-    <h4>Dismissible Error Banner UX</h4>
-    <p>Improved frontend error banner with dismiss and expand functionality.</p>
-    <div><span class="tag">TypeScript</span><span class="tag">React</span></div>
-    <a href="#" class="link">View PR #12354 →</a>
-  </div>
-</div>
 
 <div class="portfolio-section carousel-section">
   <div class="portfolio-header">
@@ -939,85 +895,85 @@ full-width: true
   
   <div class="carousel-container">
     <div class="carousel-track" style="animation-duration: 60s;">
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🤖</div>
-        <div class="repo-name" style="color: #ffd93d;">vllm-project/vllm</div>
+        <div class="repo-name">vllm-project/vllm</div>
         <h4>KV Cache Refactor</h4>
         <p>Refactoring KV cache updates across attention backends.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">CUDA</span></div>
-        <a href="https://github.com/vllm-project/vllm/pull/32509" class="merged-card-link" style="color: #ffd93d;">View PR #32509 →</a>
+        <a href="https://github.com/vllm-project/vllm/pull/32509" class="merged-card-link">View PR #32509 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🧠</div>
-        <div class="repo-name" style="color: #ffd93d;">stanfordnlp/dspy</div>
+        <div class="repo-name">stanfordnlp/dspy</div>
         <h4>Cost Tracking</h4>
         <p>Add cost tracking with budget constraints for LLM calls.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
-        <a href="https://github.com/stanfordnlp/dspy/pull/9207" class="merged-card-link" style="color: #ffd93d;">View PR #9207 →</a>
+        <a href="https://github.com/stanfordnlp/dspy/pull/9207" class="merged-card-link">View PR #9207 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🚀</div>
-        <div class="repo-name" style="color: #ffd93d;">crewAIInc/crewAI</div>
+        <div class="repo-name">crewAIInc/crewAI</div>
         <h4>OpenAI Responses API</h4>
         <p>Add OpenAI Responses API integration with streaming.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
-        <a href="https://github.com/crewAIInc/crewAI/pull/4248" class="merged-card-link" style="color: #ffd93d;">View PR #4248 →</a>
+        <a href="https://github.com/crewAIInc/crewAI/pull/4248" class="merged-card-link">View PR #4248 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🔗</div>
-        <div class="repo-name" style="color: #ffd93d;">langchain-ai/langchain</div>
+        <div class="repo-name">langchain-ai/langchain</div>
         <h4>vLLM Fix</h4>
         <p>Handle null choices from model_dump() for vLLM compatibility.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">LLM</span></div>
-        <a href="https://github.com/langchain-ai/langchain/pull/34791" class="merged-card-link" style="color: #ffd93d;">View PR #34791 →</a>
+        <a href="https://github.com/langchain-ai/langchain/pull/34791" class="merged-card-link">View PR #34791 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">⚡</div>
-        <div class="repo-name" style="color: #ffd93d;">vitejs/vite</div>
+        <div class="repo-name">vitejs/vite</div>
         <h4>HTML Path Fix</h4>
         <p>Handle trailing slash in htmlPath for relative URL pre-transform.</p>
         <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Build</span></div>
-        <a href="https://github.com/vitejs/vite/pull/21429" class="merged-card-link" style="color: #ffd93d;">View PR #21429 →</a>
+        <a href="https://github.com/vitejs/vite/pull/21429" class="merged-card-link">View PR #21429 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🐳</div>
-        <div class="repo-name" style="color: #ffd93d;">moby/moby</div>
+        <div class="repo-name">moby/moby</div>
         <h4>Goroutine Leak Fix</h4>
         <p>Fix goroutine leak in TestRingLogger.</p>
         <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Docker</span></div>
-        <a href="https://github.com/moby/moby/pull/51854" class="merged-card-link" style="color: #ffd93d;">View PR #51854 →</a>
+        <a href="https://github.com/moby/moby/pull/51854" class="merged-card-link">View PR #51854 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🐼</div>
-        <div class="repo-name" style="color: #ffd93d;">pandas-dev/pandas</div>
+        <div class="repo-name">pandas-dev/pandas</div>
         <h4>PyArrow Tests</h4>
         <p>Add test for groupby.var() pyarrow dtype retention.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">Data</span></div>
-        <a href="https://github.com/pandas-dev/pandas/pull/63704" class="merged-card-link" style="color: #ffd93d;">View PR #63704 →</a>
+        <a href="https://github.com/pandas-dev/pandas/pull/63704" class="merged-card-link">View PR #63704 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🤗</div>
-        <div class="repo-name" style="color: #ffd93d;">huggingface/transformers</div>
+        <div class="repo-name">huggingface/transformers</div>
         <h4>MobileNet Fix</h4>
         <p>Fix MobileNet v1/v2 image processor default interpolation.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">ML</span></div>
-        <a href="https://github.com/huggingface/transformers/pull/43313" class="merged-card-link" style="color: #ffd93d;">View PR #43313 →</a>
+        <a href="https://github.com/huggingface/transformers/pull/43313" class="merged-card-link">View PR #43313 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🦖</div>
-        <div class="repo-name" style="color: #ffd93d;">facebook/docusaurus</div>
+        <div class="repo-name">facebook/docusaurus</div>
         <h4>MD Links</h4>
         <p>Add support for Markdown file path links in pages plugin.</p>
         <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Docs</span></div>
-        <a href="https://github.com/facebook/docusaurus/pull/11666" class="merged-card-link" style="color: #ffd93d;">View PR #11666 →</a>
+        <a href="https://github.com/facebook/docusaurus/pull/11666" class="merged-card-link">View PR #11666 →</a>
       </div>
-      <div class="merged-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);">
+      <div class="ongoing-card">
         <div class="merged-card-icon">🌬️</div>
-        <div class="repo-name" style="color: #ffd93d;">apache/airflow</div>
+        <div class="repo-name">apache/airflow</div>
         <h4>E2E Tests</h4>
         <p>Add E2E tests for Pools and Variables page functionality.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">DevOps</span></div>
-        <a href="https://github.com/apache/airflow/pull/60592" class="merged-card-link" style="color: #ffd93d;">View PR #60592 →</a>
+        <a href="https://github.com/apache/airflow/pull/60592" class="merged-card-link">View PR #60592 →</a>
       </div>
     </div>
   </div>
