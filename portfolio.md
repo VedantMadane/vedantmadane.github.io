@@ -246,6 +246,35 @@ full-width: true
   padding: 0.5rem 1rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   letter-spacing: 0.05em;
+  position: relative;
+  min-height: 2.5em;
+}
+
+.sanskrit-quote {
+  display: block;
+  position: relative;
+}
+
+.quote-sandhi, .quote-pada {
+  position: absolute;
+  left: 0;
+  right: 0;
+  animation: quoteTransition 8s ease-in-out infinite;
+}
+
+.quote-sandhi {
+  animation-delay: 0s;
+}
+
+.quote-pada {
+  animation-delay: 4s;
+  opacity: 0;
+}
+
+@keyframes quoteTransition {
+  0%, 45% { opacity: 1; }
+  50%, 95% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 .quote-section cite {
@@ -1100,8 +1129,9 @@ full-width: true
 </div>
 
 <div class="quote-section">
-  <blockquote>
-    "यदिहास्ति तदन्यत्र यन्नेहास्ति न तत्क्वचित्"
+  <blockquote class="sanskrit-quote">
+    <span class="quote-sandhi">यदिहास्ति तदन्यत्र यन्नेहास्ति न तत्क्वचित्</span>
+    <span class="quote-pada">यत् इह अस्ति तत् अन्यत्र यत् न इह अस्ति न तत् क्वचित्</span>
   </blockquote>
   <cite>— What exists here may be found elsewhere; what does not exist here exists nowhere.</cite>
 </div>
