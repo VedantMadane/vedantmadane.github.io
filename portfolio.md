@@ -255,26 +255,17 @@ full-width: true
   position: relative;
 }
 
-.quote-sandhi, .quote-pada {
-  position: absolute;
-  left: 0;
-  right: 0;
-  animation: quoteTransition 8s ease-in-out infinite;
+.typewriter-text {
+  display: inline-block;
+  border-right: 3px solid white;
+  animation: blink 0.7s step-end infinite;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
-.quote-sandhi {
-  animation-delay: 0s;
-}
-
-.quote-pada {
-  animation-delay: 4s;
-  opacity: 0;
-}
-
-@keyframes quoteTransition {
-  0%, 45% { opacity: 1; }
-  50%, 95% { opacity: 0; }
-  100% { opacity: 1; }
+@keyframes blink {
+  0%, 100% { border-color: white; }
+  50% { border-color: transparent; }
 }
 
 .quote-section cite {
@@ -1130,11 +1121,58 @@ full-width: true
 
 <div class="quote-section">
   <blockquote class="sanskrit-quote">
-    <span class="quote-sandhi">यदिहास्ति तदन्यत्र यन्नेहास्ति न तत्क्वचित्</span>
-    <span class="quote-pada">यत् इह अस्ति तत् अन्यत्र यत् न इह अस्ति न तत् क्वचित्</span>
+    <span class="typewriter-text" id="sanskrit-typewriter"></span>
   </blockquote>
   <cite>— What exists here may be found elsewhere; what does not exist here exists nowhere.</cite>
 </div>
+
+<script>
+(function() {
+  const quotes = [
+    'यत् इह अस्ति तत् अन्यत्र यत् न अस्ति न तत् क्वचित्',
+    'यद् इह अस्ति तद् अन्यत्र यद् न अस्ति न तद् क्वचित्',
+    'यदिह अस्ति तदन्यत्र यद्न अस्ति न तद्क्वचित्',
+    'यदिहास्ति तदन्यत्र यद्नास्ति न तद्क्वचित्'
+  ];
+  
+  let quoteIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+  const element = document.getElementById('sanskrit-typewriter');
+  const typeSpeed = 80;
+  const deleteSpeed = 40;
+  const pauseTime = 2000;
+  
+  function typeWriter() {
+    const currentQuote = quotes[quoteIndex];
+    
+    if (isDeleting) {
+      element.textContent = currentQuote.substring(0, charIndex - 1);
+      charIndex--;
+    } else {
+      element.textContent = currentQuote.substring(0, charIndex + 1);
+      charIndex++;
+    }
+    
+    let delay = isDeleting ? deleteSpeed : typeSpeed;
+    
+    if (!isDeleting && charIndex === currentQuote.length) {
+      delay = pauseTime;
+      isDeleting = true;
+    } else if (isDeleting && charIndex === 0) {
+      isDeleting = false;
+      quoteIndex = (quoteIndex + 1) % quotes.length;
+      delay = 500;
+    }
+    
+    setTimeout(typeWriter, delay);
+  }
+  
+  if (element) {
+    typeWriter();
+  }
+})();
+</script>
 
 <div class="contact-cta">
   <h3>Let's Build Something Together</h3>
