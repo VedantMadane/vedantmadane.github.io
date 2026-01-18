@@ -1135,33 +1135,46 @@ full-width: true
     'यदिहास्ति तदन्यत्र यद्नास्ति न तद्क्वचित्'
   ];
   
+  // Split into grapheme clusters for proper Devanagari handling
+  function toGraphemes(str) {
+    if (typeof Intl !== 'undefined' && Intl.Segmenter) {
+      return [...new Intl.Segmenter().segment(str)].map(s => s.segment);
+    }
+    // Fallback: split by spaces and treat each word as unit
+    return str.split(/(\s+)/).filter(s => s.length > 0);
+  }
+  
   let quoteIndex = 0;
   let charIndex = 0;
   let isDeleting = false;
+  let currentGraphemes = [];
   const element = document.getElementById('sanskrit-typewriter');
-  const typeSpeed = 80;
-  const deleteSpeed = 40;
+  const typeSpeed = 100;
+  const deleteSpeed = 50;
   const pauseTime = 2000;
   
   function typeWriter() {
-    const currentQuote = quotes[quoteIndex];
+    if (currentGraphemes.length === 0) {
+      currentGraphemes = toGraphemes(quotes[quoteIndex]);
+    }
     
     if (isDeleting) {
-      element.textContent = currentQuote.substring(0, charIndex - 1);
       charIndex--;
+      element.textContent = currentGraphemes.slice(0, charIndex).join('');
     } else {
-      element.textContent = currentQuote.substring(0, charIndex + 1);
       charIndex++;
+      element.textContent = currentGraphemes.slice(0, charIndex).join('');
     }
     
     let delay = isDeleting ? deleteSpeed : typeSpeed;
     
-    if (!isDeleting && charIndex === currentQuote.length) {
+    if (!isDeleting && charIndex === currentGraphemes.length) {
       delay = pauseTime;
       isDeleting = true;
     } else if (isDeleting && charIndex === 0) {
       isDeleting = false;
       quoteIndex = (quoteIndex + 1) % quotes.length;
+      currentGraphemes = toGraphemes(quotes[quoteIndex]);
       delay = 500;
     }
     
