@@ -2,6 +2,7 @@
 layout: page
 full-width: true
 ---
+<!-- Note: portfolio.md has title/subtitle for /portfolio URL; this index.md omits them for / landing page -->
 
 <style>
 /* Portfolio-specific styles */
