@@ -13,7 +13,7 @@ author: Vedant Madane
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-  Portfolio: "https://vedantmadane.github.io/portfolio"
+  Blog: "https://vedantmadane.github.io/blog"
   Projects: 
     - Detect Multiple Faces: "https://vedantmadane.github.io/mkcl/camera/detect/#/"
     - Mahābhārata: "https://vedantmadane.github.io/maha/poster"

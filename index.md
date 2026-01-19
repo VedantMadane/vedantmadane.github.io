@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Portfolio
-subtitle: Building bridges between ancient wisdom and modern technology
 full-width: true
 ---
 
