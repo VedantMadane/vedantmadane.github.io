@@ -983,9 +983,9 @@ full-width: true
     <h2>🚀 Featured Projects</h2>
   </div>
   
-  <div class="project-carousal">
-    <div class="carousel-container">
-    <div class="carousel-track" style="animation-duration: 120s;">
+  <div class="project-grid">
+    <!-- <div class="carousel-container">
+    <div class="carousel-track" style="animation-duration: 120s;"> -->
 
             <div class="project-card">
       <h3>दीर्घायु (Dīrghayu) - DNA Analysis</h3>
@@ -1091,7 +1091,7 @@ full-width: true
         Play Now →
       </a>
     </div>
-</div></div>
+<!-- </div></div> -->
   </div>
 </div>
 
