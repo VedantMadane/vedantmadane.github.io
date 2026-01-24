@@ -642,7 +642,7 @@ full-width: true
 
 <div class="portfolio-section carousel-section">
   <div class="portfolio-header">
-    <h2>✅ Merged Contributions</h2>
+    <h2>Merged Contributions</h2>
   </div>
   
   <div class="carousel-container">
@@ -996,17 +996,31 @@ full-width: true
         View Project →
       </a>
     </div>
-    
-    <div class="project-card">
-      <h3>पक्षी (Pakshī) - Bird Identification</h3>
-      <p>An interactive web application for identifying Indian bird species using machine learning. Built with modern web technologies and computer vision models.</p>
+
+            <div class="project-card">
+      <h3>दीर्घायु (Dīrghayu) - DNA Analysis</h3>
+      <p>India-First Longevity Genomics Platform for Whole Genome Analysis with AI-powered health insights.</p>
       <div class="project-tags">
-        <span class="tag">ML</span>
-        <span class="tag secondary">Computer Vision</span>
-        <span class="tag accent">JavaScript</span>
+        <span class="tag">MedTech</span>
+        <span class="tag secondary">Biopython</span>
+        <span class="tag accent">Genomics</span>
+        <span class="tag accent">DNA Mapping and Analysis</span>
       </div>
-      <a href="https://vedantmadane.github.io/pakshi/" class="project-link">
-        Play Now →
+      <a href="https://github.com/VedantMadane/dirghayu" class="project-link">
+        Map My DNA for Hereditary Risks →
+      </a>
+    </div>
+
+        <div class="project-card">
+      <h3>वेदयुत्  (vedyut) - Sanskrit Grammar Parser</h3>
+      <p>High-performance Sanskrit NLP toolkit with Rust core + Python bindings using FastAPI REST API which is LLM-ready.</p>
+      <div class="project-tags">
+        <span class="tag">NLP</span>
+        <span class="tag secondary">Sanskrit</span>
+        <span class="tag accent">Computational Linguistics</span>
+      </div>
+      <a href="https://github.com/VedantMadane/vedyut" class="project-link">
+        Generate Language →
       </a>
     </div>
     
@@ -1062,33 +1076,19 @@ full-width: true
       </a>
     </div>
 
-        <div class="project-card">
-      <h3>दीर्घायु (Dīrghayu) - DNA Analysis</h3>
-      <p>India-First Longevity Genomics Platform for Whole Genome Analysis with AI-powered health insights.</p>
+    <div class="project-card">
+      <h3>पक्षी (Pakshī) - Bird Identification</h3>
+      <p>An interactive web application for identifying Indian bird species using machine learning. Built with modern web technologies and computer vision models.</p>
       <div class="project-tags">
-        <span class="tag">MedTech</span>
-        <span class="tag secondary">Biopython</span>
-        <span class="tag accent">Genomics</span>
-        <span class="tag accent">DNA Mapping and Analysis</span>
+        <span class="tag">ML</span>
+        <span class="tag secondary">Computer Vision</span>
+        <span class="tag accent">JavaScript</span>
       </div>
-      <a href="https://github.com/VedantMadane/dirghayu" class="project-link">
-        Map My DNA for Hreditary Risks →
+      <a href="https://vedantmadane.github.io/pakshi/" class="project-link">
+        Play Now →
       </a>
     </div>
 
-        <div class="project-card">
-      <h3>वेदयुत्  (vedayut) - Sanskrit Grammar Parser</h3>
-      <p>High-performance Sanskrit NLP toolkit with Rust core + Python bindings using FastAPI REST API which is LLM-ready.</p>
-      <div class="project-tags">
-        <span class="tag">NLP</span>
-        <span class="tag secondary">Sanskrit</span>
-        <span class="tag accent">Computational Linguistics</span>
-      </div>
-      <a href="https://github.com/VedantMadane/vedyut" class="project-link">
-        Generate Language →
-      </a>
-    </div>
-    
   </div>
 </div>
 
