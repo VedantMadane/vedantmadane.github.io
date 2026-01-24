@@ -1061,6 +1061,34 @@ full-width: true
         Play Game →
       </a>
     </div>
+
+        <div class="project-card">
+      <h3>दीर्घायु (Dīrghayu) - DNA Analysis</h3>
+      <p>India-First Longevity Genomics Platform for Whole Genome Analysis with AI-powered health insights.</p>
+      <div class="project-tags">
+        <span class="tag">MedTech</span>
+        <span class="tag secondary">Biopython</span>
+        <span class="tag accent">Genomics</span>
+        <span class="tag accent">DNA Mapping and Analysis</span>
+      </div>
+      <a href="https://github.com/VedantMadane/dirghayu" class="project-link">
+        Map My DNA for Hreditary Risks →
+      </a>
+    </div>
+
+        <div class="project-card">
+      <h3>वेदयुत्  (vedayut) - Sanskrit Grammar Parser</h3>
+      <p>High-performance Sanskrit NLP toolkit with Rust core + Python bindings using FastAPI REST API which is LLM-ready.</p>
+      <div class="project-tags">
+        <span class="tag">NLP</span>
+        <span class="tag secondary">Sanskrit</span>
+        <span class="tag accent">Computational Linguistics</span>
+      </div>
+      <a href="https://github.com/VedantMadane/vedyut" class="project-link">
+        Generate Language →
+      </a>
+    </div>
+    
   </div>
 </div>
 
@@ -1272,7 +1300,7 @@ full-width: true
 
 <div class="contact-cta">
   <h3>Let's Build Something Together</h3>
-  <p>Interested in collaborating on open source, NLP, or Sanskrit computational linguistics?</p>
+  <p>Interested in collaborating on open source, NLP or Sanskrit computational linguistics?</p>
   <div class="cta-buttons">
     <a href="https://github.com/VedantMadane" class="cta-btn primary" target="_blank">
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
