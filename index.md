@@ -983,19 +983,9 @@ full-width: true
     <h2>🚀 Featured Projects</h2>
   </div>
   
-  <div class="project-grid">
-    <div class="project-card">
-      <h3>महाभारत (Mahābhārata) NLP Pipeline</h3>
-      <p>A comprehensive NLP pipeline for processing and analyzing the Sanskrit epic Mahābhārata. Features text preprocessing, morphological analysis, and semantic search capabilities.</p>
-      <div class="project-tags">
-        <span class="tag">Sanskrit</span>
-        <span class="tag secondary">NLP</span>
-        <span class="tag accent">Python</span>
-      </div>
-      <a href="https://vedantmadane.github.io/maha/poster" class="project-link">
-        View Project →
-      </a>
-    </div>
+  <div class="project-carousal">
+    <div class="carousel-container">
+    <div class="carousel-track" style="animation-duration: 120s;">
 
             <div class="project-card">
       <h3>दीर्घायु (Dīrghayu) - DNA Analysis</h3>
@@ -1007,7 +997,7 @@ full-width: true
         <span class="tag accent">DNA Mapping and Analysis</span>
       </div>
       <a href="https://github.com/VedantMadane/dirghayu" class="project-link">
-        Map My DNA for Hereditary Risks →
+        Map My DNA for Hereditary Risks
       </a>
     </div>
 
@@ -1021,6 +1011,19 @@ full-width: true
       </div>
       <a href="https://github.com/VedantMadane/vedyut" class="project-link">
         Generate Language →
+      </a>
+    </div>
+
+        <div class="project-card">
+      <h3>महाभारत (Mahābhārata) NLP Pipeline</h3>
+      <p>A comprehensive NLP pipeline for processing and analyzing the Sanskrit epic Mahābhārata. Features text preprocessing, morphological analysis, and semantic search capabilities.</p>
+      <div class="project-tags">
+        <span class="tag">Sanskrit</span>
+        <span class="tag secondary">NLP</span>
+        <span class="tag accent">Python</span>
+      </div>
+      <a href="https://vedantmadane.github.io/maha/poster" class="project-link">
+        View Project →
       </a>
     </div>
     
@@ -1088,7 +1091,7 @@ full-width: true
         Play Now →
       </a>
     </div>
-
+</div></div>
   </div>
 </div>
 
