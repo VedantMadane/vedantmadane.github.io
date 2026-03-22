@@ -1,6 +1,8 @@
 ---
+layout: post 
+subject: The Agentic Śāstra: Architecting Multi-Agent AI in Classical Sanskrit
 ---
-# The Agentic Śāstra: Architecting Multi-Agent AI in Classical Sanskrit
+# 
 
 By Vedant Madane
 
