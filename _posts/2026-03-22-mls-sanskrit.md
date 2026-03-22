@@ -8,7 +8,7 @@ cover-img: https://github-production-user-asset-6210df.s3.amazonaws.com/6527493/
 thumbnail-img: https://github.com/user-attachments/assets/ad521b1b-f519-45bf-af39-c6b4d4eaeaae
 
 share-img: https://github.com/user-attachments/assets/d543f84b-f8b0-4667-95e4-2ff6a75bab7e
-
+tags: [sanskrit]
 ---
 By Vedant Madane
 
