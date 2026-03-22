@@ -1,9 +1,15 @@
 ---
 layout: post 
-title: The Kartṛtantraṃ... Architecting Multi-Agentic AI in Classical Sanskrit
----
-# 
+subject: The Kartṛtantraṃ... Architecting Multi-Agentic AI in Classical Sanskrit
+full-width: true
+subtitle: Use this to find out if you'll like a new movie based on movies you've already watched
+cover-img: <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/5f3abeef-71e1-4e24-bbe2-4216b8b08793" />
 
+thumbnail-img: <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad521b1b-f519-45bf-af39-c6b4d4eaeaae" />
+
+share-img: <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d543f84b-f8b0-4667-95e4-2ff6a75bab7e" />
+
+---
 By Vedant Madane
 
 Modern generative AI and multi-agent systems rely on dependency parsing, retrieval-augmented memory, logical inference, and asynchronous execution. While these concepts feel bleeding-edge, their structural and epistemological foundations were mapped out centuries ago in classical Indian philosophy, linguistics, and mathematics.
