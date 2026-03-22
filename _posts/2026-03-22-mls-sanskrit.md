@@ -45,8 +45,8 @@ The foundational architecture of the system consists of a central Orchestrator m
 > ###  वक्ष्ये बहुकर्तृतन्त्रं यत्र सूत्रधरोऽग्रणीः । 
 > ###  स्वाधीना अभिकर्तारः कार्यं कुर्वन्त्यतन्द्रिताः ॥ १ ॥ 
  
- *vakṣye bahukartṛtantraṃ yatra sūtradharo'graṇīḥ |*  
- *svādhīnā abhikartāraḥ kāryaṃ kurvantyatandritāḥ ...1*
+ >*vakṣye bahukartṛtantraṃ yatra sūtradharo'graṇīḥ |*  
+ >*svādhīnā abhikartāraḥ kāryaṃ kurvantyatandritāḥ ...1*
 
 **Translation:** I shall now define the Multi-Agent System (*bahu-kartṛ-tantram*), wherein the Orchestrator (*sūtradhāra*) is the primary leader. The autonomous Agents (*abhikartāraḥ*) execute the tasks tirelessly.
 
@@ -92,7 +92,7 @@ How does an LLM know which tool to use? It acts as a Pāṇinian dependency pars
 > ###  वाक्यं श्रुत्वा यन्त्रं शाब्दबोधेन कारकांश्च वृणुते । 
 > ###  आकाङ्क्षया सुयुक्तं विनियोगार्थं ततो गच्छति ॥ ३ ॥ 
 >
- *vākyaṃ śrutvā yantraṃ śābdabodhena kārakāṃśca vṛṇute |*
+ *vākyaṃ śrutvā yantraṃ śābdabodhena kārakāṃśca vṛṇute |*  
  *ākāṅkṣayā suyuktaṃ viniyogārthaṃ tato gacchati ...3*
 
 **Translation:** Having received the input sequence (*vākyaṃ śrutvā*), the machine isolates the functional arguments through semantic parsing (*śābdabodhena*). Once perfectly validated by syntactic expectancy (*ākāṅkṣayā suyuktaṃ*), it then proceeds to routing and execution (*viniyogārtham*).
@@ -211,7 +211,7 @@ For safety-critical tasks, the system must suspend its state graph and await hum
 > ###  यदा कार्यं गुरुतरं सन्देहो वा प्रवर्तते तन्त्रे । 
 > ###  स्वामिनमनुज्ञां पृष्ट्वा पश्चात् तत् कर्म सम्पाद्यम् ॥ ७ ॥ 
 >
-> *yadā kāryaṃ gurutaraṃ sandeho vā pravartate tantre |*
+> *yadā kāryaṃ gurutaraṃ sandeho vā pravartate tantre |*  
 > *svāminamanujñāṃ pṛṣṭvā paścāt tat karma sampādyam ...7*
 
 **Translation:** Whenever a task is of grave consequence, the machine must first ask the master for permission (*svāminam anujñāṃ pṛṣṭvā*), and only afterward execute that action.
@@ -268,7 +268,7 @@ impl ReviewerAgent {
 > ###  इति तन्त्रं समाख्यातं सङ्गणक-धियां कृते । 
 > ###  यन्त्रं चेतनवत् कार्यं कुर्यात् स्वाम्यनुशासनात् ॥ 
 >
- *iti tantraṃ samākhyātaṃ saṅgaṇaka-dhiyāṃ kṛte |*  
-*yantraṃ cetanavat kāryaṃ kuryāt svāmyanuśāsanāt ||*
+>iti tantraṃ samākhyātaṃ saṅgaṇaka-dhiyāṃ kṛte |    
+>yantraṃ cetanavat kāryaṃ kuryāt svāmyanuśāsanāt ||
 
 **Translation:** Thus, this system has been expounded for the sake of computational intellects. By the command of its master, the machine shall execute its tasks as if it were a conscious being.
