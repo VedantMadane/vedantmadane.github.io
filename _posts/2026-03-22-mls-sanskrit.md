@@ -44,7 +44,7 @@ The foundational architecture of the system consists of a central Orchestrator m
 
 > ### **वक्ष्ये बहुकर्तृतन्त्रं यत्र सूत्रधरोऽग्रणीः ।**
 > ### **स्वाधीना अभिकर्तारः कार्यं कुर्वन्त्यतन्द्रिताः ॥ १ ॥**
-> 
+ 
  *vakṣye bahukartṛtantraṃ yatra sūtradharo'graṇīḥ |*  
  *svādhīnā abhikartāraḥ kāryaṃ kurvantyatandritāḥ || 1 ||*
 
