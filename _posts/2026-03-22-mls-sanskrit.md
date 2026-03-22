@@ -1,6 +1,6 @@
 ---
 layout: post 
-subject: The Agentic Śāstra: Architecting Multi-Agent AI in Classical Sanskrit
+subject: The Agentic Śāstra... Architecting Multi-Agent AI in Classical Sanskrit
 ---
 # 
 
