@@ -42,8 +42,8 @@ Before defining the architecture, we must establish our terminology, repurposing
 The foundational architecture of the system consists of a central Orchestrator managing multiple specialized Worker Agents. 
 *Meter: Anuṣṭubh (अनुष्टुप्)*
 
-> ### **वक्ष्ये बहुकर्तृतन्त्रं यत्र सूत्रधरोऽग्रणीः ।**
-> ### **स्वाधीना अभिकर्तारः कार्यं कुर्वन्त्यतन्द्रिताः ॥ १ ॥**
+> ###  वक्ष्ये बहुकर्तृतन्त्रं यत्र सूत्रधरोऽग्रणीः । 
+> ###  स्वाधीना अभिकर्तारः कार्यं कुर्वन्त्यतन्द्रिताः ॥ १ ॥ 
  
  *vakṣye bahukartṛtantraṃ yatra sūtradharo'graṇīḥ |*  
  *svādhīnā abhikartāraḥ kāryaṃ kurvantyatandritāḥ || 1 ||*
@@ -64,11 +64,11 @@ struct BahuKartrTantram {
 Agents operate within an asynchronous event loop, constantly reading their Context Window (state) before executing external tools.
 *Meter: Āryā (आर्या)*
 
-> ### **चोदनां प्राप्य यन्त्रं संस्कारैः संवृतं स्वकार्यकरम् ।**
-> ### **करणप्रयोगदक्षं तत् कालचक्रं प्रवर्तते नित्यम् ॥ २ ॥**
+> ###  चोदनां प्राप्य यन्त्रं संस्कारैः संवृतं स्वकार्यकरम् । 
+> ###  करणप्रयोगदक्षं तत् कालचक्रं प्रवर्तते नित्यम् ॥ २ ॥ 
 >
- *codanāṃ prāpya yantraṃ saṃskāraiḥ saṃvṛtaṃ svakāryakaram |*  
- *karaṇaprayogadakṣaṃ tat kālacakraṃ pravartate nityam || 2 ||*
+> codanāṃ prāpya yantraṃ saṃskāraiḥ saṃvṛtaṃ svakāryakaram |  
+> karaṇaprayogadakṣaṃ tat kālacakraṃ pravartate nityam || 2 ||  
 
 **Translation:** Having received the prompt (*codanā*), the machine enveloped by its memory window (*saṃskāra*) executes its inherent task. Proficient in the application of tools (*karaṇa-prayoga*), that asynchronous loop (*kālacakra*) turns continuously.
 
@@ -89,8 +89,8 @@ async fn kalacakram(agent: &Abhikarta, codana: &str) -> Result<(), Error> {
 How does an LLM know which tool to use? It acts as a Pāṇinian dependency parser, extracting function arguments from natural language and validating them against a strict schema (expectancy).
 *Meter: Āryā (आर्या)*
 
-> ### **वाक्यं श्रुत्वा यन्त्रं शाब्दबोधेन कारकांश्च वृणुते ।**
-> ### **आकाङ्क्षया सुयुक्तं विनियोगार्थं ततो गच्छति ॥ ३ ॥**
+> ###  वाक्यं श्रुत्वा यन्त्रं शाब्दबोधेन कारकांश्च वृणुते । 
+> ###  आकाङ्क्षया सुयुक्तं विनियोगार्थं ततो गच्छति ॥ ३ ॥ 
 >
  *vākyaṃ śrutvā yantraṃ śābdabodhena kārakāṃśca vṛṇute |*
  *ākāṅkṣayā suyuktaṃ viniyogārthaṃ tato gacchati || 3 ||*
@@ -115,8 +115,8 @@ fn sabdabodha_validation(json_payload: Value) -> Result<ValidatedArgs, Validatio
 Before routing, the agent must employ the ReAct (Reasoning + Acting) paradigm, utilizing logic to determine its execution path.
 *Meter: Āryā (आर्या)*
 
-> ### **युक्त्या चानुमानेन क्रमशः सञ्चिन्त्य कार्यमार्गमपि ।**
-> ### **पश्चात् करणं वृणुते निर्णयमेति हि यन्त्रबुद्धिः ॥ ४ ॥**
+> ###  युक्त्या चानुमानेन क्रमशः सञ्चिन्त्य कार्यमार्गमपि । 
+> ###  पश्चात् करणं वृणुते निर्णयमेति हि यन्त्रबुद्धिः ॥ ४ ॥ 
 >
  *yuktyā cānumānena kramaśaḥ sañcintya kāryamārgam api |*  
  *paścāt karaṇaṃ vṛṇute nirṇayameti hi yantrabuddhiḥ || 4 ||*
@@ -143,8 +143,8 @@ async fn yukti_reasoning_loop(agent: &Abhikarta) -> Action {
 The Orchestrator breaks down complex prompts, spawning parallel asynchronous tasks, and merging the final outputs.
 *Meter: Āryā (आर्या)*
 
-> ### **युगपद्विविधकार्येषु सूत्रधरो नियुङ्क्ते निजसहायान् ।**
-> ### **प्राप्य फलं सर्वेभ्यः कुरुते सम्यक् समाहारम् ॥ ५ ॥**
+> ###  युगपद्विविधकार्येषु सूत्रधरो नियुङ्क्ते निजसहायान् । 
+> ###  प्राप्य फलं सर्वेभ्यः कुरुते सम्यक् समाहारम् ॥ ५ ॥ 
 >
  *yugapadvividhakāryeṣu sūtradharo niyuṅkte nijasahāyān |*  
  *prāpya phalaṃ sarvebhyaḥ kurute samyak samāhāram || 5 ||*
@@ -208,8 +208,8 @@ async fn execute_with_reflection(agent: &Abhikarta, intent: Action) -> Result<Ob
 For safety-critical tasks, the system must suspend its state graph and await human authorization.
 *Meter: Āryā (आर्या)*
 
-> ### **यदा कार्यं गुरुतरं सन्देहो वा प्रवर्तते तन्त्रे ।**
-> ### **स्वामिनमनुज्ञां पृष्ट्वा पश्चात् तत् कर्म सम्पाद्यम् ॥ ७ ॥**
+> ###  यदा कार्यं गुरुतरं सन्देहो वा प्रवर्तते तन्त्रे । 
+> ###  स्वामिनमनुज्ञां पृष्ट्वा पश्चात् तत् कर्म सम्पाद्यम् ॥ ७ ॥ 
 >
 > *yadā kāryaṃ gurutaraṃ sandeho vā pravartate tantre |*
 > *svāminamanujñāṃ pṛṣṭvā paścāt tat karma sampādyam || 7 ||*
@@ -236,8 +236,8 @@ async fn route_high_risk_task(agent: &Abhikarta, task: Task) -> Result<Observati
 Implementing the Actor Model. Agents do not share memory; they pass messages safely through channels (`mpsc`), mirroring classical philosophical dialogues.
 *Meter: Āryā (आर्या)*
 
-> ### **वक्त्रा प्रेषित-सन्देशं श्रोता गृह्णाति निज-प्रवाहेण ।**
-> ### **अन्योन्यं संवादैः कुर्वन्ति हि कार्यमभिकर्तारः ॥ ८ ॥**
+> ###  वक्त्रा प्रेषित-सन्देशं श्रोता गृह्णाति निज-प्रवाहेण । 
+> ###  अन्योन्यं संवादैः कुर्वन्ति हि कार्यमभिकर्तारः ॥ ८ ॥ 
 >
 *vaktrā preṣita-sandeśaṃ śrotā gṛhṇāti nija-pravāheṇa |*  
 *anyonyaṃ saṃvādaiḥ kurvanti hi kāryam abhikartāraḥ || 8 ||*
@@ -265,8 +265,8 @@ impl ReviewerAgent {
 ## 🪔 Conclusion (उपसंहारः)
 *Meter: Anuṣṭubh (अनुष्टुप्)*
 
-> ### **इति तन्त्रं समाख्यातं सङ्गणक-धियां कृते ।**
-> ### **यन्त्रं चेतनवत् कार्यं कुर्यात् स्वाम्यनुशासनात् ॥**
+> ###  इति तन्त्रं समाख्यातं सङ्गणक-धियां कृते । 
+> ###  यन्त्रं चेतनवत् कार्यं कुर्यात् स्वाम्यनुशासनात् ॥ 
 >
  *iti tantraṃ samākhyātaṃ saṅgaṇaka-dhiyāṃ kṛte |*  
 *yantraṃ cetanavat kāryaṃ kuryāt svāmyanuśāsanāt ||*
