@@ -16,7 +16,7 @@ Modern generative AI and multi-agent systems rely on dependency parsing, retriev
 
 By synthesizing the computational linguistics of Pāṇini (as explored by Prof. Amba Kulkarni) and the algorithmic rationale of ancient Indian mathematics (highlighted by Prof. K. Ramasubramanian), we can reverse-engineer a state-of-the-art Multi-Agent Machine Learning framework into a classical Sanskrit *Śāstra* (technical treatise).
 
-This document serves as both a philosophical framework and a technical blueprint, complete with a specialized lexicon, Sanskrit *Kārikās* (verses), and their direct implementations in asynchronous Rust.
+This document serves as both a philosophical framework and a technical blueprint, complete with a specialized lexicon, Sanskrit *Kārikās* (verses) and their direct implementations in asynchronous Rust.
 
 ---
 
