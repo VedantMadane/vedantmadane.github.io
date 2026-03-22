@@ -3,11 +3,11 @@ layout: post
 subject: The Kartṛtantraṃ... Architecting Multi-Agentic AI in Classical Sanskrit
 full-width: true
 subtitle: Use this to find out if you'll like a new movie based on movies you've already watched
-cover-img: <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/5f3abeef-71e1-4e24-bbe2-4216b8b08793" />
+cover-img: https://github-production-user-asset-6210df.s3.amazonaws.com/6527493/567427832-5f3abeef-71e1-4e24-bbe2-4216b8b08793.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260322T162956Z&X-Amz-Expires=300&X-Amz-Signature=0bf5739335bf7fa0d8ebb51ea8352420383717c3738626e96eb5e1d9a552f15d&X-Amz-SignedHeaders=host
 
-thumbnail-img: <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad521b1b-f519-45bf-af39-c6b4d4eaeaae" />
+thumbnail-img: https://github.com/user-attachments/assets/ad521b1b-f519-45bf-af39-c6b4d4eaeaae
 
-share-img: <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d543f84b-f8b0-4667-95e4-2ff6a75bab7e" />
+share-img: https://github.com/user-attachments/assets/d543f84b-f8b0-4667-95e4-2ff6a75bab7e
 
 ---
 By Vedant Madane
