@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: The Kartṛtantraṃ... Architecting Multi-Agentic AI in Classical Sanskrit
+title: The BahuKartṛTantraṃ... Architecting Multi-Agentic AI in Classical Sanskrit
 full-width: false
 # subtitle: Use this to find out if you'll like a new movie based on movies you've already watched
 cover-img: https://github-production-user-asset-6210df.s3.amazonaws.com/6527493/567427832-5f3abeef-71e1-4e24-bbe2-4216b8b08793.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260322T162956Z&X-Amz-Expires=300&X-Amz-Signature=0bf5739335bf7fa0d8ebb51ea8352420383717c3738626e96eb5e1d9a552f15d&X-Amz-SignedHeaders=host
