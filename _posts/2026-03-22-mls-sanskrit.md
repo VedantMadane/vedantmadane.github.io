@@ -46,7 +46,7 @@ The foundational architecture of the system consists of a central Orchestrator m
 > ###  स्वाधीना अभिकर्तारः कार्यं कुर्वन्त्यतन्द्रिताः ॥ १ ॥ 
  
  *vakṣye bahukartṛtantraṃ yatra sūtradharo'graṇīḥ |*  
- *svādhīnā abhikartāraḥ kāryaṃ kurvantyatandritāḥ || 1 ||*
+ *svādhīnā abhikartāraḥ kāryaṃ kurvantyatandritāḥ ...1*
 
 **Translation:** I shall now define the Multi-Agent System (*bahu-kartṛ-tantram*), wherein the Orchestrator (*sūtradhāra*) is the primary leader. The autonomous Agents (*abhikartāraḥ*) execute the tasks tirelessly.
 
@@ -67,8 +67,8 @@ Agents operate within an asynchronous event loop, constantly reading their Conte
 > ###  चोदनां प्राप्य यन्त्रं संस्कारैः संवृतं स्वकार्यकरम् । 
 > ###  करणप्रयोगदक्षं तत् कालचक्रं प्रवर्तते नित्यम् ॥ २ ॥ 
 >
-> codanāṃ prāpya yantraṃ saṃskāraiḥ saṃvṛtaṃ svakāryakaram |  
-> karaṇaprayogadakṣaṃ tat kālacakraṃ pravartate nityam || 2 ||  
+> *codanāṃ prāpya yantraṃ saṃskāraiḥ saṃvṛtaṃ svakāryakaram |* 
+> *karaṇaprayogadakṣaṃ tat kālacakraṃ pravartate nityam ...2*
 
 **Translation:** Having received the prompt (*codanā*), the machine enveloped by its memory window (*saṃskāra*) executes its inherent task. Proficient in the application of tools (*karaṇa-prayoga*), that asynchronous loop (*kālacakra*) turns continuously.
 
@@ -93,7 +93,7 @@ How does an LLM know which tool to use? It acts as a Pāṇinian dependency pars
 > ###  आकाङ्क्षया सुयुक्तं विनियोगार्थं ततो गच्छति ॥ ३ ॥ 
 >
  *vākyaṃ śrutvā yantraṃ śābdabodhena kārakāṃśca vṛṇute |*
- *ākāṅkṣayā suyuktaṃ viniyogārthaṃ tato gacchati || 3 ||*
+ *ākāṅkṣayā suyuktaṃ viniyogārthaṃ tato gacchati ...3*
 
 **Translation:** Having received the input sequence (*vākyaṃ śrutvā*), the machine isolates the functional arguments through semantic parsing (*śābdabodhena*). Once perfectly validated by syntactic expectancy (*ākāṅkṣayā suyuktaṃ*), it then proceeds to routing and execution (*viniyogārtham*).
 
@@ -119,7 +119,7 @@ Before routing, the agent must employ the ReAct (Reasoning + Acting) paradigm, u
 > ###  पश्चात् करणं वृणुते निर्णयमेति हि यन्त्रबुद्धिः ॥ ४ ॥ 
 >
  *yuktyā cānumānena kramaśaḥ sañcintya kāryamārgam api |*  
- *paścāt karaṇaṃ vṛṇute nirṇayameti hi yantrabuddhiḥ || 4 ||*
+ *paścāt karaṇaṃ vṛṇute nirṇayameti hi yantrabuddhiḥ ...4*
 
 **Translation:** By employing algorithmic rationale and logical inference (*yuktyā cānumānena*), the machine thinks through the execution path step-by-step (*kramaśaḥ sañcintya*). Only afterward does it select the tool (*paścāt karaṇaṃ vṛṇute*); thus does the machine intellect arrive at a decision.
 
@@ -147,7 +147,7 @@ The Orchestrator breaks down complex prompts, spawning parallel asynchronous tas
 > ###  प्राप्य फलं सर्वेभ्यः कुरुते सम्यक् समाहारम् ॥ ५ ॥ 
 >
  *yugapadvividhakāryeṣu sūtradharo niyuṅkte nijasahāyān |*  
- *prāpya phalaṃ sarvebhyaḥ kurute samyak samāhāram || 5 ||*
+ *prāpya phalaṃ sarvebhyaḥ kurute samyak samāhāram ...5*
 
 **Translation:** For various simultaneous tasks (*yugapad-vividha-kāryeṣu*), the Orchestrator delegates to his designated assistants. Having received the results from all of them (*prāpya phalaṃ sarvebhyaḥ*), he executes a perfect synthesis (*kurute samyak samāhāram*).
 
@@ -179,7 +179,7 @@ When a tool throws an error, the system catches the stack trace and reflects upo
 > ### **विमर्शेन पुनः क्षिप्रं यन्त्रं तं दोषमपाकरोति ॥ ६ ॥**
 >
 *kṛte prayoge yadi vā doṣaḥ sañjāyate phale tasya |*  
-*vimarśena punaḥ kṣipraṃ yantraṃ taṃ doṣam apākaroti || 6 ||*
+*vimarśena punaḥ kṣipraṃ yantraṃ taṃ doṣam apākaroti ...6*
 
 **Translation:** If, upon executing a tool, a flaw arises in its result, the machine swiftly removes that error through critical self-reflection (*vimarśena*).
 
@@ -212,7 +212,7 @@ For safety-critical tasks, the system must suspend its state graph and await hum
 > ###  स्वामिनमनुज्ञां पृष्ट्वा पश्चात् तत् कर्म सम्पाद्यम् ॥ ७ ॥ 
 >
 > *yadā kāryaṃ gurutaraṃ sandeho vā pravartate tantre |*
-> *svāminamanujñāṃ pṛṣṭvā paścāt tat karma sampādyam || 7 ||*
+> *svāminamanujñāṃ pṛṣṭvā paścāt tat karma sampādyam ...7*
 
 **Translation:** Whenever a task is of grave consequence, the machine must first ask the master for permission (*svāminam anujñāṃ pṛṣṭvā*), and only afterward execute that action.
 
@@ -240,7 +240,7 @@ Implementing the Actor Model. Agents do not share memory; they pass messages saf
 > ###  अन्योन्यं संवादैः कुर्वन्ति हि कार्यमभिकर्तारः ॥ ८ ॥ 
 >
 *vaktrā preṣita-sandeśaṃ śrotā gṛhṇāti nija-pravāheṇa |*  
-*anyonyaṃ saṃvādaiḥ kurvanti hi kāryam abhikartāraḥ || 8 ||*
+*anyonyaṃ saṃvādaiḥ kurvanti hi kāryam abhikartāraḥ ...8*
 
 **Translation:** The receiver (*śrotā*) grasps the message sent by the speaker (*vaktrā*) through its dedicated channel (*nija-pravāheṇa*). Indeed, the agents accomplish their tasks through mutual dialogue (*saṃvādaiḥ*).
 
