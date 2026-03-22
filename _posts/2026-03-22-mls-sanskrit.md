@@ -12,7 +12,7 @@ share-img: https://github.com/user-attachments/assets/d543f84b-f8b0-4667-95e4-2f
 ---
 By Vedant Madane
 
-Modern generative AI and multi-agent systems rely on dependency parsing, retrieval-augmented memory, logical inference, and asynchronous execution. While these concepts feel bleeding-edge, their structural and epistemological foundations were mapped out centuries ago in classical Indian philosophy, linguistics, and mathematics.
+Modern generative AI and multi-agent systems rely on dependency parsing, retrieval-augmented memory, logical inference, and asynchronous execution. While these concepts feel bleeding-edge, their structural and epistemological foundations were mapped out centuries ago in classical Indian philosophy, linguistics and mathematics.
 
 By synthesizing the computational linguistics of Pāṇini (as explored by Prof. Amba Kulkarni) and the algorithmic rationale of ancient Indian mathematics (highlighted by Prof. K. Ramasubramanian), we can reverse-engineer a state-of-the-art Multi-Agent Machine Learning framework into a classical Sanskrit *Śāstra* (technical treatise).
 
