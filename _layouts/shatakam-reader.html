@@ -1,0 +1,45 @@
+---
+layout: page
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="reader-container">
+  
+  <div class="audio-panel">
+    <audio id="shatakam-audio" controls preload="metadata">
+      <source src="{{ '/assets/audio/shatakam-recitation.mp3' | relative_url }}" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+
+  <div class="verses-wrapper">
+    {% for verse in site.data.shatakam %}
+    <div class="verse-card" data-start="{{ verse.audio_start }}" data-end="{{ verse.audio_end }}">
+      <h3 class="verse-number">Verse {{ verse.number }}</h3>
+      
+      <div class="sanskrit-text">
+        {% for line in verse.sanskrit_lines %}
+          <div class="verse-line">{{ line }}</div>
+        {% endfor %}
+      </div>
+
+      <div class="word-by-word">
+        {% for word in verse.words %}
+          <div class="word-group">
+            <span class="skt">{{ word.s }}</span>
+            <span class="eng">{{ word.m }}</span>
+          </div>
+        {% endfor %}
+      </div>
+
+      <div class="prose-translation">
+        <p><strong>Translation:</strong> {{ verse.translation }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+</div>
+
+<script src="{{ '/assets/js/reader.js' | relative_url }}"></script>
