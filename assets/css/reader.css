@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;700&display=swap');
+
+.reader-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.audio-panel {
+  position: sticky;
+  top: 60px; /* Adjust based on your navbar height */
+  background: var(--body-bg, #fff);
+  padding: 15px 0;
+  z-index: 100;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+}
+
+.verse-card {
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  background: #f9f9f9;
+  transition: all 0.3s ease;
+  border-left: 4px solid transparent;
+}
+
+/* The Glow Effect when audio reaches this verse */
+.verse-card.highlight {
+  background: #fffdf0; /* Soft yellow highlight */
+  border-left: 4px solid #f39c12;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.sanskrit-text {
+  font-family: 'Noto Serif Devanagari', serif;
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Word by Word formatting */
+.word-by-word {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 5px;
+  border: 1px dashed #ddd;
+}
+
+.word-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.word-group .skt {
+  font-family: 'Noto Serif Devanagari', serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.word-group .eng {
+  font-size: 0.85rem;
+  color: #7f8c8d;
+}
+
+.prose-translation {
+  font-style: italic;
+  color: #34495e;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+}
