@@ -67,6 +67,16 @@
   border-left: 4px solid transparent;
 }
 
+.verse-topic {
+  font-family: 'Noto Serif Devanagari', Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-align: center;
+  color: #1a5276;
+  margin: 0.35rem 0 1rem;
+  line-height: 1.45;
+}
+
 /* The Glow Effect when audio reaches this verse */
 .verse-card.highlight {
   background: #fffdf0; /* Soft yellow highlight */

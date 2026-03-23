@@ -37,7 +37,10 @@ layout: page
       </aside>
       {% endif %}
       <h3 class="verse-number">Verse {{ verse.number }}</h3>
-      
+      {% if verse.topic %}
+      <h4 class="verse-topic">{{ verse.topic }}</h4>
+      {% endif %}
+
       <div class="sanskrit-text">
         {% for line in verse.sanskrit_lines %}
           <div class="verse-line">{{ line }}</div>
