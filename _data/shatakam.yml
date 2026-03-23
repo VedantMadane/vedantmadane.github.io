@@ -19,6 +19,14 @@
     Measuring wealth flowing till the great fire, weighted down to this day:
 
     Never acquire parts of the enterprise you would not own in whole.'
+  chapter_title: १. मूल्यपद्धतिः (Mūlya-Paddhati - On Value & Price)
+  chapter_meta:
+    keyword: मूल्य (Mūlya) - Value
+    theme: Intrinsic Value & Price
+    sages: Benjamin Graham & Warren Buffett
+    concepts: Price vs. Value (The shadow vs. the essence), Discounted Cash Flows
+      (Roka-mūlyaṃ), Fractional Ownership (Buying the whole house), The Margin of
+      Safety.
 - number: 2
   audio_start: 0.0
   audio_end: 0.0
@@ -148,6 +156,13 @@
     below. Fools, completely forgetting this inevitable reversal of time, go to their
     ruin, alas! But the truly wise, constantly remembering this eternal wheel, simply
     waits for the right time.
+  chapter_title: २. कालपद्धतिः (Kāla-Paddhati - On Market Cycles)
+  chapter_meta:
+    keyword: काल (Kāla) - Cycles
+    theme: Market Cycles & Time
+    sages: Howard Marks
+    concepts: The Pendulum of Greed and Fear, Mean Reversion (Mādhya-pratyāvartanam),
+      The Illusion of Eternal Growth (Trees do not grow to the sky), Contrarian accumulation.
 - number: 12
   audio_start: 0.0
   audio_end: 0.0
@@ -231,9 +246,9 @@
   - कालं यः खलु वेत्ति सत्यममलं चक्रे च यत्रास्ति सः
   - तेनैवाप्तमिदं महद् धनमहो लोके न नश्यत्यहो ॥ १८ ॥
   words: []
-  prose: Where men enter out of greed, ruin is certain. Time suddenly devours the
+  prose: 'Where men enter out of greed, ruin is certain. Time suddenly devours the
     foolish, maddened by arrogance. But he who knows the pure truth of time and where
-    he stands in the cycle—his great wealth never perishes in this world.
+    he stands in the cycle: his great wealth never perishes in this world.'
 - number: 19
   audio_start: 0.0
   audio_end: 0.0
@@ -270,6 +285,14 @@
   prose: Like a tiny seed planted in the earth that over time takes the form of a
     massive, branching Banyan tree, the daily, hidden accumulation of value builds
     a massive, unshakable treasury for the patient.
+  chapter_title: ३. वृद्धिपद्धतिः (Vṛddhi-Paddhati - On Compounding)
+  chapter_meta:
+    keyword: वृद्धि (Vṛddhi) - Compounding
+    theme: Uninterrupted Growth
+    sages: Warren Buffett & Charlie Munger
+    concepts: The Power of Uninterrupted Time (The Banyan Tree), Reinvestment of Yield
+      (Kāmadhenu), The destructive friction of trading and taxes, Inflation as the
+      hidden moth.
 - number: 22
   audio_start: 0.0
   audio_end: 0.0
@@ -395,6 +418,14 @@
   prose: Just as a blind man joyfully follows another blind man on the path, never
     seeing the wall ahead until he falls into the pit; similarly, men are mesmerized
     purely by rising prices, and the entire confused herd is suddenly destroyed.
+  chapter_title: ४. मूर्खपद्धतिः (Mūrkha-Paddhati - On the Folly of the Crowd)
+  chapter_meta:
+    keyword: मूर्ख (Mūrkha) - Folly
+    theme: The Madness of the Crowd
+    sages: Charles Mackay / Crowd Psychology
+    concepts: The Greater Fool Theory (The Red-Hot Iron Ball), FOMO (The Golden Deer),
+      "This Time is Different" syndrome, Valuing companies on dreams instead of cash
+      flow, Liquidity Traps.
 - number: 32
   audio_start: 0.0
   audio_end: 0.0
@@ -530,6 +561,14 @@
 
     Mastery of what you know is wisdom''s highest peak, ignorance will strip your
     wealth.'
+  chapter_title: ५. स्वरूपपद्धतिः (Svarūpa-Paddhati - On Knowing What You Own)
+  chapter_meta:
+    keyword: स्वरूप (Svarūpa) - True Nature
+    theme: Knowing What You Own
+    sages: Peter Lynch
+    concepts: The Circle of Competence (Sva-dharma), The Economic Moat (Ajeya-Meru),
+      The "Idiot-Proof" Business, Boots on the Ground / Scuttlebutt (Pratyakṣa-pramāṇa),
+      The danger of hidden debt.
 - number: 42
   audio_start: 0.0
   audio_end: 0.0
@@ -738,6 +777,13 @@
     Consider deeply: "How could this nation be utterly ruined?" Then, the wise man
     meticulously avoids all those flaws. The sages call this the gateway of the inverted
     intellect.'
+  chapter_title: ६. विवेकपद्धतिः (Viveka-Paddhati - On Rationality & Mental Models)
+  chapter_meta:
+    keyword: विवेक (Viveka) - Rationality
+    theme: Mental Models & Logic
+    sages: Charlie Munger
+    concepts: The Latticework of Mental Models (Indra-jāla), Inversion (Viparīta-buddhi),
+      Opportunity Cost, Mean Reversion, The 10 Traps of Human Misjudgment.
 - number: 52
   audio_start: 0.0
   audio_end: 0.0
@@ -847,9 +893,9 @@
   - भ्रममिदमहो ज्ञात्वा यो वै विमुञ्चति तामसम्
   - स खलु वणिजां मध्ये श्रेयो लभेत न संशयः ॥ ६० ॥
   words: []
-  prose: Self-interest, ego, delusion, fear, and pride—these tenfold flaws rob the
+  prose: 'Self-interest, ego, delusion, fear, and pride: these tenfold flaws rob the
     body of its intellect. Recognizing this grand illusion, he who abandons darkness
-    will undoubtedly attain the highest good among merchants.
+    will undoubtedly attain the highest good among merchants.'
 - number: 61
   audio_start: 0.0
   audio_end: 0.0
@@ -863,6 +909,13 @@
     If lost, what was earned through the consumption of time does not return easily.
     The first and primary rule for merchants is: Do not make a loss. The second rule
     joyfully repeats the exact same thing to the wise.'
+  chapter_title: ७. आपत्पद्धतिः (Āpad-Paddhati - On Risk Management)
+  chapter_meta:
+    keyword: आपद् (Āpad) - Risk Management
+    theme: Survival & Protection
+    sages: Howard Marks & Benjamin Graham
+    concepts: Rule No. 1 (Never Lose Money), The Math of Recovery, Avoiding the Single
+      Point of Failure (The Multi-hulled Boat), The Theology of Survival over Profit.
 - number: 62
   audio_start: 0.0
   audio_end: 0.0
@@ -992,6 +1045,13 @@
     in a well who sees only a tiny patch of sky. Maddened by his own narrow field,
     he applies his logic everywhere, and through the flaw of his ego, loss is inevitably
     born.
+  chapter_title: ८. अहङ्कारपद्धतिः (Ahaṅkāra-Paddhati - On Ego and Humility)
+  chapter_meta:
+    keyword: अहङ्कार (Ahaṅkāra) - Ego
+    theme: Intellectual Humility
+    sages: Charlie Munger
+    concepts: The Man with a Hammer syndrome, The Folly of Forecasting, Physics Envy
+      (False precision in finance), The supreme power of saying "I do not know."
 - number: 72
   audio_start: 0.0
   audio_end: 0.0
@@ -1103,10 +1163,10 @@
   - स एव वणिजां वरेण्यमुदितः शान्तः स्थिरो निश्चलः
   - तस्मै श्रीगुरवे नमस्तु विमलं प्रज्ञां ददातु स्वयम् ॥ ८० ॥
   words: []
-  prose: He who has not a trace of ego, nor excessive attachment in profit, who knows
-    his own foolishness and the absolute limit of his knowledge—he is declared the
+  prose: 'He who has not a trace of ego, nor excessive attachment in profit, who knows
+    his own foolishness and the absolute limit of his knowledge: he is declared the
     greatest of merchants, peaceful, steady, and immovable. Salutations to that Guru;
-    may He grant us pure rationality.
+    may He grant us pure rationality.'
 - number: 81
   audio_start: 0.0
   audio_end: 0.0
@@ -1119,6 +1179,14 @@
   prose: Like the mythical swan separating milk from water, the wise merchant drinks
     only the truth hidden in the financial reports. He abandons all false promoter
     narratives from afar; without the search for truth, no investor ever profits.
+  chapter_title: ९. साधनपद्धतिः (Sādhana-Paddhati - On the Discipline of Research)
+  chapter_meta:
+    keyword: साधन (Sādhana) - Discipline
+    theme: The Process of Research
+    sages: Philip Fisher & Peter Lynch
+    concepts: Independent Verification (Haṁsa-nyāya / Separating milk from water),
+      Reading the fine print, Discarding Wall Street promoters, The pairing of intellect
+      and stomach (emotional fortitude).
 - number: 82
   audio_start: 0.0
   audio_end: 0.0
@@ -1237,9 +1305,17 @@
   - दास्यं यत्र न विद्यते खलु नृणां स्वाधीनता वर्तते
   - तदेवोन्मदवित्तलाभमफलं लोके विदुः पण्डिताः ॥ ९१ ॥
   words: []
-  prose: Wealth is not meant merely for consumption; the wise man saves it for the
-    sake of independence. Where there is no servitude and one remains one's own master—that
-    is the only true fruit of wealth.
+  prose: 'Wealth is not meant merely for consumption; the wise man saves it for the
+    sake of independence. Where there is no servitude and one remains one''s own master:
+    that is the only true fruit of wealth.'
+  chapter_title: १०. फलपद्धतिः (Phala-Paddhati - The Pathway of Results)
+  chapter_meta:
+    keyword: फल (Phala) - Results
+    theme: The Ultimate Fruit of Wealth
+    synthesis: The ultimate goal of capital allocation
+    concepts: Reclaiming your own time (Kāla-dhana), The logic of "Enough" (Paryāptam),
+      The power to walk away, The Sthitaprajña (Equanimous) Investor, Financial Independence
+      (Svatantratā).
 - number: 92
   audio_start: 0.0
   audio_end: 0.0
@@ -1251,7 +1327,7 @@
   words: []
   prose: Where there is no honor and only excessive greed, the courageous investor
     stays far away. Those few sages know that the ultimate wealth is the ability to
-    walk away—for without the power to say 'no,' no work remains pure.
+    walk away; for without the power to say 'no,' no work remains pure.
 - number: 93
   audio_start: 0.0
   audio_end: 0.0
@@ -1322,9 +1398,9 @@
   - एषां सम्मतमत्र नीतिशतकं मूल्यप्रधानं शुभं
   - यस्तु पठेत् प्रतिवासरं स हि लभेत् सिद्धिं परां वै ध्रुवम् ॥ ९८ ॥
   words: []
-  prose: Munger the thinker, Buffett the knower of essence, Marks the observer of
-    cycles, and Lynch the master of his craft—this Nīti-Śatakam, centered on value
-    and approved by their wisdom, brings certain success to whoever reads it daily.
+  prose: 'Munger the thinker, Buffett the knower of essence, Marks the observer of
+    cycles, and Lynch the master of his craft: this Nīti-Śatakam, centered on value
+    and approved by their wisdom, brings certain success to whoever reads it daily.'
 - number: 99
   audio_start: 0.0
   audio_end: 0.0
@@ -1334,10 +1410,10 @@
   - स्वातन्त्रं च विवेकशुद्धमनसं शान्तिं च नित्यं लभेत्
   - इति मत्वा निगद्यते विजयिनः पन्था हि तत्वार्थदः ॥ ९९ ॥
   words: []
-  prose: These hundred verses, filled with essence and approved by the wise, have
+  prose: 'These hundred verses, filled with essence and approved by the wise, have
     been composed through a careful meditation on Value. May one find independence,
-    a pure rational mind, and eternal peace—this is the path of the victor that reveals
-    the truth of wealth.
+    a pure rational mind, and eternal peace: this is the path of the victor that reveals
+    the truth of wealth.'
 - number: 100
   audio_start: 0.0
   audio_end: 0.0
@@ -1347,7 +1423,7 @@
   - तेनैव प्रेरितो ह्ययं कृतमिह ग्रन्थः सुबुद्ध्या सदा
   - मूल्यनीतिशतकं समर्प्यत इह तस्यैव पादद्वये ॥ १०० ॥
   words: []
-  prose: To Him who joyfully taught the qualities of the Sthitaprajña to Arjuna on
-    the ancient battlefield—to that Lord Vāsudeva, I bow. Inspired by Him, this work
+  prose: 'To Him who joyfully taught the qualities of the Sthitaprajña to Arjuna on
+    the ancient battlefield: to that Lord Vāsudeva, I bow. Inspired by Him, this work
     has been completed with a clear mind; this Mūlya-Nīti-Śatakam is now offered at
-    His two feet.
+    His two feet.'

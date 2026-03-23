@@ -8,6 +8,137 @@ RAW_TXT_PATH = ROOT / "shatakam_raw.txt"
 ENGLISH_TXT_PATH = ROOT / "english.txt"
 OUT_YML_PATH = ROOT / "_data" / "shatakam.yml"
 
+# First verse of each paddhati (section): chapter_title + chapter_meta for the reader layout.
+CHAPTER_HEADERS: dict[int, dict] = {
+    1: {
+        "chapter_title": "१. मूल्यपद्धतिः (Mūlya-Paddhati - On Value & Price)",
+        "chapter_meta": {
+            "keyword": "मूल्य (Mūlya) - Value",
+            "theme": "Intrinsic Value & Price",
+            "sages": "Benjamin Graham & Warren Buffett",
+            "concepts": (
+                "Price vs. Value (The shadow vs. the essence), Discounted Cash Flows "
+                "(Roka-mūlyaṃ), Fractional Ownership (Buying the whole house), "
+                "The Margin of Safety."
+            ),
+        },
+    },
+    11: {
+        "chapter_title": "२. कालपद्धतिः (Kāla-Paddhati - On Market Cycles)",
+        "chapter_meta": {
+            "keyword": "काल (Kāla) - Cycles",
+            "theme": "Market Cycles & Time",
+            "sages": "Howard Marks",
+            "concepts": (
+                "The Pendulum of Greed and Fear, Mean Reversion (Mādhya-pratyāvartanam), "
+                "The Illusion of Eternal Growth (Trees do not grow to the sky), "
+                "Contrarian accumulation."
+            ),
+        },
+    },
+    21: {
+        "chapter_title": "३. वृद्धिपद्धतिः (Vṛddhi-Paddhati - On Compounding)",
+        "chapter_meta": {
+            "keyword": "वृद्धि (Vṛddhi) - Compounding",
+            "theme": "Uninterrupted Growth",
+            "sages": "Warren Buffett & Charlie Munger",
+            "concepts": (
+                "The Power of Uninterrupted Time (The Banyan Tree), Reinvestment of Yield "
+                "(Kāmadhenu), The destructive friction of trading and taxes, "
+                "Inflation as the hidden moth."
+            ),
+        },
+    },
+    31: {
+        "chapter_title": "४. मूर्खपद्धतिः (Mūrkha-Paddhati - On the Folly of the Crowd)",
+        "chapter_meta": {
+            "keyword": "मूर्ख (Mūrkha) - Folly",
+            "theme": "The Madness of the Crowd",
+            "sages": "Charles Mackay / Crowd Psychology",
+            "concepts": (
+                "The Greater Fool Theory (The Red-Hot Iron Ball), FOMO (The Golden Deer), "
+                "\"This Time is Different\" syndrome, Valuing companies on dreams instead of "
+                "cash flow, Liquidity Traps."
+            ),
+        },
+    },
+    41: {
+        "chapter_title": "५. स्वरूपपद्धतिः (Svarūpa-Paddhati - On Knowing What You Own)",
+        "chapter_meta": {
+            "keyword": "स्वरूप (Svarūpa) - True Nature",
+            "theme": "Knowing What You Own",
+            "sages": "Peter Lynch",
+            "concepts": (
+                "The Circle of Competence (Sva-dharma), The Economic Moat (Ajeya-Meru), "
+                "The \"Idiot-Proof\" Business, Boots on the Ground / Scuttlebutt "
+                "(Pratyakṣa-pramāṇa), The danger of hidden debt."
+            ),
+        },
+    },
+    51: {
+        "chapter_title": "६. विवेकपद्धतिः (Viveka-Paddhati - On Rationality & Mental Models)",
+        "chapter_meta": {
+            "keyword": "विवेक (Viveka) - Rationality",
+            "theme": "Mental Models & Logic",
+            "sages": "Charlie Munger",
+            "concepts": (
+                "The Latticework of Mental Models (Indra-jāla), Inversion (Viparīta-buddhi), "
+                "Opportunity Cost, Mean Reversion, The 10 Traps of Human Misjudgment."
+            ),
+        },
+    },
+    61: {
+        "chapter_title": "७. आपत्पद्धतिः (Āpad-Paddhati - On Risk Management)",
+        "chapter_meta": {
+            "keyword": "आपद् (Āpad) - Risk Management",
+            "theme": "Survival & Protection",
+            "sages": "Howard Marks & Benjamin Graham",
+            "concepts": (
+                "Rule No. 1 (Never Lose Money), The Math of Recovery, Avoiding the Single "
+                "Point of Failure (The Multi-hulled Boat), The Theology of Survival over Profit."
+            ),
+        },
+    },
+    71: {
+        "chapter_title": "८. अहङ्कारपद्धतिः (Ahaṅkāra-Paddhati - On Ego and Humility)",
+        "chapter_meta": {
+            "keyword": "अहङ्कार (Ahaṅkāra) - Ego",
+            "theme": "Intellectual Humility",
+            "sages": "Charlie Munger",
+            "concepts": (
+                "The Man with a Hammer syndrome, The Folly of Forecasting, Physics Envy "
+                "(False precision in finance), The supreme power of saying \"I do not know.\""
+            ),
+        },
+    },
+    81: {
+        "chapter_title": "९. साधनपद्धतिः (Sādhana-Paddhati - On the Discipline of Research)",
+        "chapter_meta": {
+            "keyword": "साधन (Sādhana) - Discipline",
+            "theme": "The Process of Research",
+            "sages": "Philip Fisher & Peter Lynch",
+            "concepts": (
+                "Independent Verification (Haṁsa-nyāya / Separating milk from water), "
+                "Reading the fine print, Discarding Wall Street promoters, "
+                "The pairing of intellect and stomach (emotional fortitude)."
+            ),
+        },
+    },
+    91: {
+        "chapter_title": "१०. फलपद्धतिः (Phala-Paddhati - The Pathway of Results)",
+        "chapter_meta": {
+            "keyword": "फल (Phala) - Results",
+            "theme": "The Ultimate Fruit of Wealth",
+            "synthesis": "The ultimate goal of capital allocation",
+            "concepts": (
+                "Reclaiming your own time (Kāla-dhana), The logic of \"Enough\" (Paryāptam), "
+                "The power to walk away, The Sthitaprajña (Equanimous) Investor, "
+                "Financial Independence (Svatantratā)."
+            ),
+        },
+    },
+}
+
 _DEV_TO_ASCII = str.maketrans("०१२३४५६७८९", "0123456789")
 
 
@@ -131,6 +262,11 @@ def generate_shatakam_yaml() -> None:
         }
         if eng["poetic"]:
             entry["poetic"] = eng["poetic"]
+
+        ch = CHAPTER_HEADERS.get(n)
+        if ch:
+            entry["chapter_title"] = ch["chapter_title"]
+            entry["chapter_meta"] = ch["chapter_meta"]
 
         yaml_output.append(entry)
 

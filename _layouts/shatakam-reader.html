@@ -5,6 +5,13 @@ layout: page
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
 <div class="reader-container">
+
+  {% assign intro = content | strip %}
+  {% if intro != "" %}
+  <div class="shatakam-intro markdown-body">
+    {{ content }}
+  </div>
+  {% endif %}
   
   <div class="audio-panel">
     <audio id="shatakam-audio" controls preload="metadata">
@@ -16,6 +23,19 @@ layout: page
   <div class="verses-wrapper">
     {% for verse in site.data.shatakam %}
     <div class="verse-card" data-start="{{ verse.audio_start }}" data-end="{{ verse.audio_end }}">
+      {% if verse.chapter_title %}
+      <aside class="chapter-header" aria-label="Section introduction">
+        <h2 class="chapter-title">{{ verse.chapter_title }}</h2>
+        <p class="chapter-keyword">{{ verse.chapter_meta.keyword }}</p>
+        <p class="chapter-theme"><strong>Theme:</strong> {{ verse.chapter_meta.theme }}</p>
+        {% if verse.chapter_meta.synthesis %}
+        <p class="chapter-sages"><strong>Synthesis:</strong> {{ verse.chapter_meta.synthesis }}</p>
+        {% else %}
+        <p class="chapter-sages"><strong>Primary Sage(s):</strong> {{ verse.chapter_meta.sages }}</p>
+        {% endif %}
+        <p class="chapter-concepts"><strong>Key Concepts:</strong> {{ verse.chapter_meta.concepts }}</p>
+      </aside>
+      {% endif %}
       <h3 class="verse-number">Verse {{ verse.number }}</h3>
       
       <div class="sanskrit-text">
