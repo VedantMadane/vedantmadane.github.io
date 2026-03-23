@@ -1,0 +1,30 @@
+- number: 1
+  audio_start: 0.0
+  audio_end: 12.5
+  sanskrit_lines:
+    - "वन्दे तं परमात्मानं यदुपतिं श्रीवासुदेवं हरिम्"
+    - "यो वै रागभयापहं स्थितमतिं गीतासु संदर्शयन् ।"
+    - "युक्तात्मा वणिगाकुलोऽपि सततं मूल्यं ध्रुवं वीक्षते"
+    - "तस्मै श्रीहरये नमोऽस्तु विमलां प्रज्ञां ददातु स्वयम् ॥ १ ॥"
+  words:
+    - { s: "वन्दे", m: "I bow" }
+    - { s: "तम्", m: "to that" }
+    - { s: "परमात्मानम्", m: "Supreme Soul" }
+    - { s: "यदुपतिम्", m: "Lord of the Yadus" }
+    - { s: "श्रीवासुदेवम्", m: "glorious Vāsudeva" }
+    - { s: "हरिम्", m: "Hari" }
+  translation: "I bow to the Supreme Soul, the Lord of the Yadus, the glorious Vāsudeva, Hari, Who revealed in the Gita the steady mind (Sthitaprajña) that dispels greed and fear, By which the disciplined mind, even when the Mad Merchant (Mr. Market) is agitated, sees only the firm, intrinsic value. Salutations to that glorious Hari; may He Himself grant us this pure rationality."
+
+- number: 2
+  audio_start: 13.0
+  audio_end: 25.0
+  sanskrit_lines:
+    - "सीमायां मृगतृष्णिकाभयहरां विद्वान् सदा रक्षते"
+    - "हेमं स्वर्णमृगं विलोक्य सहसा यो याति नाशं हि सः ।"
+    - "मूल्याङ्को द्रविणं त्यजेसि सततं प्राप्तो हि सारः फलम्"
+    - "तस्मात् तत्त्वमिदं सदा हृदि मुदे धार्यं हि नित्यं ध्रुवम् ॥ २ ॥"
+  words:
+    - { s: "सीमायम्", m: "at the boundary" }
+    - { s: "विद्वान्", m: "the wise man" }
+    - { s: "सदा रक्षते", m: "always guards" }
+  translation: "The wise investor always guards that boundary (margin of safety) which destroys the fear of mirages. For whoever crosses it rashly, lured by the vision of the Golden Deer, indeed goes to ruin. The price tag is merely the wealth you constantly part with; the intrinsic essence is the actual fruit you receive. Therefore, for the sake of lasting joy, this fundamental truth should be held firmly and eternally."
