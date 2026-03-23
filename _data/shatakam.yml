@@ -1,30 +1,1353 @@
 - number: 1
   audio_start: 0.0
-  audio_end: 12.5
+  audio_end: 0.0
   sanskrit_lines:
-    - "वन्दे तं परमात्मानं यदुपतिं श्रीवासुदेवं हरिम्"
-    - "यो वै रागभयापहं स्थितमतिं गीतासु संदर्शयन् ।"
-    - "युक्तात्मा वणिगाकुलोऽपि सततं मूल्यं ध्रुवं वीक्षते"
-    - "तस्मै श्रीहरये नमोऽस्तु विमलां प्रज्ञां ददातु स्वयम् ॥ १ ॥"
-  words:
-    - { s: "वन्दे", m: "I bow" }
-    - { s: "तम्", m: "to that" }
-    - { s: "परमात्मानम्", m: "Supreme Soul" }
-    - { s: "यदुपतिम्", m: "Lord of the Yadus" }
-    - { s: "श्रीवासुदेवम्", m: "glorious Vāsudeva" }
-    - { s: "हरिम्", m: "Hari" }
-  translation: "I bow to the Supreme Soul, the Lord of the Yadus, the glorious Vāsudeva, Hari, Who revealed in the Gita the steady mind (Sthitaprajña) that dispels greed and fear, By which the disciplined mind, even when the Mad Merchant (Mr. Market) is agitated, sees only the firm, intrinsic value. Salutations to that glorious Hari; may He Himself grant us this pure rationality."
+  - वन्दे तं परमात्मानं यदुपतिं श्रीवासुदेवं हरिम्
+  - यो वै रागभयापहं स्थितमतिं गीतासु संदर्शयन् ।
+  - युक्तात्मा वणिगाकुलोऽपि सततं मूल्यं ध्रुवं वीक्षते
+  - तस्मै श्रीहरये नमोऽस्तु विमलां प्रज्ञां ददातु स्वयम् ॥ १ ॥
+  words: []
+  prose: I bow to the Supreme Soul, the Lord of the Yadus, the glorious Vāsudeva,
+    Hari, Who revealed in the Gita the steady mind (Sthitaprajña) that dispels greed
+    and fear. By which the disciplined mind, even when the Mad Merchant (Mr. Market)
+    is agitated, sees only the firm, intrinsic value. Salutations to that glorious
+    Hari; may He Himself grant us this pure rationality.
+  poetic: 'Praise to the clear, rational mind of man, shielding wealth from the storms.
 
+    Time is the great compounding force of truth, breaking down all the false.
+
+    Measuring wealth flowing till the great fire, weighted down to this day:
+
+    Never acquire parts of the enterprise you would not own in whole.'
 - number: 2
-  audio_start: 13.0
-  audio_end: 25.0
+  audio_start: 0.0
+  audio_end: 0.0
   sanskrit_lines:
-    - "सीमायां मृगतृष्णिकाभयहरां विद्वान् सदा रक्षते"
-    - "हेमं स्वर्णमृगं विलोक्य सहसा यो याति नाशं हि सः ।"
-    - "मूल्याङ्को द्रविणं त्यजेसि सततं प्राप्तो हि सारः फलम्"
-    - "तस्मात् तत्त्वमिदं सदा हृदि मुदे धार्यं हि नित्यं ध्रुवम् ॥ २ ॥"
-  words:
-    - { s: "सीमायम्", m: "at the boundary" }
-    - { s: "विद्वान्", m: "the wise man" }
-    - { s: "सदा रक्षते", m: "always guards" }
-  translation: "The wise investor always guards that boundary (margin of safety) which destroys the fear of mirages. For whoever crosses it rashly, lured by the vision of the Golden Deer, indeed goes to ruin. The price tag is merely the wealth you constantly part with; the intrinsic essence is the actual fruit you receive. Therefore, for the sake of lasting joy, this fundamental truth should be held firmly and eternally."
+  - सीमायां मृगतृष्णिकाभयहरां विद्वान् सदा रक्षते
+  - हेमं स्वर्णमृगं विलोक्य सहसा यो याति नाशं हि सः ।
+  - मूल्याङ्को द्रविणं त्यजेसि सततं प्राप्तो हि सारः फलम्
+  - तस्मात् तत्त्वमिदं सदा हृदि मुदे धार्यं हि नित्यं ध्रुवम् ॥ २ ॥
+  words: []
+  prose: The wise investor always guards that boundary (margin of safety) which destroys
+    the fear of mirages. For whoever crosses it rashly, lured by the vision of the
+    Golden Deer, indeed goes to ruin. The price tag is merely the wealth you constantly
+    part with; the intrinsic essence is the actual fruit you receive. Therefore, for
+    the sake of lasting joy, this fundamental truth should be held firmly and eternally.
+- number: 3
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यद् व्यापारमनुक्षणं प्रजनयेत् लाभाधिकं निश्चितम्
+  - तस्यैवास्ति यथार्थमूल्यमचलं कालेन न नश्यति ।
+  - मूल्याङ्कः खलु वातवत् प्रचलति भ्रान्त्या समूहेन वै
+  - धीरो यस्तु विविक्तरूपममलं सारं सदा पश्यति ॥ ३ ॥
+  words: []
+  prose: That enterprise which reliably generates abundant profit at every moment
+    possesses true, unshakeable value that time cannot destroy. The price tag blows
+    around like the wind, driven by the delusions of the crowd, but the patient man
+    always looks only at the pure, isolated essence.
+- number: 4
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - क्रीणीयात् समभागमत्र वणिजो यद्वत् समग्रं गृहम्
+  - अंशे यस्य न चास्ति पूर्णममता तं वर्जयेत् सर्वदा ।
+  - क्रीत्वा यत् खलु यावदायुषमहो रक्षेद् दृढं संहृतम्
+  - सत्या सा हि निवेशनीतिममला प्राज्ञैः पुरा कीर्तिता ॥ ४ ॥
+  words: []
+  prose: A merchant should buy a fractional share exactly as he would buy the entire
+    house. He must completely avoid any part for which he does not feel total ownership.
+    Having bought it, he should hold it firmly for a lifetime; this pure principle
+    of investing has been praised by the wise since ancient times.
+- number: 5
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - भस्मीभूतजगत्स्वपि प्रवहते यद् रोकमूल्यं ध्रुवम्
+  - तस्यैवाद्य निपात्य मानममलं मूल्यं विचिन्त्यं बुधैः ।
+  - कालो यत्र ददाति यत् फलमहो तत् सङ्गणय्य स्वयम्
+  - मूल्यं यस्य भवेत् सुरक्षिततमं तद् ग्राह्यमेव स्फुटम् ॥ ५ ॥
+  words: []
+  prose: Even if the world burns to ashes, the cash flow remains. The wise investor
+    calculates the present value of all those future cash flows. Whatever fruit Time
+    will yield must be mathematically weighed; the asset whose value is the most secure
+    is the one to acquire.
+- number: 6
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - मूर्खाः केवलमत्र यन्त्रपठितं मूल्यं विजानन्ति वै
+  - यद् वा कम्पति चित्रपट्टिकतले तत्रैव मत्ता जनाः ।
+  - संस्थायाः खलु यन्निगूढविभवं तन्नेत्रहीनं जगत्
+  - पश्येन् नैव ततो हि नश्यति सदा भ्रान्तं समूहागतम् ॥ ६ ॥
+  words: []
+  prose: Fools only know the price dictated by the machine, mesmerized by what blinks
+    on the screen. The world is blind to the hidden, internal wealth of the enterprise;
+    failing to see it, the herd follows illusions to its absolute ruin.
+- number: 7
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - नूनं सारमचिन्त्य केवलमहो क्रीणन्ति ये सत्वरम्
+  - वाताहत्यपलायिता इव नरा नश्यन्ति ते सर्वशः ।
+  - मूल्याङ्केन न मूल्यमत्र सदृशं भिन्नं हि तत्त्वद्वयम्
+  - ज्ञात्वेदं मतिमान् वणिक् स्वकधनं गर्वेण नैव व्ययेत् ॥ ७ ॥
+  words: []
+  prose: Those who rashly buy without considering intrinsic value are blown away like
+    leaves in a violent storm. Price and Value are not the same; they are two entirely
+    different realities. Knowing this, the wise merchant never throws away his capital
+    out of pride.
+- number: 8
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - अन्तर्मूल्यमवश्यमेव विबुधैः कल्प्यं यथार्थं सदा
+  - सत्यान्वेषणमन्तरेण हि कृतः सर्वो व्ययो निष्फलः ।
+  - यद् वस्तु प्रकृतौ सुवर्णममलं पश्येत् तदेवाश्रयेत्
+  - काचानां खलु सञ्चयः प्रतिदिनं क्लेशाय नूनं भवेत् ॥ ८ ॥
+  words: []
+  prose: The true intrinsic value must always be realistically calculated by the wise.
+    Without the search for fundamental truth, all expenditure is fruitless. One should
+    only gather what is pure gold in nature; hoarding glass daily will only bring
+    inevitable sorrow.
+- number: 9
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - अल्पे मूल्यपदे महार्घविभवं प्राप्नोति धीरो वणिक्
+  - यत्रैवास्ति न शङ्कया कलुषितं स्वच्छं सुलाभं ध्रुवम् ।
+  - मूल्यान्वेषणमेव कार्यममलं यत् सर्वदा रक्षति
+  - अज्ञानात् पतितुं गभीरविवरे मूढं निवार्य स्वयम् ॥ ९ ॥
+  words: []
+  prose: The brave merchant acquires massive value at a tiny price when there is a
+    clear, unclouded, and certain margin of profit. The search for value is the only
+    pure act that protects the fool from falling into a deep pit of his own ignorance.
+- number: 10
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - सत्यं गोपितमस्ति पत्रनिचये ज्ञात्वा तदेवार्जयेत्
+  - लोकाः यत् खलु संवदन्ति बहुधा तत्रैव भीतिर्मता ।
+  - मूल्यं यत्र वसत्युपेक्षितमहो तत्रैव लाभो महान्
+  - इत्थं ग्राह्यममूल्यमत्र वणिजा धीरप्रकृत्या सदा ॥ १० ॥
+  words: []
+  prose: Truth is hidden in the financial documents; knowing this, acquire it. Where
+    the crowds speak loudly and frequently, there is danger. Where value lies ignored,
+    there is great profit. Thus does the patient merchant seize the priceless.
+- number: 11
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कालेनैव चलन्ति सर्वविषया दोलायमाना भृशम्
+  - लोभात्तुङ्गशिखां स्पृशन्ति सहसा भीत्या पतन्त्यप्यधः ।
+  - मूर्खाः कालविपर्ययं खलु तदा विस्मृत्य नश्यन्त्यहो
+  - चक्रं नित्यमिदं स्मरन् स मतिमान् कालं प्रतीक्षेत वै ॥ ११ ॥
+  words: []
+  prose: Driven by Time alone, all things move, swinging wildly like a pendulum. Out
+    of greed they suddenly touch the highest peaks, and out of fear they crash down
+    below. Fools, completely forgetting this inevitable reversal of time, go to their
+    ruin, alas! But the truly wise, constantly remembering this eternal wheel, simply
+    waits for the right time.
+- number: 12
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - ग्रीष्मो याति ततः परं हि नियतं वर्षर्त्तुरेवागमे
+  - तद्वद् वृद्धिरनन्तरं पतनमेवास्ते हि चक्रे सदा ।
+  - कालो नैव तिष्ठत्येकपदवीमालम्ब्य लोकेऽचिरात्
+  - तस्माद् यस्तु विजानाति समयं स स्याद् विजयी पुमान् ॥ १२ ॥
+  words: []
+  prose: Just as summer passes and the monsoon inevitably arrives, so too does a fall
+    follow growth in the cycle. Time never stays in one position in this world for
+    long; therefore, he who understands timing becomes the victorious man.
+- number: 13
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - मूढाः शाश्वतवृद्धिमत्र जगति ध्यायन्ति गर्वान्विताः
+  - वृक्षो नैव गगनं स्पृशति हि कदा सत्यं विचिन्त्यं बुधैः ।
+  - अत्युच्चे शिखरे यदा खलु नरा मोहान्धकारावृताः
+  - विद्वान् तत्र विमुच्य सर्वममलं मौनेन कालं नयेत् ॥ १३ ॥
+  words: []
+  prose: Arrogant fools dream of eternal, uninterrupted growth in this world. But
+    the wise know that trees do not grow to the sky. When men are blinded by the dark
+    delusion of the peak, the wise man releases everything and waits in silence.
+- number: 14
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - सर्वं याति निजस्वभावमचिरात् कालस्य वश्याद् ध्रुवम्
+  - अत्यन्तं यदि वर्धते पतनमेवास्ते तयोरावृतम् ।
+  - माध्यं यत् खलु कल्पितं प्रकृतया तत्रैव गच्छेत् पुनः
+  - ज्ञात्वेदं न हि विस्मयेत मतिमान् क्षोभे समुपस्थिते ॥ १४ ॥
+  words: []
+  prose: Everything reverts to its true nature shortly by the force of time. If something
+    grows excessively, its fall is guaranteed. It will return to the mean established
+    by nature; knowing this, the wise man is never surprised when panic arises.
+- number: 15
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - चक्रेऽस्मिन् भ्रमति प्रपञ्चमखिलं नूतनं न किञ्चिद् भवेत्
+  - पूर्वं यच्च बभूव तच्च पुनरप्यायाति कालेन वै ।
+  - मानवाः खलु विस्मरन्ति गदितं नित्यं स्वमोहावृताः
+  - कालज्ञस्तु पुमान् पुराणचरितं दृष्ट्वा लभेत् सम्पदम् ॥ १५ ॥
+  words: []
+  prose: In this turning wheel, the entire world revolves; nothing is truly new. What
+    happened before comes back again through time. Men constantly forget what was
+    said, wrapped in their own delusion, but the man who knows the history of cycles
+    attains true wealth.
+- number: 16
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - ज्ञात्वा कालविपर्ययं मतिमता स्थातव्यमत्र स्थिरम्
+  - यत्रैवास्ति भयं जनाः खलु तदा त्रस्ताः पलायन्ति वै ।
+  - तत्रैव प्रविशेद् वणिक् सुनिपुणो मूल्यं यदा नीचकम्
+  - कालो यच्छति सर्वमत्र सुलभं धैर्यं यदीयं बलम् ॥ १६ ॥
+  words: []
+  prose: Knowing the reversal of time, the wise man stands firm. When there is fear,
+    the terrified crowds flee. That is exactly when the skilled merchant enters, when
+    the price is low. Time grants everything easily to the one whose strength is patience.
+- number: 17
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यत्रैवास्ति भयं जनेषु विपुलं तत्रैव लाभो महान्
+  - यत्रैवास्ति मदो जनेषु बहुलः तत्रैव मृत्युर्ध्रुवम् ।
+  - इत्थं कालविपर्ययेण मनुजः प्राप्नोति वित्तं स्वकम्
+  - तस्मात् कालचक्रं न हि विस्मरेत् प्राज्ञो वणिक् सर्वदा ॥ १७ ॥
+  words: []
+  prose: Where there is massive fear among the people, there is massive profit. Where
+    there is massive arrogance, death is certain. Thus, through the inversion of cycles,
+    a man gains his wealth. Therefore, the wise merchant never forgets the wheel of
+    time.
+- number: 18
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - लोभेन प्रविशन्ति यत्र मनुजास्तत्रैव मृत्युर्ध्रुवम्
+  - कालो ग्रसति सर्वमत्र सहसा मूढान् मदोन्मादितान् ।
+  - कालं यः खलु वेत्ति सत्यममलं चक्रे च यत्रास्ति सः
+  - तेनैवाप्तमिदं महद् धनमहो लोके न नश्यत्यहो ॥ १८ ॥
+  words: []
+  prose: Where men enter out of greed, ruin is certain. Time suddenly devours the
+    foolish, maddened by arrogance. But he who knows the pure truth of time and where
+    he stands in the cycle—his great wealth never perishes in this world.
+- number: 19
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - दोलायाः पतनं विलोक्य विबुधो गृह्णाति मूल्यं शुभम्
+  - उत्थाने च विसृज्य सर्वममलं प्राप्तोति लाभं महान् ।
+  - कालेनैव हि सर्वमत्र रचितं कालेन संह्रियते
+  - तत् कालस्य विचेष्टितं मतिमता ज्ञेयं सुसूक्ष्मं सदा ॥ १९ ॥
+  words: []
+  prose: Seeing the downward swing of the pendulum, the wise man buys at a good price.
+    On the upward swing, he releases it and reaps a great reward. Time creates everything,
+    and time destroys everything; the wise meticulously study the behavior of time.
+- number: 20
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कालज्ञो हि वणिग् जयेद् रणमिदं धैर्यं यदीयं बलम्
+  - चक्रे यत्र च वर्तते खलु जगत् तत् पश्यति स्पष्टतः ।
+  - तेनैवाप्तमखण्डमत्र विभवं नूनं स्थिरं शाश्वतम्
+  - कालो यस्य सुमित्रमत्र न हि स क्लेशं कदाचिद् व्रजेत् ॥ २० ॥
+  words: []
+  prose: The master of cycles wins this battle through the strength of his patience.
+    He sees clearly where the world stands on the wheel. His unbroken wealth remains
+    eternal; he who befriends time never faces sorrow.
+- number: 21
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - न्यस्तं बीजमिवाल्पमूल्यमपि यद् द्रव्यं क्षितौ वर्धते
+  - कालेनैव विशालशाखविटपं न्यग्रोधरूपं गतम् ।
+  - मूल्यानां खलु सञ्चयः प्रतिदिनं गुप्तेन रूपेण वै
+  - धीराणां कुरुते महान्तमचलं कोशागारं शाश्वतम् ॥ २१ ॥
+  words: []
+  prose: Like a tiny seed planted in the earth that over time takes the form of a
+    massive, branching Banyan tree, the daily, hidden accumulation of value builds
+    a massive, unshakable treasury for the patient.
+- number: 22
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - शैलाग्रात् पतितो हि तुच्छहिमलवो रूपं बृहद् धारयेत्
+  - वेगेन प्रपतन् स वर्धतितरां स्वान्ते महा-पर्वतः ।
+  - तद्वद् वृद्धिपथे निवेशितधनं कालेन युक्तं यदा
+  - तस्यैवाद्भुतशक्तिमत्र विबुधाः पश्यन्ति विस्मापिताः ॥ २२ ॥
+  words: []
+  prose: Just as a tiny snowflake falling from a mountain peak gains immense size
+    and becomes an avalanche, wealth invested on the path of growth, joined with time,
+    displays a miraculous power that leaves even the wise astonished.
+- number: 23
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यो वै नित्यमुत्खातबीजमनिशं पश्येद् विकासं मुहुः
+  - छिन्नं तस्य तरुं विनाश्य सहसा मूलं सुशुष्कं भवेत् ।
+  - तद्वद् वारमुपार्जितं निजधनं यो विक्रयेद् भूरिशः
+  - तस्य वृद्धिपरम्परा हि सहसा मध्ये विनष्टा भवेत् ॥ २३ ॥
+  words: []
+  prose: He who constantly digs up the seed to check its growth destroys the tree
+    and dries up the root; similarly, he who constantly trades and sells his acquired
+    wealth destroys the continuous chain of compounding.
+- number: 24
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - तिष्ठेद् यः स्थिरधीः प्रशान्तमनसा वर्षाणि सङ्ख्यातिगम्
+  - तस्यैव प्रकृतेर्वरं खलु भवेद् वृद्धिः समग्रा भुवि ।
+  - अक्षुण्णं धनसञ्चयं न हि कदा छिन्द्याद् वृथा पण्डितः
+  - कालोऽयं खलु सिद्धिमन्त्रममलम् ज्ञेयं सदा तात्विकैः ॥ २४ ॥
+  words: []
+  prose: He who waits with a steady mind and peaceful heart for countless years receives
+    the ultimate boon of complete growth; the wise never needlessly sever an unbroken
+    chain of wealth, knowing Time itself is the pure mantra of success.
+- number: 25
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - या गावो निजदुग्धसञ्चयबलाद् अन्याः प्रसूयन्ते ताः
+  - ता एव खलु कामधेनुसदृशाः संस्थाः शुभाः कीर्तिताः ।
+  - यत् प्राप्तं निजलाभमत्र सहसा कार्ये पुनर्युज्यते
+  - तस्माद् यस्य च वर्धते खलु धनं तद् ग्राह्यमेव ध्रुवम् ॥ २५ ॥
+  words: []
+  prose: Those enterprises that, from the strength of their own yield, give birth
+    to new sources of wealth are praised as Kamadhenus; one must firmly hold that
+    asset which takes its own profit and reinvests it back into the work to grow further.
+- number: 26
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - नष्टं यत्र धनं तु मन्दगतिभिः कार्यैर् न तत्र व्ययः
+  - प्रज्ञावान् विसृजेत् कुकर्मनिरतान् व्यापारमार्गान् शठान् ।
+  - यत्रैवाल्पधनेन भूरि जनितं मूल्यं सदा वर्धते
+  - तत्रैव प्रणिधाय सर्वमचलं तिष्ठेत् स धीरः पुमान् ॥ २६ ॥
+  words: []
+  prose: Wealth is lost in slow-moving, inefficient endeavors; the wise man must abandon
+    deceptive business paths that misuse capital. A resolute man should firmly place
+    his resources only where a small amount of wealth continuously generates massive
+    value.
+- number: 27
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - छिन्ने कुम्भ इवाम्बु नित्यमभितो गच्छेद् वृथा सञ्चितम्
+  - तद्वद् शुल्ककरादिभिः प्रतिदिनं क्षीणं भवेद् वित्तकम् ।
+  - द्यूते वाणिजमार्गतः खलु जना यच्छन्ति मूल्यं वृथा
+  - तस्माद् रक्षणमत्र मुख्यमुदितं शुल्कस्य नाशं विना ॥ २७ ॥
+  words: []
+  prose: Just as gathered water constantly leaks away from a broken pot, wealth is
+    daily depleted by taxes and fees. People needlessly give away their value in the
+    gambling of excessive trading; therefore, protecting capital without the destruction
+    caused by friction is paramount.
+- number: 28
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - मध्ये ये खलु लाभलुब्धमनसः शुल्कं हरन्ति स्वकम्
+  - तेषां मन्त्रवचो न शृणुयाद् धीमान् कदाचित् पुमान् ।
+  - क्रेता विक्रयकश्च तत्र सुतरां लाभं न विन्दत्यहो
+  - मध्यस्थो हसति प्रगल्भहृदयो दृष्ट्वा तयोर्मूढताम् ॥ २८ ॥
+  words: []
+  prose: The wise man should never listen to the spells of those greedy middlemen
+    who extract their own fees; alas, neither the buyer nor the seller ultimately
+    finds profit there, while the middleman laughs heartily, seeing the foolishness
+    of both.
+- number: 29
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कालो गच्छति मूल्यमत्र सहसा नीचैः प्रयाति ध्रुवं
+  - यद्वद् वस्त्रमदृश्यकीटनिकरैः छिन्नं न दृष्टं जनैः ।
+  - मुद्रायाः पतनं भवेद् प्रतिदिनं मुद्रास्फितिः सर्वदा
+  - तस्माद् यो न च वर्धते द्रुततरं सोऽन्ते दरिद्रो भवेत् ॥ २९ ॥
+  words: []
+  prose: As time passes, purchasing power inevitably sinks, just as a garment is chewed
+    up by invisible moths without people seeing it. The fall of currency (inflation)
+    happens daily; therefore, whatever does not grow faster than it will ultimately
+    end in poverty.
+- number: 30
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - मत्तक्षुद्रमृगो द्रुतं प्रधावति क्षिप्रं न गच्छेद् गजः
+  - तद्वद् यद् बृहदाकारमुपगतं संस्थास्वरूपं भुवि ।
+  - तस्य वृद्धिगतिः क्रमेण मन्दा नूनं भवेद् धीमताम्
+  - ज्ञात्वेदं नवयौवनासु सततम् संस्थासु दृष्टिं ददेत् ॥ ३० ॥
+  words: []
+  prose: A small, wild deer runs swiftly, but a massive elephant cannot move as fast;
+    similarly, when an enterprise reaches a gargantuan size on earth, its speed of
+    compounding inevitably slows down. Knowing this, the wise keep their eyes on businesses
+    in the prime of their youth.
+- number: 31
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - अन्धोऽन्धं खलु यद्वदेव कुरुते मार्गेऽनुगच्छन् मुदा
+  - भित्तिं पश्यति नैव सम्मुखगतामन्ते पतेद् गर्तके ।
+  - तद्वन्मूल्यमचिन्त्य केवलमहो वृद्ध्या नरा मोहिताः
+  - नष्टा भान्ति हि सर्व एव सहसा भ्रान्ताः समूहेन वै ॥ ३१ ॥
+  words: []
+  prose: Just as a blind man joyfully follows another blind man on the path, never
+    seeing the wall ahead until he falls into the pit; similarly, men are mesmerized
+    purely by rising prices, and the entire confused herd is suddenly destroyed.
+- number: 32
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - ऊर्ध्वं गच्छति यत्र मूल्यमतुलं तत्रैव धावन्ति ते
+  - स्वज्ञानाद् इति चिन्तयन्ति मनुजा मूढा मदोन्मादिताः ।
+  - यद्वन्मेषगणः पतन्तमनुयान् नश्यत्यवश्यं जले
+  - तद्वल्लोभहृता विशन्ति विपदं सत्यं परित्यज्य वै ॥ ३२ ॥
+  words: []
+  prose: Wherever a price goes unimaginably high, they run toward it, foolishly thinking
+    it is due to their own brilliance. Just as a flock of sheep follows the one falling
+    into the water, those stolen by greed enter disaster, completely abandoning the
+    truth.
+- number: 33
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - तप्तं लौहमयं हि कन्दुकमहो गृह्णन्ति मूढाः सदा
+  - अन्यस्मै प्रतुषन्ति दातुमनिशं मूल्येन चोच्चेन वै ।
+  - अन्ते यस्य करे भवेत् स नियतं भस्मावशेषो जनः
+  - मूर्खान्ता हि परम्परा प्रतिपदं क्लेशाय नूनं भवेत् ॥ ३३ ॥
+  words: []
+  prose: Fools constantly grab the red-hot iron ball, happily passing it to another
+    at an even higher price. But whoever holds it at the end is reduced to ashes;
+    this chain of fools inevitably leads to suffering at every step.
+- number: 34
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - शून्यं यद् विगतान्तरङ्गविभवं तत्रापि मूल्यं महत्
+  - यच्छन्ति प्रहसन्ति तत्र मनुजा दृष्ट्वा मिथः केवलम् ।
+  - अज्ञानात् स्फटिकं मणिं खलु यथा क्रीणन्ति हेम्नो व्ययात्
+  - तन्मूढत्वमचिन्त्यरूपमखिलं लोकं विनाशे नयेत् ॥ ३४ ॥
+  words: []
+  prose: They assign massive value to an entity devoid of any internal wealth or cash
+    flow, simply laughing at each other. Out of ignorance, they buy glass crystals
+    at the price of gold; this unimaginable stupidity leads the whole world to ruin.
+- number: 35
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - भारं प्राप्य परस्य वित्तमनिशं द्यूतेषु मग्नः सदा
+  - आरम्भे विजयं विलोक्य कुरुते दर्पाद् वृथा साहसम् ।
+  - एकोऽपि स्खलनं विनाशयति तं सर्वस्वनाशो भवेत्
+  - तस्माद् यद् धनमन्यदीयमधमं त्याज्यं प्रयत्नात् सदा ॥ ३५ ॥
+  words: []
+  prose: Immersed in the game of dice, taking on the heavy burden of another's wealth
+    (margin debt), he sees initial victory and rashly acts out of pride. But a single
+    stumble destroys him, annihilating all he owns; therefore, the vile use of borrowed
+    money must always be avoided.
+- number: 36
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - सर्वं नूतनमन्यते हि मनुजो कालस्य चक्रं विना
+  - प्राचीनो नियमो विनष्ट इति वै जल्पन्ति गर्वान्विताः ।
+  - सिद्धान्तं खलु यत् पुरातनमहो निन्दन्ति मूढाः स्वयम्
+  - पश्यन्त्येव तु ते विनाशमचिराद् मूढाः स्वकीयाद् भ्रमात् ॥ ३६ ॥
+  words: []
+  prose: Man believes everything is entirely new, ignoring the wheel of time, arrogantly
+    declaring the old rules are dead. Fools mock the ancient principles of value,
+    only to soon see their own destruction born of their delusion.
+- number: 37
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - क्रोशन्ते कुहकाः शृगालसदृशा रङ्गे कृते निर्मले
+  - मिथ्या वृद्धिकथां वदन्ति सततं लुण्ठन्ति लोकान् शठाः ।
+  - श्रुत्वैतान् मधुरान् रवान् हि हरिणा यान्ति स्वयं पाशके
+  - तस्माद् वञ्चकभाषणं मतिमता श्रोतव्यमेतन् न हि ॥ ३७ ॥
+  words: []
+  prose: Deceivers howl like jackals on a polished stage, constantly telling false
+    stories of endless growth to rob the public. Hearing these sweet sounds, the deer
+    walk willingly into the trap; therefore, the wise must never listen to the speech
+    of frauds.
+- number: 38
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - द्वारं पश्यति विस्तृतं प्रविशतामन्तर्विशन्ते सुखात्
+  - लाभं प्राप्य मुदं प्रयान्ति सहसा चक्रे यथा कौरवे ।
+  - काले तुङ्गमवाप्य मूल्यपतनं निष्कासनं दुर्घटम्
+  - नष्टं तत्र धनं समस्तमचिरान् मूढस्य निःशेषतः ॥ ३८ ॥
+  words: []
+  prose: Seeing a wide-open door, they happily enter the market, rejoicing in quick
+    profits, exactly like entering the Chakravyuha (labyrinth). But when the peak
+    passes and prices collapse, escaping becomes impossible, and the fool's wealth
+    is entirely wiped out.
+- number: 39
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - वृक्षो गच्छति नाम्बरं हि नियतं सत्यं विसृज्य भ्रमात्
+  - वाञ्छन्त्यम्बरगामिमूल्यमतुलं स्वप्नेषु मत्ता जनाः ।
+  - आशातो विपुलं धनं प्रतिदिनं यच्छन्ति मूढा भृशम्
+  - पश्यन्ते परिणाममत्र करुणं शून्ये यदा संश्रिताः ॥ ३९ ॥
+  words: []
+  prose: Intoxicated men dream of prices reaching the sky, abandoning reality in their
+    delusion that trees grow to the heavens. Driven by hope, fools pour vast wealth
+    in daily, only to face a tragic end when they find themselves clinging to a void.
+- number: 40
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - पूर्णे तोयनिधौ तरन्ति सहसा गर्वेण सर्वे जनाः
+  - नीचैर्गच्छति यत्र वारि सहसा दृष्टास्तु नग्नास्तदा ।
+  - मन्दत्वे खलु दृश्यते हि विपुलं दारिद्र्यमन्तर्गतम्
+  - तस्माद् बुद्बुदविभ्रमो न हि कदा प्राज्ञैः समालिङ्ग्यते ॥ ४० ॥
+  words: []
+  prose: When the lake of liquidity is full, everyone swims proudly. But when the
+    water suddenly recedes, they are all seen swimming naked. In the slowdown, the
+    vast, hidden poverty is revealed; therefore, the illusion of the bubble is never
+    embraced by the wise.
+- number: 41
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यो जानाति निजं रणस्य रणभूं स प्राप्नुयाद् वै जयम्
+  - अज्ञाते खलु कानने प्रविशता मृत्युर्ध्रुवं दृश्यते ।
+  - तस्मात् स्वीयविशालबुद्धिपरिधौ तिष्ठेत् सदा पण्डितः
+  - सीमायामतिक्रमणं हि कुरुते नाशं समग्रं नृणाम् ॥ ४१ ॥
+  words: []
+  prose: He who knows his own battlefield attains victory; for the one entering an
+    unknown forest, death is certain. Therefore, the wise man stays within the vast
+    circle of his own intellect; crossing that boundary brings total destruction to
+    men.
+  poetic: 'He who battles on the ground he understands so well, conquers every single
+    foe.
+
+    Venturing into the dark and unfamiliar woods, brings him nothing but his end.
+
+    Leave the unknown path to others who are wandering, stay within your boundary.
+
+    Mastery of what you know is wisdom''s highest peak, ignorance will strip your
+    wealth.'
+- number: 42
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - सर्वज्ञो न हि कोऽपि सत्यमवने ज्ञात्वा स्वमज्ञानकम्
+  - यो वै पश्यति कार्यमत्र विबुधः स प्राप्नुयाद् सम्पदम् ।
+  - अज्ञाते विषये करोति वणिजो यः साहसं सत्वरम्
+  - तस्यार्थः खलु नश्यति प्रतिदिनं मूढस्य गर्वाद् ध्रुवम् ॥ ४२ ॥
+  words: []
+  prose: No one on earth is omniscient; knowing his own ignorance, the wise man who
+    works attains wealth. The merchant who rashly acts in unknown subjects will surely
+    lose his capital daily due to his foolish pride.
+  poetic: 'True genius does not mean you know all things upon the earth, but you know
+    where you are blind.
+
+    Merchants who attempt to trade in wares they do not know, quickly lose their capital.
+
+    Draw a circle round the knowledge that you hold secure, never step beyond its
+    edge.
+
+    Within that protected fortress you will find your wealth, outside lies the deadly
+    trap.'
+- number: 43
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - मूल्यं पश्यति यः सदा प्रतिदिनं भित्तौ चलं केवलम्
+  - संस्था तस्य हि पृष्ठतः खलु भवेद् यन्त्रादिरूपा दृढा ।
+  - छित्त्वा तद् भ्रमजालमत्र मनुजो यन्त्रं स्वयं पश्यतु
+  - दृष्ट्वा तद् विगतान्तरङ्गविभवं क्रीणाति मूर्खो जनः ॥ ४३ ॥
+  words: []
+  prose: He who only watches the moving price on the wall forgets that behind it lies
+    a solid enterprise made of machinery. Piercing that web of illusion, a man must
+    look at the machine itself; the fool buys it while it is entirely devoid of internal
+    wealth.
+  poetic: 'Do not gaze upon the dancing shadows on the wall, numbers blinking without
+    soul.
+
+    Know that just behind the ticker lies an enterprise, breathing like a living beast.
+
+    Pierce the grand illusion to observe the heavy gears, watching how the gold is
+    made.
+
+    He who buys a shadow without looking at the gears, is a gambler blind and lost.'
+- number: 44
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - बालं यस्तु न बोधयेत् स्वकगिरा व्यापारमूलं स्फुटम्
+  - त्यक्त्वा पत्रकजालमाशु स पुमान् गच्छेत् प्रशान्तो गृहात् ।
+  - कस्माद् वर्धति लाभमत्र सुगमं यश्चापि न ज्ञायते
+  - तस्मिन् कार्यपथे न देयमतुलं द्रव्यं कदाचिद् बुधैः ॥ ४४ ॥
+  words: []
+  prose: If a man cannot clearly explain the root of the business to a child in his
+    own words, he should drop the documents and walk away in peace. Do not give immense
+    wealth to a path where you do not easily understand how the profit grows.
+  poetic: 'If you cannot tell a child exactly what it does, why this factory is great.
+
+    Cast away the document and walk away in peace, do not part with your good wealth.
+
+    Understand the simple reason why the profits flow, before giving up your gold.
+
+    Ownership demands a mind that reaches to the root, truth is never in the name.'
+- number: 45
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कुर्यात् तत्र निजं हि राज्यमचलं दुर्गं सुविस्तीर्णकम्
+  - खाता यत्र च निम्नगा खलु सदा नक्रैश्च पूर्णा दृढा ।
+  - मूल्यस्थापनशक्तिरत्र सुदृढं वर्म स्वयम् निर्मितम्
+  - कापि ह्यजेयमेरुसदृशी संस्था जयति रिपून् सदा ॥ ४५ ॥
+  words: []
+  prose: Build your unshakable kingdom and vast fortress there, where the deep moat
+    is filled with strong crocodiles. Where pricing power forms its own armor; such
+    an enterprise, like the unconquerable Mount Meru, always defeats its enemies.
+  poetic: 'Build your kingdom where the castle walls are mighty thick, high above
+    the valley floor.
+
+    Dig a trench around the fortress deep and filled with beasts, keeping rival kings
+    away.
+
+    Pricing power is the armor that protects the realm, brand is the unbroken shield.
+
+    Ventures without mighty moats will fall to enemies, robbed of all their future
+    gold.'
+- number: 46
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - अन्वेष्या खलु सा हि कार्यपदवी या मूर्खसञ्चालिता
+  - कालेनापि हि कश्चिदेव जडधीर्नूनं भवेन् नायकः ।
+  - यानन्तु स्वयमेव गच्छति पथि क्षेमेण यत् सुन्दरम्
+  - तद्वन् मूर्खकृतं हि दोषमखिलं संस्था स्वयम् रक्षति ॥ ४६ ॥
+  words: []
+  prose: One must seek that business which can be run by an idiot, because in time,
+    an idiot will surely become the leader. But the beautiful chariot that drives
+    itself safely protects the enterprise from all the flaws of the fool.
+  poetic: 'Seek an enterprise that stands upon a rock so firm, even fools could steer
+    the wheel.
+
+    For the day will come when destiny installs a fool, seated on the royal throne.
+
+    If the chariot is wondrous it will drive itself, safely on the rugged path.
+
+    Brilliance in the system conquers failings of the man, this is how the wealth
+    endures.'
+- number: 47
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - पश्येन् नैव च तारकाः खलु सदा कक्षोपविष्टास्तथा
+  - गच्छेत् आपणमार्गकेषु मनुजः पश्येत् जनैः किं कृतम् ।
+  - पीत्वा तत्र सुखावहं रसजलम् सत्यं स्वयं ज्ञायते
+  - प्रत्यक्षं खलु दर्शनं बहु वरं ग्रन्थात् सहस्रादपि ॥ ४७ ॥
+  words: []
+  prose: Do not look at the stars sitting in a room; a man should walk the marketplaces
+    and see what the people are doing. Drinking the pleasant juice there, the truth
+    is known firsthand; direct observation is vastly superior to a thousand books.
+  poetic: 'Do not ask the court astrologers what fate will bring, reading charts within
+    their rooms.
+
+    Walk among the crowded marketplaces of the town, see what common people buy.
+
+    Taste the coffee and observe the merchant''s busy store, truth is found among
+    the crowd.
+
+    Direct sight is better than a hundred mystic scrolls, find the treasure with your
+    eyes.'
+- number: 48
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यत् कार्यं मलिनं च नीरसतमं तत्रैव सुवर्णकम्
+  - गुप्तं पश्यति तं न कोऽपि मनुजो मूर्खः समूहो भुवि ।
+  - दीप्ता नूतनयन्त्रिकाः प्रतिदिनं नश्यन्ति तारा इव
+  - तस्माद् यत् सुलभं च पङ्कमलिनं तत्रैव वृद्धिर्ध्रुवा ॥ ४८ ॥
+  words: []
+  prose: Gold is hidden exactly where the work is dirty and boring; the foolish crowd
+    on earth never sees it. Glowing new technologies perish daily like shooting stars;
+    therefore, certain growth lies in what is simple and muddy.
+  poetic: 'Ventures that are dull and boring often hold the gold, hidden from the
+    foolish mob.
+
+    Washing wastes and making pipes will bring a steady yield, silently the fortune
+    grows.
+
+    Dazzling technologies promise stars but bring us dust, fading like a falling star.
+
+    Choose the muddy work that everyone can understand, that is where the profits
+    hide.'
+- number: 49
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - प्रासादस्य हि सौष्ठवं न हि वरं भित्तिं विना पश्यताम्
+  - ऋणं कीटकवत् सदा निशि भृशं भक्षत्यदृश्यं द्रुमम् ।
+  - संस्था या खलु भारहीना सततं सा नैव नाशं व्रजेत्
+  - तस्माद् यद् धनमूलपत्रममलं पश्येत् पुरा पण्डितः ॥ ४९ ॥
+  words: []
+  prose: Do not admire the beauty of a palace without looking at its walls; debt,
+    like an invisible termite, heavily devours the tree at night. An enterprise without
+    the burden of debt never faces destruction; therefore, the wise must inspect the
+    pure balance sheet first.
+  poetic: 'Do not judge the palace by its grand and shining roof, look under the polished
+    floor.
+
+    Debt is like a hidden termite chewing through the wood, silent in the dead of
+    night.
+
+    Companies without a burden never face the end, bankruptcy cannot draw near.
+
+    Always test the strength of pillars bearing up the weight, ere you sleep within
+    its walls.'
+- number: 50
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - वातैरुन्मथितं यदा भवति वै त्यज्येन्न च स्वं धनम्
+  - यस्तु प्राज्ञपुमान् शृणोति न वृथा कोलाहलं सर्वदा ।
+  - कालः केवलमेव सत्यमवने पश्येदिति ज्ञायताम्
+  - यो जानाति निजं स एव लभते शान्तिं च सम्पूर्णिताम् ॥ ५० ॥
+  words: []
+  prose: When things are violently shaken by the winds, do not abandon your wealth.
+    The wise man does not listen to the meaningless noise. Know that Time is the only
+    truth on earth; he who knows what he owns attains complete peace.
+  poetic: 'When the tempest comes and winds begin to howl and rage, do not cast your
+    shares away.
+
+    If you truly know the fortress that you stand within, fluctuations mean nothing.
+
+    Time alone will vindicate the careful architect, patience is the only key.
+
+    Know what you possess and let the madness pass you by, peace belongs to him who
+    knows.'
+- number: 51
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - '(Meter: Hariṇī)'
+  - न हि विजयो वाच्यः पूर्वं विनाशपथो हि सः
+  - कथमपि भवेद् राष्ट्रं नष्टं तदेव विचिन्त्यताम् ।
+  - तदनु मतिमान् दोषान् सर्वान् प्रमुञ्चति यत्नतः
+  - विपरीतमिदं बुद्धेर्द्वारं वदन्ति मनीषिणः ॥ ५१ ॥
+  words: []
+  prose: 'Victory should not be stated first; instead, think of the path of destruction.
+    Consider deeply: "How could this nation be utterly ruined?" Then, the wise man
+    meticulously avoids all those flaws. The sages call this the gateway of the inverted
+    intellect.'
+- number: 52
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - लघुरपि गुणः काले सक्तो महान् खलु जायते
+  - प्रकुरुत दृढं धैर्यं बीजे शनैः फलदायिनि ।
+  - कनकवृषभो भूत्वा कोशं प्रवर्धति नित्यशः
+  - समयसहितं वित्तं नूनं ह्यनन्तमपारवत् ॥ ५२ ॥
+  words: []
+  prose: Even a small advantage, attached to time, becomes massive. Maintain firm
+    patience in the seed that slowly yields fruit. Becoming a golden bull, the treasury
+    grows constantly; wealth joined with time is truly infinite and boundless.
+- number: 53
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - न च खलु धनं लब्धं मूल्यं तदेव हि केवलम्
+  - परमिह पदं यत्तु त्यक्तं तदेव महद् व्ययम् ।
+  - विविधविषये चैकं श्रेष्ठं चिनाति विचक्षणः
+  - इतरविफलं लाभं मत्वा सुधीः स च तिष्ठति ॥ ५३ ॥
+  words: []
+  prose: The price of an item is not merely the money spent to acquire it; the greatest
+    cost is the alternative opportunity that was abandoned. The wise man chooses the
+    single best among many options, considering all other gains as secondary and staying
+    focused.
+- number: 54
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - भयमुपगतं दैवाद्वा मानुषादपि वा भवेत्
+  - रचतु च बुधः सीमां नित्यं स्ववित्तसुरक्षणे ।
+  - अविदितपथे रेखां यस्तु प्रलङ्घति सत्वरम्
+  - कपटमृगहृत् कामो नूनं विनाशयति क्षणात् ॥ ५४ ॥
+  words: []
+  prose: Fear may arise from fate or from men; the wise man must always draw a boundary
+    to protect his wealth. He who rashly crosses that line into unknown territory
+    is swiftly destroyed by desires, like the illusion of the deceitful deer.
+- number: 55
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - न च मतिमता कार्यं यत्र न ज्ञानमस्ति वै
+  - निजपरिधये तिष्ठेद् विद्वान् जयं स च विन्दति ।
+  - भ्रमति जडधीर्लोभात् सर्वत्र सङ्कटसङ्कुले
+  - स्वविषयविदां नूनं कीर्तिः स्थिरा खलु जायते ॥ ५५ ॥
+  words: []
+  prose: A wise man should not act where he lacks knowledge; staying within his own
+    circumference, he finds victory. The fool wanders out of greed into danger everywhere;
+    but the fame of those who know their own field remains truly stable.
+- number: 56
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कुरुत विनयं यत्रैवाभिप्रेरणं हि दृश्यते
+  - फलमभिमतं तस्मात् लोके प्रजायति सर्वदा ।
+  - न च खलु जने दोषः प्रोत्तेजनं खलु कारणम्
+  - इति हि वणिजां नीतिं मङ्गरः प्राह तत्ववित् ॥ ५६ ॥
+  words: []
+  prose: Apply discipline wherever incentives are seen; the desired outcome always
+    arises from them in this world. The fault does not lie with the people, but with
+    the incentive driving them; this is the policy of merchants spoken by the philosopher
+    Munger.
+- number: 57
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - पशुरिव जनो यत्रैवास्ते समूहमतिर्ध्रुवम्
+  - अनुकरणतः सर्वे नश्यन्ति गर्तगता इव ।
+  - विवेकसहितः पन्था नूनं पृथक् खलु लक्ष्यते
+  - प्रचलितपथाद् दूरे सत्यं वसति न संशयः ॥ ५७ ॥
+  words: []
+  prose: Where the mind of the herd resides, people act like animals; blindly following
+    one another, they all perish as if falling into a pit. The path of rationality
+    is always seen distinctly apart; truth undoubtedly dwells far from the crowded
+    road.
+- number: 58
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - प्रचलति सदा दोला नीचैस्तथैव च चोच्चकैः
+  - तनुगतिमिदं माध्यं नित्यं प्रयाति स्वभावतः ।
+  - अतिशयमुदं लोभं मोक्षं च कालवशं गतं
+  - पुनरपि च तत् साम्यं चक्रं नयति न संशयः ॥ ५८ ॥
+  words: []
+  prose: The pendulum swings constantly, low and then high; it naturally returns to
+    the mean in its movement. Extreme joy, greed, and liberation are all subject to
+    time; the cycle inevitably brings them back to equilibrium.
+- number: 59
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - न हि च विषये ह्येकस्मिन् ज्ञानमस्ति सुपूर्णता
+  - रचत विबुधा जालं तत्तवप्रग्रथनैः सदा ।
+  - इति खलु मतिर्विश्वे सर्वेषु यन्त्रेषु सज्जते
+  - इयमिह कला श्रेष्ठा इन्द्रजालसमप्रभा ॥ ५९ ॥
+  words: []
+  prose: Perfect completeness of knowledge does not exist in just one subject. The
+    wise constantly weave a net by interconnecting foundational truths. Thus, the
+    intellect equips itself for all the machinery of the world; this supreme art is
+    as radiant as the Net of Indra.
+- number: 60
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - अहमनुगतः स्वार्थो मोहो भयञ्च तथा मदः
+  - इति दशगुणा दोषा बुद्धिं हरन्ति कलेवरम् ।
+  - भ्रममिदमहो ज्ञात्वा यो वै विमुञ्चति तामसम्
+  - स खलु वणिजां मध्ये श्रेयो लभेत न संशयः ॥ ६० ॥
+  words: []
+  prose: Self-interest, ego, delusion, fear, and pride—these tenfold flaws rob the
+    body of its intellect. Recognizing this grand illusion, he who abandons darkness
+    will undoubtedly attain the highest good among merchants.
+- number: 61
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यत्किञ्चिद्वसु रक्षितं खलु पुरा तस्यैव रक्षा वरा
+  - नष्टं चेत् पुनरेति नैव सुलभं कालक्षयेणार्जितम् ।
+  - आदौ मुख्यविधिर्ह्ययन्तु वणिजां हानिश्च कार्या न वै
+  - द्वितीयोऽपि विधिस्तदेव कथयत्येवं मुदा धीमताम् ॥ ६१ ॥
+  words: []
+  prose: 'Whatever wealth was protected in the past, its continued protection is paramount.
+    If lost, what was earned through the consumption of time does not return easily.
+    The first and primary rule for merchants is: Do not make a loss. The second rule
+    joyfully repeats the exact same thing to the wise.'
+- number: 62
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - अर्धं यत्र धनं विनष्टमभवत् तस्मिन् पथे धावताम्
+  - द्विगुणं खलु लब्धुमेव सुमहद् यत्नं प्रकुर्यात् ततः ।
+  - हानिः स्वल्पापि दारुणा खलु भवेत् वृद्धेः पथे बाधिका
+  - तस्माद् रक्षणमेव मुख्यमुदितं लाभस्य मोहात् परम् ॥ ६२ ॥
+  words: []
+  prose: On the path where half of one's wealth is lost, one must make a massive effort
+    to gain double just to recover. Even a small loss becomes terrible and obstructs
+    the path of compounding; therefore, protection is declared paramount, far above
+    the delusion of profit.
+- number: 63
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कम्पः केवलमस्ति मूल्यपतनं तत्रैव भीतिर्न हि
+  - स्थायी यत्र विनाश एति नियतं तं साहसं सस्मरन् ।
+  - वायुर्वाति मुहुर्मुहुर्हि तरणिं नैव प्रपातो भवेत्
+  - यस्यैव प्रबला धृतिः स हि वणिक् पालेत रक्षाकवचम् ॥ ६३ ॥
+  words: []
+  prose: A drop in price is merely a vibration; there is no true fear in it. True
+    risk is where permanent loss of capital is certain; remember this. The wind blows
+    the boat constantly, but it does not sink it; the merchant with strong fortitude
+    maintains his armor of protection.
+- number: 64
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - मूल्याङ्कात् खलु सारतत्त्वमधिकं यत्रैव संदृश्यते
+  - तत्रैवास्ति सुरक्षणस्य पदवी सीमा विनिर्मिता ।
+  - यद्वत् लक्ष्मणलेखिका हि विहिता सीतासुरक्षाहिते
+  - तद्वत् सारविहीनमूल्यपतनं रक्षावृतं तिष्ठति ॥ ६४ ॥
+  words: []
+  prose: Where the intrinsic essence is seen to be far greater than the price tag,
+    there the boundary of safety is established. Just as the Lakshmana Rekha was drawn
+    for the welfare and protection of Sita, a drop in price devoid of fundamental
+    value remains shielded by that armor.
+- number: 65
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - सम्भाव्यं खलु बहुधा हि भवति लोके न सर्वं भवेत्
+  - एकः केवलमत्र सिद्धिमयतेऽन्यच्छून्यमेव ध्रुवम् ।
+  - तस्माद् भावि विचिन्त्य तर्कनिपुणः सिद्धो भवेत् सर्वदा
+  - आपातो यदि वा भवेत् कथमहो रक्षा भवेत् तात्विकी ॥ ६५ ॥
+  words: []
+  prose: 'Many things are probable in this world, but not all will happen. Only one
+    outcome achieves reality; the rest are inevitably reduced to zero. Therefore,
+    the master of logic must prepare by thinking: "If the worst happens, how will
+    my fundamental protection hold?"'
+- number: 66
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - एका चेत् तरणिः प्रभिद्यति तदा मज्जन्ति सर्वे नराः
+  - तस्माद् बहुकोशयुक्ता तरणिः श्रेष्ठा समुद्राङ्कणे ।
+  - एकस्मिन् न च विन्दौ निपतितं सर्वस्वमस्यास्पदे
+  - भग्ने ह्येकपदेऽपि जीवनमहो नूनं सुरक्षितं भवेत् ॥ ६६ ॥
+  words: []
+  prose: If a single boat breaks, all the men sink; therefore, a boat built with multiple
+    hulls is superior on the ocean. By not placing all one's wealth on a single point
+    of failure, even if one step breaks, life remains secure.
+- number: 67
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - स्तम्भः केवलमस्ति यत्र सुमहद् भारं निरुन्ध्याद् गृहम्
+  - भग्ने तत्र भवन्ति चूर्णमखिलाः प्रासादमालाः क्षणात् ।
+  - तद्वन् मतिमान् न चैव कुरुते व्यापारमार्गं ह्येककं
+  - नष्टं तत्र न सर्वनाशमपि वै पश्येत् स धीरः पुमान् ॥ ६७ ॥
+  words: []
+  prose: Where a single pillar restrains the massive weight of a house, if it breaks,
+    the entire palace crumbles to dust in an instant. Similarly, the wise man never
+    creates a single path of business dependency; if it is destroyed, the brave man
+    does not see total ruin.
+- number: 68
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - गर्जन्तो हि घनाः पतन्तु परितो वीचिर्महान् नृत्यतु
+  - यस्तु स्तम्भ इवाचलो हि द्युतिमान् पन्थानमन्वेषते ।
+  - भीत्या यः खलु विक्रयेद् निजधनं नूनं स नश्येद् भृशम्
+  - धैर्यं यस्य सुरक्षणस्य कवचम् तस्यास्ति कीर्तिः स्थिरा ॥ ६८ ॥
+  words: []
+  prose: Let the clouds roar all around and the massive waves dance; the one who stands
+    immovable like a glowing pillar finds the way. He who sells his wealth out of
+    fear will surely be destroyed; his fame is stable whose armor is the patience
+    of protection.
+- number: 69
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यद्वा नूनमचिन्तितं च भवति लोके तदेवोन्मदं
+  - विघ्नं संहरतीह सर्वविभवं गर्वात् प्रमत्तस्य वै ।
+  - अज्ञाते सति कल्पयेत् कथमिदं प्रतिकूलमेष्यत्यहो
+  - पूर्वं चिन्तनमेव रक्षणमहद् बुद्धेः प्रगल्भं मतम् ॥ ६९ ॥
+  words: []
+  prose: 'Whatever is truly unthought of in the world becomes the maddening obstacle
+    that destroys all the wealth of the arrogant. When faced with the unknown, one
+    must imagine: "How could this turn against me?" Thinking ahead is the profound
+    doctrine of intellect''s protection.'
+- number: 70
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - दोषान् संहर सर्वदा हि च मते लाभस्तु नित्यं स्वयम्
+  - वर्धेतैव सुशिक्षितेन पथि वै व्याधेश्च नाशात् यथा ।
+  - रक्षन् स्वं रुधिरं जनो हि लभते पुष्टिं समग्रं तनौ
+  - तद्वद् रक्षणमेव लाभजननं मन्वे वणिजां वरम् ॥ ७० ॥
+  words: []
+  prose: Always destroy the flaws in your thinking, and the profit will naturally
+    grow on the disciplined path, just as health thrives when disease is eradicated.
+    By protecting his blood, a man gains total nourishment in his body; similarly,
+    protection itself is the greatest generator of profit for merchants.
+- number: 71
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - विद्वान् योऽभिमतं करोति मनसा सर्वं हि वेत्ति स्वयम्
+  - मग्नात्मा स तु कूपमण्डूकवत् पश्यत्यपल्पं नभः ।
+  - स्वकीये विषये मत्तस्तर्कं सर्वत्र योजयेत्
+  - तस्याहङ्कारदोषेण नूनं हानिः प्रजायते ॥ ७१ ॥
+  words: []
+  prose: The expert who believes in his mind that he knows everything is like a frog
+    in a well who sees only a tiny patch of sky. Maddened by his own narrow field,
+    he applies his logic everywhere, and through the flaw of his ego, loss is inevitably
+    born.
+- number: 72
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - हस्ते यस्य कुठारिका हि भवति वृक्षं स पश्यत्यहो
+  - तद्वत् तर्कविशारदः प्रतिपदं स्वं तन्त्रमुद्घोषयेत् ।
+  - यत्रैवास्ति न तस्य कौशलमहो तत्रापि बुद्ध्या चरेत्
+  - तस्मात् सङ्कटमत्र केवलमहो मोहात् समुद्गच्छति ॥ ७२ ॥
+  words: []
+  prose: The man with a small axe in his hand sees everything as a tree; similarly,
+    the expert in logic proclaims his own system at every step. He applies his intellect
+    even where he has no skill; thus, disaster arises purely out of his delusion.
+- number: 73
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - आगामि खलु वर्षमत्र गणितैः पश्यन्ति ये पण्डिताः
+  - तेषां केवलमस्ति गर्वममलं यद् भावि पश्यन्ति ते ।
+  - कालो नैव वशं प्रयाति गणिते शून्ये पतन्त्युन्मदाः
+  - तस्मात् सङ्कथने वृथा हि मनुजो मौनं भजेत् सर्वदा ॥ ७३ ॥
+  words: []
+  prose: Those pundits who try to see the coming year through mathematics possess
+    only the pure arrogance that they can see the future. Time does not submit to
+    math; the arrogant fall into the void. Therefore, man should always maintain silence
+    instead of making useless forecasts.
+- number: 74
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यस्तु प्राह "न वेद्म्यहं" खलु जने स श्रेष्ठबुद्धिः पुमान्
+  - अज्ञाते सति मौनमेव शरणं प्रज्ञावतां सम्मतम् ।
+  - यो वै सर्वमहो विजानाति वृथा जल्पत्यहङ्कारतः
+  - तस्यैवास्ति विनाशकालरचना प्रज्ञावधातो महान् ॥ ७४ ॥
+  words: []
+  prose: He who says "I do not know" among people is a man of supreme intellect. When
+    facing the unknown, silence is the refuge approved by the wise. He who claims
+    to know everything chatters uselessly out of ego; his destruction is timed perfectly
+    by the great blow to his intellect.
+- number: 75
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - अङ्कैः केवलमत्र यत् परिशुद्धं तत् सत्यमन्यन् न हि
+  - इति भ्रान्त्या हि वित्तशास्त्रनिपुणा मोहं प्रयान्त्युच्चकैः ।
+  - मानवा चरितं न याति गणिते चञ्चल्यपूर्णं सदा
+  - तस्माद् यद् परिशुद्धमत्र गणिते तन्मायया संवृतम् ॥ ७५ ॥
+  words: []
+  prose: The delusion that "Whatever is precise in numbers is the only truth" drives
+    experts in finance into high arrogance. Human behavior does not fit into math;
+    it is always full of volatility. Therefore, whatever is hyper-precise in calculation
+    is wrapped in illusion.
+- number: 76
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - दोषं नैव विलोक्य यस्तु कुरुते तर्कैः स्वपक्षं दृढम्
+  - स्वस्यैवास्ति विनाशकृत् स मनुजो मिथ्याभिमानी जडः ।
+  - यत्किञ्चित् खलु साध्यते मतिमता पूर्वं निजे स्खलने
+  - दृष्टिं देयमहो यदा खलु भवेत् सत्यं पुरो दृश्यते ॥ ७६ ॥
+  words: []
+  prose: He who refuses to see the flaw and hardens his own position through arguments
+    is a foolish, falsely proud man engineering his own destruction. Whenever the
+    wise achieve something, they first look for their own mistakes when the truth
+    appears before them.
+- number: 77
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - बद्धो यस्तु मतेन केनचिदहो नान्यं विजानाति सः
+  - तस्यैव प्रबला धृतिः प्रतिपदं सत्यं निहन्त्येव वै ।
+  - सिद्धान्तो यदि बाधकः खलु भवेत् त्याज्यः स वै धीमता
+  - बुद्धिं मुक्तचरीं विहाय मनुजो नूनं भवेत् पञ्जरे ॥ ७७ ॥
+  words: []
+  prose: He who is bound by a specific ideology knows nothing else; his overwhelming
+    stubbornness destroys the truth at every step. If an ideology becomes an obstacle,
+    the wise must abandon it. Leaving the mind free to roam, the ideological man locks
+    himself in a cage.
+- number: 78
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - पूर्व यत् खलु साध्यते विजयतः सम्प्राप्यते सम्पदम्
+  - तेनाहं चतुरोऽस्मि इति मनुजो गर्वं प्रयात्येव वै ।
+  - भाग्यं यत्र च कौशलं च मिलितं तत् को विजानाति वै
+  - अहङ्कारबलात् प्रमत्तमनुजो नूनं पतेद् गर्तके ॥ ७८ ॥
+  words: []
+  prose: Obtaining wealth from a past victory, a man becomes arrogant, thinking, "I
+    am brilliant." Who truly knows where luck and skill intertwined? Maddened by the
+    force of ego, the man will inevitably fall into the pit.
+- number: 79
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - स्वस्यैवाभिमतं विचिन्त्य निपुणो भूत्वा विपक्षे वदेत्
+  - दोषाणां खलु शोधनन्तु विहितं कार्यं बुधैः सर्वदा ।
+  - मत्ता ये हि निजे मते विजयिनो नूनं न पश्यन्ति ते
+  - तस्माद् आत्मविमर्षणं विजयिनः शास्त्रं वदन्ति स्फुटम् ॥ ७९ ॥
+  words: []
+  prose: Reflecting on his own opinion, the expert should skillfully argue the opposing
+    side. The wise must always make it a practice to search for flaws. Those drunk
+    on victory in their own opinions never see them; therefore, self-criticism is
+    clearly declared the science of victors.
+- number: 80
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यस्यैवास्ति न गर्वलेशमपि वै लाभे न मोहाधिकम्
+  - यो वेत्ति स्वकमौढ्यमत्र सुतरां सीमां च ज्ञानस्य वै ।
+  - स एव वणिजां वरेण्यमुदितः शान्तः स्थिरो निश्चलः
+  - तस्मै श्रीगुरवे नमस्तु विमलं प्रज्ञां ददातु स्वयम् ॥ ८० ॥
+  words: []
+  prose: He who has not a trace of ego, nor excessive attachment in profit, who knows
+    his own foolishness and the absolute limit of his knowledge—he is declared the
+    greatest of merchants, peaceful, steady, and immovable. Salutations to that Guru;
+    may He grant us pure rationality.
+- number: 81
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - हंसरूपवणिग् विहाय जलधिं दुग्धं पिबेत् केवलम्
+  - सत्यं यत् खलु पत्रकेषु निहितं तत् पश्यति प्राज्ञवत् ।
+  - मिथ्याभाषणमत्र यत् प्रचरितं सर्वं त्यजेद् दूरतः
+  - तत्त्वान्वेषणमन्तरेण न कदा प्राप्नोति लाभं वणिक् ॥ ८१ ॥
+  words: []
+  prose: Like the mythical swan separating milk from water, the wise merchant drinks
+    only the truth hidden in the financial reports. He abandons all false promoter
+    narratives from afar; without the search for truth, no investor ever profits.
+- number: 82
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - पत्रं यत् प्रकटीकृतं खलु जनैस्तत् सूक्ष्मदृष्ट्या पठेत्
+  - यत्रैवास्ति निगूढदोषनिचयस्तत्रैव दृष्टिं ददेत् ।
+  - श्रुत्वा मोहकभाषणं न हि कदा क्रीणाति संस्थां पुमान्
+  - सत्या सा खलु साधनस्य पदवी या क्लेशनाशप्रदा ॥ ८२ ॥
+  words: []
+  prose: He reads the public documents with microscopic vision, focusing precisely
+    where the hidden flaws might lie. He never buys an enterprise just because he
+    heard a charming speech; true research is the path that destroys sorrow.
+- number: 83
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - गत्वा मण्डपमत्र पश्यति जनो व्यापारगुह्यं स्वयम्
+  - अन्वेष्या खलु सा हि पङ्कमलिना या नीरसा वर्तते ।
+  - प्रत्यक्षं खलु दर्शनं बहु वरं ग्रन्थात् सहस्रादपि
+  - तस्मात् क्षेत्रगतो वणिक् प्रतिदिनं सत्यं विजानाति वै ॥ ८३ ॥
+  words: []
+  prose: Going to the marketplace, the man sees the reality of the business for himself.
+    He seeks out the muddy, boring companies. Direct observation is better than a
+    thousand textbooks; the merchant on the ground knows the truth daily.
+- number: 84
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - श्रुत्वा लोककथां सुसूक्ष्मतया सत्यं विचिन्त्यार्जयेत्
+  - सम्पर्कान् बहुधा प्रयुज्य निपुणो वेत्ति स्वरूपं ध्रुवम् ।
+  - व्यापारे खलु यस्य दोषममलं सर्वं विजानाति सः
+  - तस्यैवास्ति सुसाधनं दृढतरं नूनं स जेता भवेत् ॥ ८४ ॥
+  words: []
+  prose: Listening carefully to the scuttlebutt of the world, he discovers the truth.
+    Using his network, the expert knows the firm's true nature. He who knows every
+    single flaw of a business has solid research and will surely be the victor.
+- number: 85
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यत् किञ्चित् खलु दृश्यते नयनतो नूनं तदेव ध्रुवम्
+  - कालो यत्र च नश्यति प्रतिदिनं मूढस्य वाचामहो ।
+  - तस्माद् या स्वकशोधना ह्यमलिना सैवास्ति रक्षप्रदा
+  - अन्येषां खलु भाषणात् पतति वै गर्तं समूहागतः ॥ ८५ ॥
+  words: []
+  prose: Whatever is seen with one's own eyes is indeed the truth. Time is wasted
+    listening to the chatter of fools. Therefore, pure, independent research is the
+    only armor; following the crowd's speech leads straight into the pit.
+- number: 86
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - स्पर्धा यत्र कुलं निहन्ति सहसा तत्र प्रविश्यान्न हि
+  - यत्रैवास्ति सुदृढवर्मममलं तत्रैव दृष्टिं ददेत् ।
+  - विद्वान् शोधयति प्रबन्धनमहो यत् सत्यरूपं सदा
+  - तस्माद् रक्षणमत्र मुख्यमुदितं लाभस्य मोहात् परम् ॥ ८६ ॥
+  words: []
+  prose: Do not enter where fierce competition destroys the whole family of businesses.
+    Focus only where there is pure, impenetrable armor (an economic moat). The wise
+    man researches the integrity of management; protection is more important than
+    the illusion of profit.
+- number: 87
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - ग्राह्यं तद् वच एव यत् खलु नृणां कार्येण संदृश्यते
+  - मिथ्या ये खलु जल्पते प्रतिदिनं तान् वर्जयेद् दूरतः ।
+  - संस्था यत्र च सत्यमार्गमुदिता सैवास्ति ग्राह्या बुधैः
+  - तस्मात् शोधनमेव मुख्यमुदितं प्राज्ञैः पुरा कीर्तितम् ॥ ८७ ॥
+  words: []
+  prose: Accept only those words of management that are proven by their actions. Keep
+    far away from those who constantly spout falsehoods. The wise only buy the enterprise
+    walking the path of truth; this is the ancient standard of research.
+- number: 88
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कूपे यत् सलिलं सुनिर्मलमहो दृष्ट्वा तदेव पिबेत्
+  - यत्रैवास्ति मलं तदेव विसृजेद् दूरं प्रयायात् पुमान् ।
+  - तद्वद् यत्र हि शुद्धपत्रममलं तत्रैव वित्तं न्यसेत्
+  - दोषाणां खलु शोधनन्तु विहितं कार्यं बुधैः सर्वदा ॥ ८८ ॥
+  words: []
+  prose: Just as one drinks from a well only after seeing the water is crystal clear,
+    one should walk away if there is any dirt. Invest capital only where the balance
+    sheet is spotless; the wise always make it their duty to search for flaws.
+- number: 89
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - बुद्धेः शक्तिरतीव कुण्ठितभवेद् यत्रोदरे सङ्कटम्
+  - धैर्यं यस्य न विद्यते खलु वणिक् नूनं स नश्येद् भृशम् ।
+  - बुद्ध्या शोधनमादरेण कुरुते धैर्येण रक्षत्यहो
+  - इत्थं साधनमत्र मुख्यमुदितं प्राज्ञैः सदा सम्मतम् ॥ ८९ ॥
+  words: []
+  prose: The intellect's power is blunted when the stomach is in a panic. The merchant
+    without emotional fortitude will surely be destroyed. He researches with his brain
+    and holds with his courage; this dual discipline is approved by the wise.
+- number: 90
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कुर्यात् शोधनमेव नित्यममलं प्राप्नोति सिद्धिं ततः
+  - अज्ञानात् खलु यत् कृतं प्रतिदिनं तन्मूढता वर्तते ।
+  - श्रमो यस्य विना न हि खलु फलं प्राप्नोति लोके जनः
+  - तस्मात् साधनमेव नित्यममलं प्राज्ञैः सदा कीर्तितम् ॥ ९० ॥
+  words: []
+  prose: He who constantly performs pure research attains success. Investing blindly
+    every day is sheer stupidity. In this world, no man gets the fruit without the
+    labor; therefore, continuous, rigorous research is praised by the masters.
+- number: 91
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - वित्तं नार्जयितुं नृणां हि केवलं भोगार्थमत्रोदितं
+  - किन्तु स्वातन्त्रसिद्धये निपुणधीः सञ्चिन्त्य रक्षेदहो ।
+  - दास्यं यत्र न विद्यते खलु नृणां स्वाधीनता वर्तते
+  - तदेवोन्मदवित्तलाभमफलं लोके विदुः पण्डिताः ॥ ९१ ॥
+  words: []
+  prose: Wealth is not meant merely for consumption; the wise man saves it for the
+    sake of independence. Where there is no servitude and one remains one's own master—that
+    is the only true fruit of wealth.
+- number: 92
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यत्रैवास्ति न मानमत्र महतां यत्रैव लोभाधिकं
+  - तस्माद् दूरतरं प्रयाति वणिजो यस्यैवास्ति धृतिः ।
+  - स्वातन्त्रं परमं धनं खलु विदुस्ते केवलाः साधवः
+  - यैस्तु त्यागमहो विना न हि कदा कार्यं कृतं पावनम् ॥ ९२ ॥
+  words: []
+  prose: Where there is no honor and only excessive greed, the courageous investor
+    stays far away. Those few sages know that the ultimate wealth is the ability to
+    walk away—for without the power to say 'no,' no work remains pure.
+- number: 93
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - कालो याति निरन्तरं न हि कदा सम्पाद्यते सम्पदाम्
+  - द्रव्येणैव जनो ह्यपेक्षतितरां कालं सुखाय स्वकम् ।
+  - यस्तु क्रीणति स्वीयकालममलं प्रज्ञाबलेनात्मनः
+  - स एव वणिजां वरेण्यमुदितः कालस्य जेता नृणाम् ॥ ९३ ॥
+  words: []
+  prose: Time flows eternally and can never be earned back like gold. Through wealth,
+    a man actually seeks to buy back his own time for happiness. He who uses his wisdom
+    to reclaim his hours is the greatest among investors and a conqueror of time.
+- number: 94
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - तृष्णा नैव समाप्यते प्रतिदिनं वर्धेत वै वारिवत्
+  - यस्तु "पर्याप्तम्" इति विबुध्य वसति तस्यैव लक्ष्मीः स्थिरा ।
+  - शून्यं विश्वमिदं भवत्यचिराद् मत्ताय लोभैर्जनैः
+  - सन्तुष्टस्तु स एव वित्तममलं भुङ्क्ते सदा निर्भयः ॥ ९४ ॥
+  words: []
+  prose: Thirst never ends; it grows daily like rising water. Only for him who understands
+    the word 'Enough' does Lakshmi remain stable. The world becomes a void for those
+    drunk on greed, but the contented man enjoys his pure wealth without fear.
+- number: 95
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - लाभे नैव मदं प्रयाति सहसा हानौ न दुःखं भवेत्
+  - यस्तु स्थिरधीः समाहितमनाः पश्येज्जगच्चापलमम् ।
+  - वीचीनां न च नृत्यमत्र मनसः क्षोभं कदाचित् कुरु
+  - स एव परमां गतिं खलु लभेन् मूल्यप्रवक्ता महान् ॥ ९५ ॥
+  words: []
+  prose: He does not become arrogant in profit, nor is he dejected in loss. Steady
+    of mind and composed, he watches the world’s volatility as a mere dance of waves.
+    Such a speaker of value attains the ultimate state of peace.
+- number: 96
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - छद्मना न च वञ्चनेन च कृतं यद् द्रव्यमत्रार्जितं
+  - तन्नूनं दहतीह सर्वममलं यद्वद् वह्निस्तृणम् ।
+  - सत्येनैव निवेशितं निजधनं वर्धेत नित्यं शुभं
+  - तस्माद् निर्मलमानसा वणिजवो जीवन्ति सुख्यं सदा ॥ ९६ ॥
+  words: []
+  prose: Wealth earned through fraud or deception eventually burns everything pure,
+    just as fire consumes straw. But wealth invested with truth grows eternally auspicious;
+    therefore, clear-minded investors live in perpetual happiness.
+- number: 97
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - पुत्रायैव ददाति यस्तु विपुलं वित्तं स मूढो जनः
+  - ज्ञानं यस्तु ददाति मूल्यविमलं स एव तातो वरः ।
+  - संस्कारो ह्यविनश्वरं खलु धनं लोके सदा वर्तते
+  - तस्माद् विवेककथां वदेत् प्रतिपदं प्रज्ञाप्रदीपो जनः ॥ ९७ ॥
+  words: []
+  prose: He who leaves only vast gold to his son is a fool; he who leaves the pure
+    wisdom of value is a true father. Rationality and values are the only imperishable
+    wealth; therefore, let the man who is a lamp of intellect speak of wisdom at every
+    step.
+- number: 98
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - मङ्गरः खलु बुद्धिमन्मननकृद् बफेटः सारवित्
+  - मार्कः कालविभावकः प्रतिपदं लिञ्चः स्वकार्यक्षमः ।
+  - एषां सम्मतमत्र नीतिशतकं मूल्यप्रधानं शुभं
+  - यस्तु पठेत् प्रतिवासरं स हि लभेत् सिद्धिं परां वै ध्रुवम् ॥ ९८ ॥
+  words: []
+  prose: Munger the thinker, Buffett the knower of essence, Marks the observer of
+    cycles, and Lynch the master of his craft—this Nīti-Śatakam, centered on value
+    and approved by their wisdom, brings certain success to whoever reads it daily.
+- number: 99
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - शतं श्लोका इमे हि सारगर्भाः मतिमतां सम्मताः
+  - यैस्तु मूल्यविचारमत्र सततम् सञ्चिन्तितं यत्नतः ।
+  - स्वातन्त्रं च विवेकशुद्धमनसं शान्तिं च नित्यं लभेत्
+  - इति मत्वा निगद्यते विजयिनः पन्था हि तत्वार्थदः ॥ ९९ ॥
+  words: []
+  prose: These hundred verses, filled with essence and approved by the wise, have
+    been composed through a careful meditation on Value. May one find independence,
+    a pure rational mind, and eternal peace—this is the path of the victor that reveals
+    the truth of wealth.
+- number: 100
+  audio_start: 0.0
+  audio_end: 0.0
+  sanskrit_lines:
+  - यस्तु प्राह मुदा स्थितप्रज्ञगुणं पार्थाय युद्धे पुरा
+  - तस्मै श्रीयदुनाथवासुदवहृदे नित्यं नमोऽस्तु स्वयम् ।
+  - तेनैव प्रेरितो ह्ययं कृतमिह ग्रन्थः सुबुद्ध्या सदा
+  - मूल्यनीतिशतकं समर्प्यत इह तस्यैव पादद्वये ॥ १०० ॥
+  words: []
+  prose: To Him who joyfully taught the qualities of the Sthitaprajña to Arjuna on
+    the ancient battlefield—to that Lord Vāsudeva, I bow. Inspired by Him, this work
+    has been completed with a clear mind; this Mūlya-Nīti-Śatakam is now offered at
+    His two feet.

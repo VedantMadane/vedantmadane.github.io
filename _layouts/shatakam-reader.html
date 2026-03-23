@@ -24,6 +24,7 @@ layout: page
         {% endfor %}
       </div>
 
+      {% if verse.words.size > 0 %}
       <div class="word-by-word">
         {% for word in verse.words %}
           <div class="word-group">
@@ -32,9 +33,13 @@ layout: page
           </div>
         {% endfor %}
       </div>
+      {% endif %}
 
-      <div class="prose-translation">
-        <p><strong>Translation:</strong> {{ verse.translation }}</p>
+      <div class="translation-block">
+        {% if verse.poetic %}
+        <div class="poetic-text">{{ verse.poetic | newline_to_br }}</div>
+        {% endif %}
+        <div class="prose-text">{{ verse.prose | newline_to_br }}</div>
       </div>
     </div>
     {% endfor %}

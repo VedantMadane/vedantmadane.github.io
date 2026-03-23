@@ -70,9 +70,19 @@
   color: #7f8c8d;
 }
 
-.prose-translation {
-  font-style: italic;
+.translation-block {
   color: #34495e;
   border-top: 1px solid #eee;
   padding-top: 15px;
+}
+
+.translation-block .poetic-text {
+  font-style: italic;
+  color: #5d6d7e;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.translation-block .prose-text {
+  line-height: 1.65;
 }
