@@ -74,7 +74,7 @@
 - number: 5
   topic: रोकमूल्यम् (Discounted Cash Flow)
   audio_start: 156.0
-  audio_end: 200.43
+  audio_end: 188.85
   sanskrit_lines:
   - भस्मीभूतजगत्स्वपि प्रवहते यद् रोकमूल्यं ध्रुवम्
   - तस्यैवाद्य निपात्य मानममलं मूल्यं विचिन्त्यं बुधैः ।
@@ -87,8 +87,8 @@
     is the one to acquire.
 - number: 6
   topic: यन्त्रभ्रमः (The Ticker Illusion)
-  audio_start: 200.43
-  audio_end: 240.79
+  audio_start: 188.85
+  audio_end: 220.67
   sanskrit_lines:
   - मूर्खाः केवलमत्र यन्त्रपठितं मूल्यं विजानन्ति वै
   - यद् वा कम्पति चित्रपट्टिकतले तत्रैव मत्ता जनाः ।
@@ -100,8 +100,8 @@
     failing to see it, the herd follows illusions to its absolute ruin.
 - number: 7
   topic: सार-छाया-भेदः (Essence vs. Shadow)
-  audio_start: 240.79
-  audio_end: 283.85
+  audio_start: 220.67
+  audio_end: 262.23
   sanskrit_lines:
   - नूनं सारमचिन्त्य केवलमहो क्रीणन्ति ये सत्वरम्
   - वाताहत्यपलायिता इव नरा नश्यन्ति ते सर्वशः ।
@@ -114,8 +114,8 @@
     out of pride.
 - number: 8
   topic: सत्यान्वेषणम् (The Search for Intrinsic Value)
-  audio_start: 283.85
-  audio_end: 334.97
+  audio_start: 262.23
+  audio_end: 303.57
   sanskrit_lines:
   - अन्तर्मूल्यमवश्यमेव विबुधैः कल्प्यं यथार्थं सदा
   - सत्यान्वेषणमन्तरेण हि कृतः सर्वो व्ययो निष्फलः ।
@@ -128,8 +128,8 @@
     inevitable sorrow.
 - number: 9
   topic: मूल्यलाभः (Buying at a Discount)
-  audio_start: 334.97
-  audio_end: 367.55
+  audio_start: 303.57
+  audio_end: 325.0
   sanskrit_lines:
   - अल्पे मूल्यपदे महार्घविभवं प्राप्नोति धीरो वणिक्
   - यत्रैवास्ति न शङ्कया कलुषितं स्वच्छं सुलाभं ध्रुवम् ।
@@ -141,8 +141,8 @@
     pure act that protects the fool from falling into a deep pit of his own ignorance.
 - number: 10
   topic: उपेक्षित-निधिः (The Ignored Treasure)
-  audio_start: 367.55
-  audio_end: 410.75
+  audio_start: 325.0
+  audio_end: 366.0
   sanskrit_lines:
   - सत्यं गोपितमस्ति पत्रनिचये ज्ञात्वा तदेवार्जयेत्
   - लोकाः यत् खलु संवदन्ति बहुधा तत्रैव भीतिर्मता ।
@@ -154,8 +154,8 @@
     there is great profit. Thus does the patient merchant seize the priceless.
 - number: 11
   topic: कालचक्रम् (The Pendulum of Time)
-  audio_start: 410.75
-  audio_end: 455.63
+  audio_start: 366.0
+  audio_end: 422.15
   sanskrit_lines:
   - कालेनैव चलन्ति सर्वविषया दोलायमाना भृशम्
   - लोभात्तुङ्गशिखां स्पृशन्ति सहसा भीत्या पतन्त्यप्यधः ।
@@ -176,8 +176,8 @@
       The Illusion of Eternal Growth (Trees do not grow to the sky), Contrarian accumulation.
 - number: 12
   topic: ऋतुपरिवर्तनम् (The Seasons of the Market)
-  audio_start: 455.63
-  audio_end: 488.25
+  audio_start: 422.15
+  audio_end: 479.93
   sanskrit_lines:
   - ग्रीष्मो याति ततः परं हि नियतं वर्षर्त्तुरेवागमे
   - तद्वद् वृद्धिरनन्तरं पतनमेवास्ते हि चक्रे सदा ।
@@ -189,7 +189,7 @@
     long; therefore, he who understands timing becomes the victorious man.
 - number: 13
   topic: अनन्तवृद्धि-भ्रमः (The Illusion of Eternal Growth)
-  audio_start: 488.25
+  audio_start: 479.93
   audio_end: 534.83
   sanskrit_lines:
   - मूढाः शाश्वतवृद्धिमत्र जगति ध्यायन्ति गर्वान्विताः
@@ -203,7 +203,7 @@
 - number: 14
   topic: माध्यप्रत्यावर्तनम् (Mean Reversion)
   audio_start: 534.83
-  audio_end: 573.37
+  audio_end: 590.87
   sanskrit_lines:
   - सर्वं याति निजस्वभावमचिरात् कालस्य वश्याद् ध्रुवम्
   - अत्यन्तं यदि वर्धते पतनमेवास्ते तयोरावृतम् ।
@@ -215,8 +215,8 @@
     by nature; knowing this, the wise man is never surprised when panic arises.
 - number: 15
   topic: इतिहासपुनरावृत्तिः (History Repeats)
-  audio_start: 573.37
-  audio_end: 608.85
+  audio_start: 590.87
+  audio_end: 633.09
   sanskrit_lines:
   - चक्रेऽस्मिन् भ्रमति प्रपञ्चमखिलं नूतनं न किञ्चिद् भवेत्
   - पूर्वं यच्च बभूव तच्च पुनरप्यायाति कालेन वै ।
@@ -229,8 +229,8 @@
     attains true wealth.
 - number: 16
   topic: विपत्काले प्रवेशः (Entering in Panic)
-  audio_start: 608.85
-  audio_end: 654.49
+  audio_start: 633.09
+  audio_end: 681.79
   sanskrit_lines:
   - ज्ञात्वा कालविपर्ययं मतिमता स्थातव्यमत्र स्थिरम्
   - यत्रैवास्ति भयं जनाः खलु तदा त्रस्ताः पलायन्ति वै ।
@@ -242,8 +242,8 @@
     the price is low. Time grants everything easily to the one whose strength is patience.
 - number: 17
   topic: भय-लोभ-विपर्ययः (The Inversion of Greed and Fear)
-  audio_start: 654.49
-  audio_end: 702.63
+  audio_start: 681.79
+  audio_end: 722.07
   sanskrit_lines:
   - यत्रैवास्ति भयं जनेषु विपुलं तत्रैव लाभो महान्
   - यत्रैवास्ति मदो जनेषु बहुलः तत्रैव मृत्युर्ध्रुवम् ।
@@ -256,8 +256,8 @@
     time.
 - number: 18
   topic: कालप्रकोपः (The Wrath of Time)
-  audio_start: 702.63
-  audio_end: 751.09
+  audio_start: 722.07
+  audio_end: 760.0
   sanskrit_lines:
   - लोभेन प्रविशन्ति यत्र मनुजास्तत्रैव मृत्युर्ध्रुवम्
   - कालो ग्रसति सर्वमत्र सहसा मूढान् मदोन्मादितान् ।
@@ -269,7 +269,7 @@
     he stands in the cycle: his great wealth never perishes in this world.'
 - number: 19
   topic: कालचेष्टा (The Behavior of Time)
-  audio_start: 751.09
+  audio_start: 760.0
   audio_end: 801.37
   sanskrit_lines:
   - दोलायाः पतनं विलोक्य विबुधो गृह्णाति मूल्यं शुभम्
@@ -296,7 +296,7 @@
 - number: 21
   topic: वटवृक्षन्यायः (The Banyan Tree)
   audio_start: 843.47
-  audio_end: 895.73
+  audio_end: 891.07
   sanskrit_lines:
   - न्यस्तं बीजमिवाल्पमूल्यमपि यद् द्रव्यं क्षितौ वर्धते
   - कालेनैव विशालशाखविटपं न्यग्रोधरूपं गतम् ।
@@ -316,7 +316,7 @@
       hidden moth.
 - number: 22
   topic: हिमपिण्डन्यायः (The Snowball Effect)
-  audio_start: 895.73
+  audio_start: 891.07
   audio_end: 929.11
   sanskrit_lines:
   - शैलाग्रात् पतितो हि तुच्छहिमलवो रूपं बृहद् धारयेत्
@@ -747,7 +747,7 @@
 - number: 48
   topic: सामान्यकार्यम् (The Beauty of the Boring Business)
   audio_start: 1933.85
-  audio_end: 1986.07
+  audio_end: 1978.23
   sanskrit_lines:
   - यत् कार्यं मलिनं च नीरसतमं तत्रैव सुवर्णकम्
   - गुप्तं पश्यति तं न कोऽपि मनुजो मूर्खः समूहो भुवि ।
@@ -769,8 +769,8 @@
     hide.'
 - number: 49
   topic: गूढव्याधिः (The Balance Sheet / Avoiding Debt)
-  audio_start: 1986.07
-  audio_end: 2021.23
+  audio_start: 1978.23
+  audio_end: 2013.07
   sanskrit_lines:
   - प्रासादस्य हि सौष्ठवं न हि वरं भित्तिं विना पश्यताम्
   - ऋणं कीटकवत् सदा निशि भृशं भक्षत्यदृश्यं द्रुमम् ।
@@ -793,7 +793,7 @@
     its walls.'
 - number: 50
   topic: दृढनिश्चयः (The Ultimate Conviction)
-  audio_start: 2021.23
+  audio_start: 2013.07
   audio_end: 2105.82
   sanskrit_lines:
   - वातैरुन्मथितं यदा भवति वै त्यज्येन्न च स्वं धनम्
