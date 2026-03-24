@@ -724,7 +724,7 @@
 - number: 47
   topic: प्रत्यक्षप्रमाणम् (Boots on the Ground)
   audio_start: 1810.0
-  audio_end: 1883.07
+  audio_end: 1843.0
   sanskrit_lines:
   - पश्येन् नैव च तारकाः खलु सदा कक्षोपविष्टास्तथा
   - गच्छेत् आपणमार्गकेषु मनुजः पश्येत् जनैः किं कृतम् ।
@@ -746,8 +746,8 @@
     eyes.'
 - number: 48
   topic: सामान्यकार्यम् (The Beauty of the Boring Business)
-  audio_start: 1883.07
-  audio_end: 1960.27
+  audio_start: 1843.0
+  audio_end: 1933.85
   sanskrit_lines:
   - यत् कार्यं मलिनं च नीरसतमं तत्रैव सुवर्णकम्
   - गुप्तं पश्यति तं न कोऽपि मनुजो मूर्खः समूहो भुवि ।
@@ -769,8 +769,8 @@
     hide.'
 - number: 49
   topic: गूढव्याधिः (The Balance Sheet / Avoiding Debt)
-  audio_start: 1960.27
-  audio_end: 2041.33
+  audio_start: 1933.85
+  audio_end: 2013.07
   sanskrit_lines:
   - प्रासादस्य हि सौष्ठवं न हि वरं भित्तिं विना पश्यताम्
   - ऋणं कीटकवत् सदा निशि भृशं भक्षत्यदृश्यं द्रुमम् ।
@@ -793,7 +793,7 @@
     its walls.'
 - number: 50
   topic: दृढनिश्चयः (The Ultimate Conviction)
-  audio_start: 2041.33
+  audio_start: 2013.07
   audio_end: 2105.82
   sanskrit_lines:
   - वातैरुन्मथितं यदा भवति वै त्यज्येन्न च स्वं धनम्
