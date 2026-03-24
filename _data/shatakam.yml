@@ -555,7 +555,7 @@
 - number: 39
   topic: गगनवृक्ष-भ्रमः (Trees Growing to the Sky)
   audio_start: 1534.21
-  audio_end: 1565.37
+  audio_end: 1565.0
   sanskrit_lines:
   - वृक्षो गच्छति नाम्बरं हि नियतं सत्यं विसृज्य भ्रमात्
   - वाञ्छन्त्यम्बरगामिमूल्यमतुलं स्वप्नेषु मत्ता जनाः ।
@@ -567,7 +567,7 @@
     in daily, only to face a tragic end when they find themselves clinging to a void.
 - number: 40
   topic: बुद्बुद-नाशः (The Bursting Bubble)
-  audio_start: 1565.37
+  audio_start: 1565.0
   audio_end: 1600.0
   sanskrit_lines:
   - पूर्णे तोयनिधौ तरन्ति सहसा गर्वेण सर्वे जनाः
@@ -659,7 +659,7 @@
 - number: 44
   topic: बालबोधः (The Two-Minute Drill)
   audio_start: 1743.65
-  audio_end: 1802.53
+  audio_end: 1778.0
   sanskrit_lines:
   - बालं यस्तु न बोधयेत् स्वकगिरा व्यापारमूलं स्फुटम्
   - त्यक्त्वा पत्रकजालमाशु स पुमान् गच्छेत् प्रशान्तो गृहात् ।
@@ -678,8 +678,8 @@
     Ownership demands a mind that reaches to the root, truth is never in the name.'
 - number: 45
   topic: अजेयमेरुः (The Economic Moat)
-  audio_start: 1802.53
-  audio_end: 1859.61
+  audio_start: 1778.0
+  audio_end: 1793.59
   sanskrit_lines:
   - कुर्यात् तत्र निजं हि राज्यमचलं दुर्गं सुविस्तीर्णकम्
   - खाता यत्र च निम्नगा खलु सदा नक्रैश्च पूर्णा दृढा ।
@@ -701,8 +701,8 @@
     gold.'
 - number: 46
   topic: स्वचलितरथः (The "Idiot-Proof" Business)
-  audio_start: 1859.61
-  audio_end: 1909.79
+  audio_start: 1793.59
+  audio_end: 1810.0
   sanskrit_lines:
   - अन्वेष्या खलु सा हि कार्यपदवी या मूर्खसञ्चालिता
   - कालेनापि हि कश्चिदेव जडधीर्नूनं भवेन् नायकः ।
@@ -723,8 +723,8 @@
     endures.'
 - number: 47
   topic: प्रत्यक्षप्रमाणम् (Boots on the Ground)
-  audio_start: 1909.79
-  audio_end: 1960.27
+  audio_start: 1810.0
+  audio_end: 1883.07
   sanskrit_lines:
   - पश्येन् नैव च तारकाः खलु सदा कक्षोपविष्टास्तथा
   - गच्छेत् आपणमार्गकेषु मनुजः पश्येत् जनैः किं कृतम् ।
@@ -746,8 +746,8 @@
     eyes.'
 - number: 48
   topic: सामान्यकार्यम् (The Beauty of the Boring Business)
-  audio_start: 1960.27
-  audio_end: 2003.73
+  audio_start: 1883.07
+  audio_end: 1960.27
   sanskrit_lines:
   - यत् कार्यं मलिनं च नीरसतमं तत्रैव सुवर्णकम्
   - गुप्तं पश्यति तं न कोऽपि मनुजो मूर्खः समूहो भुवि ।
@@ -769,8 +769,8 @@
     hide.'
 - number: 49
   topic: गूढव्याधिः (The Balance Sheet / Avoiding Debt)
-  audio_start: 2003.73
-  audio_end: 2049.93
+  audio_start: 1960.27
+  audio_end: 2041.33
   sanskrit_lines:
   - प्रासादस्य हि सौष्ठवं न हि वरं भित्तिं विना पश्यताम्
   - ऋणं कीटकवत् सदा निशि भृशं भक्षत्यदृश्यं द्रुमम् ।
@@ -793,7 +793,7 @@
     its walls.'
 - number: 50
   topic: दृढनिश्चयः (The Ultimate Conviction)
-  audio_start: 2049.93
+  audio_start: 2041.33
   audio_end: 2105.82
   sanskrit_lines:
   - वातैरुन्मथितं यदा भवति वै त्यज्येन्न च स्वं धनम्
