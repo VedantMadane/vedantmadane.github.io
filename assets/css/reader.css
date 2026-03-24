@@ -50,12 +50,17 @@
 
 .audio-panel {
   position: sticky;
-  top: 60px; /* Adjust based on your navbar height */
+  top: 56px;
   background: var(--body-bg, #fff);
-  padding: 15px 0;
+  padding: 12px 0;
   z-index: 100;
   border-bottom: 1px solid #eee;
   text-align: center;
+}
+
+.audio-panel audio {
+  width: 100%;
+  max-width: 100%;
 }
 
 .verse-card {
