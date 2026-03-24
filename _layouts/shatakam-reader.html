@@ -12,13 +12,17 @@ layout: page
     {{ content }}
   </div>
   {% endif %}
-  
+
+  {% comment %}Set shatakam_audio: true in the post when assets/audio/shatakam-recitation.mp3 (or shatakam_audio_url) is available.{% endcomment %}
+  {% if page.shatakam_audio == true %}
+  {% assign _audio_src = page.shatakam_audio_url | default: '/assets/audio/shatakam-recitation.mp3' %}
   <div class="audio-panel">
     <audio id="shatakam-audio" controls preload="metadata">
-      <source src="{{ '/assets/audio/shatakam-recitation.mp3' | relative_url }}" type="audio/mpeg">
+      <source src="{{ _audio_src | relative_url }}" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
+  {% endif %}
 
   <div class="verses-wrapper">
     {% for verse in site.data.shatakam %}
@@ -70,4 +74,6 @@ layout: page
 
 </div>
 
+{% if page.shatakam_audio == true %}
 <script src="{{ '/assets/js/reader.js' | relative_url }}"></script>
+{% endif %}
