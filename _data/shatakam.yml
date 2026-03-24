@@ -582,7 +582,7 @@
 - number: 41
   topic: स्वधर्मः (The Circle of Competence)
   audio_start: 1600.0
-  audio_end: 1656.33
+  audio_end: 1638.0
   sanskrit_lines:
   - यो जानाति निजं रणस्य रणभूं स प्राप्नुयाद् वै जयम्
   - अज्ञाते खलु कानने प्रविशता मृत्युर्ध्रुवं दृश्यते ।
@@ -612,8 +612,8 @@
       The danger of hidden debt.
 - number: 42
   topic: ज्ञानसीमा (Knowing the Boundaries of Your Mind)
-  audio_start: 1656.33
-  audio_end: 1708.35
+  audio_start: 1638.0
+  audio_end: 1690.55
   sanskrit_lines:
   - सर्वज्ञो न हि कोऽपि सत्यमवने ज्ञात्वा स्वमज्ञानकम्
   - यो वै पश्यति कार्यमत्र विबुधः स प्राप्नुयाद् सम्पदम् ।
@@ -635,8 +635,8 @@
     trap.'
 - number: 43
   topic: बीजवृक्षः (Behind the Ticker is a Business)
-  audio_start: 1708.35
-  audio_end: 1755.63
+  audio_start: 1690.55
+  audio_end: 1743.65
   sanskrit_lines:
   - मूल्यं पश्यति यः सदा प्रतिदिनं भित्तौ चलं केवलम्
   - संस्था तस्य हि पृष्ठतः खलु भवेद् यन्त्रादिरूपा दृढा ।
@@ -658,8 +658,8 @@
     He who buys a shadow without looking at the gears, is a gambler blind and lost.'
 - number: 44
   topic: बालबोधः (The Two-Minute Drill)
-  audio_start: 1755.63
-  audio_end: 1811.61
+  audio_start: 1743.65
+  audio_end: 1802.53
   sanskrit_lines:
   - बालं यस्तु न बोधयेत् स्वकगिरा व्यापारमूलं स्फुटम्
   - त्यक्त्वा पत्रकजालमाशु स पुमान् गच्छेत् प्रशान्तो गृहात् ।
@@ -678,7 +678,7 @@
     Ownership demands a mind that reaches to the root, truth is never in the name.'
 - number: 45
   topic: अजेयमेरुः (The Economic Moat)
-  audio_start: 1811.61
+  audio_start: 1802.53
   audio_end: 1859.61
   sanskrit_lines:
   - कुर्यात् तत्र निजं हि राज्यमचलं दुर्गं सुविस्तीर्णकम्
