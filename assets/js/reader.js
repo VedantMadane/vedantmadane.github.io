@@ -1,22 +1,28 @@
-document.addEventListener("DOMContentLoaded", function() {
-  const audio = document.getElementById('shatakam-audio');
-  const verses = document.querySelectorAll('.verse-card');
+document.addEventListener("DOMContentLoaded", function () {
+  var audio = document.getElementById("shatakam-audio");
+  var verses = document.querySelectorAll(".verse-card");
 
-  // THE FIX: If there is no audio element, exit silently. The text will still render perfectly.
-  if (!audio) {
-      console.log("Running in text-only mode.");
-      return; 
-  }
+  if (!audio) return;
 
-  audio.addEventListener('timeupdate', () => {
-    let currentTime = audio.currentTime;
-    verses.forEach(verse => {
-      let start = parseFloat(verse.dataset.start) || 0;
-      let end = parseFloat(verse.dataset.end) || 0;
-      if (currentTime >= start && currentTime <= end) {
-        verse.classList.add('highlight');
+  var lastHighlighted = null;
+
+  audio.addEventListener("timeupdate", function () {
+    var t = audio.currentTime;
+    verses.forEach(function (verse) {
+      var start = parseFloat(verse.dataset.start) || 0;
+      var end = parseFloat(verse.dataset.end) || 0;
+      if (start === 0 && end === 0) return;
+
+      if (t >= start && t < end) {
+        if (!verse.classList.contains("highlight")) {
+          verse.classList.add("highlight");
+          if (lastHighlighted !== verse) {
+            verse.scrollIntoView({ behavior: "smooth", block: "center" });
+            lastHighlighted = verse;
+          }
+        }
       } else {
-        verse.classList.remove('highlight');
+        verse.classList.remove("highlight");
       }
     });
   });

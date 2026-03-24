@@ -6,6 +6,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent
 RAW_TXT_PATH = ROOT / "shatakam_raw.txt"
 ENGLISH_TXT_PATH = ROOT / "english.txt"
+TIMINGS_CSV_PATH = ROOT / "verse_times.csv"
 OUT_YML_PATH = ROOT / "_data" / "shatakam.yml"
 
 # First verse of each paddhati (section): chapter_title + chapter_meta for the reader layout.
@@ -341,12 +342,30 @@ def load_english_translations(path: Path) -> dict[int, dict[str, str]]:
     return out
 
 
+def load_audio_timings(path: Path) -> dict[int, tuple[float, float]]:
+    """
+    Load verse_times.csv (verse,start_sec,end_sec) into {verse_number: (start, end)}.
+    Returns empty dict if the file does not exist.
+    """
+    if not path.exists():
+        return {}
+    import csv
+
+    out: dict[int, tuple[float, float]] = {}
+    with path.open(newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            v = int(row["verse"])
+            out[v] = (float(row["start_sec"]), float(row["end_sec"]))
+    return out
+
+
 def generate_shatakam_yaml() -> None:
     if len(VERSE_TOPICS) != 100:
         raise ValueError(f"VERSE_TOPICS must have 100 entries, got {len(VERSE_TOPICS)}")
 
     raw_data = load_verses_from_raw(RAW_TXT_PATH)
     english = load_english_translations(ENGLISH_TXT_PATH)
+    timings = load_audio_timings(TIMINGS_CSV_PATH)
 
     missing = [v["number"] for v in raw_data if v["number"] not in english]
     if missing:
@@ -358,12 +377,13 @@ def generate_shatakam_yaml() -> None:
         n = verse["number"]
         eng = english[n]
         lines = verse["sanskrit"].split("\n")
+        t_start, t_end = timings.get(n, (0.0, 0.0))
 
         entry: dict = {
             "number": n,
             "topic": VERSE_TOPICS[n - 1],
-            "audio_start": verse["audio_start"],
-            "audio_end": verse["audio_end"],
+            "audio_start": t_start,
+            "audio_end": t_end,
             "sanskrit_lines": lines,
             "words": verse["words"],
             "prose": eng["prose"],

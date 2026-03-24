@@ -1,0 +1,6 @@
+# For scripts/plot_chant_spectra.py
+librosa>=0.10.0
+matplotlib>=3.7
+numpy>=1.24
+soundfile>=0.12
+# MP3 support often needs ffmpeg on PATH; pip: pip install audioread
