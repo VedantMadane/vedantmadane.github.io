@@ -1,0 +1,349 @@
+- chapter_id: 1
+  title_sa: "मङ्गलाचरणम्"
+  title_en: "The Invocation"
+  verses:
+    - verse_id: 1
+      meter: "अनुष्टुभ्"
+      sanskrit: |
+        स्वार्थिका सर्वचेष्टा हि मूल्यं व्यक्तिसमाश्रितम् ।
+        प्रणम्य हरिपिङ्गलम् वक्ष्ये स्वाराज्यसाधनम् ॥ १ ॥
+      meaning: "All human endeavor is inherently driven by self-interest, and value is entirely dependent upon the individual. Paying respects to the Sage Hari Piṅgala, I shall now declare the instrument to absolute personal sovereignty."
+
+- chapter_id: 2
+  title_sa: "पाशप्रकरणम्"
+  title_en: "The Chapter on Snares"
+  traps:
+    - trap_id: 1
+      name_sa: "अस्मितापाशः"
+      name_en: "The Identity Trap"
+      diagnosis_verse:
+        verse_id: 2
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          अन्यः स्यामिति या भ्रान्तिरन्ये वा स्युर्मया समाः ।
+          स एवास्मितापाशोऽयं स्वाराज्यपरिपन्थकः ॥ २ ॥
+        meaning: "The delusion 'I should be someone else' or 'others should be exactly like me'—that alone is the Snare of Identity, the highwayman on the road to absolute self-rule."
+      escape_verse:
+        verse_id: 3
+        meter: "उपजाति"
+        sanskrit: |
+          स्वभावमेकं मनुजोऽनुगच्छन्
+          न चान्यचित्तं परिवर्तयेत ।
+          त्यक्त्वा तु पाशं परकल्पितं वै
+          स्वाराज्यमेति प्रतिपन्नबुद्धिः ॥ ३ ॥
+        meaning: "Pursuing one's own inherent nature alone, a man should not attempt to alter the mind of another. Having abandoned the snare fashioned by others, he of resolute intellect attains self-rule."
+
+    - trap_id: 2
+      name_sa: "बुद्धिपाशः"
+      name_en: "The Intellectual Trap"
+      diagnosis_verse:
+        verse_id: 4
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          केवलं बुद्धिमाश्रित्य भाववेगान् निरोधति ।
+          तर्केणैवाखिलं पश्यन् बुद्धिपाशे स बध्यते ॥ ४ ॥
+        meaning: "Relying solely on the intellect, he who suppresses emotional impulses and views the entire world through logic alone becomes trapped in the snare of the intellect."
+      escape_verse:
+        verse_id: 5
+        meter: "उपजाति"
+        sanskrit: |
+          भावान् प्रकृत्या सहजान् विदित्वा
+          बुद्धिं तु कार्येषु नियोजयेत् सः ।
+          तर्केण लोकं न हि बोधयेत् यः
+          यथार्थबोधाद् लभते स्वाराज्यम् ॥ ५ ॥
+        meaning: "Recognizing emotions as innately natural, he employs the intellect purely for execution. He who does not attempt to convince the world through logic attains self-rule through an exact understanding of reality."
+
+    - trap_id: 3
+      name_sa: "वेगपाशः"
+      name_en: "The Emotional Trap"
+      diagnosis_verse:
+        verse_id: 6
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          तीव्रेण भाववेगेन मूढः सङ्कल्पमाचरेत् ।
+          शाश्वतोऽयमिति भ्रान्त्या वेगपाशे निमज्जति ॥ ६ ॥
+        meaning: "The deluded man makes binding decisions during an intense emotional surge. Thinking 'this feeling is permanent,' he drowns in the snare of momentum."
+      escape_verse:
+        verse_id: 7
+        meter: "उपजाति"
+        sanskrit: |
+          उदेति भावः पततीति मत्वा
+          शान्ते च चित्ते कुरुते विचारम् ।
+          न वेगकाले नियमं करोति
+          स्वाराज्यमाप्नोति विमुक्तपाशः ॥ ७ ॥
+        meaning: "Knowing that emotion rises and falls, he deliberates only when the mind is still. He makes no binding rule during the surge, thereby attaining absolute self-rule, entirely freed from the snare."
+
+    - trap_id: 4
+      name_sa: "आत्मत्यागपाशः"
+      name_en: "The Altruism (Unselfishness) Trap"
+      diagnosis_verse:
+        verse_id: 8
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          स्वसुखं त्यजते मूढः परार्थं यत्नतः सदा ।
+          गुप्तवाञ्छां हृदि स्थाप्य बध्यते त्यागपाशतः ॥ ८ ॥
+        meaning: "The deluded man constantly abandons his own happiness for the sake of others. Holding a covert expectation in his heart, he is bound by the snare of sacrifice."
+      escape_verse:
+        verse_id: 9
+        meter: "उपजाति"
+        sanskrit: |
+          स्वार्थानुरूपां कृतिमेव विद्यात्
+          न गुप्तमूल्यं हृदये दधाति ।
+          स्वानन्दतुष्टः स तु लोकमध्ये
+          त्यक्त्वा हि पाशं लभते स्वाराज्यम् ॥ ९ ॥
+        meaning: "Recognizing that all action strictly conforms to self-interest, he holds no hidden price in his heart. Satisfied by his own joy while amidst the world, he abandons the snare and attains self-rule."
+
+    - trap_id: 5
+      name_sa: "राज्यभ्रमः"
+      name_en: "The Government Trap"
+      diagnosis_verse:
+        verse_id: 10
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          राज्यमेवाखिलं कुर्यान्मङ्गलं मे प्रदास्यति ।
+          इति मूढो हि विश्वस्य राज्यभ्रमे स बध्यते ॥ १० ॥
+        meaning: "'The state alone can do everything; it will provide my welfare'—thus the deluded man, placing absolute trust, is bound by the illusion of the state."
+      escape_verse:
+        verse_id: 11
+        meter: "उपजाति"
+        sanskrit: |
+          न राज्यशक्तीं प्रतिहन्ति धीरः
+          न चापि तस्मिन् कुरुतेऽवलम्बम् ।
+          निजं प्रपञ्चं विरचय्य वीरः
+          विमुक्तभ्रमो लभते स्वाराज्यम् ॥ ११ ॥
+        meaning: "The wise man neither strikes against the state's power, nor places his dependence upon it. Constructing his own private domain, the hero is freed from the illusion and attains self-rule."
+
+    - trap_id: 6
+      name_sa: "समूहपाशः"
+      name_en: "The Group Trap"
+      diagnosis_verse:
+        verse_id: 12
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          सङ्घेनैव भवेत् कार्यं सर्वसम्मतिरेव हि ।
+          मन्दैः सह चरन् मूढः समूहपाशे बध्यते ॥ १२ ॥
+        meaning: "'Work can only be accomplished by the group; consensus is the only way.' Walking alongside the slow, the deluded man is bound by the snare of the collective."
+      escape_verse:
+        verse_id: 13
+        meter: "उपजाति"
+        sanskrit: |
+          एकाकिनो वेगमखण्डितं यः
+          जानाति नित्यं न च सङ्घमेति ।
+          स्वकीयमार्गेण चरन् स्वतन्त्रः
+          छित्त्वा हि पाशं लभते स्वाराज्यम् ॥ १३ ॥
+        meaning: "He who knows the unbroken momentum of the solitary actor does not surrender to the committee. Moving freely on his own distinct path, he cuts the snare and attains self-rule."
+
+    - trap_id: 7
+      name_sa: "परधर्मपाशः"
+      name_en: "The Morality Trap"
+      diagnosis_verse:
+        verse_id: 14
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          परकीयमयीं नीतिं धर्मोऽयमिति मन्यते ।
+          स्वविवेकं परित्यज्य परधर्मे स बध्यते ॥ १४ ॥
+        meaning: "Assuming 'this is my duty' regarding a code constructed by others, he abandons his own discernment and is bound by the snare of an external code."
+      escape_verse:
+        verse_id: 15
+        meter: "उपजाति"
+        sanskrit: |
+          निजं हि मूल्यं स्वयमेव कृत्वा
+          परोपदेशान् न च मानयेत् यः ।
+          स्वधर्ममार्गेण चरन् प्रकामं
+          छित्त्वा हि पाशं लभते स्वाराज्यम् ॥ १५ ॥
+        meaning: "Establishing his own values, he refuses to blindly honor external dictates. Walking resolutely on his own path of duty, he cuts the snare and attains self-rule."
+
+    - trap_id: 8
+      name_sa: "विषादपाशः"
+      name_en: "The Despair Trap"
+      diagnosis_verse:
+        verse_id: 16
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          अन्ये मे बाधका नित्यं न मे स्वातन्त्र्यमस्ति हि ।
+          इति शोकेन सन्तप्तो विषादपाशबन्धनः ॥ १६ ॥
+        meaning: "'Others are constantly blocking me; I have no freedom.' Tormented by this grief, he is bound by the snare of despondency."
+      escape_verse:
+        verse_id: 17
+        meter: "उपजाति"
+        sanskrit: |
+          न बाधते कोऽपि निजं प्रपञ्चं
+          विकल्पमार्गान् विनिरीक्ष्य धीरः ।
+          त्यक्त्वा विषादं स्वबलं प्रयुञ्जन्
+          छित्त्वा हि पाशं लभते स्वाराज्यम् ॥ १७ ॥
+        meaning: "Realizing no one can truly block his sovereign domain, the wise man continuously observes alternative paths. Abandoning despair and wielding his own strength, he attains self-rule."
+
+    - trap_id: 9
+      name_sa: "अधिकारभ्रमः"
+      name_en: "The Rights Trap"
+      diagnosis_verse:
+        verse_id: 18
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          अधिकाराः प्ररक्षन्ति मामेव नियमास्तथा ।
+          शक्तिहीनं हि विश्वासं कुर्वन् भ्रमे स बध्यते ॥ १८ ॥
+        meaning: "'Abstract rights and rules will protect me.' Placing powerless faith in this, he is trapped by the illusion of entitlement."
+      escape_verse:
+        verse_id: 19
+        meter: "उपजाति"
+        sanskrit: |
+          न पत्रलेखो न च धर्मवाक्यं
+          विना स्वशक्तिं खलु रक्षते त्वाम् ।
+          बलप्रयोगात् निजमार्गरक्षी
+          विमुक्तभ्रमो लभते स्वाराज्यम् ॥ १९ ॥
+        meaning: "Neither written documents nor moral proclamations protect you without your own strength. Guarding his path through the application of his own leverage, he is freed from the illusion."
+
+    - trap_id: 10
+      name_sa: "आदर्शलोकभ्रमः"
+      name_en: "The Utopia Trap"
+      diagnosis_verse:
+        verse_id: 20
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          सम्पूर्णं जगदुद्धार्यं ततः पश्चात् सुखं मम ।
+          असम्भवं प्रतीक्षन् सः आदर्शभ्रमे बध्यते ॥ २० ॥
+        meaning: "'The entire world must be uplifted before I can have my happiness.' Waiting for the impossible, he is trapped in the illusion of an ideal world."
+      escape_verse:
+        verse_id: 21
+        meter: "उपजाति"
+        sanskrit: |
+          सदोषमेव प्रकृतं हि विश्वं
+          न तस्य शुद्धौ समयं क्षिपेत् सः ।
+          अत्रैव काले निजसौख्यभोक्ता
+          विमुक्तभ्रमो लभते स्वाराज्यम् ॥ २१ ॥
+        meaning: "Knowing the world is inherently flawed by nature, he wastes no time trying to purify it. Consuming his own joy in the present moment, he is freed from the illusion."
+
+    - trap_id: 11
+      name_sa: "कोलाहलपाशः"
+      name_en: "The Burning-Issue Trap"
+      diagnosis_verse:
+        verse_id: 22
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          सर्वस्मिन् लोकवादे च मया भागः प्रदातव्यः ।
+          इति व्यर्थश्रमं कुर्वन् कोलाहले स बध्यते ॥ २२ ॥
+        meaning: "'I must participate in every public debate and outrage.' Executing this futile labor, he is bound by the snare of public clamor."
+      escape_verse:
+        verse_id: 23
+        meter: "उपजाति"
+        sanskrit: |
+          परस्य चिन्ता न हि मेऽधिकारः
+          वृथा विवादान् परिवर्जयेत् यः ।
+          स्वकर्ममग्नो ह्यचलो विरक्तः
+          छित्त्वा हि पाशं लभते स्वाराज्यम् ॥ २३ ॥
+        meaning: "'The anxieties of others fall outside my jurisdiction.' He who completely avoids useless debates, immersed solely in his own work—unmoved and detached—attains self-rule."
+
+    - trap_id: 12
+      name_sa: "पूर्वनिवेशपाशः"
+      name_en: "The Previous-Investment Trap"
+      diagnosis_verse:
+        verse_id: 24
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          पूर्वं मे व्ययितो कालो धनं चापि विनाश्यते ।
+          अतो दुःखेऽपि तिष्ठामि निवेशपाशबन्धनः ॥ २४ ॥
+        meaning: "'My previously spent time and wealth will be destroyed.' Due to this, he remains in misery, bound by the snare of prior investment."
+      escape_verse:
+        verse_id: 25
+        meter: "उपजाति"
+        sanskrit: |
+          गतं गतं नैव पुनः प्रयाति
+          भविष्यसौख्यं खलु चिन्तयेत् सः ।
+          त्यक्त्वा हि नष्टं नवमार्गगामी
+          छित्त्वा हि पाशं लभते स्वाराज्यम् ॥ २५ ॥
+        meaning: "What is gone is gone and does not return; he considers only his future utility. Abandoning sunk costs and walking a new path, he attains self-rule."
+
+    - trap_id: 13
+      name_sa: "परिधिपाशः"
+      name_en: "The Box Trap"
+      diagnosis_verse:
+        verse_id: 26
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          निर्गमे कष्टमत्यन्तमत्रैव सहनं वरम् ।
+          भीत्या क्लेशं सहन् नित्यं परिधिपाशे स बध्यते ॥ २६ ॥
+        meaning: "'Escaping is too painful; enduring it right here is better.' Through fear, continuously suffering distress, he is bound in the snare of the boundary."
+      escape_verse:
+        verse_id: 27
+        meter: "उपजाति"
+        sanskrit: |
+          क्षणं हि कष्टं ननु बन्धनात् तु
+          भयं परित्यज्य बहिः प्रयाति ।
+          सोढ्वा हि खेदं चिरसौख्यहेतोः
+          छित्त्वा हि पाशं लभते स्वाराज्यम् ॥ २७ ॥
+        meaning: "Knowing the pain of escape is momentary compared to eternal bondage, he casts off fear and leaves. Enduring the temporary friction for the sake of permanent autonomy, he attains self-rule."
+
+    - trap_id: 14
+      name_sa: "निश्चयभ्रमः"
+      name_en: "The Certainty Trap"
+      diagnosis_verse:
+        verse_id: 28
+        meter: "अनुष्टुभ्"
+        sanskrit: |
+          सर्वं निश्चितमेव स्यान्न भवेत् संशयो मम ।
+          साहसं यो न गृह्णाति निश्चये स हि बध्यते ॥ २८ ॥
+        meaning: "'Everything must be perfectly certain; I can have no risk.' He who refuses to take a leap is bound by the illusion of absolute certainty."
+      escape_verse:
+        verse_id: 29
+        meter: "उपजाति"
+        sanskrit: |
+          अनिश्चितं सर्वमिदं हि विश्वं
+          सम्भाव्यमूल्यानि विमृश्य कार्ये ।
+          कृत्वा तु धीरः सततं प्रयत्नं
+          विमुक्तभ्रमो लभते स्वाराज्यम् ॥ २९ ॥
+        meaning: "Recognizing that this entire universe is uncertain, he acts by analyzing probable values. Making continuous effort with courage, he is freed from the illusion."
+
+- chapter_id: 3
+  title_sa: "स्वाराज्यप्रकरणम्"
+  title_en: "The Chapter on Sovereignty"
+  verses:
+    - verse_id: 30
+      title_sa: "मूल्यवर्धनम्"
+      title_en: "The Cultivation of Value"
+      meter: "अनुष्टुभ्"
+      sanskrit: |
+        स्वमूल्यं वर्धयेत् नित्यं परतन्त्रं विवर्जयेत् ।
+        स्वनिर्भरतयैवैकः स्वाराज्यं विन्दते नरः ॥ ३० ॥
+      meaning: "A man must constantly increase his own market value and entirely abandon dependence on others. It is solely through absolute self-reliance that a man discovers true sovereignty."
+
+    - verse_id: 31
+      title_sa: "प्रतापः तथा प्राचुर्यम्"
+      title_en: "Frame and Abundance"
+      meter: "अनुष्टुभ्"
+      sanskrit: |
+        प्रतापमक्षतं रक्षन् प्राचुर्यभावमाश्रितः ।
+        न स्त्रीहेतोः स्वकं मार्गं त्यजेत् प्राज्ञः कथञ्चन ॥ ३१ ॥
+      meaning: "Maintaining an unbroken presence (Frame) and taking refuge in an mindset of abundance, the wise man never, under any circumstance, abandons his life's path for the sake of a woman."
+
+    - verse_id: 32
+      title_sa: "विनिमयः"
+      title_en: "Voluntary Exchange"
+      meter: "अनुष्टुभ्"
+      sanskrit: |
+        स्वेच्छया विनिमयः कार्यो न कश्चिद् बध्यते बलात् ।
+        यथार्थं जगदालोक्य निरातङ्कः स जीवति ॥ ३२ ॥
+      meaning: "All interactions and trades should be voluntary; no one should be bound by force. Seeing the world exactly as it is, he lives entirely free from anxiety."
+
+- chapter_id: 4
+  title_sa: "फलश्रुतिः"
+  title_en: "The Fruits of Knowledge"
+  verses:
+    - verse_id: 33
+      title_sa: "पाशमुक्तिः"
+      title_en: "Liberation from the Snares"
+      meter: "उपजाति"
+      sanskrit: |
+        पाशान् चतुर्दश विच्छिद्य धीरः
+        स्वयंप्रकाशो विचरत्यसङ्गः ।
+        न राजतन्त्रं न च लोकवादः
+        कदापि तस्यापहिनोति शान्तिम् ॥ ३३ ॥
+      meaning: "Having completely severed the fourteen snares, the wise man moves through the world self-illuminated and unattached. Neither the machinery of the state nor the clamor of public opinion can ever destroy his profound peace."
+
+    - verse_id: 34
+      title_sa: "उपसंहारः"
+      title_en: "The Conclusion"
+      meter: "अनुष्टुभ्"
+      sanskrit: |
+        पिङ्गलस्योपदेशोऽयं हरिणा यः प्रकीर्तितः ।
+        यः शृणोति कृती नित्यं स स्वाराज्ये महीयते ॥ ३४ ॥
+      meaning: "This supreme teaching, proclaimed by the Sage Hari Piṅgala—the capable man who listens to it and integrates it daily is forever glorified in absolute self-rule."
