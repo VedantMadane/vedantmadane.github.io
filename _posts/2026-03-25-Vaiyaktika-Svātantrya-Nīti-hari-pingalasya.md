@@ -1,12 +1,19 @@
 ---
-layout: shatakam-reader
+layout: post
 title: Vaiyaktika-Svātantrya-Nīti
 subtitle: Based on the book 'How I Found Freedom In An Unfree World by Harry Browne (Hari Piṅgalā)
 # Set to true after adding MP3 under assets/audio/ (default file: shatakam-recitation.mp3).
 # Optional: shatakam_audio_url: /assets/audio/your-file.mp3
 # shatakam_audio: true
 ---
-{% for chapter in site.data.shatakam %}
+
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+{% comment %}
+  Data file: _data/hari-pingala.yml → site.data["hari-pingala"]
+  (Do not use site.data.shatakam — that is the flat Mūlya-Nīti śatakam, different shape.)
+{% endcomment %}
+{% for chapter in site.data["hari-pingala"] %}
 
 ## {{ chapter.chapter_id }}. {{ chapter.title_sa }} ({{ chapter.title_en }})
 
