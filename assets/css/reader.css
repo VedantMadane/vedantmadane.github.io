@@ -5,6 +5,38 @@
   margin: 0 auto;
 }
 
+/* Hari Piṅgala / YAML chapter posts (same fonts as śatakam, block layout) */
+.hari-pingala-reader .hari-pingala-chapter > h2 {
+  font-family: 'Noto Serif Devanagari', Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #1a5276;
+  margin: 2rem 0 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.hari-pingala-reader .hari-pingala-chapter:first-child > h2 {
+  margin-top: 0;
+}
+
+.hari-pingala-reader .trap-card > p {
+  margin: 1rem 0 0.5rem;
+  color: #34495e;
+  font-size: 0.95rem;
+}
+
+.hari-pingala-reader .trap-card > p:first-of-type {
+  margin-top: 0;
+}
+
+.hari-pingala-reader .chapter-rule {
+  border: 0;
+  border-top: 1px solid #e8e8e8;
+  margin: 2rem 0;
+}
+
 .shatakam-intro {
   margin-bottom: 1.75rem;
   padding-bottom: 1.25rem;
