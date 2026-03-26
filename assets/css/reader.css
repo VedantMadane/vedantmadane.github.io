@@ -37,6 +37,42 @@
   margin: 2rem 0;
 }
 
+/* Akṣa-hṛdayam reader (meter sections + verses, same Devanagari stack) */
+.aksha-hridaya-reader > h2.meter-heading:first-of-type {
+  margin-top: 0;
+}
+
+.aksha-hridaya-reader .aksha-intro {
+  font-family: 'Noto Serif Devanagari', Georgia, serif;
+  font-size: 1.08rem;
+  line-height: 1.65;
+  color: #2c3e50;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e8e8e8;
+  text-align: center;
+}
+
+.aksha-hridaya-reader .meter-heading {
+  font-family: 'Noto Serif Devanagari', Georgia, serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+  color: #1a5276;
+  margin: 2rem 0 1.25rem;
+  line-height: 1.45;
+}
+
+.aksha-hridaya-reader .aksha-section:first-of-type .meter-heading {
+  margin-top: 0.5rem;
+}
+
+.aksha-hridaya-reader .section-rule {
+  border: 0;
+  border-top: 1px solid #e8e8e8;
+  margin: 2rem 0 0;
+}
+
 .shatakam-intro {
   margin-bottom: 1.75rem;
   padding-bottom: 1.25rem;
