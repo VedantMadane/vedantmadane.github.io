@@ -191,6 +191,62 @@
   margin: 2rem 0 0;
 }
 
+/* Ṛṇa-saṃsthā reader (Devanāgarī + optional IAST source) */
+.rina-reader .work-title-iast {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #1a5276;
+  text-align: center;
+  margin: 0 0 1rem;
+}
+
+.rina-reader .section-head-iast {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #2c3e50;
+  margin: 2rem 0 0.35rem;
+}
+
+.rina-reader .khandam:first-of-type .section-head-iast {
+  margin-top: 0.5rem;
+}
+
+.rina-reader .section-head-en {
+  font-size: 0.95rem;
+  color: #5d6d7e;
+  margin: 0 0 1.25rem;
+}
+
+.rina-reader .iast-details {
+  margin: 0 0 0.75rem;
+  font-size: 0.88rem;
+  color: #5d6d7e;
+}
+
+.rina-reader .iast-details summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.rina-reader .iast-details pre {
+  margin: 0.5rem 0 0;
+  padding: 0.65rem 0.75rem;
+  background: #f4f6f8;
+  border-radius: 6px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.rina-reader .section-rule {
+  border: 0;
+  border-top: 1px solid #e8e8e8;
+  margin: 2rem 0 0;
+}
+
 .shatakam-intro {
   margin-bottom: 1.75rem;
   padding-bottom: 1.25rem;
