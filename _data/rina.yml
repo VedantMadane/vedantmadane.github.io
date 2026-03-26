@@ -48,8 +48,13 @@ sections:
     meter_en: Mandākrāntā
     text_iast: akṣa-kāle yuddha-dravya-dāsa-parigrahaḥ nāṇakānāṃ bahula-pracaro rāṣṭra-mūlam । bhautika-vādaḥ prabhavati
       sadā dāsa-vṛddhyā dharmas-tatra pratikṛti-vidhau jāyate vai ॥ 4 ॥
-    text_sa: अक्ष काले युद्ध द्रव्य दास परिग्रहः नाणकानां बहुल प्रचरो राष्ट्र मूलम् । भौतिक वादः प्रभवति सदा दास वृद्ध्या
-      धर्मस् तत्र प्रतिकृति विधौ जायते वै ॥ ४ ॥
+    text_sa: 'अक्ष-काले युद्ध-द्रव्य-दास-परिग्रहः
+
+      नाणकानां बहुल-प्रचरो राष्ट्र-मूलम् ।
+
+      भौतिक-वादः प्रभवति सदा दास-वृद्ध्या
+
+      धर्मस् तत्र प्रतिकृति-विधौ जायते वै ॥ ४ ॥'
     meaning: The transition to physical coinage during the Axial Age (800 BC – 600 AD) represents a critical juncture where
       the "military-coinage-slavery complex" emerged.1 Kings required coins to pay mercenary armies, who then used these
       coins to purchase goods from local populations.1 To ensure the coins returned to the state, rulers imposed taxes payable
@@ -79,10 +84,7 @@ sections:
       authorities to protect debtors, modern credit is enforced by global institutions like the IMF that prioritize creditors.1
       The U.S. foreign debt functions effectively as a form of tribute, as nations hold Treasury bonds largely because they
       are military protectorates.1 This creates a global system of "moral confusion," where the richest nations are the
-      largest debtors, yet the poorest nations are punished for failing to repay irresponsible loans.1 *Devanāgarī note:*
-      **कझछक** is used here as a Kaṭapayādi-style consonant cluster (क·झ·छ·क read by the usual right-to-left digit rule under
-      the common क-ट-प-य scheme) standing for **1971**—please verify against the exact table you follow before treating it as
-      authoritative.
+      largest debtors, yet the poorest nations are punished for failing to repay irresponsible loans.1
 - slug: dvitiya
   title_iast: 'Dvitīyaḥ Khaṇḍaḥ: Rāṣṭra-Vinaṣṭi-Mīmāṃsā — Viparīta-buddhi-Paddhatiḥ'
   title_en: 'Second section: Why nations fail — the method of inverted intellect'
@@ -138,8 +140,8 @@ sections:
     meter_en: Anuṣṭubh
     text_iast: vitta-grāsa-tri-guṇa-nihito dīna-lokas-tv-anantam klesham bhuñkte tad api kuśalaḥ kośa-yukto viviktā । ṛṇa-vyāptiṃ
       sa khalu kurute bandhu-vargaiḥ samam vai viparīta-buddhyā rakṣati jīvanam ॥ 11 ॥
-    text_sa: वित्तग्रासत्रिगुणनिहितो दीनलोस्त्वनन्तं क्लेशं भुङ्क्ते तदपि कुशलः कोशयुक्तो विविक्ताम् । ऋणव्याप्तिं स
-      खलु कुरुते बन्धुवर्गैः समं वै विपरीतबुद्ध्या रक्षति जीवनम् ॥ ११ ॥
+    text_sa: वित्तग्रासत्रिगुणनिहितो दीनलोस्त्वनन्तं क्लेशं भुङ्क्ते तदपि कुशलः कोशयुक्तो विविक्ताम् । ऋणव्याप्तिं स खलु
+      कुरुते बन्धुवर्गैः समं वै विपरीतबुद्ध्या रक्षति जीवनम् ॥ ११ ॥
     meaning: The financial lives of those living on $2 a day reveal that survival depends on maintaining a complex "portfolio"
       of social and economic relationships.6 In Bangladesh and India, families use "financial diaries" to track every penny,
       highlighting that income irregularity is a greater challenge than low income alone.6 These households often borrow
@@ -163,8 +165,8 @@ sections:
     meter_en: Vasantatilakā
     text_iast: śīghra-buddhis-tv-aliisā syān-manda-buddhiśca jaḍimaḥ ubhayor-mela-bhedena nirṇayo vidyate subhaḥ । yadvat
       kṛṣṇa-vakaḥ purā na viditaḥ siddhānta-haṃsa-bhramaḥ bhāgyasyaiva hi khelanam-atra dṛśyate prāyeṇa loke kila ॥ 13 ॥
-    text_sa: शीघ्रबुद्धिस्त्वलीसा स्यान् । मन्दबुद्धिश्च जडिमः । उभयोर्मेलभेदेन निर्णयो विद्यते सुभः । यद्वत् कृष्णवकः
-      पुरा न विदितः सिद्धान्तहंसभ्रमो भाग्यस्यैव हि खेलनमत्र दृश्यते प्रायेण लोके किल ॥ १३ ॥
+    text_sa: शीघ्रबुद्धिस्त्वलीसा स्यान् । मन्दबुद्धिश्च जडिमः । उभयोर्मेलभेदेन निर्णयो विद्यते सुभः । यद्वत् कृष्णवकः पुरा
+      न विदितः सिद्धान्तहंसभ्रमो भाग्यस्यैव हि खेलनमत्र दृश्यते प्रायेण लोके किल ॥ १३ ॥
     meaning: The "Black Swan" theory and "Fooled by Randomness" emphasize the human inability to grasp nonlinear events
       and pure chance.18 We suffer from "Narrative Fallacy"—the urge to construct coherent stories from random data—and
       "Survivorship Bias," where we study successes (like a few rich survivors of Russian roulette) while ignoring the silent
@@ -202,10 +204,15 @@ sections:
       and misread technological trends led to the destruction of $200 billion in shareholder value.40
   - id: 17
     meter_en: Puṣpitāgrā
-    text_iast: iti kila nirṇaya-vidhi-bhedaiḥ prabhavati tipping-point-iti bhāvyate loke । chasm-iti langhanam-iha ca vighna-hetuṃ
-      position-iti sthiratāṃ prayāti ॥ 17 ॥
-    text_sa: इति किल निर्णय-विधि-भेदैः प्रभवति (tipping-point) इति भाव्यते लोके । (chasm) इति लङ्घनम् इह च विघ्न-हेतुं (position)
-      इति स्थिरतां प्रयाति ॥ १७ ॥
+    text_iast: iti kila nirṇaya-vidhi-bhedaiḥ prabhavati saṃkrānti-kṣaṇaṃ bhāvyate loke । dustaram antaram iha ca vighna-hetuṃ
+      sthirīkaraṇam iti dhruvatāṃ prayāti ॥ 17 ॥
+    text_sa: 'इति किल निर्णय-विधि-भेदैः
+
+      प्रभवति संक्रमण-क्षणं भाव्यते लोके ।
+
+      दुस्तरम् अन्तरम् इह च विघ्न-हेतुं
+
+      स्थिरीकरणम् इति ध्रुवतां प्रयाति ॥ १७ ॥'
     meaning: Malcolm Gladwell’s "Tipping Point" identifies the moment when an idea or product crosses a threshold to spread
       like a virus.44 This requires "Connectors" (social hubs), "Mavens" (knowledge brokers), and "Salesmen" (persuaders).47
       However, Geoffrey Moore’s "Crossing the Chasm" warns that high-tech innovations often fail at the "Chasm" between
@@ -213,10 +220,15 @@ sections:
       niche before expanding—to build the "social proof" that pragmatists demand.49
   - id: 18
     meter_en: Mandākrāntā
-    text_iast: vilar-vākye prabhavati sadā dāsa-nando nṛṇāṃ vai mānasa-yantre dṛḍha-vaśa-vidhau śoṣaṇaṃ dṛśyate vai । pre-suasion
-      ca kila manas-capturing cāldini-yuktyā bhramayatikāñcana-maya-mṛgaṃ nirṇayeṣu pradhānam ॥ 18 ॥
-    text_sa: विलर्-वाक्ये प्रभवति सदा दास-नन्दो नृणां वै मानस-यन्त्रे दृढ-वश-विधौ शोषणं दृश्यते वै । (pre-suasion) च किल
-      (manas-capturing) चाल्दिनि-युक्त्या भ्रमयति काञ्चन-मय-मृगं निर्णयेषु प्रधानम् ॥ १८ ॥
+    text_iast: strīṇāṃ vākye prabhavati sadā māna-lobho nṛṇāṃ vai mānasa-yantre dṛḍha-vaśa-vidhau śoṣaṇaṃ dṛśyate vai ।
+      pūrva-preraṇam atha mano-grahaṇa-yuktyā bhramayati kāñcana-maya-mṛgaṃ nirṇayeṣu pradhānam ॥ 18 ॥
+    text_sa: 'स्त्रीणां वाक्ये प्रभवति सदा मान-लोभो नृणां वै
+
+      मानस-यन्त्रे दृढ-वश-विधौ शोषणं दृश्यते वै ।
+
+      पूर्व-प्रेरणम् अथ मनो-ग्रहण-युक्त्या
+
+      भ्रमयति काञ्चन-मय-मृगं निर्णयेषु प्रधानम् ॥ १८ ॥'
     meaning: Esther Vilar’s "The Manipulated Man" presents a provocative inversion of gender power dynamics, arguing that
       women in industrialized societies often use "soft power"—praise, sex, and emotional gatekeeping—to control men, who
       associate their masculinity with these rewards.52 This aligns with Robert Cialdini’s "Pre-suasion," which argues that

@@ -14,6 +14,9 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 SRC = Path(r"C:\Projects\shatakam\Sanskrit Verse on Debt, Nations, Decisions.txt")
 OUT = ROOT / "_data" / "rina.yml"
+# Workflow: change verse IAST in VERSES_IAST (and/or mixed Devanāgarī in
+# TEXT_SA_OVERRIDES), then run this script. Editing _data/rina.yml by hand is
+# overwritten on every successful run — use overrides or regenerate only.
 
 
 def normalize_iast_for_transliteration(s: str) -> str:
@@ -233,12 +236,34 @@ def extract_prose_blocks(path: Path, verse_indices: list[int], lines: list[str])
     return prose
 
 
-# Mixed IAST–English ślokas: Devanāgarī with Latin technical terms in parentheses
+# IAST overrides for verses that need metrical cleanup or Sanskritized
+# terminology regardless of what is parsed from the source document.
+TEXT_IAST_OVERRIDES: dict[int, str] = {
+    17: (
+        "iti kila nirṇaya-vidhi-bhedaiḥ prabhavati saṃkrānti-kṣaṇaṃ bhāvyate loke । "
+        "dustaram antaram iha ca vighna-hetuṃ sthirīkaraṇam iti dhruvatāṃ prayāti ॥ 17 ॥"
+    ),
+    18: (
+        "strīṇāṃ vākye prabhavati sadā māna-lobho nṛṇāṃ vai mānasa-yantre dṛḍha-vaśa-vidhau "
+        "śoṣaṇaṃ dṛśyate vai । pūrva-preraṇam atha mano-grahaṇa-yuktyā bhramayati "
+        "kāñcana-maya-mṛgaṃ nirṇayeṣu pradhānam ॥ 18 ॥"
+    ),
+}
+
+
+# Mixed IAST–English ślokas: Devanāgarī with display-oriented line breaks
+# where we want the reader to see meter-sensitive pauses.
 TEXT_SA_OVERRIDES: dict[int, str] = {
     # Kaṭapayādi (क=1, झ=9, छ=7, क=1, read consonants right→left → 1971); confirm with your śāstra table.
     6: (
         "कझछक-वर्षे निक्सनः प्राह निश्चितम् स्वर्णेन नैव सम्बन्धो डॉलर-द्रव्यस्य विद्यते । "
         "ऋण-धूमेन गुप्ता वै राष्ट्र-वित्त-स्थितिर्हि सा युद्ध-कोशैः समृद्धा हि दास-यन्त्रं प्रवर्तते ॥ ६ ॥"
+    ),
+    4: (
+        "अक्ष-काले युद्ध-द्रव्य-दास-परिग्रहः\n"
+        "नाणकानां बहुल-प्रचरो राष्ट्र-मूलम् ।\n"
+        "भौतिक-वादः प्रभवति सदा दास-वृद्ध्या\n"
+        "धर्मस् तत्र प्रतिकृति-विधौ जायते वै ॥ ४ ॥"
     ),
     14: (
         "प्रक्रुष्टस्य च मञ्चके किल यथा संकोचशोषभ्रमः । विद्यातर्कमिदं तथैव हि कृतं सत्यस्य विनष्टये । "
@@ -253,12 +278,16 @@ TEXT_SA_OVERRIDES: dict[int, str] = {
         "पुरा न विदितः सिद्धान्तहंसभ्रमो भाग्यस्यैव हि खेलनमत्र दृश्यते प्रायेण लोके किल ॥ १३ ॥"
     ),
     17: (
-        "इति किल निर्णय-विधि-भेदैः प्रभवति (tipping-point) इति भाव्यते लोके । "
-        "(chasm) इति लङ्घनम् इह च विघ्न-हेतुं (position) इति स्थिरतां प्रयाति ॥ १७ ॥"
+        "इति किल निर्णय-विधि-भेदैः\n"
+        "प्रभवति संक्रमण-क्षणं भाव्यते लोके ।\n"
+        "दुस्तरम् अन्तरम् इह च विघ्न-हेतुं\n"
+        "स्थिरीकरणम् इति ध्रुवतां प्रयाति ॥ १७ ॥"
     ),
     18: (
-        "विलर्-वाक्ये प्रभवति सदा दास-नन्दो नृणां वै मानस-यन्त्रे दृढ-वश-विधौ शोषणं दृश्यते वै । "
-        "(pre-suasion) च किल (manas-capturing) चाल्दिनि-युक्त्या भ्रमयति काञ्चन-मय-मृगं निर्णयेषु प्रधानम् ॥ १८ ॥"
+        "स्त्रीणां वाक्ये प्रभवति सदा मान-लोभो नृणां वै\n"
+        "मानस-यन्त्रे दृढ-वश-विधौ शोषणं दृश्यते वै ।\n"
+        "पूर्व-प्रेरणम् अथ मनो-ग्रहण-युक्त्या\n"
+        "भ्रमयति काञ्चन-मय-मृगं निर्णयेषु प्रधानम् ॥ १८ ॥"
     ),
     19: (
         "इत्थं राष्ट्रे च वित्ते किल निविशति यो वा निर्णयः सप्रकारः । विपरीतं तु दृष्ट्वा प्रपश्यति बुधो नैव मोहं प्रयाति । "
@@ -316,7 +345,7 @@ def main() -> int:
 
     verses_out: list[dict] = []
     for idx, iast in enumerate(verses_src, start=1):
-        iast_clean = clean_verse_iast(iast)
+        iast_clean = clean_verse_iast(TEXT_IAST_OVERRIDES.get(idx, iast))
         # English loanwords: transliterate in chunks
         if idx in TEXT_SA_OVERRIDES:
             dev = TEXT_SA_OVERRIDES[idx]
