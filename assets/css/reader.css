@@ -47,10 +47,26 @@
   font-size: 1.08rem;
   line-height: 1.65;
   color: #2c3e50;
+  margin-bottom: 0.75rem;
+  text-align: center;
+}
+
+.aksha-hridaya-reader .aksha-intro-en {
   margin-bottom: 1.75rem;
   padding-bottom: 1.25rem;
   border-bottom: 1px solid #e8e8e8;
+}
+
+.aksha-hridaya-reader .aksha-intro-en .prose-text {
   text-align: center;
+}
+
+.aksha-hridaya-reader .aksha-intro-en .prose-text p {
+  margin-bottom: 0;
+}
+
+.aksha-hridaya-reader .translation-block .translation-label {
+  margin: 0 0 0.35rem;
 }
 
 .aksha-hridaya-reader .meter-heading {

@@ -7,6 +7,11 @@ from pathlib import Path
 
 import yaml
 
+_SCRIPT_DIR = Path(__file__).resolve().parent
+if str(_SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPT_DIR))
+from aksha_hridaya_meanings_en import INTRO_EN, MEANINGS  # noqa: E402
+
 DIG = "०१२३४५६७८९"
 digit_inner = re.compile(rf"^[{DIG}0-9\s]+$")
 
@@ -81,12 +86,20 @@ def parse_txt(path: Path) -> dict:
     flush_verse()
     flush_section()
 
-    return {
+    data = {
         "title_sa": "अक्ष-हृदयम्",
         "title_en": "Akṣa-hṛdayam",
         "intro": "\n".join(intro_lines).strip(),
+        "intro_en": INTRO_EN,
         "sections": sections,
     }
+    for sec in data["sections"]:
+        for v in sec["verses"]:
+            vid = v["id"]
+            if vid not in MEANINGS:
+                raise KeyError(f"Missing English meaning for verse id {vid}")
+            v["meaning"] = MEANINGS[vid]
+    return data
 
 
 def main() -> int:

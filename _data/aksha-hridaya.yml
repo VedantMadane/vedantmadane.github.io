@@ -1,6 +1,7 @@
 title_sa: अक्ष-हृदयम्
 title_en: Akṣa-hṛdayam
 intro: अथ नलोपाख्याने ऋतुपर्ण-नल-संवादे साङ्ख्य-शास्त्र-सम्मत-संभाव्यता-सिद्धान्तः।
+intro_en: In the Nala episode — in the dialogue between Ṛtuparṇa and Nala — the doctrine of probability (*saṃbhāvyatā*), set forth in harmony with sāṅkhya teaching.
 sections:
 - meter: शारदूलविक्रीडितम्
   verses:
@@ -12,6 +13,7 @@ sections:
       यद्वच्छास्त्र-विनिश्चितांश-कलनात् सर्वं विजानात्यसौ
 
       तद्वज्ज्ञेय-समुच्चयेऽल्प-कणिका-ज्ञानेन सिद्धिर्भवेत् ॥ १ ॥'
+    meaning: 'Behold this great *vibhītaka* tree, a mass of branches and twigs: here one does not count every leaf, for many are beyond sight. Just as one who applies the śāstra-fixed rule for inferring parts from the whole understands everything, so in the sum of what is to be known, success comes even from grasping a small particle — do not be deluded.'
   - id: 2
     text: 'नैतद्भाग्य-वशेन केवलमहो नाकास्मिकं वर्तते
 
@@ -20,6 +22,7 @@ sections:
       एकस्मिन् निमिषे यथात्र गणिताः पर्णाः मया कोटिशः
 
       तथाऽक्ष-हृदयेऽपि संभव-कला ज्ञेया न मोहं व्रज ॥ २ ॥'
+    meaning: This does not run on fortune alone, nor is it sheer chance; O Naiṣadha, see the law inherent in this array. As in one blink I count leaves here in crores, so too the art of possible outcomes in the heart of dice must be understood — do not wander in confusion.
   - id: 3
     text: 'काकतालीय-न्यायेन यद्भवति तन्मिथ्या-प्रतीतिर्ध्रुवम्
 
@@ -28,6 +31,7 @@ sections:
       बहूनां हि फलानां मेलन-वशाद् यन्मध्यमं लभ्यते
 
       तदेव हि सत्यं विद्धि नलं भो मा भ्रान्त्य-कूपे पत ॥ ३ ॥'
+    meaning: What arises by the *kākatālīya* maxim is surely false appearance; ever apart from random drift, keep perception clear. What mean arises from combining many outcomes — that alone is truth; know it, O Nala, and do not fall into the well of error.
   - id: 4
     text: 'यथा कृष्ण-हंसो ह्यचिन्तित-गतिः प्रलये समुत्तिष्ठते
 
@@ -36,6 +40,7 @@ sections:
       मर्यादां प्रविभज्य कोश-निचयं दातव्य-मल्पं बुधैः
 
       यथा लभ्यते लाभ-राशि-रधिको नाशं विना सर्वथा ॥ ४ ॥'
+    meaning: As the black swan rises unforeseen when delusion ends, so dread events in the world ever operate beyond (mere) wit. The wise apportion limits and stake a small share of their store, so gain may exceed the stake without ruin in every way.
 - meter: उपजातिः
   verses:
   - id: 5
@@ -46,6 +51,7 @@ sections:
       संभाव्यतायाः परमं रहस्यं
 
       ज्ञात्वा जयस्व क्षणभङ्गुराक्षान् ॥ ५ ॥'
+    meaning: As fate’s own ordinance is fixed — there is neither doubt nor fickleness. Knowing the highest secret of probability, master the dice that last but a moment.
   - id: 6
     text: 'अनन्त-लोकेषु च ये विनीताः
 
@@ -54,6 +60,7 @@ sections:
       यः काल-तत्त्वं कलयेत् सुधीमान्
 
       स एव मर्त्येषु भवेत् कुबेरः ॥ ६ ॥'
+    meaning: Those praised in endless worlds are lucky, not truthful. He who measures the nature of time — he alone among mortals becomes Kubera.
   - id: 7
     text: 'यथैव केली-नियमो गरीयान्
 
@@ -62,24 +69,29 @@ sections:
       तथैव धर्मेऽपि च संपदश्च
 
       मर्याद-रक्षण-विधेः फलन्ति ॥ ७ ॥'
+    meaning: Just as the rule of play is taught as weighty and skilled for growing one’s purse, so in dharma and in wealth the precepts of guarding bounds bear fruit.
 - meter: अनुष्टुप्
   verses:
   - id: 8
     text: 'संभाव्यं द्विविधं प्रोक्तं काल-पुञ्ज-प्रभेदतः।
 
       एकं वैयक्तिकं विद्धि सर्व-लोक-गतं परम् ॥ ८ ॥'
+    meaning: 'The probable is taught as twofold, by distinction of heaps in time: know one as individual, the other as spread through all the world.'
   - id: 9
     text: 'यो न जानाति संभेदं स मुह्यति पदे पदे।
 
       ऋतं चानृत-मिश्रं हि जगदेतच्चराचरम् ॥ ९ ॥'
+    meaning: Whoever fails to know this distinction stumbles at every step; for this world, moving and still, mingles truth and untruth.
   - id: 10
     text: 'त्वं विभीतक-पर्णानां गणनां पश्य तत्त्वतः।
 
       ततः परं प्रवक्ष्यामि कृष्ण-हंस-विनाशनम् ॥ १० ॥'
+    meaning: See the counting of *vibhītaka* leaves as it truly is; then I shall speak of the fall of the black swan (the illusion of the unseen).
   - id: 11
     text: 'अक्ष-हृदय-विज्ञानं गणितं परमं स्मृतम्।
 
       यत्र मोहः क्षयं याति सिद्धिर्भवति शाश्वती ॥ ११ ॥'
+    meaning: Knowledge of the heart of dice is reckoned the highest reckoning; where delusion wanes, success endures.
 - meter: शारदूलविक्रीडितम्
   verses:
   - id: 12
@@ -90,6 +102,7 @@ sections:
       तस्यैव हि संविदो विजयिनी सिद्धा सदा वर्तते
 
       तस्मै गणितात्मने नृपतये तुभ्यं ददाम्येतद ॥ १२ ॥'
+    meaning: He who treats measured exit from play as equal in gain and loss, and in sudden ill outcome stands firm — for him alone winning awareness ever holds; to you, king of mathematical soul, I give this.
   - id: 13
     text: 'साङ्ख्य-प्रसार-विधिना कुरु पङ्क्ति-भेदं
 
@@ -98,6 +111,7 @@ sections:
       शून्यं चैव तथा स्वरूप-कथनं द्वैतं च संमिश्रितं
 
       तथा विश्वमिदं विभाति सकलं संभाव्यता-मण्डले ॥ १३ ॥'
+    meaning: 'By sāṅkhya’s expansion, divide into rows as Piṅgala once fixed for metre — void, twofold nature, duality mixed: so the whole world appears in the round of probability.'
   - id: 14
     text: 'ब्रह्माण्डेषु सहस्रशः प्रतिपदं दन्त-चिकित्सकः
 
@@ -106,6 +120,7 @@ sections:
       तस्यैतज्जननं न कर्म-कुशलं नैवापि वीर्यं खलु
 
       केवल-यादृच्छिक-प्रवहणे कश्चित् समुत्तीर्यते ॥ १४ ॥'
+    meaning: Across myriad worlds, now a dentist is seen as lord of lakhs, now a beggar on the road — birth is not from deed-skill nor mere prowess; one is lifted only in the stream of chance.
   - id: 15
     text: 'अतः सर्वस्व-होमं न कुरु नृपते दाव-वह्नौ कदा
 
@@ -114,20 +129,24 @@ sections:
       विभीतक-तरुः साक्षो गणित-पथ-प्रदर्शकः
 
       अक्ष-हृदय-प्रदानेन कलि-बाधां व्यपोहय ॥ १५ ॥'
+    meaning: So never burn your all, O king, in ruin’s fire; stay within play’s rule, guarding a share of wealth. The *vibhītaka* is witness, pointing the path of reckoning; by this heart-of-dice teaching, cast off Kali’s trouble.
 - meter: अनुष्टुप्
   verses:
   - id: 16
     text: 'शून्ये शून्यता-विलीनं स्यात् सत्ये सत्यं प्रतिष्ठितम्।
 
       संभाव्यता-प्रवाहेऽस्मिन् ज्ञानं नौका-समं स्मृतम् ॥ १६ ॥'
+    meaning: In the void, things dissolve into voidness; in the real, truth stands firm. In this stream of probability, knowledge is likened to a boat.
   - id: 17
     text: 'न लोके कश्चिदन्योऽस्ति यो जानाति भविष्यति।
 
       केवल-प्रज्ञा-बलेन तु परिधिं निश्चिनोति वै ॥ १७ ॥'
+    meaning: No one knows the future as such; yet by intelligence alone one draws the boundary (of what can be said).
   - id: 18
     text: 'इति ते कथितं गुह्यं गणितं परमं पदम्।
 
       विभीतक-तरुं पश्य गणना-कौशलं कुरु ॥ १८ ॥'
+    meaning: Thus the hidden summit of reckoning is told. Gaze at the *vibhītaka* tree; train skill in counting.
 - meter: शारदूलविक्रीडितम्
   verses:
   - id: 19
@@ -138,6 +157,7 @@ sections:
       अक्ष-क्रीडा-कलेय-मस्त-समये तर्केण शुद्धा सती
 
       तव राज्यं तव कीर्ति-मव्यय-पदां दास्यत्यसंशयं खलु ॥ १९ ॥'
+    meaning: As dawn’s sun scatters night, O Nala, so with knowledge’s rays shatter delusion, O king. When dice and the mingled cup run high, clear reason will — without doubt — yield realm and fame that does not fade.
   - id: 20
     text: 'यावत् पर्ण-समूह-जाल-कलना शास्त्रागता दृश्यते
 
@@ -146,28 +166,34 @@ sections:
       नलोऽपि ह्यभिवाद्य तं नृपवरं संप्राप्य विद्यां पराम्
 
       तत्याज कलि-संभवं भ्रम-महो जातो गणित-कोविदः ॥ २० ॥'
+    meaning: While the śāstra-taught mesh of counting leaf-masses is seen, so long the wise may compare worldly fortune. Nala too, bowing to that best of kings, gained supreme learning, shed Kali-born delusion, and became adept in reckoning.
 - meter: अनुष्टुप्
   verses:
   - id: 21
     text: 'शृणु राजन् प्रवक्ष्यामि काल-भेद-निदर्शनम्।
 
       यत्र मुह्यन्ति विद्वांसो गणितागम-पारगाः ॥ २१ ॥'
+    meaning: 'Hear, king: I give an example of how time’s repetition divides cases — where even experts in reckoning lose their way.'
   - id: 22
     text: 'शतेषु द्यूत-कारेषु यदि कश्चिद्विनाशवान्।
 
       षण्णवत्यास्तु साफल्यं समूहे तत्र दृश्यते ॥ २२ ॥'
+    meaning: Among a hundred separate casts (each player once), ninety-six successes appear in that whole cohort — the ensemble looks favorable even when individuals lose.
   - id: 23
     text: 'परन्तु एक एवात्र शत-वारं क्षिपेद्यदि।
 
       तस्य नाशः सुनिश्चितो काल-चक्र-प्रवर्तनात् ॥ २३ ॥'
+    meaning: But if one man here casts a hundred times, his ruin is sure — from time’s wheel turning.
   - id: 24
     text: 'समूह-गणितं भिन्नं काल-प्रवाह-संख्यया।
 
       एतद्विज्ञान-हीनो यः स वै द्यूते प्रणश्यति ॥ २४ ॥'
+    meaning: Ensemble reckoning differs from reckoning by the count of trials in time’s flow; whoever lacks this knowledge perishes at dice.
   - id: 25
     text: 'सत्त्वानामपि सर्वेषां भवितव्यं विचिन्त्य च।
 
       अक्ष-हृदय-तत्त्वज्ञो न कदाचिद् विपद्यते ॥ २५ ॥'
+    meaning: Reflecting on what must be for all beings, one who knows the heart of dice never comes to grief.
 - meter: उपजातिः
   verses:
   - id: 26
@@ -178,6 +204,7 @@ sections:
       यथाऽनुपातेन विवर्धते श्रीः
 
       तथैव खेदः क्षय-काल-जातः ॥ २६ ॥'
+    meaning: If you want your purse to grow, do not stake everything on ruin’s ground; as splendor swells by proportion, so sorrow swells from the season of loss.
   - id: 27
     text: 'लाभांश-मानं प्रविभज्य धीरः
 
@@ -186,6 +213,7 @@ sections:
       यथा लघुर्घात-पथेन संख्या
 
       वर्धेत तद्वत् कुरु भाग-धेयम् ॥ २७ ॥'
+    meaning: Split the gain-fraction, steady soul, and match stake to principal; as numbers grow by least steps, so apportion your shares.
   - id: 28
     text: 'विनाश-बिन्दुं परिहृत्य नित्यं
 
@@ -194,6 +222,7 @@ sections:
       तस्माद् विरक्षेदति-सावधानः
 
       स्व-मूल-कोशं व्यसनैर्विहीनः ॥ २८ ॥'
+    meaning: Ever shy of the ruin-point, while you live you will harvest fruit; so the vigilant guard core wealth, free of calamity.
   - id: 29
     text: 'स्व-चर्म-दानेन विना हि यस्तु
 
@@ -202,6 +231,7 @@ sections:
       तस्योपदेशो न हि सत्य-मूलः
 
       इति प्रविद्धि गणितस्य नीतिम् ॥ २९ ॥'
+    meaning: Who teaches without staking his own hide — his counsel is not truth-rooted; know this as reckoning’s ethic.
   - id: 30
     text: 'यो द्यूत-कारो न ददाति दावं
 
@@ -210,6 +240,7 @@ sections:
       कदापि न स्यात् फल-भागिताऽस्य
 
       विना विपत्त्या निज-प्राण-संस्थे ॥ ३० ॥'
+    meaning: Who plays house yet pays no forfeit of flesh and blood — heed him not; without disaster touching his own life-stake, he never truly shares the fruit.
 - meter: वसन्ततिलका
   verses:
   - id: 31
@@ -220,6 +251,7 @@ sections:
       सामर्थ्य-हीन-मतिरपि च भाग्य-योगात्
 
       तं प्राज्ञ-वर्ग-सहितं मनुते जनौघः ॥ ३१ ॥'
+    meaning: On chance’s open stage, someone reaches fortune’s peak; though weak in judgment, the crowd, by luck’s bond, counts him among the wise.
   - id: 32
     text: 'एतद्धि मौढ्यमखिलं मनुज-प्रकृत्याः
 
@@ -228,6 +260,7 @@ sections:
       हानेस्तु दोष-मखिलं विधि-शासनाय
 
       दत्त्वा स्वयं निरपराध-पदे स्थितः स्यात् ॥ ३२ ॥'
+    meaning: This is human nature’s folly — calling success the fruit of one’s own act, while charging every loss to fate, and standing blameless oneself.
   - id: 33
     text: 'यत् कृष्ण-हंस-पतनं न हि पूर्व-दृष्टं
 
@@ -236,6 +269,7 @@ sections:
       तस्मात् प्रमाण-पथ-वर्जित-दृश्य-जाते
 
       मा संकुरुष्व गणितं गत-काल-मानैः ॥ ३३ ॥'
+    meaning: Where the black swan’s fall was never seen before, ruin’s odds are vast; so do not reckon by past clocks on sights that leave evidence’s road.
   - id: 34
     text: 'मात्रा-वितान-कलनं यदि दीर्घ-पुच्छे
 
@@ -244,6 +278,7 @@ sections:
       यो जाग्रति स्व-धन-रक्षण-बुद्धि-युक्तः
 
       स एव पार-मुपयाति भवाम्बु-राशेः ॥ ३४ ॥'
+    meaning: Even in long-tail spread, the null fall ever sleeps; whoever wakes guarding wealth — he alone reaches the far shore of becoming’s sea.
   - id: 35
     text: 'ज्ञात्वैवमक्ष-हृदयं नल वीत-शोकः
 
@@ -252,28 +287,34 @@ sections:
       नैवास्ति तत्र कलिरुग्र-विनाश-कारी
 
       यत्रास्ति साङ्ख्य-नियमेन जिता च बुद्धिः ॥ ३५ ॥'
+    meaning: Knowing thus the heart of dice, O Nala, quit sorrow; return to enjoy your realm. Fierce ruinous Kali is not there where intellect bows to sāṅkhya’s rule.
 - meter: अनुष्टुप्
   verses:
   - id: 36
     text: 'एवमुक्त्वा ऋतुपर्णो नलं सत्य-पराक्रमम्।
 
       ददौ विद्यां तदा तस्मै अक्ष-हृदय-संज्ञिताम् ॥ ३६ ॥'
+    meaning: So spoke Ṛtuparṇa and gave Nala, true in valor, the science named heart of dice.
   - id: 37
     text: 'तामवाप्य नलो राजा कलि-दोष-विवर्जितः।
 
       गणितस्य प्रतापेन द्यूत-मोहं व्यपोहत ॥ ३७ ॥'
+    meaning: Receiving it, King Nala, freed of Kali’s taint, by reckoning’s power cast off dice-delusion.
   - id: 38
     text: 'ज्ञानमेव परं चक्षुर्ज्ञानमेव परं बलम्।
 
       संभाव्यता-परिज्ञानात् सर्वं करतली-कृतम् ॥ ३८ ॥'
+    meaning: Knowledge is the highest eye, knowledge the highest strength; by full grasp of probability, all is held in the palm.
   - id: 39
     text: 'य इदं शृणुयान्नित्यं संवादं नल-भूपयोः।
 
       गणित-तत्त्व-संयुक्तं स जयेत् सर्व-संकटान् ॥ ३९ ॥'
+    meaning: Whoever hears daily this dialogue of the two kings, rich in mathematical truth — overcomes every strait.
   - id: 40
     text: 'इति साङ्ख्य-रहस्यं ते कथितं पार्थिवोत्तम।
 
       अक्ष-विद्यां समाश्रित्य जहि शत्रून् स्व-कर्मणा ॥ ४० ॥'
+    meaning: Thus, best of kings, I have told sāṅkhya’s secret; by dice-science strike foes through your own deed.
 - meter: शार्दूलविक्रीडितम्
   verses:
   - id: 41
@@ -284,6 +325,7 @@ sections:
       यावत् सत्य-मिदं भवेत् तदधिकं शून्यत्व-माया-वृतं
 
       सूचना-प्रभवं हि तत्त्व-मखिलं ज्ञानस्य बीजं स्मृतम् ॥ ४१ ॥'
+    meaning: When doubt rises in mind from endless things, reckoning minds still measure it. Truth has its bound; beyond lies void veiled as illusion — all indicated being is knowledge’s seed.
   - id: 42
     text: 'द्वैतस्यैव विकल्प-जाल-रचना यैः पिङ्गलैर्दर्शिता
 
@@ -292,37 +334,46 @@ sections:
       एकं चैव च शून्य-मक्षर-युगं सर्वस्व-निर्माण-कृत्
 
       तस्माद् द्यूत-विधिक्रमोऽपि तदन्तर्गतः संस्थितः ॥ ४२ ॥'
+    meaning: The dual alternative-web the Pingalas showed — that same form is nature’s breath in all calculus; one, void, and the letter-pair build the whole; so gaming’s order dwells within it too.
 - meter: अनुष्टुप्
   verses:
   - id: 43
     text: 'यादृच्छिक-प्रवाहेऽस्मिन् नियमोऽस्ति सुनिश्चितः।
 
       अदृश्योऽपि स विदुषां प्रत्यक्षी-भवति क्षणात् ॥ ४३ ॥'
+    meaning: In this random stream a firm law runs; though unseen, to the learned it flashes clear in an instant.
   - id: 44
     text: 'तस्माद् राजन् समुत्तिष्ठ त्यज शोकं निरर्थकम्।
 
       विद्ययाऽनया सु-सम्पन्नः कुरु राज्यं अकण्टकम् ॥ ४४ ॥'
+    meaning: Therefore rise, king; drop vain grief; armed with this learning, rule without thorn.
   - id: 45
     text: 'पुष्करं जहि सङ्ग्रामे द्यूत-क्रीडा-विशारदम्।
 
       न हि तस्य बलं किञ्चित् संभाव्यता-विदोऽग्रतः ॥ ४५ ॥'
+    meaning: Strike Puṣkara in war, skilled at dice; before one who knows probability his strength is nothing.
   - id: 46
     text: 'अक्ष-सूत्र-मिदं यस्तु धारयत्यन्तरात्मना।
 
       न तं कलिः प्रबाधेत न च द्यूत-पराजयः ॥ ४६ ॥'
+    meaning: Who holds this dice-thread inwardly — neither Kali harms him nor gambling’s defeat.
   - id: 47
     text: 'एतद्विज्ञान-सर्वस्वं मया ते परिकीर्तितम्।
 
       मननेन निदिध्यासात् साक्षात्-कुरु नराधिप ॥ ४७ ॥'
+    meaning: This whole essence I have sung; by thought and steady meditation realize it, lord of men.
   - id: 48
     text: 'विभीतक-तरोर्मूले यद् ज्ञानं समुपागतम्।
 
       तदेव तव जीवस्य मूलाधारं भविष्यति ॥ ४८ ॥'
+    meaning: The knowledge won beneath the *vibhītaka* — that will be your life’s foundation.
   - id: 49
     text: 'नमो गणिताय तस्मै यत्र विश्वं प्रतिष्ठितम्।
 
       नमः प्रज्ञा-स्वरूपाय संभाव्यता-विदे नमः ॥ ४९ ॥'
+    meaning: Homage to reckoning wherein the world rests; homage to wisdom’s form, to knowing probability.
   - id: 50
     text: 'इति ते कथितं सर्वं रहस्यं परमं मया।
 
       कुरुष्व यन्मनो-भीष्टं अक्ष-विद्या-बलाश्रितः ॥ ५० ॥'
+    meaning: Thus the highest secret is told; do as your heart wills, upheld by dice-science’s strength.
