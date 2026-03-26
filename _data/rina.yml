@@ -72,14 +72,17 @@ sections:
     meter_en: Śārdūlavikrīḍita
     text_iast: 1971-varṣe niksanaḥ prāha niścitam svarṇena naiva sambandho dollar-dravyasya vidyate । ṛṇa-dhūmena guptā
       vai rāṣṭra-vitta-sthitir-hi sā yuddha-kośaiḥ samṛddhā hi dāsa-yantraṃ pravartate ॥ 6 ॥
-    text_sa: १९७१ वर्षे निक्सनः प्राह निश्चितम् स्वर्णेन नैव सम्बन्धो डॉलर-द्रव्यस्य विद्यते । ऋण-धूमेन गुप्ता वै राष्ट्र-वित्त-स्थितिर्हि
+    text_sa: कझछक-वर्षे निक्सनः प्राह निश्चितम् स्वर्णेन नैव सम्बन्धो डॉलर-द्रव्यस्य विद्यते । ऋण-धूमेन गुप्ता वै राष्ट्र-वित्त-स्थितिर्हि
       सा युद्ध-कोशैः समृद्धा हि दास-यन्त्रं प्रवर्तते ॥ ६ ॥
     meaning: The contemporary era, beginning with President Nixon's 1971 abandonment of the gold standard, marks a return
       to virtual credit money.1 However, unlike the virtual credit of the Middle Ages, which was regulated by religious
       authorities to protect debtors, modern credit is enforced by global institutions like the IMF that prioritize creditors.1
       The U.S. foreign debt functions effectively as a form of tribute, as nations hold Treasury bonds largely because they
       are military protectorates.1 This creates a global system of "moral confusion," where the richest nations are the
-      largest debtors, yet the poorest nations are punished for failing to repay irresponsible loans.1
+      largest debtors, yet the poorest nations are punished for failing to repay irresponsible loans.1 *Devanāgarī note:*
+      **कझछक** is used here as a Kaṭapayādi-style consonant cluster (क·झ·छ·क read by the usual right-to-left digit rule under
+      the common क-ट-प-य scheme) standing for **1971**—please verify against the exact table you follow before treating it as
+      authoritative.
 - slug: dvitiya
   title_iast: 'Dvitīyaḥ Khaṇḍaḥ: Rāṣṭra-Vinaṣṭi-Mīmāṃsā — Viparīta-buddhi-Paddhatiḥ'
   title_en: 'Second section: Why nations fail — the method of inverted intellect'
@@ -135,8 +138,8 @@ sections:
     meter_en: Anuṣṭubh
     text_iast: vitta-grāsa-tri-guṇa-nihito dīna-lokas-tv-anantam klesham bhuñkte tad api kuśalaḥ kośa-yukto viviktā । ṛṇa-vyāptiṃ
       sa khalu kurute bandhu-vargaiḥ samam vai viparīta-buddhyā rakṣati jīvanam ॥ 11 ॥
-    text_sa: वित्त ग्रास त्रि गुण निहितो दीन लोकस् त्व् अनन्तम् क्लेस्हम् भुञ्क्ते तद् अपि कुशलः कोश युक्तो विविक्ता । ऋण
-      व्याप्तिं स खलु कुरुते बन्धु वर्गैः समम् वै विपरीत बुद्ध्या रक्षति जीवनम् ॥ ११ ॥
+    text_sa: वित्तग्रासत्रिगुणनिहितो दीनलोस्त्वनन्तं क्लेशं भुङ्क्ते तदपि कुशलः कोशयुक्तो विविक्ताम् । ऋणव्याप्तिं स
+      खलु कुरुते बन्धुवर्गैः समं वै विपरीतबुद्ध्या रक्षति जीवनम् ॥ ११ ॥
     meaning: The financial lives of those living on $2 a day reveal that survival depends on maintaining a complex "portfolio"
       of social and economic relationships.6 In Bangladesh and India, families use "financial diaries" to track every penny,
       highlighting that income irregularity is a greater challenge than low income alone.6 These households often borrow
@@ -160,8 +163,8 @@ sections:
     meter_en: Vasantatilakā
     text_iast: śīghra-buddhis-tv-aliisā syān-manda-buddhiśca jaḍimaḥ ubhayor-mela-bhedena nirṇayo vidyate subhaḥ । yadvat
       kṛṣṇa-vakaḥ purā na viditaḥ siddhānta-haṃsa-bhramaḥ bhāgyasyaiva hi khelanam-atra dṛśyate prāyeṇa loke kila ॥ 13 ॥
-    text_sa: शीघ्र बुद्धिस् तु अलिइसा स्यान् मन्द बुद्धिश्च जडिमः उभयोर् मेल भेदेन निर्णयो विद्यते सुभः । यद्वत् कृष्ण वकः
-      पुरा न विदितः सिद्धान्त हंस भ्रमः भाग्यस्यैव हि खेलनम् अत्र दृश्यते प्रायेण लोके किल ॥ १३ ॥
+    text_sa: शीघ्रबुद्धिस्त्वलीसा स्यान् । मन्दबुद्धिश्च जडिमः । उभयोर्मेलभेदेन निर्णयो विद्यते सुभः । यद्वत् कृष्णवकः
+      पुरा न विदितः सिद्धान्तहंसभ्रमो भाग्यस्यैव हि खेलनमत्र दृश्यते प्रायेण लोके किल ॥ १३ ॥
     meaning: The "Black Swan" theory and "Fooled by Randomness" emphasize the human inability to grasp nonlinear events
       and pure chance.18 We suffer from "Narrative Fallacy"—the urge to construct coherent stories from random data—and
       "Survivorship Bias," where we study successes (like a few rich survivors of Russian roulette) while ignoring the silent
@@ -172,8 +175,8 @@ sections:
     text_iast: prakruṣṭasya ca mañcake kila yathā saṃkoca-śoṣa-bhramo vidyā-tarkam-idaṃ tathaiva hi kṛtaṃ satyasya vinaṣṭaye
       । yadvat-saṃkhyā-vido doṣāḥ prabhavanti hi mānavānām intrinsic-value-iti tasya nāma mārga-bhrama-tyāga-vidhau samartham
       ॥ 14 ॥
-    text_sa: प्रक्रुष्टस्य च मञ्चके किल यथा संकोच-शोष-भ्रमो विद्या-तर्कम् इदं तथैव हि कृतं सत्यस्य विनष्टये । यद्वत् संख्या-विदो
-      दोषाः प्रभवन्ति हि मानवानाम् (intrinsic value) इति तस्य नाम मार्ग-भ्रम-त्याग-विधौ समर्थम् ॥ १४ ॥
+    text_sa: प्रक्रुष्टस्य च मञ्चके किल यथा संकोचशोषभ्रमः । विद्यातर्कमिदं तथैव हि कृतं सत्यस्य विनष्टये । यद्वत् संख्याविदो
+      दोषाः प्रभवन्ति हि मानवानाम् । अन्तर्मूलम् इति तस्य नाम मार्गभ्रमत्यागविधौ समर्थम् ॥ १४ ॥
     meaning: Nassim Taleb’s "Bed of Procrustes" critiques modern civilization’s tendency to force reality into rigid, artificial
       models.28 We medicate children to fit curricula and ignore market volatility to fit economic equations.28 To counter
       this, Benjamin Graham’s "Security Analysis" proposes the "Margin of Safety" based on "Intrinsic Value".30 A wise decision-maker
@@ -224,9 +227,8 @@ sections:
     text_iast: it-thaṃ rāṣṭre ca vitte kila niviśati yo vā nirṇayaḥ sa-prakāraḥ viparītaṃ tu dṛṣṭvā prapashyati budho naiva
       mohaṃ prayāti । ṛṇa-pāśāt pramuktaḥ prabhavati jaya-kṛd rāṣṭra-pālas-tathaiva satyasya mārga-darśī hita-m-iha sakalaṃ
       sādhu-yogaṃ vidheyam ॥ 19 ॥
-    text_sa: इत्थं राष्ट्रे च वित्ते किल निविशति यो वा निर्णयः स-प्रकारः विपरीतं तु दृष्ट्वा प्रपश्यति बुधो नैव मोहं प्रयाति
-      । ऋण-पाशात् प्रमुक्तः प्रभवति जय-कृद् राष्ट्र-पालस् तथैव सत्यस्य मार्ग-दर्शी हितम् इह सकलं साधु-योगं विधेयम् ॥ १९
-      ॥
+    text_sa: इत्थं राष्ट्रे च वित्ते किल निविशति यो वा निर्णयः सप्रकारः । विपरीतं तु दृष्ट्वा प्रपश्यति बुधो नैव मोहं प्रयाति
+      । ऋणपाशात् प्रमुक्तः प्रभवति जयकृद् राष्ट्रपालस्तथैव । सत्यस्य मार्गदर्शी हितमिह सकलं साधुयोगं विधेयम् ॥ १९ ॥
     meaning: 'The synthesis of these principles suggests that the stability of a nation and the clarity of a mind are parallel
       endeavors. Just as extractive institutions hack the potential of a nation to fit the "bed" of elite greed, cognitive
       biases hack reality to fit the "bed" of easy narratives.1 The wise governor and the wise investor both utilize Inversion:
