@@ -1,0 +1,412 @@
+title_sa: कृमिगणितशास्त्रम्
+title_en: Krimi-gaṇita-śāstram
+subtitle_sa: श्रीमहाभारते वनपर्वणि मार्कण्डेययुधिष्ठिरसंवादे
+subtitle_en: From the Mahābhārata, Vana Parva — dialogue of Mārkaṇḍeya and Yudhiṣṭhira
+intro_en: null
+colophon_sa: इति श्रीमहाभारते वनपर्वणि मार्कण्डेययुधिष्ठिरसंवादे कृमिगणितशास्त्रं सम्पूर्णम् ॥
+colophon_en: Thus ends in the Mahābhārata, Vana Parva, the dialogue between Mārkaṇḍeya and Yudhiṣṭhira, entitled Krimi-Gaṇita-Śāstram
+  (The Science of Germs and Mathematics).
+sections:
+- slug: prastavana
+  title_sa: प्रस्तावना
+  title_en: Introduction
+  verses:
+  - id: 1
+    speaker_sa: युधिष्ठिर उवाच
+    speaker_en: युधिष्ठिर उवाच
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'भगवन् कृमयो नाम के सन्तीह कथं प्रभो ।
+
+      व्याधिकारणतां यान्ति किं च तेषां स्वरूपकम् ॥ १॥'
+    padachheda: 'भगवन् | कृमयः | नाम | के | सन्ति | इह | कथम् | प्रभो |
+
+      व्याधि-कारणताम् | यान्ति | किम् | च | तेषाम् | स्वरूपकम् ||'
+    translation: O worshipful one, what are these beings called “germs”? How do they exist here, O Lord? How do they become
+      the cause of disease, and what is their true nature?
+  - id: 2
+    speaker_sa: मार्कण्डेय उवाच
+    speaker_en: मार्कण्डेय उवाच
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'शृणु राजन् प्रवक्ष्यामि गुह्यमेतत् सनातनम् ।
+
+      यथा सूक्ष्मशरीराणि व्याधिं कुर्वन्ति जन्तुषु ॥ २॥'
+    padachheda: 'शृणु | राजन् | प्रवक्ष्यामि | गुह्यम् | एतत् | सनातनम् |
+
+      यथा | सूक्ष्म-शरीराणि | व्याधिम् | कुर्वन्ति | जन्तुषु ||'
+    translation: 'Listen, O King, I shall explain this ancient secret: how these minute bodies cause disease in living beings.'
+- slug: adhyaya-1
+  title_sa: १. महामारीगणितम्
+  title_en: Epidemiology – The Mathematics of Spread
+  verses:
+  - id: 3
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'सूत्रमूलं प्रवक्ष्यामि येन रोगस्य विस्तरः ।
+
+      गण्यते तत्त्वतो राजन् सङ्क्रमाणां च वृद्धितः ॥ ३॥'
+    padachheda: 'सूत्र-मूलम् | प्रवक्ष्यामि | येन | रोगस्य | विस्तरः |
+
+      गण्यते | तत्त्वतः | राजन् | सङ्क्रमाणाम् | च | वृद्धितः ||'
+    translation: I shall explain the mathematical basis by which the spread of disease and the growth of infections are calculated
+      in their true essence, O King.
+  - id: 4
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'आसाद्याः संस्पृश्याश्चोत्तीर्णाश्चेति ते त्रयः ।
+
+      तेषां वृद्धिक्षयौ नित्यं समीकरणयन्त्रितौ ॥ ४॥'
+    padachheda: 'आसाद्याः | संस्पृश्याः | च | उत्तीर्णाः | च | इति | ते | त्रयः |
+
+      तेषाम् | वृद्धि-क्षयौ | नित्यम् | समीकरण-यन्त्रितौ ||'
+    translation: The susceptible, the infected, and the recovered – these are the three. Their increase and decrease are always
+      governed by equations.
+  - id: 5
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'आसाद्यानां क्षयो राजन् संस्पृश्यैः सह सङ्गमात् ।
+
+      संस्पृश्यानां च वृद्धिः स्यादुत्तीर्णाणां च सम्भवः ॥ ५॥'
+    padachheda: 'आसाद्यानाम् | क्षयः | राजन् | संस्पृश्यैः | सह | सङ्गमात् |
+
+      संस्पृश्यानाम् | च | वृद्धिः | स्यात् | उत्तीर्णाणाम् | च | सम्भवः ||'
+    translation: The decrease of the susceptible occurs due to contact with the infected; the infected increase, and the recovered
+      come into being.
+  - id: 6
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'यावता संस्पृश्य एकः करोत्यन्यान् स्पृशः पुनः ।
+
+      सोऽङ्को रोगस्य वीर्याख्यो र-शून्य इति स्मृतः ॥ ६॥'
+    padachheda: 'यावता | संस्पृश्यः | एकः | करोति | अन्यान् | स्पृशः | पुनः |
+
+      सः | अङ्कः | रोगस्य | वीर्य-आख्यः | र-शून्यः | इति | स्मृतः ||'
+    translation: The number by which one infected person makes others infected again is called the “contagion number” (r-śūnyaḥ,
+      i.e., R₀), known as the potency of the disease.
+  - id: 7
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'यद्येकादधिको ह्येष तदा रोगो विवर्धते ।
+
+      यद्यूनस्तु क्षयं याति ज्ञात्वैतत् सुखमाप्नुयात् ॥ ७॥'
+    padachheda: 'यदि | एकात् | अधिकः | हि | एषः | तदा | रोगः | विवर्धते |
+
+      यदि | ऊनः | तु | क्षयम् | याति | ज्ञात्वा | एतत् | सुखम् | आप्नुयात् ||'
+    translation: If this [R₀] is greater than one, then the disease grows; if it is less, it declines. Knowing this, one attains
+      well-being.
+- slug: adhyaya-2
+  title_sa: २. अन्तःशरीरगतिः
+  title_en: Immunology – Within‑Host Dynamics
+  verses:
+  - id: 8
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: उपजातिः
+    meter_en: Upajāti
+    text: 'अथान्तः प्रविशन्त्येते यथा यान्ति विकारताम् ।
+
+      देहे युद्धं च तैः सार्धं गणितेन प्रचक्ष्यते ॥ ८॥'
+    padachheda: 'अथ | अन्तः | प्रविशन्ति | एते | यथा | यान्ति | विकारताम् |
+
+      देहे | युद्धम् | च | तैः | सार्धम् | गणितेन | प्रचक्ष्यते ||'
+    translation: Now, how these [germs] enter inside and bring about disorder, and the battle within the body with them –
+      that is explained through mathematics.
+  - id: 9
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: उपजातिः
+    meter_en: Upajāti
+    text: 'अनार्गला ये खलु दूष्यकोशाः
+
+      प्रहारिणो व्याधिकरा रसज्ञाः ।
+
+      तेषां च सेनापतयो रसज्ञाः
+
+      समीकरैः सङ्ख्यया च प्रसिद्धाः ॥ ९॥'
+    padachheda: 'अनार्गलाः | ये | खलु | दूष्य-कोशाः |
+
+      प्रहारिणः | व्याधि-कराः | रसज्ञाः |
+
+      तेषाम् | च | सेना-पतयः | रसज्ञाः |
+
+      समीकरैः | सङ्ख्यया | च | प्रसिद्धाः ||'
+    translation: The unrestrained harmful cells, the attacking disease-causing ones and the sentinels (immune cells) – their
+      commanders are also sentinels. They are known through equations and numbers.
+  - id: 10
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: उपजातिः
+    meter_en: Upajāti
+    text: 'यथैक एव कृमिरन्तरन्तः
+
+      स्वल्पः सन् दूषयति स्वदेहम् ।
+
+      तथापि तस्य प्रतियोधिनोऽपि
+
+      विकारसङ्ख्या गणितेन गम्या ॥ १०॥'
+    padachheda: 'यथा | एकः | एव | कृमिः | अन्तः-अन्तः |
+
+      स्वल्पः | सन् | दूषयति | स्व-देहम् |
+
+      तथा-अपि | तस्य | प्रतियोधिनः | अपि |
+
+      विकार-सङ्ख्या | गणितेन | गम्या ||'
+    translation: Just as a single germ, being tiny deep inside, damages its own host (body), so too the number of its defenders
+      is knowable through mathematics.
+  - id: 11
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'प्रतिरोधककोशानां वर्धनं पतनं तथा ।
+
+      व्याधिकोशानुबन्धश्च सूत्रैरेतैर्विभाव्यते ॥ ११॥'
+    padachheda: 'प्रतिरोधक-कोशानाम् | वर्धनम् | पतनम् | तथा |
+
+      व्याधि-कोश-अनुबन्धः | च | सूत्रैः | एतैः | विभाव्यते ||'
+    translation: The growth and decline of the defender cells, and the attachment of disease cells – these are analyzed by
+      these equations.
+- slug: adhyaya-3
+  title_sa: ३. विकासगणितम्
+  title_en: Evolutionary Biology – The Mathematics of Adaptation
+  verses:
+  - id: 12
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'कृमयः कालयोगेन लभन्ते नवतां गुणैः ।
+
+      औषधानां च ये घ्नन्ति तान् प्रति क्षिप्रमुत्थितिम् ॥ १२॥'
+    padachheda: 'कृमयः | काल-योगेन | लभन्ते | नवताम् | गुणैः |
+
+      औषधानाम् | च | ये | घ्नन्ति | तान् | प्रति | क्षिप्रम् | उत्थितिम् ||'
+    translation: Germs, through the course of time, acquire new qualities; and toward those medicines which destroy them,
+      they quickly develop resistance.
+  - id: 13
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'प्रतिरोधकशक्तिस्तु वंशानुगणितेन सा ।
+
+      बीजगणिततुल्येन ज्ञायते विबुधैः सदा ॥ १३॥'
+    padachheda: 'प्रतिरोधक-शक्तिः | तु | वंश-अनु-गणितेन | सा |
+
+      बीज-गणित-तुल्येन | ज्ञायते | विबुधैः | सदा ||'
+    translation: That power of resistance is known by the wise through population genetics (lit. lineage‑mathematics), which
+      is comparable to algebra.
+  - id: 14
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: वसन्ततिलका
+    meter_en: Vasantatilakā
+    text: 'सन्निपाते घनत्वं च स्वसंज्ञाप्रेरकं तथा ।
+
+      यत्रैते कुर्वते राजन् सैन्यवद् व्यूहमुद्यतम् ॥ १४॥'
+    padachheda: 'सन्निपाते | घनत्वम् | च | स्व-संज्ञा-प्रेरकम् | तथा |
+
+      यत्र | एते | कुर्वते | राजन् | सैन्य-वत् | व्यूहम् | उद्यतम् ||'
+    translation: And also in dense aggregation, the self‑signal‑triggering (quorum sensing), when these [germs] form an array
+      like an army, O King.
+  - id: 15
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'व्यूहरचनामेतां गणितेन विनिश्चिनु ।
+
+      यदा बहुत्वं सम्प्राप्तास्तदा दोषं प्रकुर्वते ॥ १५॥'
+    padachheda: 'व्यूह-रचनाम् | एताम् | गणितेन | विनिश्चिनु |
+
+      यदा | बहुत्वम् | सम्प्राप्ताः | तदा | दोषम् | प्रकुर्वते ||'
+    translation: 'Understand this formation (or strategy) through mathematics: when they attain a large number, then they
+      cause harm.'
+- slug: adhyaya-4
+  title_sa: ४. अण्वन्तःक्रिया
+  title_en: Molecular Biophysics – The Mathematics of Molecular Interaction
+  verses:
+  - id: 16
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'स्थूलदेहस्य ये भावास्तेषामन्तर्गताः परे ।
+
+      अणवः परमाण्वाख्या यैरियं गतिरीरिता ॥ १६॥'
+    padachheda: 'स्थूल-देहस्य | ये | भावाः | तेषाम् | अन्तः-गताः | परे |
+
+      अणवः | परम-अणु-आख्याः | यैः | इयम् | गतिः | ईरिता ||'
+    translation: The gross body and its constituents have within them subtler entities; these are atoms, called paramāṇus
+      (ultimate particles), by which this [physical] movement is set forth.
+  - id: 17
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'तेषामेव परस्परं मेलनं योग उच्यते ।
+
+      बन्धनं च वियोगश्च द्रव्यसङ्ख्याप्रवर्तितः ॥ १७॥'
+    padachheda: 'तेषाम् | एव | परस्परम् | मेलनम् | योगः | उच्यते |
+
+      बन्धनम् | च | वियोगः | च | द्रव्य-सङ्ख्या-प्रवर्तितः ||'
+    translation: Their mutual combination is called “union”; binding and separation are governed by the number of particles.
+  - id: 18
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'द्रव्यसङ्ख्याबलाद् राजन् संयोगो वा वियोगिता ।
+
+      गणितीयैः क्रमैरेतैर्लभ्यते तत्त्वदर्शिभिः ॥ १८॥'
+    padachheda: 'द्रव्य-सङ्ख्या-बलात् | राजन् | संयोगः | वा | वियोगिता |
+
+      गणितीयैः | क्रमैः | एतैः | लभ्यते | तत्त्व-दर्शिभिः ||'
+    translation: O King, by the power of the number of particles, either union or dissociation is ascertained by those who
+      perceive reality through these mathematical procedures.
+  - id: 19
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'यथा स्थूलं शरीरं स्यादणूनां सञ्चयात्तथा ।
+
+      रोगहेतोश्च संयोगः सूक्ष्मैरेव विधीयते ॥ १९॥'
+    padachheda: 'यथा | स्थूलम् | शरीरम् | स्यात् | अणूनाम् | सञ्चयात् | तथा |
+
+      रोग-हेतोः | च | संयोगः | सूक्ष्मैः | एव | विधीयते ||'
+    translation: Just as the gross body exists from the aggregation of atoms, so the causation of disease is also brought
+      about by the subtle ones alone.
+- slug: adhyaya-5
+  title_sa: ५. गूढसम्बन्धः
+  title_en: 'A Deeper Conceptual Link: “Germ” as a Mathematical Object'
+  verses:
+  - id: 20
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'यच्च किञ्चिदिदं राजन् स्थूलं देहादिकं मतम् ।
+
+      तत्सर्वं सूक्ष्मभागानां समूहः परमार्थतः ॥ २०॥'
+    padachheda: 'यत् | च | किञ्चित् | इदम् | राजन् | स्थूलम् | देह-आदिकम् | मतम् |
+
+      तत् | सर्वम् | सूक्ष्म-भागानाम् | समूहः | परम-अर्थतः ||'
+    translation: Whatever gross thing is conceived, such as the body etc., O King, all that is, in the highest truth, an aggregate
+      of subtle parts.
+  - id: 21
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: शार्दूलविक्रीडितम्
+    meter_en: Śārdūlavikrīḍitam
+    text: 'सूक्ष्मभागः स्वयं राजन् बहुधा भिद्यते पुनः ।
+
+      यत्रैकः सन् द्विधाभूत्वा विश्वं व्याप्नोति लीलया ॥ २१॥'
+    padachheda: 'सूक्ष्म-भागः | स्वयम् | राजन् | बहुधा | भिद्यते | पुनः |
+
+      यत्र | एकः | सन् | द्विधा-भूत्वा | विश्वम् | व्याप्नोति | लीलया ||'
+    translation: The subtle part itself, O King, divides again in manifold ways, where being one, it becomes twofold and effortlessly
+      pervades the universe.
+  - id: 22
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: शार्दूलविक्रीडितम्
+    meter_en: Śārdūlavikrīḍitam
+    text: 'सूक्ष्मबीजमिदं यथा हि गणिते बीजाभिधानं परं
+
+      यस्माज्जायत इत्थमेव जगतां विस्तारसङ्कोचने ।
+
+      देहे व्याधिकरे तथा गणितके तत्त्वं हि तद्ब्रह्मणः
+
+      सूक्ष्मं सूक्ष्मतरं परं प्रकटयत्येकं पृथक्त्वे स्थितम् ॥ २२॥'
+    padachheda: 'सूक्ष्म-बीजम् | इदम् | यथा | हि | गणिते | बीज-अभिधानम् | परम् |
+
+      यस्मात् | जायते | इति | एवम् | जगताम् | विस्तार-सङ्कोचने |
+
+      देहे | व्याधि-करे | तथा | गणितके | तत्त्वम् | हि | तत् | ब्रह्मणः |
+
+      सूक्ष्मम् | सूक्ष्म-तरम् | परम् | प्रकटयति | एकम् | पृथक्त्वे | स्थितम् ||'
+    translation: This subtle seed (germ), just as in mathematics it is called the “seed” (bīja, i.e., the germ of a function),
+      from which the expansion and contraction of worlds arise; similarly in the disease‑causing body and in mathematics,
+      that indeed is the principle of Brahman (the ultimate reality). It reveals the One, existing in multiplicity, as the
+      subtlest of the subtle.
+  - id: 23
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'यथा गणितशास्त्रेऽस्मिन् सूक्ष्मं बीजं प्रकीर्तितम् ।
+
+      तद्वदेव कृमीणां च बीजं व्याधेः प्रवर्तकम् ॥ २३॥'
+    padachheda: 'यथा | गणित-शास्त्रे | अस्मिन् | सूक्ष्मम् | बीजम् | प्रकीर्तितम् |
+
+      तद्वत् | एव | कृमीणाम् | च | बीजम् | व्याधेः | प्रवर्तकम् ||'
+    translation: Just as in this science of mathematics the subtle “seed” (germ of a function) is proclaimed, exactly so is
+      the seed of germs the instigator of disease.
+  - id: 24
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'स्थूलं दृश्यं च यत्किञ्चित् तस्य मूलं हि सूक्ष्मकम् ।
+
+      सूक्ष्माच्च स्थूलमुत्पन्नं गणितेऽपि च दृश्यते ॥ २४॥'
+    padachheda: 'स्थूलम् | दृश्यम् | च | यत् | किञ्चित् | तस्य | मूलम् | हि | सूक्ष्मकम् |
+
+      सूक्ष्मात् | च | स्थूलम् | उत्पन्नम् | गणिते | अपि | च | दृश्यते ||'
+    translation: Whatever gross visible thing exists, its root is indeed the subtle; from the subtle the gross arises, and
+      this is also observed in mathematics.
+  - id: 25
+    speaker_sa: null
+    speaker_en: null
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'एवं सूक्ष्ममहद्भावो गणितागमगोचरः ।
+
+      व्याधिबीजं तथा राजन् द्वयमेकतया स्थितम् ॥ २५॥'
+    padachheda: 'एवम् | सूक्ष्म-महत्-भावः | गणित-आगम-गोचरः |
+
+      व्याधि-बीजम् | तथा | राजन् | द्वयम् | एकतया | स्थितम् ||'
+    translation: Thus the relationship of subtle and gross falls within the domain of mathematical tradition. In the same
+      way, the seed of disease, O King, these two are established as one.
+- slug: upasamhara
+  title_sa: उपसंहारः
+  title_en: Closing
+  verses:
+  - id: 26
+    speaker_sa: मार्कण्डेय उवाच
+    speaker_en: मार्कण्डेय उवाच
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'इति ते कथितं राजन् गुह्याद्गुह्यतरं महत् ।
+
+      गणितं कृमिशास्त्रं च यस्य विज्ञानतो भवेत् ॥ २६॥'
+    padachheda: 'इति | ते | कथितम् | राजन् | गुह्यात् | गुह्य-तरम् | महत् |
+
+      गणितम् | कृमि-शास्त्रम् | च | यस्य | विज्ञानतः | भवेत् ||'
+    translation: 'Thus, O King, I have told you the great secret, more hidden than the hidden: mathematics and the science
+      of germs, by the understanding of which [well‑being] comes.'
+  - id: 27
+    speaker_sa: युधिष्ठिर उवाच
+    speaker_en: युधिष्ठिर उवाच
+    meter_sa: अनुष्टुप्
+    meter_en: Anuṣṭubh
+    text: 'धन्योऽस्म्यनुगृहीतोऽस्मि भगवन् तव वाक्यतः ।
+
+      नमस्ते ब्रह्मविद्यार्थं योगिगम्याय ते नमः ॥ २७॥'
+    padachheda: 'धन्यः | अस्मि | अनुगृहीतः | अस्मि | भगवन् | तव | वाक्यतः |
+
+      नमः | ते | ब्रह्म-विद्य-अर्थम् | योगि-गम्याय | ते | नमः ||'
+    translation: I am blessed, I am favored by your words, O Lord. Salutations to you for the sake of the knowledge of Brahman;
+      salutations to you, who are attainable only by yogins.
