@@ -12,6 +12,16 @@ tags: [sanskrit]
 ---
 By Vedant Madane
 
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="audio-sync-root">
+<div class="audio-panel">
+  <audio controls preload="metadata" data-audio-sync-player>
+    <source src="{{ '/assets/audio/mls-sanskrit-2026-03-22.mp3' | relative_url }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
 Modern generative AI and multi-agent systems rely on dependency parsing, retrieval-augmented memory, logical inference and asynchronous execution. While these concepts feel bleeding-edge, their structural and epistemological foundations were mapped out centuries ago in classical Indian philosophy, linguistics and mathematics.
 
 By synthesizing the computational linguistics of Pāṇini (as explored by Prof. Amba Kulkarni) and the algorithmic rationale of ancient Indian mathematics (highlighted by Prof. K. Ramasubramanian), we can reverse-engineer a state-of-the-art Multi-Agent Machine Learning framework into a classical Sanskrit *Śāstra* (technical treatise).
@@ -20,6 +30,7 @@ This blogpost serves as both a philosophical framework and a technical blueprint
 
 ---
 
+<div class="sync-anchor" data-start="0.0" data-end="9.2"></div>
 ## 📚 The Agentic Machine Learning Lexicon (सन्देश-कोशः)
 
 Before defining the architecture, we must establish our terminology, repurposing classical terms for modern computational paradigms.
@@ -37,6 +48,7 @@ Before defining the architecture, we must establish our terminology, repurposing
 
 ---
 
+<div class="sync-anchor" data-start="9.2" data-end="18.4"></div>
 ## 🏗️ Layer 1: The Macro Architecture (बहुकर्तृतन्त्रम्)
 
 The foundational architecture of the system consists of a central Orchestrator managing multiple specialized Worker Agents. 
@@ -59,6 +71,7 @@ struct BahuKartrTantram {
 
 ---
 
+<div class="sync-anchor" data-start="18.4" data-end="27.6"></div>
 ## 🔄 Layer 2: The Agentic Event Loop (कालचक्रम्)
 
 Agents operate within an asynchronous event loop, constantly reading their Context Window (state) before executing external tools.
@@ -84,6 +97,7 @@ async fn kalacakram(agent: &Abhikarta, codana: &str) -> Result<(), Error> {
 
 ---
 
+<div class="sync-anchor" data-start="27.6" data-end="36.8"></div>
 ## 🧩 Layer 3: Semantic Parsing & JSON Extraction (शाब्दबोध-प्रक्रिया)
 
 How does an LLM know which tool to use? It acts as a Pāṇinian dependency parser, extracting function arguments from natural language and validating them against a strict schema (expectancy).
@@ -110,6 +124,7 @@ fn sabdabodha_validation(json_payload: Value) -> Result<ValidatedArgs, Validatio
 
 ---
 
+<div class="sync-anchor" data-start="36.8" data-end="46.0"></div>
 ## 🤔 Layer 4: Chain-of-Thought Reasoning (अनुमान-पद्धतिः)
 
 Before routing, the agent must employ the ReAct (Reasoning + Acting) paradigm, utilizing logic to determine its execution path.
@@ -138,6 +153,7 @@ async fn yukti_reasoning_loop(agent: &Abhikarta) -> Action {
 
 ---
 
+<div class="sync-anchor" data-start="46.0" data-end="55.2"></div>
 ## ⚡ Layer 5: Parallel Delegation & Synthesis (युगपत्-कार्य-समाहारः)
 
 The Orchestrator breaks down complex prompts, spawning parallel asynchronous tasks, and merging the final outputs.
@@ -170,6 +186,7 @@ async fn samahara_synthesis(sutradhara: &RouterAgent, tasks: Vec<Task>) -> Final
 
 ---
 
+<div class="sync-anchor" data-start="55.2" data-end="64.4"></div>
 ## 🛡️ Layer 6: Self-Correction & Reflection (विमर्श-पद्धतिः)
 
 When a tool throws an error, the system catches the stack trace and reflects upon it to rewrite its prompt.
@@ -203,6 +220,7 @@ async fn execute_with_reflection(agent: &Abhikarta, intent: Action) -> Result<Ob
 
 ---
 
+<div class="sync-anchor" data-start="64.4" data-end="73.6"></div>
 ## 🛑 Layer 7: Human-in-the-Loop Authorization (अनुज्ञा-प्रतीक्षा)
 
 For safety-critical tasks, the system must suspend its state graph and await human authorization.
@@ -231,6 +249,7 @@ async fn route_high_risk_task(agent: &Abhikarta, task: Task) -> Result<Observati
 
 ---
 
+<div class="sync-anchor" data-start="73.6" data-end="82.8"></div>
 ## 📬 Layer 8: Cross-Agent Communication (संवाद-पद्धतिः)
 
 Implementing the Actor Model. Agents do not share memory; they pass messages safely through channels (`mpsc`), mirroring classical philosophical dialogues.
@@ -262,6 +281,7 @@ impl ReviewerAgent {
 
 ---
 
+<div class="sync-anchor" data-start="82.8" data-end="92.57"></div>
 ## 🪔 Conclusion (उपसंहारः)
 *Meter: Anuṣṭubh (अनुष्टुप्)*
 
@@ -272,3 +292,7 @@ impl ReviewerAgent {
 >yantraṃ cetanavat kāryaṃ kuryāt svāmyanuśāsanāt ||
 
 **Translation:** Thus, this system has been expounded for the sake of computational intellects. By the command of its master, the machine shall execute its tasks as if it were a conscious being.
+
+</div>
+
+<script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>
