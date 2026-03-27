@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", function () {
-  var roots = document.querySelectorAll(".audio-sync-root");
+  var players = document.querySelectorAll("[data-audio-sync-player]");
 
-  roots.forEach(function (root) {
-    var audio = root.querySelector("[data-audio-sync-player]");
+  players.forEach(function (audio) {
+    var root = audio.closest(".audio-sync-root") || document;
     var markers = Array.prototype.slice.call(root.querySelectorAll("[data-start][data-end]"));
     var lastTarget = null;
 
-    if (!audio || markers.length === 0) return;
+    if (markers.length === 0) return;
 
     function getTarget(marker) {
       if (marker.classList.contains("sync-anchor")) {

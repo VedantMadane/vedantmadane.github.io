@@ -14,7 +14,6 @@ By Vedant Madane
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
-<div class="audio-sync-root">
 <div class="audio-panel">
   <audio controls preload="metadata" data-audio-sync-player>
     <source src="{{ '/assets/audio/mls-sanskrit-2026-03-22.mp3' | relative_url }}" type="audio/mpeg">
@@ -292,7 +291,5 @@ impl ReviewerAgent {
 >yantraṃ cetanavat kāryaṃ kuryāt svāmyanuśāsanāt ||
 
 **Translation:** Thus, this system has been expounded for the sake of computational intellects. By the command of its master, the machine shall execute its tasks as if it were a conscious being.
-
-</div>
 
 <script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>

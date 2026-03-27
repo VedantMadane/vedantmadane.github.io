@@ -311,7 +311,8 @@
   max-width: 100%;
 }
 
-.audio-sync-root .sync-anchor {
+.audio-sync-root .sync-anchor,
+.sync-anchor {
   display: block;
   height: 0;
   margin: 0;
@@ -320,17 +321,23 @@
 
 .audio-sync-root .audio-sync-target,
 .audio-sync-root h2,
-.audio-sync-root h3 {
+.audio-sync-root h3,
+.audio-sync-target,
+h2[data-start],
+h3[data-start] {
   scroll-margin-top: 120px;
 }
 
-.audio-sync-root .sync-current.audio-sync-target {
+.audio-sync-root .sync-current.audio-sync-target,
+.sync-current.audio-sync-target {
   background: #fffdf0;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 }
 
 .audio-sync-root h2.sync-current,
-.audio-sync-root h3.sync-current {
+.audio-sync-root h3.sync-current,
+h2.sync-current,
+h3.sync-current {
   background: rgba(243, 156, 18, 0.12);
   border-radius: 6px;
   padding: 0.15rem 0.45rem;
