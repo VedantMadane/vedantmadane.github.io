@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   players.forEach(function (audio) {
     var root = audio.closest(".audio-sync-root") || document;
+    var panel = audio.closest(".audio-panel");
     var markers = Array.prototype.slice.call(root.querySelectorAll("[data-start][data-end]"));
     var lastTarget = null;
 
@@ -13,6 +14,22 @@ document.addEventListener("DOMContentLoaded", function () {
         return marker.nextElementSibling;
       }
       return marker;
+    }
+
+    function scrollTargetIntoReadingPosition(target) {
+      var panelOffset = 0;
+      if (panel) {
+        var panelRect = panel.getBoundingClientRect();
+        panelOffset = panelRect.top + panelRect.height;
+      }
+
+      var extraGap = 20;
+      var targetTop = window.scrollY + target.getBoundingClientRect().top - panelOffset - extraGap;
+
+      window.scrollTo({
+        top: Math.max(targetTop, 0),
+        behavior: "smooth",
+      });
     }
 
     audio.addEventListener("timeupdate", function () {
@@ -40,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       if (lastTarget !== nextTarget) {
         nextTarget.classList.add("sync-current");
-        nextTarget.scrollIntoView({ behavior: "smooth", block: "center" });
+        scrollTargetIntoReadingPosition(nextTarget);
         lastTarget = nextTarget;
       }
     });
