@@ -24,7 +24,7 @@ subtitle: Based on the book 'How I Found Freedom In An Unfree World by Harry Bro
 <div class="verse-card">
   <h3 class="verse-number">Verse {{ verse.verse_id }}{% if verse.meter %} <small class="text-muted">(Meter: {{ verse.meter }})</small>{% endif %}</h3>
   {% if verse.title_sa %}
-  <h4 class="verse-topic">{{ verse.title_sa }} — {{ verse.title_en }}</h4>
+  <h4 class="verse-topic">{{ verse.title_sa }} - {{ verse.title_en }}</h4>
   {% endif %}
   <div class="sanskrit-text">{{ verse.sanskrit | newline_to_br }}</div>
   <div class="translation-block">

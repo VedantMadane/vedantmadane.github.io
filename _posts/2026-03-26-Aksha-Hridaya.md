@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Akṣa-hṛdaya
-subtitle: The heart of dice — Ṛtuparṇa and Nala on probability (Sanskrit with English gloss)
+subtitle: The heart of dice - Ṛtuparṇa and Nala on probability (Sanskrit with English gloss)
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
