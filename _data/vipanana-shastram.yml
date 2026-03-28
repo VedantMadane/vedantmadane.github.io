@@ -91,15 +91,19 @@ chapters:
           kṣudhā pipāsā ca śarīra-dharmāḥ māno hi vṛttirhṛdayasya nityā |
           etān parijñāya ca vāṇijo vai karoti lābhaṃ suvīcārya samyak ||
         translation: "Hunger and thirst are mere properties of the body, but the craving for pride and status are eternal habits of the heart. Knowing these distinct drives deeply, the wise merchant reaps his profit."
-      - id: "Śloka 2.2 / The Aftermath of Desire"
+      - id: "Kārikā 2.2 / The Aftermath of Desire"
         title: "पश्चात्तापः (Post-Purchase Regret)"
         meter: "आर्या (Āryā) / अनुष्टुभ् (Anuṣṭubh)"
         sanskrit: |
-          यदाशां लङ्घयेद्वस्तु तदा तुष्यति मानवः । निराशा जायते तीव्रा यदा न्यूनं फलं भवेत् ॥
-          क्रीते च वस्तूनि यदा निराशा तदा हि चित्ते परिताप-वह्निः । सन्तुष्टिरेवात्र परं हि लक्ष्यं न केवलं द्रव्य-विनिमयो वै ॥
+          यदाशां लङ्घयेद्वस्तु तदा तुष्यति मानवः ।
+          निराशा जायते तीव्रा यदा न्यूनं फलं भवेत् ॥
+          क्रीते च वस्तूनि यदा निराशा तदा हि चित्ते परिताप-वह्निः ।
+          सन्तुष्टिरेवात्र परं हि लक्ष्यं न केवलं द्रव्य-विनिमयो वै ॥
         transliteration: |
-          yadāśāṃ laṅghayedvastu tadā tuṣyati mānavaḥ | nirāśā jāyate tīvrā yadā nyūnaṃ phalaṃ bhavet ||
-          krīte ca vastūni yadā nirāśā tadā hi citte paritāpa-vahniḥ | santuṣṭirevātra paraṃ hi lakṣyaṃ na kevalaṃ dravya-vinimayo vai ||
+          yadāśāṃ laṅghayedvastu tadā tuṣyati mānavaḥ |
+          nirāśā jāyate tīvrā yadā nyūnaṃ phalaṃ bhavet ||
+          krīte ca vastūni yadā nirāśā tadā hi citte paritāpa-vahniḥ |
+          santuṣṭirevātra paraṃ hi lakṣyaṃ na kevalaṃ dravya-vinimayo vai ||
         translation: "When an acquired object surpasses expectations, the human is satisfied. But intense despair arises when it falls short. A fire of regret burns in the mind. True commerce seeks psychological satisfaction, not just exchange."
       - id: "Śloka 2.3"
         title: "मार्गदर्शक-प्रभावः (The Power of the Opinion Leader)"
@@ -111,7 +115,7 @@ chapters:
           yad yad krīṇāti śreṣṭho hi tattadevetaro janaḥ |
           tasya pramāṇaṃ yat loke tadeva hyanuvartate ||
         translation: "Whatever the prominent, respected, or aspirational man purchases, the ordinary people also buy. Whatever standard of consumption he sets in the world, the populace faithfully and blindly follows."
-      - id: "Śloka 2.4 / The Force of Habit"
+      - id: "Kārikā 2.4 / The Force of Habit"
         title: "स्वभाव-क्रयः (Habitual & Low-Involvement Buying)"
         meter: "शालिनी (Śālinī) / उपजाति (Upajāti)"
         sanskrit: |
@@ -135,7 +139,7 @@ chapters:
           bālye ca khelana-ratiryuvane ca bhogaḥ vṛddhatva-kāle hyabhayaṃ ca svāsthyam |
           kāle krameṇa parivartati mānavānāṃ vāñchā-pravāha iti nitya-niyamya-satyam ||
         translation: "In childhood, a love for play; in youth, a thirst for enjoyment; In the time of old age, a seeking of security and health. With the passage of time, the flow of human desires transforms; This is the eternal truth."
-      - id: "Śloka 3.1"
+      - id: "Kārikā 3.1"
         title: "अविभाज्य-दोषः (The Flaw of Mass Appeal)"
         meter: "उपजाति (Upajāti)"
         sanskrit: |
@@ -170,7 +174,7 @@ chapters:
     title: "प्रकरण ४: वस्तु-जीवन-चक्रम् (Prakaraṇa 4: The Cycle of the Offering)"
     description: "Product strategy, the illusion of the brand, and the product life cycle."
     verses:
-      - id: "Śloka 4.1"
+      - id: "Kārikā 4.1"
         title: "जीवन-चक्रम् (The Product Life Cycle)"
         meter: "इन्द्रवज्रा (Indravajrā)"
         sanskrit: |
@@ -213,7 +217,7 @@ chapters:
         sanskrit: "मूल्य-ह्रासो हि लोभ-जनकः ।"
         transliteration: "mūlya-hrāso hi lobha-janakaḥ |"
         translation: "A sudden reduction in price (the discount) is the ultimate generator of greed, quickly overcoming the boundaries of human logic."
-      - id: "Śloka 5.3"
+      - id: "Kārikā 5.3"
         title: "मूल्य-गुण-भ्रमः (The Price-Quality Inference)"
         meter: "उपजाति (Upajāti)"
         sanskrit: |
@@ -286,7 +290,7 @@ chapters:
     title: "प्रकरण ८: बाह्य-शक्ति-विवेकः (Prakaraṇa 8: The Discernment of External Forces)"
     description: "The Macro and Micro environments governing the marketplace."
     verses:
-      - id: "Śloka 8.1"
+      - id: "Kārikā 8.1"
         title: "परिस्थिति-चक्रम् (The Wheel of Environment)"
         meter: "शालिनी (Śālinī)"
         sanskrit: |
