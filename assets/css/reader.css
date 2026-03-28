@@ -378,6 +378,13 @@ h3.sync-current {
   margin-bottom: 20px;
 }
 
+.iast-verse-lines {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.32rem;
+  font-style: italic;
+  line-height: 1.8;
+}
+
 /* Word by Word formatting */
 .word-by-word {
   display: flex;

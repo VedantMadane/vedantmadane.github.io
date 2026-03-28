@@ -1,0 +1,373 @@
+title: "विपणन-शास्त्रम् (The Science of Marketing)"
+description: "A codification of modern marketing management and consumer psychology into classical Sanskrit sutras and slokas."
+introductory_verse:
+  title: "The Invocation of Commerce"
+  meter: "अनुष्टुभ् (Anuṣṭubh)"
+  sanskrit: |
+    वाणिज्यस्य प्रबन्धेऽस्मिन् विपणनस्य शासने ।
+    अत्र किं प्रष्टुकामस्त्वं तन्मे ब्रूहि सुनिश्चितम् ॥
+  transliteration: |
+    vāṇijyasya prabandhe'smin vipaṇanasya śāsane |
+    atra kiṃ praṣṭukāmastvaṃ tanme brūhi suniścitam ||
+  translation: "In this management of commerce and the governance of marketing, What is it that you desire to ask here? Tell me that clearly."
+chapters:
+  - chapter_number: 1
+    title: "प्रकरण १: विनिमय-सिद्धान्तः (Prakaraṇa 1: The Principle of Exchange)"
+    description: "The fundamental laws of why commerce exists and what is truly being sold."
+    verses:
+      - id: "Sūtra 1.1"
+        sanskrit: "अभावात् वणिक्-कर्म-जन्म ।"
+        transliteration: "abhāvāt vaṇik-karma-janma |"
+        translation: "Trade is born not of the product, but of the void (absence/lack) within the buyer."
+      - id: "Sūtra 1.2"
+        sanskrit: "उभय-तुष्टिर्हि मूल्यम् ।"
+        transliteration: "ubhaya-tuṣṭirhi mūlyam |"
+        translation: "Value is not an absolute number; it is realized only when both the giver and the receiver find mutual satisfaction."
+      - id: "Sūtra 1.3"
+        sanskrit: "न वस्तुनो विक्रयम्, अपि तु आशा-प्रदानम् ।"
+        transliteration: "na vastuno vikrayam, api tu āśā-pradānam |"
+        translation: "The merchant does not merely sell a physical object; he is in the business of providing hope and solutions to underlying human anxieties."
+      - id: "Sūtra 1.4"
+        sanskrit: "ग्राहक-सन्तुष्टिरेव शाश्वत-लाभ-मूलम् ।"
+        transliteration: "grāhaka-santuṣṭireva śāśvata-lābha-mūlam |"
+        translation: "The genuine satisfaction of the seeker is the only true root of eternal profit. Deception yields only a single harvest."
+
+  - chapter_number: 2
+    title: "प्रकरण २: ग्राहक-मनो-विज्ञानम् (Prakaraṇa 2: The Psychology of the Seeker)"
+    description: "The inner mechanics of human desire, motivation, cognitive dissonance, and habit."
+    verses:
+      - id: "The Root of Action"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          इच्छा मूलं मनुष्याणां सर्ववाणिज्यकर्मसु ।
+          आवश्यकमथो तीव्रं प्रेरणेति निगद्यते ॥
+        transliteration: |
+          icchā mūlaṃ manuṣyāṇāṃ sarvavāṇijyakarmasu |
+          āvaśyakamatho tīvraṃ preraṇeti nigadyate ||
+        translation: "Desire is the root of all human actions within commerce. When a necessity becomes intense and urgent, it is defined as motivation."
+      - id: "The Crucible of Choice"
+        meter: "उपजाति (Upajāti)"
+        sanskrit: |
+          कुटुम्बमित्रैः सहचारिभिर्वा समाजवर्गैः परितो वृतो यः ।
+          करोति मर्त्यः क्रयनिर्णयं वै स्वकीयवर्णं पदवीं च वीक्ष्य ॥
+        transliteration: |
+          kuṭumbamitraiḥ sahacāribhirvā, samājavargaiḥ parito vṛto yaḥ |
+          karoti martyaḥ krayanirṇayaṃ vai, svakīyavarṇaṃ padavīṃ ca vīkṣya ||
+        translation: "Surrounded by family, friends, associates, and societal classes, A mortal makes his buying decisions, carefully observing his own character and worldly status."
+      - id: "The Cognitive Path"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          ज्ञात्वाभावं गवेषैव विकल्पानां परीक्षणम् ।
+          क्रयः पश्चाच्च मन्तव्यं पञ्चैते क्रयनिर्णयाः ॥
+        transliteration: |
+          jñātvābhāvaṃ gaveṣaiva vikalpānāṃ parīkṣaṇam |
+          krayaḥ paścācca mantavyaṃ pañcaite krayanirṇayāḥ ||
+        translation: "Recognizing a lack, the search for information, and the examination of alternatives; The act of purchase, and the subsequent reflection - these are the five stages of the buying decision."
+      - id: "The Illusion of Choice"
+        meter: "इन्द्रवज्रा (Indravajrā)"
+        sanskrit: |
+          यदेव चित्तं रुचिमेति लोके तदेव पश्यत्यपि मानवोऽत्र ।
+          विस्मृत्य सर्वं प्रतिकूल-वाक्यम् स्वकीय-सत्यं हृदि रक्षति स्म ॥
+        transliteration: |
+          yadeva cittaṃ rucimeti loke, tadeva paśyatyapi mānavo'tra |
+          vismṛtya sarvaṃ pratikūla-vākyam, svakīya-satyaṃ hṛdi rakṣati sma ||
+        translation: "Whatever the mind finds appealing in this world, Only that does the human truly see. Forgetting every statement that contradicts his views, He fiercely guards his own 'truth' within his heart."
+      - id: "The Restless Mind"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          नैकत्र रमते चित्तं नित्यं वैविध्य-काङ्क्षि वै ।
+          अत एव नरो लोके वस्तु-भेदं चिनोत्यलम् ॥
+        transliteration: |
+          naikatra ramate cittaṃ nityaṃ vaividhya-kāṅkṣi vai |
+          ata eva naro loke vastu-bhedaṃ cinotyalam ||
+        translation: "The human mind never rejoices in one place for long; it constantly yearns for variety. And for this very reason, man endlessly chooses different objects in this world."
+      - id: "Śloka 2.1"
+        title: "इच्छा-भेदः (The Nature of Desires)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          क्षुधा पिपासा च शरीर-धर्माः मानो हि वृत्तिर्हृदयस्य नित्या ।
+          एतान् परिज्ञाय च वाणिजो वै करोति लाभं सुविचार्य सम्यक् ॥
+        transliteration: |
+          kṣudhā pipāsā ca śarīra-dharmāḥ māno hi vṛttirhṛdayasya nityā |
+          etān parijñāya ca vāṇijo vai karoti lābhaṃ suvīcārya samyak ||
+        translation: "Hunger and thirst are mere properties of the body, but the craving for pride and status are eternal habits of the heart. Knowing these distinct drives deeply, the wise merchant reaps his profit."
+      - id: "Śloka 2.2 / The Aftermath of Desire"
+        title: "पश्चात्तापः (Post-Purchase Regret)"
+        meter: "आर्या (Āryā) / अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          यदाशां लङ्घयेद्वस्तु तदा तुष्यति मानवः । निराशा जायते तीव्रा यदा न्यूनं फलं भवेत् ॥
+          क्रीते च वस्तूनि यदा निराशा तदा हि चित्ते परिताप-वह्निः । सन्तुष्टिरेवात्र परं हि लक्ष्यं न केवलं द्रव्य-विनिमयो वै ॥
+        transliteration: |
+          yadāśāṃ laṅghayedvastu tadā tuṣyati mānavaḥ | nirāśā jāyate tīvrā yadā nyūnaṃ phalaṃ bhavet ||
+          krīte ca vastūni yadā nirāśā tadā hi citte paritāpa-vahniḥ | santuṣṭirevātra paraṃ hi lakṣyaṃ na kevalaṃ dravya-vinimayo vai ||
+        translation: "When an acquired object surpasses expectations, the human is satisfied. But intense despair arises when it falls short. A fire of regret burns in the mind. True commerce seeks psychological satisfaction, not just exchange."
+      - id: "Śloka 2.3"
+        title: "मार्गदर्शक-प्रभावः (The Power of the Opinion Leader)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          यद् यद् क्रीणाति श्रेष्ठो हि तत्तदेवेतरो जनः ।
+          तस्य प्रमाणं यत् लोके तदेव ह्यनुवर्तते ॥
+        transliteration: |
+          yad yad krīṇāti śreṣṭho hi tattadevetaro janaḥ |
+          tasya pramāṇaṃ yat loke tadeva hyanuvartate ||
+        translation: "Whatever the prominent, respected, or aspirational man purchases, the ordinary people also buy. Whatever standard of consumption he sets in the world, the populace faithfully and blindly follows."
+      - id: "Śloka 2.4 / The Force of Habit"
+        title: "स्वभाव-क्रयः (Habitual & Low-Involvement Buying)"
+        meter: "शालिनी (Śālinī) / उपजाति (Upajāti)"
+        sanskrit: |
+          अल्पे मूल्ये नास्ति चिन्ता-प्रयासः ज्ञाताभ्यासाद् गृह्यते यत् प्रसिद्धम् ।
+          विना विचारं बहु-वार-दृष्टं क्रीणाति नित्यं सहज-स्वभावात् ।
+        transliteration: |
+          alpe mūlye nāsti cintā-prayāsaḥ jñātābhyāsād gṛhyate yat prasiddham |
+          vinā vicāraṃ bahu-vāra-dṛṣṭaṃ krīṇāti nityaṃ sahaja-svabhāvāt |
+        translation: "For things of little value, there is no effort of deep thought; From known habit, one simply grasps what is familiar. Without deep thought, driven purely by innate nature, the human machine is securely bound by the chains of habit."
+
+  - chapter_number: 3
+    title: "प्रकरण ३: जन-भेद-नीतिः (Prakaraṇa 3: The Policy of Dividing the Multitude)"
+    description: "The science of segmentation, targeting, and acknowledging human diversity."
+    verses:
+      - id: "The Tides of Time"
+        meter: "वसन्ततिलका (Vasantatilakā)"
+        sanskrit: |
+          बाल्ये च खेलन-रतिर्युवने च भोगः वृद्धत्व-काले ह्यभयं च स्वास्थ्यम् ।
+          काले क्रमेण परिवर्तति मानवानां वाञ्छा-प्रवाह इति नित्य-नियम्य-सत्यम् ॥
+        transliteration: |
+          bālye ca khelana-ratiryuvane ca bhogaḥ vṛddhatva-kāle hyabhayaṃ ca svāsthyam |
+          kāle krameṇa parivartati mānavānāṃ vāñchā-pravāha iti nitya-niyamya-satyam ||
+        translation: "In childhood, a love for play; in youth, a thirst for enjoyment; In the time of old age, a seeking of security and health. With the passage of time, the flow of human desires transforms; This is the eternal truth."
+      - id: "Śloka 3.1"
+        title: "अविभाज्य-दोषः (The Flaw of Mass Appeal)"
+        meter: "उपजाति (Upajāti)"
+        sanskrit: |
+          न सर्व-लोकान् परितोषयेद् यः स पण्डितो मन्त्रयते हि सम्यक् ।
+          वयः-स्वभावान् पृथगेव दृष्ट्वा विभज्य लोकं कुरुते च कार्यम् ॥
+        transliteration: |
+          na sarva-lokān paritoṣayed yaḥ sa paṇḍito mantrayate hi samyak |
+          vayaḥ-svabhāvān pṛthageva dṛṣṭvā vibhajya lokaṃ kurute ca kāryam ||
+        translation: "He who does not attempt to please all people counsels wisely. Seeing the differences in age and innate nature, he divides the multitude into segments and then conducts his work."
+      - id: "Śloka 3.2"
+        title: "चित्त-वृत्ति-भेदः (Psychographics)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          केचित् प्रतिष्ठामिह वाञ्छमानाः केचित् सुलभ्यं धन-रक्षणं वा ।
+          चित्तस्य भेदान् अनुसृत्य सम्यक् वाणिज्य-विद्या प्रविभज्यते हि ॥
+        transliteration: |
+          kecit pratiṣṭhāmiha vāñchamānāḥ kecit sulabhyaṃ dhana-rakṣaṇaṃ vā |
+          cittasya bhedān anusṛtya samyak vāṇijya-vidyā pravibhajyate hi ||
+        translation: "Some desire prestige and status in this world, while others seek cheapness to protect their wealth. By strictly following these divisions of the human mind, the science of commerce is properly mapped."
+      - id: "Śloka 3.3"
+        title: "लक्ष्य-वेधः (Targeting the Niche)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          विशाल-सागरे मत्स्यान् न सर्वान् धर्तुमर्हति ।
+          स्व-जाल-योग्य-मीनान् वै धीवरो हि चिनोति च ॥
+        transliteration: |
+          viśāla-sāgare matsyān na sarvān dhartumarhati |
+          sva-jāla-yogya-mīnān vai dhīvaro hi cinoti ca ||
+        translation: "A fisherman cannot possibly catch all the fish in the vast, boundless ocean. He wisely and deliberately selects only those specific fish that are suited to the weave of his particular net."
+
+  - chapter_number: 4
+    title: "प्रकरण ४: वस्तु-जीवन-चक्रम् (Prakaraṇa 4: The Cycle of the Offering)"
+    description: "Product strategy, the illusion of the brand, and the product life cycle."
+    verses:
+      - id: "Śloka 4.1"
+        title: "जीवन-चक्रम् (The Product Life Cycle)"
+        meter: "इन्द्रवज्रा (Indravajrā)"
+        sanskrit: |
+          जन्म प्रवृद्धिः चरमं च पतनं सर्वेषु सृष्टेषु यथैव दृष्टम् ।
+          तथैव वाणिज्य-कृतौ हि लोके काल-क्रमेणैव विनाश-नीतिः ॥
+        transliteration: |
+          janma pravṛddhiḥ caramaṃ ca patanaṃ sarveṣu sṛṣṭeṣu yathaiva dṛṣṭam |
+          tathaiva vāṇijya-kṛtau hi loke kāla-krameṇaiva vināśa-nītiḥ ||
+        translation: "Birth, growth, a peak, and eventual fall - just as this is seen in all living creations, so too in the artifacts of commerce; destruction by the course of time is the absolute law."
+      - id: "Śloka 4.2"
+        title: "नाम-महिमा (The Power of the Brand)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          नाम-प्रभावेण हि वस्तु-मूल्यं न केवलं रूप-गुणेन तस्य ।
+          विश्‍वास-बीजं खलु नामधेयं तदेव रक्षेद्वणिजां सुखाय ॥
+        transliteration: |
+          nāma-prabhāveṇa hi vastu-mūlyaṃ na kevalaṃ rūpa-guṇena tasya |
+          viśvāsa-bījaṃ khalu nāmadheyaṃ tadeva rakṣedvaṇijāṃ sukhāya ||
+        translation: "The true value of an object lies in the power of its Name (Brand), not merely in its physical form or utility. The Name is the seed of trust; the merchant must protect it fiercely for his continued prosperity."
+      - id: "Śloka 4.3"
+        title: "सेवा-युक्त-वस्तु (The Augmented Product)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          केवलम् भौतिकं वस्तु न करोति पूर्ण-तुष्टिम् ।
+          सेवा-युक्तं तु यद् दत्तं तदेव चिर-जीव्यते ॥
+        transliteration: |
+          kevalam bhautikaṃ vastu na karoti pūrṇa-tuṣṭim |
+          sevā-yuktaṃ tu yad dattaṃ tadeva cira-jīvyate ||
+        translation: "The mere physical object alone does not yield complete or lasting satisfaction. Only that offering which is bound together with continuous service and care lives long in the memory of the market."
+
+  - chapter_number: 5
+    title: "प्रकरण ५: मूल्य-माया (Prakaraṇa 5: The Illusion of Value)"
+    description: "Pricing psychology and the irrationality of perceived worth."
+    verses:
+      - id: "Sūtra 5.1"
+        sanskrit: "मनो-गतो भावः एव मूल्यम्, न तु द्रव्य-व्ययः ।"
+        transliteration: "mano-gato bhāvaḥ eva mūlyam, na tu dravya-vyayaḥ |"
+        translation: "Value is an illusion forged purely in the mind of the seeker; it is entirely separate from the material expenditure of the maker."
+      - id: "Sūtra 5.2"
+        sanskrit: "मूल्य-ह्रासो हि लोभ-जनकः ।"
+        transliteration: "mūlya-hrāso hi lobha-janakaḥ |"
+        translation: "A sudden reduction in price (the discount) is the ultimate generator of greed, quickly overcoming the boundaries of human logic."
+      - id: "Śloka 5.3"
+        title: "मूल्य-गुण-भ्रमः (The Price-Quality Inference)"
+        meter: "उपजाति (Upajāti)"
+        sanskrit: |
+          मूल्यं यदा तस्य भवेद् गरिष्ठं मनुष्य-चित्ते गुण-बुद्धिरेव ।
+          अल्पे तु मूल्ये शङ्कते हि लोकः स्वभाव एषः क्रय-निर्णयेषु ॥
+        transliteration: |
+          mūlyaṃ yadā tasya bhaved gariṣṭhaṃ manuṣya-citte guṇa-buddhireva |
+          alpe tu mūlye śaṅkate hi lokaḥ svabhāva eṣaḥ kraya-nirṇayeṣu ||
+        translation: "When the price of an item is exceptionally high, the human mind instinctively infers superior quality. But at a very low price, the world immediately becomes suspicious."
+      - id: "Sūtra 5.3"
+        sanskrit: "क्रीत-मूल्यात् अधिको लाभः ग्राहकस्य विजयः ।"
+        transliteration: "krīta-mūlyāt adhiko lābhaḥ grāhakasya vijayaḥ |"
+        translation: "When the perceived benefit greatly exceeds the price paid, the buyer feels he has won a victory. This feeling of victory is what the merchant truly sells."
+
+  - chapter_number: 6
+    title: "प्रकरण ६: प्रचार-वितरण-मार्गः (Prakaraṇa 6: The Pathways of Reach and Persuasion)"
+    description: "The necessity of distribution channels and the art of promotion."
+    verses:
+      - id: "Śloka 6.1"
+        title: "वितरणम् (Distribution/Place)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          सुवर्ण-तुल्यं यदि वस्तु श्रेष्ठं गुहा-निलीनं न ददाति लाभम् ।
+          अतस्तु मार्गैः सुलभं च कार्यं यतो हि सर्वे सुगमा भवेयुः ॥
+        transliteration: |
+          suvarṇa-tulyaṃ yadi vastu śreṣṭhaṃ guhā-nilīnaṃ na dadāti lābham |
+          atastu mārgaiḥ sulabhaṃ ca kāryaṃ yato hi sarve sugamā bhaveyuḥ ||
+        translation: "Even if an offering is excellent and equal to gold, if it remains hidden in a cave, it yields no profit. Therefore, it must be made easily accessible through pathways."
+      - id: "Śloka 6.2"
+        title: "प्रचारः (Promotion/Advertising)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          यथा हि भेरी-निनदो रणेषु उत्साह-वृद्धिं कुरुते भटानाम् ।
+          तथैव वार्ता-कथनं विपण्यां आकर्षयेत् सर्व-जनान् प्रसह्य ॥
+        transliteration: |
+          yathā hi bherī-ninado raṇeṣu utsāha-vṛddhiṃ kurute bhaṭānām |
+          tathaiva vārtā-kathanaṃ vipaṇyāṃ ākarṣayet sarva-janān prasahya ||
+        translation: "Just as the thunderous sound of the war-drum in battle increases the zeal of the soldiers, so does the art of storytelling (promotion) in the marketplace forcefully attract the minds of the people."
+      - id: "Śloka 6.3"
+        title: "श्रेष्ठ-प्रचारकः (The Ultimate Promoter: Word of Mouth)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          न विज्ञापन-मात्रेण जायते ह्यधिकः क्रयः ।
+          सन्तुष्ट-ग्राहक-वाक्यं सर्व-श्रेष्ठः प्रचारकः ॥
+        transliteration: |
+          na vijñāpana-mātreṇa jāyate hyadhikaḥ krayaḥ |
+          santuṣṭa-grāhaka-vākyaṃ sarva-śreṣṭhaḥ pracārakaḥ ||
+        translation: "Lasting and abundant sales are not born from mere paid announcements or loud advertisements. The spoken, unprompted word of a truly satisfied customer remains the absolute greatest of all promoters."
+
+  - chapter_number: 7
+    title: "प्रकरण ७: शत्रु-बोध-नीतिः (Prakaraṇa 7: The Science of Competitor Analysis)"
+    description: "Understanding rivals and the nature of competitive advantage."
+    verses:
+      - id: "Sūtra 7.1"
+        sanskrit: "आत्म-ज्ञानं पर-ज्ञानं च जय-मूलम् ।"
+        transliteration: "ātma-jñānaṃ para-jñānaṃ ca jaya-mūlam |"
+        translation: "Knowledge of one's own strengths and the precise knowledge of the rival's weaknesses is the dual root of victory."
+      - id: "Śloka 7.1"
+        title: "भेदात्मक-शक्तिः (Competitive Advantage)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          को विशेषो गुणो ह्यस्मिन् यदर्थं क्रेतृ-सङ्ग्रहः ।
+          विना भेदेन वाणिज्यं मरुभूमौ जलं यथा ॥
+        transliteration: |
+          ko viśeṣo guṇo hyasmin yadarthaṃ kretṛ-saṅgrahaḥ |
+          vinā bhedena vāṇijyaṃ marubhūmau jalaṃ yathā ||
+        translation: "'What unique quality exists in this offering for which a multitude of buyers should gather?' Without differentiation, commerce is like a drop of water lost in a vast desert."
+
+  - chapter_number: 8
+    title: "प्रकरण ८: बाह्य-शक्ति-विवेकः (Prakaraṇa 8: The Discernment of External Forces)"
+    description: "The Macro and Micro environments governing the marketplace."
+    verses:
+      - id: "Śloka 8.1"
+        title: "परिस्थिति-चक्रम् (The Wheel of Environment)"
+        meter: "शालिनी (Śālinī)"
+        sanskrit: |
+          कालो देशः शासनं संस्कृतिश्च यन्त्रं वित्तं लोक-संख्या तथैव ।
+          एताः सर्वाः बाह्य-शक्त्यः प्रबलाः क्षोभं कुर्युर्व्यग्र-वाणिज्य-चक्रे ॥
+        transliteration: |
+          kālo deśaḥ śāsanaṃ saṃskṛtiśca yantraṃ vittaṃ loka-saṃkhyā tathaiva |
+          etāḥ sarvāḥ bāhya-śaktyaḥ prabalāḥ kṣobhaṃ kuryurvyagra-vāṇijya-cakre ||
+        translation: "Time, Geography, Law, Culture, Technology, Wealth, and the count of the People - all these are powerful external forces that create turbulence in the busy wheel of commerce."
+
+  - chapter_number: 9
+    title: "प्रकरण ९: हरित-विपणन-धर्मः (Prakaraṇa 9: The Ethic of Green Marketing)"
+    description: "The preservation of the earth as a pre-requisite for long-term profit."
+    verses:
+      - id: "Śloka 9.1"
+        title: "प्रकृति-रक्षणम् (Sustainability)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          प्रकृतिं हन्ति यो लोभात् तं हन्ति प्रकृतिः स्वयम् ।
+          अतस्तु शुद्धि-मार्गेण वाणिज्यं लोक-मङ्गलम् ॥
+        transliteration: |
+          prakṛtiṃ hanti yo lobhāt taṃ hanti prakṛtiḥ svayam |
+          atastu śuddhi-mārgeṇa vāṇijyaṃ loka-maṅgalam ||
+        translation: "He who destroys Nature out of greed is himself destroyed by Nature in turn. Therefore, only commerce conducted through the path of purity (Green Marketing) serves the welfare of the world."
+
+  - chapter_number: 10
+    title: "प्रकरण १०: परीक्षण-मर्यादा (Prakaraṇa 10: The Discipline of the Marketing Audit)"
+    description: "Self-correction and the necessity of objective evaluation."
+    verses:
+      - id: "Sūtra 10.1"
+        sanskrit: "अन्ध-वाणिज्यं विनाशाय ।"
+        transliteration: "andha-vāṇijyaṃ vināśāya |"
+        translation: "Blind commerce - conducted without constant self-examination - leads only to total destruction."
+      - id: "Śloka 10.1"
+        title: "परीक्षा-विधिः (The Systematic Audit)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          कार्यं फलं च नीतिं च समयेन परीक्षयेत् ।
+          दोष-त्यागो गुण-ग्राहः प्रबन्धस्य परं पदम् ॥
+        transliteration: |
+          kāryaṃ phalaṃ ca nītiṃ ca samayena parīkṣayet |
+          doṣa-tyāgo guṇa-grāhaḥ prabandhasya paraṃ padam ||
+        translation: "One must periodically examine the actions, the results, and the strategy. The abandonment of flaws and the grasping of virtues is the highest state of management."
+
+  - chapter_number: 11
+    title: "उपसंहारः (Epilogue: The Synthesis of the Sage-Merchant)"
+    description: "The final philosophical culmination of the treatise."
+    verses:
+      - id: "Śloka 11.1"
+        title: "वणिक्-धर्मः (The Final Maxim)"
+        meter: "अनुष्टुभ् (Anuṣṭubh)"
+        sanskrit: |
+          पर-चित्तं परिज्ञाय लोक-कल्याण-काङ्क्षया ।
+          न्याय्य-लाभं सदा कुर्यात् स श्रेष्ठो वणिगुच्यते ॥
+        transliteration: |
+          para-cittaṃ parijñāya loka-kalyāṇa-kāṅkṣayā |
+          nyāyya-lābhaṃ sadā kuryāt sa śreṣṭho vaṇigucyate ||
+        translation: "Having profoundly understood the minds of others, and desiring the welfare of the world, he who always pursues fair and righteous profit is called the Greatest Merchant."
+
+closing: "समाप्तोऽयं विपणन-शास्त्र-सङ्क्षेपः । (Thus ends this compendium of the Science of Marketing.)"
+
+glossary:
+  - term: "Vipaṇana"
+    meaning: "Marketing; the act of selling or transacting in a marketplace."
+  - term: "Śāstra"
+    meaning: "A formal treatise, scripture, or systematic codification of a specific science or knowledge."
+  - term: "Vaṇik"
+    meaning: "Merchant, trader, or businessman."
+  - term: "Mūlyam"
+    meaning: "Value, price, or worth of an object."
+  - term: "Grāhaka"
+    meaning: "Consumer, buyer, or the one who grasps/receives."
+  - term: "Prakaraṇa"
+    meaning: "A chapter, section, or specific subject heading within a treatise."
+  - term: "Sūtra"
+    meaning: "A terse aphorism or fundamental rule designed to be easily memorized."
+  - term: "Śloka"
+    meaning: "A metrical verse, often used to elaborate on philosophical or practical concepts."
+  - term: "Tuṣṭi"
+    meaning: "Satisfaction, contentment, or mutual delight."
+  - term: "Abhāva"
+    meaning: "Absence, void, lack, or the fundamental 'need' that drives a purchase."
+  - term: "Prakṛti"
+    meaning: "Nature, the physical environment, or the innate disposition of a person."
