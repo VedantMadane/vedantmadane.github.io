@@ -48,10 +48,16 @@ The translation of machine learning terminology into Sanskrit demands precise mo
 
 The fundamental operation of a dense neural network layer involves accepting inputs, scaling them by their respective weights, and aggregating the result with a bias term.3  
 <p class="verse-topic">Verse 1 - Anuṣṭubh</p>
-<div class="sanskrit-text iast-verse-lines">
-  kramād-dattāni bhāraiś-ca saṃguṇyāthāpi yatnataḥ<br />
-natiṃ caiva samāyojya nāḍīkośaḥ pravartate || 1 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  क्रमाद्-दत्तानि भारैश्-च संगुण्याथापि यत्नतः<br />
+  नतिं चैव समायोज्य नाडीकोशः प्रवर्तते ॥ १ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  kramād-dattāni bhāraiś-ca saṃguṇyāthāpi yatnataḥ
+  natiṃ caiva samāyojya nāḍīkośaḥ pravartate || 1 ||
+</div>
+</details>
 
 **Padaccheda:**  
 kramāt (sequentially) dattāni (given inputs) bhāraiḥ (by weights) ca (and) saṃguṇya (having multiplied) athāpi (and then) yatnataḥ (carefully) |  
@@ -63,12 +69,18 @@ natiṃ (bias/offset) ca (and) eva (indeed) samāyojya (having added) nāḍīko
 * *pravartate*: Prefix *pra* \+ Root √vṛt (First conjugation, *Bhavādi*, to function/operate) \+ *laṭ* (present tense), third-person singular, *ātmanepada*.  
 * *natiṃ*: Accusative singular of *nati* (bias), derived from √nam (to bend) \+ *ktin*.
 
-**Mathematical Equivalency and Commentary:** The equation codified here is the basic linear combination: Output \= $\\sum (inputs \\times weights) \+ bias$. In the computational paradigm, a single neuron takes a vector of features, scales each feature by a trainable weight parameter, aggregates the sum, and shifts the result by a trainable bias parameter.3 The verse perfectly aligns with the raw programmatic logic output \= (inputs\*weights \+ inputs\*weights \+... \+ bias) prior to the introduction of array mathematics. The bias (*nati*) is crucial as it offsets the overall function vertically, allowing the network to map dynamics that do not naturally pass through the origin.3  
+**Mathematical Equivalency and Commentary:** The equation codified here is the basic linear combination: Output = $\\sum (inputs \\times weights) + bias$. In the computational paradigm, a single neuron takes a vector of features, scales each feature by a trainable weight parameter, aggregates the sum, and shifts the result by a trainable bias parameter.3 The verse perfectly aligns with the raw programmatic logic `output = (inputs*weights + inputs*weights + ... + bias)` prior to the introduction of array mathematics. The bias (*nati*) is crucial as it offsets the overall function vertically, allowing the network to map dynamics that do not naturally pass through the origin.3  
 <p class="verse-topic">Verse 2 - Anuṣṭubh</p>
-<div class="sanskrit-text iast-verse-lines">
-  samūhe yadi dattāni vyūhās-te bhārasaṃyutāḥ<br />
-bindu-ghātena sarvāṇi phalāni prāpnuvanti hi || 2 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  समूहे यदि दत्तानि व्यूहास्-ते भारसंयुताः<br />
+  बिन्दु-घातेन सर्वाणि फलानि प्राप्नुवन्ति हि ॥ २ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  samūhe yadi dattāni vyūhās-te bhārasaṃyutāḥ
+  bindu-ghātena sarvāṇi phalāni prāpnuvanti hi || 2 ||
+</div>
+</details>
 
 **Padaccheda:**  
 samūhe (in a batch) yadi (if) dattāni (inputs) vyūhāḥ (matrices) te (they) bhārasaṃyutāḥ (joined with weights) |  
@@ -79,16 +91,22 @@ bindu-ghātena (by the dot product) sarvāṇi (all) phalāni (results) prāpnuv
 * *bhārasaṃyutāḥ*: Nominative plural, Bahuvrīhi compound. *bhāra* \+ *sam* \+ √yu \+ *kta*. Matrices endowed with weights.  
 * *prāpnuvanti*: Prefix *pra* \+ Root √āp (Fifth conjugation, *Svādi*, to attain) \+ *laṭ*, third-person plural, *parasmaipada*.
 
-**Mathematical Equivalency and Commentary:** The equation transitions to matrix notation: Layer Outputs \= $\\mathbf{X} \\cdot \\mathbf{W}^T \+ \\mathbf{b}$. When inputs are presented in a batch (*samūhe*), they form a two-dimensional matrix.3 The weights are similarly structured as a matrix. To process multiple samples simultaneously and leverage parallel computing, the matrix dot product (*bindughāta*) is utilized. The transposition of the weight matrix is necessary for dimensional alignment during the dot product operation, codified programmatically as np.dot(inputs, np.array(weights).T) \+ biases.3 Fitting data in batches improves generalization by providing a higher statistical probability of making meaningful changes to weights during optimization, preventing the network from oscillating endlessly around individual sample anomalies.3
+**Mathematical Equivalency and Commentary:** The equation transitions to matrix notation: Layer Outputs = $\\mathbf{X} \\cdot \\mathbf{W}^T + \\mathbf{b}$. When inputs are presented in a batch (*samūhe*), they form a two-dimensional matrix.3 The weights are similarly structured as a matrix. To process multiple samples simultaneously and leverage parallel computing, the matrix dot product (*bindughāta*) is utilized. The transposition of the weight matrix is necessary for dimensional alignment during the dot product operation, codified programmatically as `np.dot(inputs, np.array(weights).T) + biases`.3 Fitting data in batches improves generalization by providing a higher statistical probability of making meaningful changes to weights during optimization, preventing the network from oscillating endlessly around individual sample anomalies.3
 
 ## **Prakaraṇa II: Udīpanakarma (Activation Functions)**
 
 Dense layers exclusively perform linear transformations. To map complex, non-linear problems, the outputs of these layers must pass through non-linear activation functions (*Udīpanavidhi*).3  
 <p class="verse-topic">Verse 3 - Upajāti</p>
-<div class="sanskrit-text iast-verse-lines">
-  śūnyād-gariṣṭhaṃ yadi mānam-asti tadeva mānaṃ satataṃ vidheyam<br />
-śūnyād-alpiṣṭhaṃ yadi cāpi mānaṃ śūnyaṃ bhaven-nāḍika-bodhanāya || 3 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  शून्याद्-गरिष्ठं यदि मानम्-अस्ति तदेव मानं सततं विधेयम्<br />
+  शून्याद्-अल्पिष्ठं यदि चापि मानं शून्यं भवेन्-नाडिक-बोधनाय ॥ ३ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  śūnyād-gariṣṭhaṃ yadi mānam-asti tadeva mānaṃ satataṃ vidheyam
+  śūnyād-alpiṣṭhaṃ yadi cāpi mānaṃ śūnyaṃ bhaven-nāḍika-bodhanāya || 3 ||
+</div>
+</details>
 
 **Padaccheda:**  
 śūnyāt (than zero) gariṣṭhaṃ (greater) yadi (if) mānam (value) asti (is), tat (that) eva (itself) mānaṃ (value) satataṃ (always) vidheyam (should be applied) |  
@@ -100,12 +118,18 @@ Dense layers exclusively perform linear transformations. To map complex, non-lin
 * *bhavet*: Root √bhū (First conjugation, to be) \+ *liṅ* (optative mood), third-person singular.  
 * *bodhanāya*: Dative singular of *bodhana* (awakening/activation), denoting purpose.
 
-**Mathematical Equivalency and Commentary:** The equation codified is the ReLU activation function: $y \= \\max(0, x)$. The verse strictly dictates the piecewise logic: if the linear output is greater than zero, the exact value is retained. If the value is less than zero, the signal is zeroed out (clipped). This is programmatically executed via np.maximum(0, inputs).3 The ReLU function introduces the essential non-linearity required to fit dynamic shapes (such as sine waves) by allowing layers of neurons to create specific "areas of effect" where certain neurons are active while others remain silent.3 Without non-linear activation, regardless of the number of hidden layers, the entire neural network would collapse mathematically into a single linear matrix multiplication.3  
+**Mathematical Equivalency and Commentary:** The equation codified is the ReLU activation function: $y = \\max(0, x)$. The verse strictly dictates the piecewise logic: if the linear output is greater than zero, the exact value is retained. If the value is less than zero, the signal is zeroed out (clipped). This is programmatically executed via `np.maximum(0, inputs)`.3 The ReLU function introduces the essential non-linearity required to fit dynamic shapes (such as sine waves) by allowing layers of neurons to create specific "areas of effect" where certain neurons are active while others remain silent.3 Without non-linear activation, regardless of the number of hidden layers, the entire neural network would collapse mathematically into a single linear matrix multiplication.3  
 <p class="verse-topic">Verse 4 - Upajāti</p>
-<div class="sanskrit-text iast-verse-lines">
-  ghātāṅka-rūpāṇi phalāni kṛtvā sarvaiḥ samāhāraphalaiś-ca bhaktāḥ<br />
-vibhāgayogena hi labhyate yā saṃbhāvyatā komalatīkṣṇa-māne || 4 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  घाताङ्क-रूपाणि फलानि कृत्वा सर्वैः समाहारफलैश्-च भक्ताः<br />
+  विभागयोगेन हि लभ्यते या संभाव्यता कोमलतीक्ष्ण-माने ॥ ४ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  ghātāṅka-rūpāṇi phalāni kṛtvā sarvaiḥ samāhāraphalaiś-ca bhaktāḥ
+  vibhāgayogena hi labhyate yā saṃbhāvyatā komalatīkṣṇa-māne || 4 ||
+</div>
+</details>
 
 **Padaccheda:**  
 ghātāṅka-rūpāṇi (in the form of exponents) phalāni (outputs) kṛtvā (having made), sarvaiḥ (by all) samāhāraphalaiḥ (by the sum of outputs) ca (and) bhaktāḥ (divided) |  
@@ -117,12 +141,18 @@ vibhāgayogena (by the method of distribution) hi (indeed) labhyate (is obtained
 * *saṃbhāvyatā*: Nominative singular feminine. Root *sam* \+ √bhū \+ *ṇyat* \+ *tal*. Defines probability or likelihood.  
 * *komalatīkṣṇa*: *komala* (soft) \+ *tīkṣṇa* (max/sharp). A direct morphological calque designed to represent "Softmax." Metrical alternative used here to satisfy the 11-syllable constraint.
 
-**Mathematical Equivalency and Commentary:** The equation codified is the Softmax normalization: $S\_{i,j} \= \\frac{e^{z\_{i,j}}}{\\sum\_{l=1}^{L} e^{z\_{i,l}}}$. The verse dictates that by exponentiating the uncalibrated raw outputs of the preceding layer and dividing each by the sum of all exponentiated outputs in that sample, a normalized probability distribution is formed.3 Exponentiation using Euler's number ($e \\approx 2.718$) ensures that all negative values become positive, which is a mathematical prerequisite for a valid probability distribution.3 It also ensures that the function remains monotonic, preserving the rank order of the predictions. Programmatically, numerical instability (exploding floating-point numbers) is avoided by subtracting the maximum value from the inputs prior to exponentiation: exp\_values \= np.exp(inputs \- np.max(inputs, axis=1, keepdims=True)).3 The resulting distribution sums to exactly 1.0, representing the network's confidence scores across multiple mutually exclusive classes.  
+**Mathematical Equivalency and Commentary:** The equation codified is the Softmax normalization: $S_{i,j} = \\frac{e^{z_{i,j}}}{\\sum_{l=1}^{L} e^{z_{i,l}}}$. The verse dictates that by exponentiating the uncalibrated raw outputs of the preceding layer and dividing each by the sum of all exponentiated outputs in that sample, a normalized probability distribution is formed.3 Exponentiation using Euler's number ($e \\approx 2.718$) ensures that all negative values become positive, which is a mathematical prerequisite for a valid probability distribution.3 It also ensures that the function remains monotonic, preserving the rank order of the predictions. Programmatically, numerical instability (exploding floating-point numbers) is avoided by subtracting the maximum value from the inputs prior to exponentiation: `exp_values = np.exp(inputs - np.max(inputs, axis=1, keepdims=True))`.3 The resulting distribution sums to exactly 1.0, representing the network's confidence scores across multiple mutually exclusive classes.  
 <p class="verse-topic">Verse 5 - Upajāti</p>
-<div class="sanskrit-text iast-verse-lines">
-  dvandvātmikā yadi bhaven-matiś-ca syād-vakra-rekhā gaṇite tu yogyā<br />
-nirbādha-rūpeṇa phalaṃ ca yatra ṛjvī-gatiḥ sūcayati pramāṇam || 5 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  द्वन्द्वात्मिका यदि भवेन्-मतिश्-च स्याद्-वक्र-रेखा गणिते तु योग्या<br />
+  निर्बाध-रूपेण फलं च यत्र ऋज्वी-गतिः सूचयति प्रमाणम् ॥ ५ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  dvandvātmikā yadi bhaven-matiś-ca syād-vakra-rekhā gaṇite tu yogyā
+  nirbādha-rūpeṇa phalaṃ ca yatra ṛjvī-gatiḥ sūcayati pramāṇam || 5 ||
+</div>
+</details>
 
 **Padaccheda:**  
 dvandvātmikā (binary/dual-natured) yadi (if) bhavet (should be) matiḥ (the decision/classification) ca (and) syāt (should be) vakra-rekhā (the curved line/sigmoid) gaṇite (in the calculation) tu (indeed) yogyā (appropriate) |  
@@ -134,16 +164,22 @@ nirbādha-rūpeṇa (in an unobstructed form) phalaṃ (the result) ca (and) yat
 * *ṛjvī-gatiḥ*: *ṛju* (straight/linear) \+ *ṅīp* \+ *gati* (path). Represents the Linear activation function.  
 * *sūcayati*: Root √sūc (Tenth conjugation, to indicate/point out) \+ *laṭ*, third-person singular.
 
-**Mathematical Equivalency and Commentary:** For binary classification, the architecture diverges from Softmax and utilizes the Sigmoid activation function: $y \= \\frac{1}{1 \+ e^{-x}}$. The Sigmoid function mathematically confines the output strictly between the boundaries of 0 and 1, providing an independent probability threshold for a single output neuron.3 Conversely, when the neural network is tasked with predicting continuous numerical values (regression analysis), such as localized environmental metrics or financial pricing models, the output layer requires a Linear Activation Function (*ṛjvī-gati*). The Linear Activation function allows the scalar output of the dense layer to pass through completely unobstructed ($y \= x$).3
+**Mathematical Equivalency and Commentary:** For binary classification, the architecture diverges from Softmax and utilizes the Sigmoid activation function: $y = \\frac{1}{1 + e^{-x}}$. The Sigmoid function mathematically confines the output strictly between the boundaries of 0 and 1, providing an independent probability threshold for a single output neuron.3 Conversely, when the neural network is tasked with predicting continuous numerical values (regression analysis), such as localized environmental metrics or financial pricing models, the output layer requires a Linear Activation Function (*ṛjvī-gati*). The Linear Activation function allows the scalar output of the dense layer to pass through completely unobstructed ($y = x$).3
 
 ## **Prakaraṇa III: Doṣamāna-Nirṇaya (Calculus of Loss)**
 
 A neural network must quantify its error to understand how to adjust its parameters. The loss function compares the predicted outputs against the ground-truth targets.3  
 <p class="verse-topic">Verse 6 - Vasantatilakā</p>
-<div class="sanskrit-text iast-verse-lines">
-  satyaṃ hi mānaṃ laghugaṇakena yuktaṃ, bhinnena dṛṣṭam-atulaṃ ca tathā ṛṇena<br />
-lakṣyānusāraṃ prapataty-adoṣo, hāneḥ pramāṇaṃ prakaṭīkaroti hi || 6 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  सत्यं हि मानं लघुगणकेन युक्तं, भिन्नेन दृष्टम्-अतुलं च तथा ऋणेन<br />
+  लक्ष्यानुसारं प्रपतत्य्-अदोषो, हानेः प्रमाणं प्रकटीकरोति हि ॥ ६ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  satyaṃ hi mānaṃ laghugaṇakena yuktaṃ, bhinnena dṛṣṭam-atulaṃ ca tathā ṛṇena
+  lakṣyānusāraṃ prapataty-adoṣo, hāneḥ pramāṇaṃ prakaṭīkaroti hi || 6 ||
+</div>
+</details>
 
 **Padaccheda:**  
 satyaṃ (true) hi (indeed) mānaṃ (value) laghugaṇakena (with the logarithm) yuktaṃ (joined/multiplied), bhinnena (with the predicted fraction) dṛṣṭam (seen/calculated) atulaṃ (incomparable) ca (and) tathā (thus) ṛṇena (with the negative sign) |  
@@ -154,12 +190,18 @@ lakṣyānusāraṃ (according to the target) prapatati (descends) adoṣo (the 
 * *ṛṇena*: Instrumental of *ṛṇa* (negative/debt), denoting multiplication by the scalar \-1.  
 * *prakaṭīkaroti*: *prakaṭa* (manifest) \+ *cvi* affix \+ √kṛ (to make). To make manifest or reveal.
 
-**Mathematical Equivalency and Commentary:** The equation codified is the Categorical Cross-Entropy loss formula: $L\_i \= \- \\sum y\_{i,j} \\ln(\\hat{y}\_{i,j})$. The verse delineates that by multiplying the true target value (often presented as a one-hot encoded vector where the target class is 1 and all others are 0\) by the natural logarithm of the predicted confidence score, and applying a negative scalar, the definitive measure of loss is quantified.3 Because the target vector is populated predominantly with zeros, the programmatic implementation bypasses the full summation. It utilizes array indexing to extract only the predicted confidence score at the index of the true class, computing the negative log exclusively on that value: \-np.log(correct\_confidences).3 To prevent the logarithmic function from attempting to calculate $\\ln(0)$ - which mathematically approaches negative infinity and causes critical software failures - the raw prediction arrays are strictly clipped to a range of $1 \\times 10^{-7}$ to $1 \- 1 \\times 10^{-7}$.3  
+**Mathematical Equivalency and Commentary:** The equation codified is the Categorical Cross-Entropy loss formula: $L_i = - \\sum y_{i,j} \\ln(\\hat{y}_{i,j})$. The verse delineates that by multiplying the true target value (often presented as a one-hot encoded vector where the target class is 1 and all others are 0) by the natural logarithm of the predicted confidence score, and applying a negative scalar, the definitive measure of loss is quantified.3 Because the target vector is populated predominantly with zeros, the programmatic implementation bypasses the full summation. It utilizes array indexing to extract only the predicted confidence score at the index of the true class, computing the negative log exclusively on that value: `-np.log(correct_confidences)`.3 To prevent the logarithmic function from attempting to calculate $\\ln(0)$ - which mathematically approaches negative infinity and causes critical software failures - the raw prediction arrays are strictly clipped to a range of $1 \\times 10^{-7}$ to $1 - 1 \\times 10^{-7}$.3  
 <p class="verse-topic">Verse 7 - Vasantatilakā</p>
-<div class="sanskrit-text iast-verse-lines">
-  dvandve vikalpe dvividhaṃ hi mānaṃ, satyena yuktaṃ tv-anṛtena cāpi<br />
-madhye viyogaṃ laghugaṇakena, bhāgaṃ pradarśya gaṇitaṃ diśati pramāṇam || 7 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  द्वन्द्वे विकल्पे द्विविधं हि मानं, सत्येन युक्तं त्व्-अनृतेन चापि<br />
+  मध्ये वियोगं लघुगणकेन, भागं प्रदर्श्य गणितं दिशति प्रमाणम् ॥ ७ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  dvandve vikalpe dvividhaṃ hi mānaṃ, satyena yuktaṃ tv-anṛtena cāpi
+  madhye viyogaṃ laghugaṇakena, bhāgaṃ pradarśya gaṇitaṃ diśati pramāṇam || 7 ||
+</div>
+</details>
 
 **Padaccheda:**  
 dvandve (in binary) vikalpe (choice) dvividhaṃ (two-fold) hi (indeed) mānaṃ (measure), satyena (with the true) yuktaṃ (joined) tu (but) anṛtena (with the false/inverse) ca (and) api (also) |  
@@ -167,36 +209,48 @@ madhye (in the middle) viyogaṃ (separation/subtraction) laghugaṇakena (with 
 **Vyākaraṇa:**
 
 * *dvividhaṃ*: *dvi* (two) \+ *vidhā* (kind/way). Represents the calculation across both the $y$ and $(1-y)$ paradigms.  
-* *anṛtena*: Instrumental singular of *anṛta* (false/not true). Represents the inverse target $(1 \- y\_{true})$.  
+* *anṛtena*: Instrumental singular of *anṛta* (false/not true). Represents the inverse target $(1 - y_{true})$.  
 * *viyogaṃ*: Prefix *vi* \+ Root √yuj \+ *ghañ*. Separation or subtraction.
 
-**Mathematical Equivalency and Commentary:** For binary logistic regression, the loss function evaluates both the likelihood of the true class and the inverse likelihood. The equation is: $L \= \- \\frac{1}{J} \\sum \\left( y\_{true} \\ln(y\_{pred}) \+ (1 \- y\_{true}) \\ln(1 \- y\_{pred}) \\right)$. The programmatic calculation extracts the mean of these independent binary log-likelihoods along the terminal axis: np.mean(sample\_losses, axis=-1).3  
+**Mathematical Equivalency and Commentary:** For binary logistic regression, the loss function evaluates both the likelihood of the true class and the inverse likelihood. The equation is: $L = - \\frac{1}{J} \\sum \\left( y_{true} \\ln(y_{pred}) + (1 - y_{true}) \\ln(1 - y_{pred}) \\right)$. The programmatic calculation extracts the mean of these independent binary log-likelihoods along the terminal axis: `np.mean(sample_losses, axis=-1)`.3  
 <p class="verse-topic">Verse 8 - Vasantatilakā</p>
-<div class="sanskrit-text iast-verse-lines">
-  mānāntaraṃ yadi gariṣṭham-anena dṛṣṭaṃ, vargīkṛtaṃ tad-akhilaṃ tv-aparādha-mūlam<br />
-madhyaṃ phalaṃ gaṇayituṃ prabalaṃ pramāṇaṃ, ṛjvī-gatau gaṇita-śāstra-vidaḥ vadanti || 8 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  मानान्तरं यदि गरिष्ठम्-अनेन दृष्टं, वर्गीकृतं तद्-अखिलं त्व्-अपराध-मूलम्<br />
+  मध्यं फलं गणयितुं प्रबलं प्रमाणं, ऋज्वी-गतौ गणित-शास्त्र-विदः वदन्ति ॥ ८ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  mānāntaraṃ yadi gariṣṭham-anena dṛṣṭaṃ, vargīkṛtaṃ tad-akhilaṃ tv-aparādha-mūlam
+  madhyaṃ phalaṃ gaṇayituṃ prabalaṃ pramāṇaṃ, ṛjvī-gatau gaṇita-śāstra-vidaḥ vadanti || 8 ||
+</div>
+</details>
 
 **Padaccheda:**  
 māna-antaraṃ (difference in value) yadi (if) gariṣṭham (heavy/severe) anena (by this) dṛṣṭaṃ (seen), vargīkṛtaṃ (squared) tat-akhilaṃ (all of that) tu (indeed) aparādha-mūlam (the root of the error) |  
 madhyaṃ (mean/average) phalaṃ (result) gaṇayituṃ (to calculate) prabalaṃ (strong) pramāṇaṃ (measure), ṛjvī-gatau (in continuous/linear regression) gaṇita-śāstra-vidaḥ (the knowers of mathematics) vadanti (state) ||  
 **Vyākaraṇa:**
 
-* *māna-antaraṃ*: *māna* (measure) \+ *antara* (difference). Denotes the subtraction $(y\_{true} \- y\_{pred})$.  
+* *māna-antaraṃ*: *māna* (measure) \+ *antara* (difference). Denotes the subtraction $(y_{true} - y_{pred})$.  
 * *vargīkṛtaṃ*: *varga* (square) \+ *cvi* \+ *kṛtam*. Having been made into a square.  
 * *gaṇayituṃ*: Root √gaṇ \+ *tumun* (infinitive).  
 * *gaṇita-śāstra-vidaḥ*: Nominative plural. Knowers (*vid*) of the science of mathematics.
 
-**Mathematical Equivalency and Commentary:** In regression models utilizing linear activation, the Mean Squared Error (MSE) is employed. The equation is: $L \= \\frac{1}{J} \\sum (y\_{true} \- y\_{pred})^2$. By squaring the difference between the prediction and the ground truth (*vargīkṛtaṃ*), the MSE function exponentially penalizes large deviations, aggressively forcing the optimizer to correct severe prediction discrepancies.3
+**Mathematical Equivalency and Commentary:** In regression models utilizing linear activation, the Mean Squared Error (MSE) is employed. The equation is: $L = \\frac{1}{J} \\sum (y_{true} - y_{pred})^2$. By squaring the difference between the prediction and the ground truth (*vargīkṛtaṃ*), the MSE function exponentially penalizes large deviations, aggressively forcing the optimizer to correct severe prediction discrepancies.3
 
 ## **Prakaraṇa IV: Pratiprasāraṇam (Calculus and Backpropagation)**
 
 The essence of machine learning lies in determining the precise impact of each specific parameter on the final loss function. This necessitates the computation of partial derivatives (*āṃśika-avakalaja*) utilizing the Chain Rule, recursively flowing gradients backward from the terminal loss function to the initial inputs.3  
 <p class="verse-topic">Verse 9 - Śārdūlavikrīḍita</p>
-<div class="sanskrit-text iast-verse-lines">
-  bāhyasyāvakalajena hi guṇitaṃ yad-antarangam phalaṃ, śṛṅkhalā-niyamataḥ kramaśaḥ sarvaṃ samākaṣati<br />
-bhārasyāpi ca pakṣapāta-nateḥ satyaṃ prabhāvaṃ tathā, nirṇīyāśu gaṇena mūlapada-gaṃ doṣaṃ nirasya sphuṭam || 9 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  बाह्यस्यावकलजेन हि गुणितं यद्-अन्तरन्गम् फलं, शृङ्खला-नियमतः क्रमशः सर्वं समाकषति<br />
+  भारस्यापि च पक्षपात-नतेः सत्यं प्रभावं तथा, निर्णीयाशु गणेन मूलपद-गं दोषं निरस्य स्फुटम् ॥ ९ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  bāhyasyāvakalajena hi guṇitaṃ yad-antarangam phalaṃ, śṛṅkhalā-niyamataḥ kramaśaḥ sarvaṃ samākaṣati
+  bhārasyāpi ca pakṣapāta-nateḥ satyaṃ prabhāvaṃ tathā, nirṇīyāśu gaṇena mūlapada-gaṃ doṣaṃ nirasya sphuṭam || 9 ||
+</div>
+</details>
 
 **Padaccheda:**  
 bāhyasya (of the outer) avakalajena (by the derivative) hi (indeed) guṇitaṃ (multiplied) yat-antarangam (that which is inner) phalaṃ (result),  
@@ -210,12 +264,18 @@ nirṇīya (having determined) āśu (swiftly) gaṇena (by the calculation) mū
 * *samākaṣati*: Prefix *sam* \+ *ā* \+ Root √kṛṣ (to pull/extract) \+ *laṭ*.  
 * *nirṇīya*: Prefix *nis* \+ Root √nī (to lead/decide) \+ *lyap*.
 
-**Mathematical Equivalency and Commentary:** The verse articulates the Chain Rule of calculus: $\\frac{\\partial L}{\\partial x} \= \\frac{\\partial f(g(x))}{\\partial g(x)} \\cdot \\frac{\\partial g(x)}{\\partial x}$. To calculate the partial derivative of a chain of nested functions, the partial derivative of the outer function with respect to the inner function is multiplied by the partial derivative of the inner function with respect to its own parameters.3 Analytical derivatives, as opposed to numerical approximations, offer exact and computationally rapid solutions required for the multidimensional architecture of neural networks.3  
+**Mathematical Equivalency and Commentary:** The verse articulates the Chain Rule of calculus: $\\frac{\\partial L}{\\partial x} = \\frac{\\partial f(g(x))}{\\partial g(x)} \\cdot \\frac{\\partial g(x)}{\\partial x}$. To calculate the partial derivative of a chain of nested functions, the partial derivative of the outer function with respect to the inner function is multiplied by the partial derivative of the inner function with respect to its own parameters.3 Analytical derivatives, as opposed to numerical approximations, offer exact and computationally rapid solutions required for the multidimensional architecture of neural networks.3  
 <p class="verse-topic">Verse 10 - Śārdūlavikrīḍita</p>
-<div class="sanskrit-text iast-verse-lines">
-  paścādgāmi-sareṇa yantra-pathage doṣa-pramāṇe sati, pratyekaṃ jñānakośa-bandhana-gataṃ doṣasya bhāgaṃ pṛthak<br />
-vyūhānāṃ parivartitena guṇitaṃ ghātena kṛtvā tu tat, sarvāś-caiva nirañjanāḥ pratikṛtīḥ saṃdarśayaty-añjasā || 10 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  पश्चाद्गामि-सरेण यन्त्र-पथगे दोष-प्रमाणे सति, प्रत्येकं ज्ञानकोश-बन्धन-गतं दोषस्य भागं पृथक्<br />
+  व्यूहानां परिवर्तितेन गुणितं घातेन कृत्वा तु तत्, सर्वाश्-चैव निरञ्जनाः प्रतिकृतीः संदर्शयत्य्-अञ्जसा ॥ १० ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  paścādgāmi-sareṇa yantra-pathage doṣa-pramāṇe sati, pratyekaṃ jñānakośa-bandhana-gataṃ doṣasya bhāgaṃ pṛthak
+  vyūhānāṃ parivartitena guṇitaṃ ghātena kṛtvā tu tat, sarvāś-caiva nirañjanāḥ pratikṛtīḥ saṃdarśayaty-añjasā || 10 ||
+</div>
+</details>
 
 **Padaccheda:**  
 paścādgāmi-sareṇa (by the backward-flowing flow/backpropagation) yantra-pathage (going through the machine's path) doṣa-pramāṇe (when the error measure) sati (is),  
@@ -228,12 +288,18 @@ sarvāḥ (all) ca (and) eva (indeed) nirañjanāḥ (spotless/corrected) pratik
 * *parivartitena*: Instrumental of *parivartita* (transposed/turned around). In matrix calculus, transposing arrays is necessary to align dimensions for the backward dot product.  
 * *saṃdarśayati*: Prefix *sam* \+ Root √dṛś (to see), causative stem (*ṇic*), *laṭ* third-person singular. Causes to see, reveals.
 
-**Mathematical Equivalency and Commentary:** During backpropagation, the neural network calculates the gradient of the loss function with respect to the outputs, and propagates this gradient backward layer by layer.6 For a dense layer, the gradient with respect to the weights is calculated via np.dot(inputs.T, dvalues) where dvalues is the gradient received from the subsequent layer.3 Transposing the inputs (inputs.T) aligns the rows of the batch data with the columns of the incoming gradients. Similarly, the gradient to be passed backward to the previous layer is calculated via np.dot(dvalues, weights.T). Summing the gradients along the batch axis captures the partial derivative for the biases: np.sum(dvalues, axis=0, keepdims=True).3 Backpropagation, operating as chain rule plus memoization 6, allows the network to assess all parameters concurrently.  
+**Mathematical Equivalency and Commentary:** During backpropagation, the neural network calculates the gradient of the loss function with respect to the outputs, and propagates this gradient backward layer by layer.6 For a dense layer, the gradient with respect to the weights is calculated via `np.dot(inputs.T, dvalues)` where `dvalues` is the gradient received from the subsequent layer.3 Transposing the inputs (`inputs.T`) aligns the rows of the batch data with the columns of the incoming gradients. Similarly, the gradient to be passed backward to the previous layer is calculated via `np.dot(dvalues, weights.T)`. Summing the gradients along the batch axis captures the partial derivative for the biases: `np.sum(dvalues, axis=0, keepdims=True)`.3 Backpropagation, operating as chain rule plus memoization 6, allows the network to assess all parameters concurrently.  
 <p class="verse-topic">Verse 11 - Śārdūlavikrīḍita</p>
-<div class="sanskrit-text iast-verse-lines">
-  saṃyujyāpi ca komalatīkṣṇa-vidhinā doṣasya hāniṃ yadā, śīghraṃ sūtra-phalaṃ pradarśayati tat satyāpavādena hi<br />
-lakṣyāt-prāptaphalaṃ viyogam-anaghaṃ kṛtvā tu tat-kṣaṇato, sarvān-tantu-gaṇān samīkaroti tad gariṣṭha-mānāntaram || 11 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  संयुज्यापि च कोमलतीक्ष्ण-विधिना दोषस्य हानिं यदा, शीघ्रं सूत्र-फलं प्रदर्शयति तत् सत्यापवादेन हि<br />
+  लक्ष्यात्-प्राप्तफलं वियोगम्-अनघं कृत्वा तु तत्-क्षणतो, सर्वान्-तन्तु-गणान् समीकरोति तद् गरिष्ठ-मानान्तरम् ॥ ११ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  saṃyujyāpi ca komalatīkṣṇa-vidhinā doṣasya hāniṃ yadā, śīghraṃ sūtra-phalaṃ pradarśayati tat satyāpavādena hi
+  lakṣyāt-prāptaphalaṃ viyogam-anaghaṃ kṛtvā tu tat-kṣaṇato, sarvān-tantu-gaṇān samīkaroti tad gariṣṭha-mānāntaram || 11 ||
+</div>
+</details>
 
 **Padaccheda:**  
 saṃyujya (having combined) api (also) ca (and) komalatīkṣṇa-vidhinā (with the Softmax rule) doṣasya (of the error) hāniṃ (loss) yadā (when),  
@@ -246,18 +312,26 @@ sarvān (all) tantu-gaṇān (neuron groups) samīkaroti (equalizes) tat (that) 
 * *satya-apavādena*: *satya* (truth/ground-truth) \+ *apavāda* (exception/subtraction).  
 * *samīkaroti*: *samī* (*cvi* affix indicating making something equal that was not) \+ √kṛ.
 
-**Mathematical Equivalency and Commentary:** Calculating the partial derivatives of the Softmax activation and the Categorical Cross-Entropy loss functions independently is computationally expensive, requiring the calculation of a full Jacobian matrix.3 However, when the algebraic derivatives of both functions are combined via the chain rule, the vast majority of the complex exponential mathematics cancels out. The resulting combined gradient equation remarkably simplifies to $\\hat{y}\_{i,k} \- y\_{i,k}$, which is merely the predicted probability subtracted by the true target value.3 Programmatically, this is executed by extracting the one-hot encoded true index and simply subtracting 1 from the predicted probability at that index: dinputs\[range(samples), y\_true\] \-= 1, followed by normalizing the gradient by dividing by the number of batch samples.3 This elegant simplification accelerates backward pass computations roughly seven-fold.3
+**Mathematical Equivalency and Commentary:** Calculating the partial derivatives of the Softmax activation and the Categorical Cross-Entropy loss functions independently is computationally expensive, requiring the calculation of a full Jacobian matrix.3 However, when the algebraic derivatives of both functions are combined via the chain rule, the vast majority of the complex exponential mathematics cancels out. The resulting combined gradient equation remarkably simplifies to $\\hat{y}_{i,k} - y_{i,k}$, which is merely the predicted probability subtracted by the true target value.3 Programmatically, this is executed by extracting the one-hot encoded true index and simply subtracting 1 from the predicted probability at that index: `dinputs[range(samples), y_true] -= 1`, followed by normalizing the gradient by dividing by the number of batch samples.3 This elegant simplification accelerates backward pass computations roughly seven-fold.3
 
 ## **Prakaraṇa V: Iṣṭatamīkaraṇam (Optimization Mechanics)**
 
 Gradients dictate the direction of steepest ascent. To minimize loss, the parameters are adjusted by traveling in the exact opposite direction - descending the gradient topography. This process is Optimization (*Iṣṭatamīkaraṇa*).3  
 <p class="verse-topic">Verse 12 - Mandākrāntā</p>
-<div class="sanskrit-text iast-verse-lines">
-  śikṣāgatiṃ doṣa-natim pragṛhya, pratyeka-bhārād apanīya nityam<br />
-śanaiḥ śanair-nīcatalaṃ prayāti, tamo'pahatyai gaṇitasya mārgāt<br />
-etad-dhi satyaṃ kṣayamārga-yānam, avikṣitaṃ bindugati-prakāśam<br />
-viyuktam-ekaikapadena nityaṃ, doṣāpahāraṃ kurute hi yantram || 12 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  शिक्षागतिं दोष-नतिम् प्रगृह्य, प्रत्येक-भाराद् अपनीय नित्यम्<br />
+  शनैः शनैर्-नीचतलं प्रयाति, तमोऽपहत्यै गणितस्य मार्गात्<br />
+  एतद्-धि सत्यं क्षयमार्ग-यानम्, अविक्षितं बिन्दुगति-प्रकाशम्<br />
+  वियुक्तम्-एकैकपदेन नित्यं, दोषापहारं कुरुते हि यन्त्रम् ॥ १२ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  śikṣāgatiṃ doṣa-natim pragṛhya, pratyeka-bhārād apanīya nityam
+  śanaiḥ śanair-nīcatalaṃ prayāti, tamo'pahatyai gaṇitasya mārgāt
+  etad-dhi satyaṃ kṣayamārga-yānam, avikṣitaṃ bindugati-prakāśam
+  viyuktam-ekaikapadena nityaṃ, doṣāpahāraṃ kurute hi yantram || 12 ||
+</div>
+</details>
 
 **Padaccheda:**  
 śikṣā-gatiṃ (learning rate) doṣa-natiṃ (gradient of the error) pragṛhya (having grasped), pratyeka-bhārāt (from each weight) apanīya (having subtracted) nityam (constantly) |  
@@ -270,14 +344,22 @@ viyuktam (subtracted) eka-eka-padena (step by step) nityaṃ (always), doṣa-ap
 * *doṣa-natiṃ*: The gradient vector containing the partial derivatives.  
 * *kṣayamārga-yānam*: *kṣaya* (decrease/descent) \+ *mārga* (path) \+ *yāna* (vehicle/journey). Gradient Descent.18
 
-**Mathematical Equivalency and Commentary:** The verse codifies the foundational Stochastic Gradient Descent (SGD) update rule: $w\_{new} \= w\_{old} \- \\alpha \\nabla w$, where $\\alpha$ represents the learning rate (*śikṣāgati*). By applying a negative scalar fraction to the gradients and updating the weights and biases, the optimizer forces the parameters to travel down the multi-dimensional loss topography toward a theoretical global minimum. Programmatically, this is executed via layer.weights \+= \-self.learning\_rate \* layer.dweights.3 If the learning rate is too large, the optimizer may overshoot the minimum and destabilize; if too small, it may stagnate or become trapped in a local minimum.3  
+**Mathematical Equivalency and Commentary:** The verse codifies the foundational Stochastic Gradient Descent (SGD) update rule: $w_{new} = w_{old} - \\alpha \\nabla w$, where $\\alpha$ represents the learning rate (*śikṣāgati*). By applying a negative scalar fraction to the gradients and updating the weights and biases, the optimizer forces the parameters to travel down the multi-dimensional loss topography toward a theoretical global minimum. Programmatically, this is executed via `layer.weights += -self.learning_rate * layer.dweights`.3 If the learning rate is too large, the optimizer may overshoot the minimum and destabilize; if too small, it may stagnate or become trapped in a local minimum.3  
 <p class="verse-topic">Verse 13 - Mandākrāntā</p>
-<div class="sanskrit-text iast-verse-lines">
-  vegānusāraṃ smṛtim-ādadānaḥ, saṃśodhya mānaṃ ca tathā prabhedam<br />
-ādam-vidhānena tu yantrabuddhiḥ, kṣipraṃ samāyāti hi lakṣyadeśam<br />
-bhinnāṃ ca śikṣāgatim-eka-bhāre, pratyeti yantraṃ gaṇitena śuddham<br />
-mārge sthalitvā na hi tiṣṭhati sma, vegādhikārāt paramārtha-gāmī || 13 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  वेगानुसारं स्मृतिम्-आददानः, संशोध्य मानं च तथा प्रभेदम्<br />
+  आदम्-विधानेन तु यन्त्रबुद्धिः, क्षिप्रं समायाति हि लक्ष्यदेशम्<br />
+  भिन्नां च शिक्षागतिम्-एक-भारे, प्रत्येति यन्त्रं गणितेन शुद्धम्<br />
+  मार्गे स्थलित्वा न हि तिष्ठति स्म, वेगाधिकारात् परमार्थ-गामी ॥ १३ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  vegānusāraṃ smṛtim-ādadānaḥ, saṃśodhya mānaṃ ca tathā prabhedam
+  ādam-vidhānena tu yantrabuddhiḥ, kṣipraṃ samāyāti hi lakṣyadeśam
+  bhinnāṃ ca śikṣāgatim-eka-bhāre, pratyeti yantraṃ gaṇitena śuddham
+  mārge sthalitvā na hi tiṣṭhati sma, vegādhikārāt paramārtha-gāmī || 13 ||
+</div>
+</details>
 
 **Padaccheda:**  
 vega-anusāraṃ (according to momentum) smṛtim (memory) ādadānaḥ (taking), saṃśodhya (having corrected) mānaṃ (value) ca (and) tathā (also) prabhedam (variance) |  
@@ -291,16 +373,22 @@ mārge (on the path) sthalitvā (having stumbled/fallen into a local minimum) na
 * *ādadānaḥ*: Root *ā*\-√dā (to take) \+ *śānac* (present participle middle).  
 * *prabhedam*: Accusative singular of *prabheda*. Variance, representing the squared gradients utilized in RMSProp and Adam algorithms.
 
-**Mathematical Equivalency and Commentary:** The Adaptive Moment Estimation (Adam) optimizer integrates the inertia of Momentum with the adaptive, per-parameter learning rates of RMSProp.3 Adam maintains two moving average caches: $m\_t \= \\beta\_1 m\_{t-1} \+ (1-\\beta\_1)g\_t$ (the first moment, or mean of the gradients) and $v\_t \= \\beta\_2 v\_{t-1} \+ (1-\\beta\_2)g\_t^2$ (the second moment, or uncentered variance of the gradients).3 Bias corrections are subsequently applied to these caches to prevent early-stage zero-bias. By dividing the momentum by the square root of the variance cache, Adam dynamically adjusts the learning rate for *each individual parameter* (*bhinnāṃ śikṣāgatim eka-bhāre*), significantly accelerating convergence and preventing the model from stalling in localized topological depressions (*mārge sthalitvā na hi tiṣṭhati*).3
+**Mathematical Equivalency and Commentary:** The Adaptive Moment Estimation (Adam) optimizer integrates the inertia of Momentum with the adaptive, per-parameter learning rates of RMSProp.3 Adam maintains two moving average caches: $m_t = \\beta_1 m_{t-1} + (1-\\beta_1)g_t$ (the first moment, or mean of the gradients) and $v_t = \\beta_2 v_{t-1} + (1-\\beta_2)g_t^2$ (the second moment, or uncentered variance of the gradients).3 Bias corrections are subsequently applied to these caches to prevent early-stage zero-bias. By dividing the momentum by the square root of the variance cache, Adam dynamically adjusts the learning rate for *each individual parameter* (*bhinnāṃ śikṣāgatim eka-bhāre*), significantly accelerating convergence and preventing the model from stalling in localized topological depressions (*mārge sthalitvā na hi tiṣṭhati*).3
 
 ## **Prakaraṇa VI: Niyamīkaraṇam (Regularization and Dropout)**
 
 Deep learning models, possessing massive parameter capacities, are highly susceptible to overfitting - memorizing the noise of the training data rather than generalizing the underlying mathematical representation.3 Regularization penalizes complex weights, and Dropout layers introduce stochastic omission.  
 <p class="verse-topic">Verse 14 - Anuṣṭubh</p>
-<div class="sanskrit-text iast-verse-lines">
-  bhārasya varga-mānena daṇḍaṃ datvā tu gaṇyate<br />
-ati-smṛtivikārasya śamanaṃ sūtrayojitām || 14 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  भारस्य वर्ग-मानेन दण्डं दत्वा तु गण्यते<br />
+  अति-स्मृतिविकारस्य शमनं सूत्रयोजिताम् ॥ १४ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  bhārasya varga-mānena daṇḍaṃ datvā tu gaṇyate
+  ati-smṛtivikārasya śamanaṃ sūtrayojitām || 14 ||
+</div>
+</details>
 
 **Padaccheda:**  
 bhārasya (of the weight) varga-mānena (by the squared value) daṇḍaṃ (penalty) datvā (having given) tu (indeed) gaṇyate (it is calculated) |  
@@ -311,12 +399,18 @@ ati-smṛti-vikārasya (of the disease of over-memorization) śamanaṃ (pacific
 * *daṇḍaṃ*: Penalty. Representing the lambda ($\\lambda$) hyperparameter scaling the regularization loss.  
 * *ati-smṛti-vikārasya*: *ati* (excess) \+ *smṛti* (memory) \+ *vikāra* (disease). A precise, conceptual translation for the phenomenon of "overfitting."
 
-**Mathematical Equivalency and Commentary:** L2 Regularization (Ridge) adds a penalty to the overarching loss function proportional to the squared magnitude of the weights: $L\_{reg} \= \\lambda \\sum w^2$. L1 Regularization (Lasso) utilizes the absolute value: $L\_{reg} \= \\lambda \\sum |w|$. By penalizing excessively large weights, the network is forced to distribute its predictive logic across a wider array of neurons, curing the disease of over-memorization (*ati-smṛti-vikāra*). Programmatically, the derivative of L2 applied during backpropagation is simply 2 \* lambda \* weights, pulling extreme parameter values back toward zero.3  
+**Mathematical Equivalency and Commentary:** L2 Regularization (Ridge) adds a penalty to the overarching loss function proportional to the squared magnitude of the weights: $L_{reg} = \\lambda \\sum w^2$. L1 Regularization (Lasso) utilizes the absolute value: $L_{reg} = \\lambda \\sum |w|$. By penalizing excessively large weights, the network is forced to distribute its predictive logic across a wider array of neurons, curing the disease of over-memorization (*ati-smṛti-vikāra*). Programmatically, the derivative of L2 applied during backpropagation is simply `2 * lambda * weights`, pulling extreme parameter values back toward zero.3  
 <p class="verse-topic">Verse 15 - Anuṣṭubh</p>
-<div class="sanskrit-text iast-verse-lines">
-  yadṛcchayā tu tantūnāṃ lopaṃ kṛtvā punaḥ punaḥ<br />
-vibhājya lopa-mānena śuddhiṃ yantraṃ samācaret || 15 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  यदृच्छया तु तन्तूनां लोपं कृत्वा पुनः पुनः<br />
+  विभाज्य लोप-मानेन शुद्धिं यन्त्रं समाचरेत् ॥ १५ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  yadṛcchayā tu tantūnāṃ lopaṃ kṛtvā punaḥ punaḥ
+  vibhājya lopa-mānena śuddhiṃ yantraṃ samācaret || 15 ||
+</div>
+</details>
 
 **Padaccheda:**  
 yadṛcchayā (randomly) tu (indeed) tantūnāṃ (of the connections/neurons) lopaṃ (dropout/omission) kṛtvā (having done) punaḥ punaḥ (again and again) |  
@@ -327,16 +421,22 @@ vibhājya (having divided) lopa-mānena (by the dropout rate) śuddhiṃ (normal
 * *lopaṃ*: Root √lup (to disappear/drop) \+ *ghañ*. Directly translates "Dropout."  
 * *vibhājya*: Prefix *vi* \+ Root √bhaj (to divide) \+ *lyap*.
 
-**Mathematical Equivalency and Commentary:** The Dropout function forces the network to learn robust feature representations by randomly disabling a fraction of neurons during each forward training pass, governed by a Bernoulli distribution probability ($q$). The equation is: Output \= $\\frac{inputs \\times \\text{Bernoulli}(1-q)}{1-q}$. Because a percentage of the network is silenced, the aggregate mathematical sum of the layer decreases. To ensure the network evaluates identically during testing (when all neurons are active), the outputs of the remaining active neurons are scaled up during training by dividing by $(1-q)$. This programmatic execution self.output \= inputs \* self.binary\_mask / self.rate prevents the phenomenon of neural co-adaptation, where specific neurons become overly reliant on the outputs of sibling neurons.3
+**Mathematical Equivalency and Commentary:** The Dropout function forces the network to learn robust feature representations by randomly disabling a fraction of neurons during each forward training pass, governed by a Bernoulli distribution probability ($q$). The equation is: Output = $\\frac{inputs \\times \\text{Bernoulli}(1-q)}{1-q}$. Because a percentage of the network is silenced, the aggregate mathematical sum of the layer decreases. To ensure the network evaluates identically during testing (when all neurons are active), the outputs of the remaining active neurons are scaled up during training by dividing by $(1-q)$. This programmatic execution `self.output = inputs * self.binary_mask / self.rate` prevents the phenomenon of neural co-adaptation, where specific neurons become overly reliant on the outputs of sibling neurons.3
 
 ## **Prakaraṇa VII: Parīkṣaṇa (Out-of-Sample Evaluation)**
 
 The ultimate proof of a neural network's intelligence is its performance on data it has never observed during the training and backpropagation cycles.3  
 <p class="verse-topic">Verse 16 - Śālinī</p>
-<div class="sanskrit-text iast-verse-lines">
-  ajñātaṃ yaj-jñāyate yantra-bodhair, nūtaṃ dattaṃ pārtha-śodhe samīkṣyam<br />
-śikṣā-doṣo dṛśyate yatra tulyaḥ, satyaṃ jñānaṃ tac-ca sāmānya-rūpam || 16 ||
+<div class="sanskrit-text sanskrit-verse-lines">
+  अज्ञातं यज्-ज्ञायते यन्त्र-बोधैर्, नूतं दत्तं पार्थ-शोधे समीक्ष्यम्<br />
+  शिक्षा-दोषो दृश्यते यत्र तुल्यः, सत्यं ज्ञानं तच्-च सामान्य-रूपम् ॥ १६ ॥
 </div>
+<details class="iast-details"><summary>IAST transliteration</summary>
+<div class="prose-text iast-verse-lines">
+  ajñātaṃ yaj-jñāyate yantra-bodhair, nūtaṃ dattaṃ pārtha-śodhe samīkṣyam
+  śikṣā-doṣo dṛśyate yatra tulyaḥ, satyaṃ jñānaṃ tac-ca sāmānya-rūpam || 16 ||
+</div>
+</details>
 
 **Padaccheda:**  
 ajñātaṃ (the unknown) yat (which) jñāyate (is known) yantra-bodhaiḥ (by the machine's cognitions), nūtaṃ (new) dattaṃ (data) pārtha-śodhe (in separate testing) samīkṣyam (should be observed) |  
