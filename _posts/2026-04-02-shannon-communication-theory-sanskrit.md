@@ -3,9 +3,22 @@ layout: post
 title: सूचनासिद्धान्तस्य संस्कृत-संहिता
 subtitle: Verse-Centered Shannon Edition
 tags: [sanskrit, information-theory, mathematics]
+audio_sync: false
+# audio_file: /assets/audio/FILENAME.mp3
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="reader-container audio-sync-root">
+
+{% if page.audio_sync %}
+<div class="audio-panel">
+  <audio controls preload="metadata" data-audio-sync-player>
+    <source src="{{ page.audio_file | relative_url }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+{% endif %}
 
 The architecture of modern information theory, formulated by Claude E. Shannon in 1948, provides a rigorous mathematical framework for the quantification, encoding, compression, and transmission of data.1 This seminal framework establishes the absolute mathematical limits of communication, abstracting away the semantic meaning of messages to focus purely on the statistical and probabilistic nature of information generation and transfer.1 Concurrently, the ancient Indian intellectual traditions, specifically the combinatorial prosody codified in Piṅgala's छन्दःशास्त्र (Chandaḥśāstra) and the highly structured, computational linguistics established in Pāṇini's अष्टाध्यायी (Aṣṭādhyāyī), represent sophisticated systems of rule-based data encoding, recursive algorithms, and binary enumeration.4 The structural congruence between these two distinct paradigms suggests that the mathematical laws of modern communication theory can be effectively, elegantly, and comprehensively codified utilizing the morphological framework of the Sanskrit language.
 
@@ -451,3 +464,7 @@ By explicitly discarding transient mid-century technological implementations and
 15. Sanskrit for Organic Nomenclature \- ResearchGate, accessed March 28, 2026, [https://www.researchgate.net/publication/377527612_Sanskrit_for_Organic_Nomenclature_Reinventing_a_Model_of_Systematically_Naming_of_Compounds_based_on_a_7_Decades_old_Indian_Dictionary](https://www.researchgate.net/publication/377527612_Sanskrit_for_Organic_Nomenclature_Reinventing_a_Model_of_Systematically_Naming_of_Compounds_based_on_a_7_Decades_old_Indian_Dictionary)
 18. Pratyabhijñā Apoha Theory, Shannon–Weaver Information, Saussurean Structure, and Peircean Interpretant Agency \- MDPI, accessed March 28, 2026, [https://www.mdpi.com/2077-1444/9/6/191](https://www.mdpi.com/2077-1444/9/6/191)
 26. Connecting Bhagavad Gita to Thermodynamics & Quantum Information \- Reddit, accessed March 28, 2026, [https://www.reddit.com/r/AdvaitaVedanta/comments/1punmen/connecting_bhagavad_gita_to_thermodynamics/](https://www.reddit.com/r/AdvaitaVedanta/comments/1punmen/connecting_bhagavad_gita_to_thermodynamics/)
+
+</div>
+
+<script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>

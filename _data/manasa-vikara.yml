@@ -1,0 +1,245 @@
+# Source: C:\Projects\shatakam\mānasa-vikāra.txt
+title_sa: मानस-विकाराः
+title_en: Mānasa-vikāra
+subtitle_en: Cognitive biases in Mahābhārata and Rāmāyaṇa (Anuṣṭubh anthology)
+intro_visible: |
+  This edition follows the manuscript *योजना (ग्रन्थ-रूपरेखा)*, retaining the author’s plan, seven *anuṣṭubh* verses in two chapters, full word analysis, and the glossary of coined Pāṇinian terms.
+plan_commentary: |
+  *योजना-विवरणम् (Plan Execution):*
+
+  अस्मिन् विषये आधुनिक-मनोविज्ञानस्य (Cognitive Psychology) अर्थशास्त्रस्य च (Behavioral Economics) सिद्धान्ताः अङ्गीकृताः। मुम्बापुरी-सदृशानां नगराणां प्रासङ्गिकी चर्चा, तथा च मानवानां सामान्य-स्वभावस्य वर्णनानि अत्र न ग्राह्याणि (Skipped as transient/trite)। केवलं महाकाव्ययोः पात्राणां मनोवैज्ञानिक-दोषाणां शास्त्रीय-पद्धत्या सङ्ग्रहः कृतः (Kept as essential)।
+
+  एतदर्थम् अनुष्टुप्-छन्दसि (८ अक्षराणि प्रति-पादम्) श्लोकसप्तकं विरचितम्। तच्च प्रकरणद्वये विभक्तम्— 'महाभारत-मानस-विकाराः', 'रामायण-मानस-विकाराः' च।
+sections:
+- slug: yojana
+  title_sa: योजना (ग्रन्थ-रूपरेखा)
+  title_en: Plan (book outline)
+  plan_after_verses: true
+  verses:
+  - id: P1
+    meter_en: Anuṣṭubh
+    topic_en: Prologue
+    text_sa: |
+      त्यक्त्वा मुम्बापुरीवार्तां नृणां सामान्यवर्णनम् ।
+      कुरुरामकथापात्रे मनोदोषान् ब्रवीम्यहम् ॥
+    meaning: ''
+  - id: P2
+    meter_en: Anuṣṭubh
+    topic_en: Metrical scope
+    text_sa: |
+      सप्तश्लोकैः प्रबन्धोऽयं ग्रथितोऽनुष्टुप्-छन्दसि ।
+      प्रकरणद्वयेनैव शास्त्रमेतद् विरच्यते ॥
+    meaning: ''
+- slug: mahabharata
+  title_sa: प्रथमं प्रकरणम् - महाभारत-मानस-विकाराः
+  title_en: 'Chapter 1: Mental distortions in the Mahābhārata'
+  verses:
+  - id: 1
+    meter_en: Anuṣṭubh
+    topic_en: Dhṛtarāṣṭra
+    text_sa: |
+      सत्यपराङ्मुखो राजा स्वपक्षपातमण्डितः ।
+      धृतराष्ट्रोऽन्ध एवासीत् पुत्रस्नेहविमोहितः ॥ १ ॥
+    meaning: |
+      * सत्य-पराङ्मुखः (Satya-parāṅmukhaḥ) = सत्य (Truth) + पराङ्मुख (Turning away face). (Ostrich Effect). The one who averts his gaze from the truth.
+      * राजा (Rājā) = The King.
+      * स्व-पक्ष-पात-मण्डितः (Sva-pakṣa-pāta-maṇḍitaḥ) = स्व (Own) + पक्ष (Side/In-group) + पात (Falling for/Favoritism) + मण्डितः (Adorned/Characterized by). (In-Group Favoritism).
+      * धृतराष्ट्रः (Dhṛtarāṣṭraḥ) = Proper noun.
+      * अन्धः (Andhaḥ) = Blind (Physically and metaphorically).
+      * एव (Eva) = Indeed.
+      * आसीत् (Āsīt) = Was.
+      * पुत्र-स्नेह-विमोहितः (Putra-sneha-vimohitaḥ) = पुत्र (Son) + स्नेह (Affection) + विमोहितः (Deluded). Deluded by affection for his son.
+  - id: 2
+    meter_en: Anuṣṭubh
+    topic_en: Duryodhana
+    text_sa: |
+      नष्टमूल्यानुबन्धेन शून्यविपत्तिकाङ्क्षया ।
+      दुर्योधनो विनाशाय सर्वस्वं त्यक्तुमुद्यतः ॥ २ ॥
+    meaning: |
+      * नष्ट-मूल्य-अनुबन्धेन (Naṣṭa-mūlya-anubandhena) = नष्ट (Lost/Sunk) + मूल्य (Value/Cost) + अनुबन्ध (Binding/Fallacy) + तृतीया-विभक्तिः (By/Due to). (Sunk Cost Fallacy). Due to the attachment to the expended cost.
+      * शून्य-विपत्ति-काङ्क्षया (Śūnya-vipatti-kāṅkṣayā) = शून्य (Zero) + विपत्ति (Risk) + काङ्क्षा (Desire/Bias). (Zero-Risk Bias). By the desire for absolute zero risk (total elimination of Pandavas).
+      * दुर्योधनः (Duryodhanaḥ) = Proper noun.
+      * विनाशाय (Vināśāya) = For destruction (चतुर्थी).
+      * सर्वस्वम् (Sarvasvam) = Everything/All territory.
+      * त्यक्तुम् (Tyaktum) = To sacrifice/give up.
+      * उद्यतः (Udyataḥ) = Ready/Prepared.
+  - id: 3
+    meter_en: Anuṣṭubh
+    topic_en: Bhīṣma
+    text_sa: |
+      अधिकारान्धताग्रस्तो जीर्णधर्मरतोऽपि च ।
+      निष्क्रियत्वापराधोऽस्य भीष्मस्य कुरुसंसदि ॥ ३ ॥
+    meaning: |
+      * अधिकार-अन्धता-ग्रस्तः (Adhikāra-andhatā-grastaḥ) = अधिकार (Authority/Power) + अन्धता (Blindness/Bias) + ग्रस्तः (Seized by). (Authority Bias). Paralyzed by deference to the king's authority.
+      * जीर्ण-धर्म-रतः (Jīrṇa-dharma-rataḥ) = जीर्ण (Decayed/Rotting system) + धर्म (Law/System) + रतः (Attached/Justifying). (System Justification). Attached to a rotting system.
+      * अपि च (Api ca) = And also.
+      * निष्क्रियत्व-अपराधः (Niṣkriyatva-aparādhaḥ) = निष्क्रियत्व (Inaction/Omission) + अपराधः (Crime/Bias/Flaw). (Omission Bias). The moral flaw of passive allowance.
+      * अस्य (Asya) = His.
+      * भीष्मस्य (Bhīṣmasya) = Of Bhishma.
+      * कुरु-संसदि (Kuru-saṃsadi) = In the assembly of the Kurus (सप्तमी).
+  - id: 4
+    meter_en: Anuṣṭubh
+    topic_en: Yudhiṣṭhira
+    text_sa: |
+      पर्यायागममाशास्य यन्त्रवद्धर्ममाचरन् ।
+      युधिष्ठिरस्तु तत्रैव द्यूतभ्रान्त्या पराजितः ॥ ४ ॥
+    meaning: |
+      * पर्याय-आगमम् (Paryāya-āgamam) = पर्याय (Turn/Change of luck) + आगमम् (Arrival).
+      * आशास्य (Āśāsya) = Hoping for (ल्यप् प्रत्ययः). Hoping for a change in mathematical luck (Gambler’s Fallacy).
+      * यन्त्रवत्-धर्मम् (Yantravad-dharmam) = यन्त्रवत् (Like a machine/Algorithmic) + धर्मम् (Duty/Rule). (Automation Bias).
+      * आचरन् (Ācaran) = Practicing/Acting (शतृ प्रत्ययः).
+      * युधिष्ठिरः (Yudhiṣṭhiraḥ) = Proper noun.
+      * तु (Tu) = But.
+      * तत्रैव (Tatraiva) = Right there.
+      * द्यूत-भ्रान्त्या (Dyūta-bhrāntyā) = द्यूत (Gambling) + भ्रान्ति (Fallacy). By the gambler's delusion.
+      * पराजितः (Parājitaḥ) = Defeated.
+  - id: 5
+    meter_en: Anuṣṭubh
+    topic_en: Śakuni
+    text_sa: |
+      वचनस्य विन्यासेन शकुनिर्वञ्चयत्यमुम् ।
+      द्यूतं हि धर्मरूपेण दर्शयन् कपटैर्नृपम् ॥ ५ ॥
+    meaning: |
+      * वचनस्य (Vacanasya) = Of words.
+      * विन्यासेन (Vinyāsena) = By the arrangement/framing. (Framing Effect - 'Vacanavinyāsa').
+      * शकुनिः (Śakuniḥ) = Proper noun.
+      * वञ्चयति (Vañcayati) = Deceives/Manipulates.
+      * अमुम् (Amum) = Him (Yudhishthira).
+      * द्यूतम् (Dyūtam) = The gambling game.
+      * हि (Hi) = Indeed.
+      * धर्म-रूपेण (Dharma-rūpeṇa) = In the form of duty/honor.
+      * दर्शयन् (Darśayan) = Showing/Presenting (शतृ प्रत्ययः).
+      * कपटैः (Kapaṭaiḥ) = Through deceits.
+      * नृपम् (Nṛpam) = To the king.
+- slug: ramayana
+  title_sa: द्वितीयं प्रकरणम् - रामायण-मानस-विकाराः
+  title_en: 'Chapter 2: Mental distortions in the Rāmāyaṇa'
+  verses:
+  - id: 6
+    meter_en: Anuṣṭubh
+    topic_en: Rāvaṇa
+    text_sa: |
+      अतिदर्पविमूढात्मा क्षुद्रहेत्ववमानतः ।
+      मत्वा तु मानवान् क्षुद्रान् रावणो नाशमाप्तवान् ॥ ६ ॥
+    meaning: |
+      * अति-दर्प-विमूढ-आत्मा (Ati-darpa-vimūḍha-ātmā) = अति (Over) + दर्प (Confidence) + विमूढ (Deluded) + आत्मा (Mind/Self). (Overconfidence Effect). Mind deluded by supreme overconfidence.
+      * क्षुद्र-हेतु-अवमानतः (Kṣudra-hetu-avamānataḥ) = क्षुद्र (Minor/Insignificant) + हेतु (Variable/Factor) + अवमानतः (By disregarding/Illusion of validity). (Illusion of Validity). By completely disregarding insignificant variables.
+      * मत्वा (Matvā) = Having considered (क्त्वा प्रत्ययः).
+      * तु (Tu) = Indeed.
+      * मानवान् (Mānavān) = Humans.
+      * क्षुद्रान् (Kṣudrān) = Insignificant/Mere.
+      * रावणः (Rāvaṇaḥ) = Proper noun.
+      * नाशम् (Nāśam) = Destruction.
+      * आप्तवान् (Āptavān) = Obtained/Reached (क्तवतु प्रत्ययः).
+  - id: 7
+    meter_en: Anuṣṭubh
+    topic_en: Kaikeyī
+    text_sa: |
+      दृढमूलभ्रमाविष्टा सद्यःफलविलोभिता ।
+      कैकेयी भाविदुःखान्धा अयाचत नृपं वरम् ॥ ७ ॥
+    meaning: |
+      * दृढ-मूल-भ्रम-आविष्टा (Dṛḍha-mūla-bhrama-āviṣṭā) = दृढ (Firm) + मूल (Root/Anchor) + भ्रम (Delusion) + आविष्टा (Possessed by). (Anchoring Effect). Possessed by the first intensely planted seed of paranoia.
+      * सद्यः-फल-विलोभिता (Sadyaḥ-phala-vilobhitā) = सद्यः (Immediate/Present) + फल (Payoff/Fruit) + विलोभिता (Allured/Biased). (Present Bias / Hyperbolic Discounting). Allured by the immediate emotional payoff.
+      * कैकेयी (Kaikeyī) = Proper noun.
+      * भावि-दुःख-अन्धा (Bhāvi-duḥkha-andhā) = भावि (Future) + दुःख (Devastation/Consequence) + अन्धा (Blind). Blind to the massive future devastation.
+      * अयाचत (Ayācata) = Begged/Asked (लङ् लकारः, आत्मनेपदम्).
+      * नृपम् (Nṛpam) = The King (Dasharatha).
+      * वरम् (Varam) = The boon.
+appendix_word_analysis: |
+  ## पदच्छेदः, अन्वयः, शब्दार्थः च (Word-for-Word Meaning & Derivations)
+
+  श्लोकः १ (धृतराष्ट्रः - Dhritarashtra)
+
+  * सत्य-पराङ्मुखः (Satya-parāṅmukhaḥ) = सत्य (Truth) + पराङ्मुख (Turning away face). (Ostrich Effect). The one who averts his gaze from the truth.
+  * राजा (Rājā) = The King.
+  * स्व-पक्ष-पात-मण्डितः (Sva-pakṣa-pāta-maṇḍitaḥ) = स्व (Own) + पक्ष (Side/In-group) + पात (Falling for/Favoritism) + मण्डितः (Adorned/Characterized by). (In-Group Favoritism).
+  * धृतराष्ट्रः (Dhṛtarāṣṭraḥ) = Proper noun.
+  * अन्धः (Andhaḥ) = Blind (Physically and metaphorically).
+  * एव (Eva) = Indeed.
+  * आसीत् (Āsīt) = Was.
+  * पुत्र-स्नेह-विमोहितः (Putra-sneha-vimohitaḥ) = पुत्र (Son) + स्नेह (Affection) + विमोहितः (Deluded). Deluded by affection for his son.
+
+  श्लोकः २ (दुर्योधनः - Duryodhana)
+
+  * नष्ट-मूल्य-अनुबन्धेन (Naṣṭa-mūlya-anubandhena) = नष्ट (Lost/Sunk) + मूल्य (Value/Cost) + अनुबन्ध (Binding/Fallacy) + तृतीया-विभक्तिः (By/Due to). (Sunk Cost Fallacy). Due to the attachment to the expended cost.
+  * शून्य-विपत्ति-काङ्क्षया (Śūnya-vipatti-kāṅkṣayā) = शून्य (Zero) + विपत्ति (Risk) + काङ्क्षा (Desire/Bias). (Zero-Risk Bias). By the desire for absolute zero risk (total elimination of Pandavas).
+  * दुर्योधनः (Duryodhanaḥ) = Proper noun.
+  * विनाशाय (Vināśāya) = For destruction (चतुर्थी).
+  * सर्वस्वम् (Sarvasvam) = Everything/All territory.
+  * त्यक्तुम् (Tyaktum) = To sacrifice/give up.
+  * उद्यतः (Udyataḥ) = Ready/Prepared.
+
+  श्लोकः ३ (भीष्मः - Bhishma)
+
+  * अधिकार-अन्धता-ग्रस्तः (Adhikāra-andhatā-grastaḥ) = अधिकार (Authority/Power) + अन्धता (Blindness/Bias) + ग्रस्तः (Seized by). (Authority Bias). Paralyzed by deference to the king's authority.
+  * जीर्ण-धर्म-रतः (Jīrṇa-dharma-rataḥ) = जीर्ण (Decayed/Rotting system) + धर्म (Law/System) + रतः (Attached/Justifying). (System Justification). Attached to a rotting system.
+  * अपि च (Api ca) = And also.
+  * निष्क्रियत्व-अपराधः (Niṣkriyatva-aparādhaḥ) = निष्क्रियत्व (Inaction/Omission) + अपराधः (Crime/Bias/Flaw). (Omission Bias). The moral flaw of passive allowance.
+  * अस्य (Asya) = His.
+  * भीष्मस्य (Bhīṣmasya) = Of Bhishma.
+  * कुरु-संसदि (Kuru-saṃsadi) = In the assembly of the Kurus (सप्तमी).
+
+  श्लोकः ४ (युधिष्ठिरः - Yudhishthira)
+
+  * पर्याय-आगमम् (Paryāya-āgamam) = पर्याय (Turn/Change of luck) + आगमम् (Arrival).
+  * आशास्य (Āśāsya) = Hoping for (ल्यप् प्रत्ययः). Hoping for a change in mathematical luck (Gambler’s Fallacy).
+  * यन्त्रवत्-धर्मम् (Yantravad-dharmam) = यन्त्रवत् (Like a machine/Algorithmic) + धर्मम् (Duty/Rule). (Automation Bias).
+  * आचरन् (Ācaran) = Practicing/Acting (शतृ प्रत्ययः).
+  * युधिष्ठिरः (Yudhiṣṭhiraḥ) = Proper noun.
+  * तु (Tu) = But.
+  * तत्रैव (Tatraiva) = Right there.
+  * द्यूत-भ्रान्त्या (Dyūta-bhrāntyā) = द्यूत (Gambling) + भ्रान्ति (Fallacy). By the gambler's delusion.
+  * पराजितः (Parājitaḥ) = Defeated.
+
+  श्लोकः ५ (शकुनिः - Shakuni)
+
+  * वचनस्य (Vacanasya) = Of words.
+  * विन्यासेन (Vinyāsena) = By the arrangement/framing. (Framing Effect - 'Vacanavinyāsa').
+  * शकुनिः (Śakuniḥ) = Proper noun.
+  * वञ्चयति (Vañcayati) = Deceives/Manipulates.
+  * अमुम् (Amum) = Him (Yudhishthira).
+  * द्यूतम् (Dyūtam) = The gambling game.
+  * हि (Hi) = Indeed.
+  * धर्म-रूपेण (Dharma-rūpeṇa) = In the form of duty/honor.
+  * दर्शयन् (Darśayan) = Showing/Presenting (शतृ प्रत्ययः).
+  * कपटैः (Kapaṭaiḥ) = Through deceits.
+  * नृपम् (Nṛpam) = To the king.
+
+  श्लोकः ६ (रावणः - Ravana)
+
+  * अति-दर्प-विमूढ-आत्मा (Ati-darpa-vimūḍha-ātmā) = अति (Over) + दर्प (Confidence) + विमूढ (Deluded) + आत्मा (Mind/Self). (Overconfidence Effect). Mind deluded by supreme overconfidence.
+  * क्षुद्र-हेतु-अवमानतः (Kṣudra-hetu-avamānataḥ) = क्षुद्र (Minor/Insignificant) + हेतु (Variable/Factor) + अवमानतः (By disregarding/Illusion of validity). (Illusion of Validity). By completely disregarding insignificant variables.
+  * मत्वा (Matvā) = Having considered (क्त्वा प्रत्ययः).
+  * तु (Tu) = Indeed.
+  * मानवान् (Mānavān) = Humans.
+  * क्षुद्रान् (Kṣudrān) = Insignificant/Mere.
+  * रावणः (Rāvaṇaḥ) = Proper noun.
+  * नाशम् (Nāśam) = Destruction.
+  * आप्तवान् (Āptavān) = Obtained/Reached (क्तवतु प्रत्ययः).
+
+  श्लोकः ७ (कैकेयी - Kaikeyi)
+
+  * दृढ-मूल-भ्रम-आविष्टा (Dṛḍha-mūla-bhrama-āviṣṭā) = दृढ (Firm) + मूल (Root/Anchor) + भ्रम (Delusion) + आविष्टा (Possessed by). (Anchoring Effect). Possessed by the first intensely planted seed of paranoia.
+  * सद्यः-फल-विलोभिता (Sadyaḥ-phala-vilobhitā) = सद्यः (Immediate/Present) + फल (Payoff/Fruit) + विलोभिता (Allured/Biased). (Present Bias / Hyperbolic Discounting). Allured by the immediate emotional payoff.
+  * कैकेयी (Kaikeyī) = Proper noun.
+  * भावि-दुःख-अन्धा (Bhāvi-duḥkha-andhā) = भावि (Future) + दुःख (Devastation/Consequence) + अन्धा (Blind). Blind to the massive future devastation.
+  * अयाचत (Ayācata) = Begged/Asked (लङ् लकारः, आत्मनेपदम्).
+  * नृपम् (Nṛpam) = The King (Dasharatha).
+  * वरम् (Varam) = The boon.
+appendix_glossary: |
+  ## नूतन-शब्द-व्युत्पत्तिः (Glossary of Coined Pāṇinian Terms)
+
+  १. सत्यपराङ्मुखत्वम् (The Ostrich Effect): 'सत्य' (Truth) तथा 'पराङ्मुख' (Averted). अज्ञानवाञ्छा इत्यर्थः। सत्यं दृष्ट्वा मुखगूहनम्।
+  २. स्वपक्षपातः (In-Group Favoritism): 'स्व' (Own) + 'पक्ष' (Group/Side) + 'पात' (Inclination). पतति अस्मिन् इति पातः (घञ् प्रत्ययः)।
+  ३. नष्टमूल्यानुबन्धः (Sunk Cost Fallacy): 'नष्ट' (Lost) + 'मूल्य' (Cost/Value) + 'अनुबन्ध' (Attachment/Binding). गते श्रमे मिथ्या-मोहः।
+  ४. शून्यविपत्तिकाङ्क्षा (Zero-Risk Bias): 'शून्य' (Zero) + 'विपत्ति' (Risk) + 'काङ्क्षा' (Desire). सर्वभयोच्छेदवाञ्छा।
+  ५. जीर्णधर्मरतिः (System Justification): 'जीर्ण' (Decayed/Old) + 'धर्म' (System/Arrangement) + 'रतिः' (Attachment). रूढिव्यवस्थाग्रहः।
+  ६. अधिकारान्धता (Authority Bias): 'अधिकार' (Authority) + 'अन्धता' (Blindness). प्रभुवाक्यान्धानुसरणम्।
+  ७. निष्क्रियत्वापराधः (Omission Bias): 'निष्क्रियत्व' (Inaction/Omission) एव 'अपराधः' (Moral failing). अकर्मदोषः।
+  ८. पर्यायागमाशा / द्यूतभ्रान्तिः (Gambler's Fallacy): 'पर्याय' (Turn/Probability) + 'आगम' (Arrival) + 'आशा' (Hope). पुनः पुनः प्रयत्नेन भाग्यपरिवर्तनस्य गणितीय-भ्रमः।
+  ९. यन्त्रवद्धर्मचर्या (Automation Bias): 'यन्त्रवत्' (Like an automaton) + 'धर्मचर्या' (Execution of duty). अन्तःप्रज्ञां विना केवलं नियमानुसारं वर्तनम्।
+  १०. वचनविन्यासः (Framing Effect): 'वचन' (Words/Data) + 'विन्यासः' (Framing/Arrangement). वाक्-छलेन सत्यस्य रूपान्तरणम्।
+  ११. अतिदर्पः (Overconfidence Effect): 'अति' (Extreme) + 'दर्पः' (Confidence/Pride).
+  १२. क्षुद्रहेत्ववमानः (Illusion of Validity): 'क्षुद्र' (Minor) + 'हेतु' (Variables) + 'अवमानः' (Disregard). स्वल्प-कारणानाम् उपेक्षा-भ्रमः।
+  १३. दृढमूलभ्रमः (Anchoring Effect): 'दृढ' (Firmly planted) + 'मूल' (Root/First information) + 'भ्रमः' (Bias). प्रथम-विचार-बन्धनम्।
+  १४. सद्यःफललोभः (Present Bias): 'सद्यः' (Immediate/Present) + 'फल' (Reward) + 'लोभः' (Greed). भविष्यदन्धता (Blindness to the future consequences) इति अस्य परिणामः।

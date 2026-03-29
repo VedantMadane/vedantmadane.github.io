@@ -3,9 +3,22 @@ layout: post
 title: Sanskritizing Scientific Knowledge Hierarchy
 subtitle: Verse-Centered Edition with Collapsible Commentary
 tags: [sanskrit, science, philosophy]
+audio_sync: false
+# audio_file: /assets/audio/FILENAME.mp3
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="reader-container audio-sync-root">
+
+{% if page.audio_sync %}
+<div class="audio-panel">
+  <audio controls preload="metadata" data-audio-sync-player>
+    <source src="{{ page.audio_file | relative_url }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+{% endif %}
 
 The hierarchy of human understanding, often conceptualized as a "Reductionist Chain," represents the systematic descent from emergent, complex macro-phenomena to the fundamental, discrete laws governing the microscopic foundations of reality. This report provides an exhaustive linguistic and scientific mapping of 100 pivotal theories, codifying them through the architectural precision of Pāṇinian Sanskrit. By utilizing Classical Sanskrit as a technical metalanguage, this analysis achieves a unique "Consilience" (*Samanvaya*) between the functional descriptions of modern empirical science and the root-based, deterministic grammar of the *Aṣṭādhyāyī*.1
 
@@ -415,3 +428,7 @@ The ultimate "consilience" is found in the realization that the universe expands
 73. Unique Sanskrit Names For Business \- Superprof, accessed March 28, 2026, [https://www.superprof.co.in/blog/sanskrit-names-for-business/](https://www.superprof.co.in/blog/sanskrit-names-for-business/)
 75. Origin of Emergence of Perceivable Reality "Vyaktham" \- Preprints.org, accessed March 28, 2026, [https://www.preprints.org/manuscript/202401.0207](https://www.preprints.org/manuscript/202401.0207)
 78. Towards automating the generation of derivative nouns in Sanskrit by simulating Panini \- ResearchGate, accessed March 28, 2026, [https://www.researchgate.net/publication/287249192_Towards_automating_the_generation_of_derivative_nouns_in_Sanskrit_by_simulating_Panini](https://www.researchgate.net/publication/287249192_Towards_automating_the_generation_of_derivative_nouns_in_Sanskrit_by_simulating_Panini)
+
+</div>
+
+<script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>
