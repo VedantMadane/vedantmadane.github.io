@@ -36,7 +36,7 @@ In this post, Claude Shannon is rendered in semantic Sanskrit as **श्रु�
 <details>
 <summary>Why semantic Sanskritization instead of pure transliteration</summary>
 <div class="prose-text">
-  <p>The source document itself prefers dhatu-based technical neologisms over phonetic borrowing. This edition follows that method so the name-form can participate in meaningful compounds and meter without becoming a foreign phonetic block.</p>
+  <p>This edition uses dhatu-based technical neologisms rather than phonetic borrowing, so name-forms can enter compounds and meter naturally instead of sitting as opaque foreign syllable-blocks.</p>
 </div>
 </details>
 
