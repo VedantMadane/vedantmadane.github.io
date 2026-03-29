@@ -44,11 +44,19 @@ def main() -> None:
     data = yaml.safe_load(text)
     root = data["manavamati_bhramah"]
 
+    # Blog header fields (not in the .txt): keep in sync with other śataka posts (e.g. manasa-vikara).
     book = {
         "title_sa": "मानवमति भ्रमः",
-        "title_en": "",
-        "subtitle_en": "",
-        "intro_visible": "",
+        "title_en": "Mānavamati bhramaḥ",
+        "subtitle_en": (
+            "One hundred cognitive biases in Sanskrit (Amarakośa-style), "
+            "fifty-verse outline in Anuṣṭubh"
+        ),
+        "intro_visible": (
+            "Opening in *vasantatilakā*, the work continues in *anuṣṭubh* on cognitive biases, "
+            "grouped by theme. Each śloka is followed by an English gloss where given; "
+            "*padaccheda*, *anvaya*, and *dhātvartha* are in the fold-out sections below."
+        ),
         "stanzas": [],
     }
 
