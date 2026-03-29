@@ -275,9 +275,14 @@
 }
 
 /* Break śloka at single daṇḍa ( । ) so pāda halves stack; ॥ stays on last line */
-.rina-reader .sanskrit-text.sanskrit-verse-lines {
+.rina-reader .sanskrit-text.sanskrit-verse-lines,
+.sanskrit-text.sanskrit-verse-lines {
   display: block;
   line-height: 1.85;
+}
+
+.sanskrit-text.sanskrit-verse-lines > div {
+  display: block;
 }
 
 .shatakam-intro {
