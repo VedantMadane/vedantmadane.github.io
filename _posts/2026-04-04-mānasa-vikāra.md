@@ -9,7 +9,7 @@ audio_sync: false
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
-{% assign book = site.data.manasa_vikara %}
+{% assign book = site.data['manasa-vikara'] %}
 {% capture verse_nl %}
 {% endcapture %}
 {% comment %}

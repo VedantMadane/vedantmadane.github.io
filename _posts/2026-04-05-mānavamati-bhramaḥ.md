@@ -8,7 +8,7 @@ audio_sync: false
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
-{% assign book = site.data.manavamati_bhramah %}
+{% assign book = site.data['manavamati-bhramah'] %}
 {% capture verse_nl %}
 {% endcapture %}
 {% comment %}
