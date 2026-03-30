@@ -20,9 +20,9 @@ audio_sync: false
 </div>
 {% endif %}
 
-The architecture of modern information theory, formulated by Claude E. Shannon in 1948, provides a rigorous mathematical framework for the quantification, encoding, compression, and transmission of data.1 This seminal framework establishes the absolute mathematical limits of communication, abstracting away the semantic meaning of messages to focus purely on the statistical and probabilistic nature of information generation and transfer.1 Concurrently, the ancient Indian intellectual traditions, specifically the combinatorial prosody codified in Piṅgala's छन्दःशास्त्र (Chandaḥśāstra) and the highly structured, computational linguistics established in Pāṇini's अष्टाध्यायी (Aṣṭādhyāyī), represent sophisticated systems of rule-based data encoding, recursive algorithms, and binary enumeration.4 The structural congruence between these two distinct paradigms suggests that the mathematical laws of modern communication theory can be effectively, elegantly, and comprehensively codified utilizing the morphological framework of the Sanskrit language.
+The architecture of modern information theory, formulated by Claude E. Shannon in 1948, provides a rigorous mathematical framework for the quantification, encoding, compression and transmission of data.1 This seminal framework establishes the absolute mathematical limits of communication, abstracting away the semantic meaning of messages to focus purely on the statistical and probabilistic nature of information generation and transfer.1 Concurrently, the ancient Indian intellectual traditions, specifically the combinatorial prosody codified in Piṅgala's छन्दःशास्त्र (Chandaḥśāstra) and the highly structured, computational linguistics established in Pāṇini's अष्टाध्यायी (Aṣṭādhyāyī), represent sophisticated systems of rule-based data encoding, recursive algorithms and binary enumeration.4 The structural congruence between these two distinct paradigms suggests that the mathematical laws of modern communication theory can be effectively, elegantly and comprehensively codified utilizing the morphological framework of the Sanskrit language.
 
-The ensuing research report executes an exhaustive lexicographical and metrical codification of classical information theory into Sanskrit. The analysis maps the foundational concepts of communication systems, entropy, equivocation, and continuous channel capacity, explicitly filtering out transient technological applications (such as mid-century teletype mechanics) to preserve the universal mathematical theorems.1 These enduring theoretical principles are subsequently structured into formal chapters (प्रकरणम्), codified in Sanskrit verse using the classical अनुष्टुभ् (Anuṣṭubh) meter, and rigorously analyzed through the dual lenses of Pāṇinian grammar and Shannon's mathematical proofs.
+The ensuing research report executes an exhaustive lexicographical and metrical codification of classical information theory into Sanskrit. The analysis maps the foundational concepts of communication systems, entropy, equivocation and continuous channel capacity, explicitly filtering out transient technological applications (such as mid-century teletype mechanics) to preserve the universal mathematical theorems.1 These enduring theoretical principles are subsequently structured into formal chapters (प्रकरणम्), codified in Sanskrit verse using the classical अनुष्टुभ् (Anuṣṭubh) meter and rigorously analyzed through the dual lenses of Pāṇinian grammar and Shannon's mathematical proofs.
 
 <!-- Audio sync note: each verse block carries a stable data-verse-id for future timed highlighting. -->
 
@@ -31,7 +31,7 @@ The ensuing research report executes an exhaustive lexicographical and metrical 
 In this post, Claude Shannon is rendered in semantic Sanskrit as **श्रुतदेव सांख्यानाचार्य** for metrical and derivational consistency:
 
 - **Claude -> श्रुतदेव**: from dhatu **श्रु** (to hear) -> **श्रुत** (heard/learned; kta formation) + **देव** (luminous one), yielding "the learned/luminous knower of signal-hearing."
-- **Shannon -> सांख्यान**: from **सम् + ख्या** (to enumerate/declare) with nominal derivation into **संख्यानम्** (enumeration), and personalized as **सांख्यान** / **सांख्यानाचार्य** in verse contexts.
+- **Shannon -> सांख्यान**: from **सम् + ख्या** (to enumerate/declare) with nominal derivation into **संख्यानम्** (enumeration) and personalized as **सांख्यान** / **सांख्यानाचार्य** in verse contexts.
 
 <details>
 <summary>Why semantic Sanskritization instead of pure transliteration</summary>
@@ -41,24 +41,24 @@ In this post, Claude Shannon is rendered in semantic Sanskrit as **श्रु�
 </details>
 
 <details>
-<summary>Conceptual mapping, retention strategy, and structural blueprint</summary>
+<summary>Conceptual mapping, retention strategy and structural blueprint</summary>
 <div class="prose-text">
 
 The extraction of core concepts from the mathematical theory of communication requires a rigorous filtering process to determine what components constitute the fundamental, immutable theory and what elements are merely illustrative, transient artifacts of the era in which the theory was initially published.1
 
-The retention strategy focuses on the mathematical axioms, statistical mechanics, and theorems that govern all forms of data transmission, whether biological, mechanical, or digital.1 Conversely, the elements slated for omission represent specific physical instantiations that have since been superseded by advanced hardware or are irrelevant to the pure mathematics of the system.
+The retention strategy focuses on the mathematical axioms, statistical mechanics and theorems that govern all forms of data transmission, whether biological, mechanical, or digital.1 Conversely, the elements slated for omission represent specific physical instantiations that have since been superseded by advanced hardware or are irrelevant to the pure mathematics of the system.
 
 **Core Concepts Deemed Fit for Keeping**
 
-1. **The General Communication System Architecture:** The abstract model comprising the information source, transmitter, channel, receiver, destination, and the perturbing noise source.1 This is the foundational topology of any system.
+1. **The General Communication System Architecture:** The abstract model comprising the information source, transmitter, channel, receiver, destination and the perturbing noise source.1 This is the foundational topology of any system.
 2. **The Logarithmic Measure of Information:** The quantification of choice and uncertainty using a logarithmic function, specifically the base-2 binary digit (bit), which structurally parallels the लघु (short) and गुरु (long) combinatorial matrices of classical Sanskrit prosody.1
-3. **Entropy and Stochastic Processes:** The mathematical quantification of information generation via Markov chains and ergodic sources. The central equation for discrete entropy, mathematically expressed as $H = -K \sum p_i \log p_i$, and its relationship to thermodynamic disorder and linguistic redundancy.1
-4. **Equivocation and Noisy Channel Capacity:** The mathematical definition of capacity $C = \max(H(x) - H_y(x))$, establishing the absolute limit of lossless compression and transmission over a noisy medium, and the necessity of error-correcting codes.1
+3. **Entropy and Stochastic Processes:** The mathematical quantification of information generation via Markov chains and ergodic sources. The central equation for discrete entropy, mathematically expressed as $H = -K \sum p_i \log p_i$ and its relationship to thermodynamic disorder and linguistic redundancy.1
+4. **Equivocation and Noisy Channel Capacity:** The mathematical definition of capacity $C = \max(H(x) - H_y(x))$, establishing the absolute limit of lossless compression and transmission over a noisy medium and the necessity of error-correcting codes.1
 5. **Continuous Channel Theorems:** The continuous entropy formulations and the Shannon-Hartley theorem defining the capacity of a continuous channel bounded by white thermal noise and average power limits: $C = W \log \frac{P+N}{N}$.1
 
 **Transient and Trite Elements Fit for Skipping**
 
-Shannon's original documentation includes numerous historical examples utilized solely for mid-20th-century contextualization.1 These include the specific geometric dimensions and storage capacities of punched cards, the operational mechanics of analog vocoder systems, specific word-frequency approximations of the English language (e.g., the exact probabilities of the digram "TH" or specific random text generations like "XFOML RXKHRJFFJUJ"), and the physical constraints of contemporary coaxial cables.1 Furthermore, specific hardware limitations regarding pulse-code modulation (PCM) relays and flip-flop circuits are deemed transient.1 These physical instantiations and language-specific statistical quirks are superseded by the overarching mathematics and are therefore omitted from the permanent Sanskrit codification.
+Shannon's original documentation includes numerous historical examples utilized solely for mid-20th-century contextualization.1 These include the specific geometric dimensions and storage capacities of punched cards, the operational mechanics of analog vocoder systems, specific word-frequency approximations of the English language (e.g., the exact probabilities of the digram "TH" or specific random text generations like "XFOML RXKHRJFFJUJ") and the physical constraints of contemporary coaxial cables.1 Furthermore, specific hardware limitations regarding pulse-code modulation (PCM) relays and flip-flop circuits are deemed transient.1 These physical instantiations and language-specific statistical quirks are superseded by the overarching mathematics and are therefore omitted from the permanent Sanskrit codification.
 
 **Estimation of Verses and Chapter Organization**
 
@@ -80,7 +80,7 @@ The total codification requires fourteen rigorous verses.
 <summary>Lexicographical framework and morphological derivations</summary>
 <div class="prose-text">
 
-The translation of modern engineering terminology into Sanskrit cannot rely on mere phonetic transliteration; it requires strict adherence to morphological rules, utilizing the foundational roots (धातु) provided in the धातुपाठ. Following the lexicographical principles established by scholars of scientific Sanskrit such as Raghu Vira, technical terms must be constructed using a specific combination of prefixes (उपसर्ग), roots, and suffixes (प्रत्यय) to ensure absolute semantic precision.15
+The translation of modern engineering terminology into Sanskrit cannot rely on mere phonetic transliteration; it requires strict adherence to morphological rules, utilizing the foundational roots (धातु) provided in the धातुपाठ. Following the lexicographical principles established by scholars of scientific Sanskrit such as Raghu Vira, technical terms must be constructed using a specific combination of prefixes (उपसर्ग), roots and suffixes (प्रत्यय) to ensure absolute semantic precision.15
 
 Furthermore, existing words in vogue in other philosophical or scientific disciplines can be repurposed if their core semantic logic aligns with the mathematical concepts of information theory.2
 
@@ -112,7 +112,7 @@ The system is fundamentally composed of five components and one perturbing eleme
   <span data-line="1" data-start="" data-end="">सम्प्रेषणस्य तन्त्रेऽस्मिन् पञ्चाङ्गानि भवन्ति हि ।</span><br />
   <span data-line="2" data-start="" data-end="">प्रभवः प्रेषकश्चैव मार्गो ग्राहक एव च ॥ १ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> In the communication system there are five principal limbs: source, transmitter, channel, receiver, and destination-chain endpoint.</div>
+<div class="prose-text"><strong>Translation:</strong> In the communication system there are five principal limbs: source, transmitter, channel, receiver and destination-chain endpoint.</div>
 
 <p class="verse-topic">Verse 2 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
@@ -145,11 +145,11 @@ The system is fundamentally composed of five components and one perturbing eleme
 
 The verses mathematically define the schematic diagram of a general communication system. The प्रभव (information source) produces a सन्देश (message) or a sequence of messages to be communicated to the receiving terminal.1 This source may be discrete, producing a sequence of letters, or continuous, producing a function of time $f(t)$.1
 
-The प्रेषक (transmitter) operates on the message in some way to produce a सङ्केत (signal) suitable for transmission over the मार्ग (channel).1 In telephony, this operation consists merely of changing sound pressure into a proportional electrical current. In telegraphy, it involves an encoding operation that produces a sequence of dots, dashes, and spaces on the channel corresponding to the message. In more complex multiplexed systems, different functions must be sampled, compressed, quantized, and encoded.1
+The प्रेषक (transmitter) operates on the message in some way to produce a सङ्केत (signal) suitable for transmission over the मार्ग (channel).1 In telephony, this operation consists merely of changing sound pressure into a proportional electrical current. In telegraphy, it involves an encoding operation that produces a sequence of dots, dashes and spaces on the channel corresponding to the message. In more complex multiplexed systems, different functions must be sampled, compressed, quantized and encoded.1
 
 The मार्ग is merely the medium used to transmit the signal from the transmitter to the receiver. Crucially, as the second verse notes, during transmission, the signal is perturbed by विक्षेप (noise). The noise is considered a chance variable, represented by a suitable stochastic process, which alters the signal such that the received sequence is not necessarily the same as the transmitted sequence.1
 
-Finally, the ग्राहक (receiver) ordinarily performs the inverse operation of that done by the transmitter, reconstructing the message from the perturbed signal, and delivering it to the गन्तव्य (destination), which is the person or thing for whom the message is intended.1 To maximize the power transfer of information, the transducer (the transmitter doing the encoding) must match the statistical structure of the source to the statistical structure of the channel, much like a transformer matches generator resistance to load resistance.1
+Finally, the ग्राहक (receiver) ordinarily performs the inverse operation of that done by the transmitter, reconstructing the message from the perturbed signal and delivering it to the गन्तव्य (destination), which is the person or thing for whom the message is intended.1 To maximize the power transfer of information, the transducer (the transmitter doing the encoding) must match the statistical structure of the source to the statistical structure of the channel, much like a transformer matches generator resistance to load resistance.1
 </div>
 </details>
 
@@ -210,7 +210,7 @@ Historically, the conceptual foundation of the binary system and combinatorial m
 <summary>Theoretical explication</summary>
 <div class="prose-text">
 
-The logarithmic measure, coined here as लघुकृति (Laghukṛti, the mathematical operation that reduces exponential growth into linear scaling), is convenient for several reasons. Parameters of engineering importance, such as time, bandwidth, and the number of relays, tend to vary linearly with the logarithm of the number of possibilities.1 Adding one relay to a group doubles the number of possible states, adding exactly 1 to the base-2 logarithm of this number. A device with two stable positions, such as a relay or a flip-flop circuit, can store one द्व्यङ्क (bit) of information, as $N$ such devices can store $N$ bits, generating $2^N$ possible states, mirroring the equation $\log_2 2^N = N$.1
+The logarithmic measure, coined here as लघुकृति (Laghukṛti, the mathematical operation that reduces exponential growth into linear scaling), is convenient for several reasons. Parameters of engineering importance, such as time, bandwidth and the number of relays, tend to vary linearly with the logarithm of the number of possibilities.1 Adding one relay to a group doubles the number of possible states, adding exactly 1 to the base-2 logarithm of this number. A device with two stable positions, such as a relay or a flip-flop circuit, can store one द्व्यङ्क (bit) of information, as $N$ such devices can store $N$ bits, generating $2^N$ possible states, mirroring the equation $\log_2 2^N = N$.1
 
 This directly parallels the प्रस्तार (Prastāra, systematic enumeration) algorithm found in Piṅgala's छन्दःशास्त्र. To systematically enumerate all possible combinations of a meter containing $N$ syllables, Piṅgala utilized a recursive formula utilizing the two fundamental prosodic units: लघु (L) and गुरु (G).6
 
@@ -240,7 +240,7 @@ When a discrete information source operates, it generates symbols based on speci
   <span data-line="1" data-start="" data-end="">सम्भाव्यतानां सङ्घातं तल्लघुकृत्या च ताडितम् ।</span><br />
   <span data-line="2" data-start="" data-end="">ऋणात्मकं यदा कृत्वा सर्वं तद् विनिगम्यते ॥ ६ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Probabilities are aggregated, weighted by logarithms, and negated in total; thus entropy is computed.</div>
+<div class="prose-text"><strong>Translation:</strong> Probabilities are aggregated, weighted by logarithms and negated in total; thus entropy is computed.</div>
 
 <p class="verse-topic">Verse 7 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
@@ -389,7 +389,7 @@ Unlike discrete entropy, the entropy of a continuous distribution is relative to
   <span data-line="1" data-start="" data-end="">सङ्केतस्य च या शक्तिः कोलाहलेन मिश्रिता ।</span><br />
   <span data-line="2" data-start="" data-end="">कोलाहलेन विभक्ता लघुकृत्या च साधिता ॥ १३ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Signal power mixed with noise, divided by noise, and taken logarithmically gives the computable core ratio.</div>
+<div class="prose-text"><strong>Translation:</strong> Signal power mixed with noise, divided by noise and taken logarithmically gives the computable core ratio.</div>
 
 <p class="verse-topic">Verse 14 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v14">
@@ -432,7 +432,7 @@ $$C = W \log_2 \left(\frac{P+N}{N}\right)$$
 
 The derivation of this mathematical limit relies heavily on geometric properties in $n$-dimensional function space and the principle of maximum entropy. The average power of the perturbed signal received at the destination equals $P+N$. According to calculus of variations, the maximum entropy for a given variance (which corresponds physically to the average power of the signal) is achieved exclusively by a Gaussian probability distribution.1 Therefore, the maximum entropy of the received signal occurs when the transmitted signal itself is statistically constructed to mimic white thermal noise.
 
-The entropy per second of this maximized received ensemble is calculated as $H(y) = W \log 2\pi e(P+N)$. The entropy of the perturbing white noise alone is $H(n) = W \log 2\pi eN$.1 Because the signal and the thermal noise are statistically independent, the joint entropy relationships hold, and the channel capacity equates directly to the difference between these two entropies: $C = H(y) - H(n)$. Subtracting the logarithms yields the ratio $\frac{P+N}{N}$, scaled linearly by the continuous bandwidth $W$.1
+The entropy per second of this maximized received ensemble is calculated as $H(y) = W \log 2\pi e(P+N)$. The entropy of the perturbing white noise alone is $H(n) = W \log 2\pi eN$.1 Because the signal and the thermal noise are statistically independent, the joint entropy relationships hold and the channel capacity equates directly to the difference between these two entropies: $C = H(y) - H(n)$. Subtracting the logarithms yields the ratio $\frac{P+N}{N}$, scaled linearly by the continuous bandwidth $W$.1
 
 This continuous formulation highlights a deep philosophical and physical link between information theory and thermodynamics. The "thermal noise" described by Shannon is a physical manifestation of thermodynamic entropy.1 In classical physics, as observed through the lens of Indian philosophy, this relates closely to the concepts of order and chaos (Karma and Samskaras causing 'noise' in a unitary system).26 High entropy in a continuous thermal system equates to maximum disorder (अक्रमता), bounding the ability of the signal to maintain its structural integrity. To approach the ideal limit of $W \log_2 \left(\frac{P+N}{N}\right)$, the encoded symbols must map to highly complex, pseudo-random vectors (samples of white noise) within a $2TW$-dimensional sphere, requiring significant delay at both the transmitter and receiver to compute the least root-mean-square discrepancy.1
 
@@ -442,9 +442,9 @@ Furthermore, if the power limitation placed upon the transmitter is not an *aver
 
 ## Conclusion
 
-The rigorous codification of modern information theory into classical Sanskrit demonstrates unequivocally that the complex operational mathematics governing telecommunications and data science are fundamentally compatible with the highly structured, morphological rules of ancient Indian linguistics and combinatorics. The foundational insights of Claude Shannon, quantifying information via base-2 logarithms, calculating systemic uncertainty as mathematical entropy, and establishing the absolute bounds of error-resilient continuous channels via geometric limits in $n$-dimensional space, find profound historical and structural mirrors in the binary matrices of Piṅgala's छन्दःशास्त्र and the algorithmic semantic exclusions (अपोहन) inherent in classical Indian philosophy and Pāṇinian grammar.4
+The rigorous codification of modern information theory into classical Sanskrit demonstrates unequivocally that the complex operational mathematics governing telecommunications and data science are fundamentally compatible with the highly structured, morphological rules of ancient Indian linguistics and combinatorics. The foundational insights of Claude Shannon, quantifying information via base-2 logarithms, calculating systemic uncertainty as mathematical entropy and establishing the absolute bounds of error-resilient continuous channels via geometric limits in $n$-dimensional space, find profound historical and structural mirrors in the binary matrices of Piṅgala's छन्दःशास्त्र and the algorithmic semantic exclusions (अपोहन) inherent in classical Indian philosophy and Pāṇinian grammar.4
 
-By explicitly discarding transient mid-century technological implementations and focusing strictly on the abstract, immutable mathematical proofs of Shannon's 1948 thesis, the resulting fourteen lines of अनुष्टुभ् (Anuṣṭubh) verse successfully compress the core axioms of communication theory into an elegant, easily transmittable mnemonic structure. The systematic generation of scientific terminology, such as अपोहन (Apohana) for Entropy, द्व्यङ्क (Dvyaṅka) for Binary Digit, and मार्गक्षमता (Mārgakṣamatā) for Channel Capacity, using the foundational roots of the धातुपाठ ensures that the terminology is not merely a phonetic translation, but a precise, self-descriptive morphological construct that mathematically derives the exact operations it represents. This analytical synthesis validates Sanskrit not solely as an ancient liturgical medium, but as a uniquely potent, highly structured linguistic engine thoroughly capable of accurately codifying, preserving, and transmitting the most advanced mathematical and thermodynamic theorems of the digital age.
+By explicitly discarding transient mid-century technological implementations and focusing strictly on the abstract, immutable mathematical proofs of Shannon's 1948 thesis, the resulting fourteen lines of अनुष्टुभ् (Anuṣṭubh) verse successfully compress the core axioms of communication theory into an elegant, easily transmittable mnemonic structure. The systematic generation of scientific terminology, such as अपोहन (Apohana) for Entropy, द्व्यङ्क (Dvyaṅka) for Binary Digit and मार्गक्षमता (Mārgakṣamatā) for Channel Capacity, using the foundational roots of the धातुपाठ ensures that the terminology is not merely a phonetic translation, but a precise, self-descriptive morphological construct that mathematically derives the exact operations it represents. This analytical synthesis validates Sanskrit not solely as an ancient liturgical medium, but as a uniquely potent, highly structured linguistic engine thoroughly capable of accurately codifying, preserving and transmitting the most advanced mathematical and thermodynamic theorems of the digital age.
 
 #### **Works cited**
 
@@ -454,7 +454,7 @@ By explicitly discarding transient mid-century technological implementations and
 4. Information Coding in a language: Some insights from Pāṇinian Grammar \- Department of Sanskrit Studies \- University of Hyderabad, accessed March 28, 2026, [https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/info-coding.pdf](https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/info-coding.pdf)
 5. Binary number \- Wikipedia, accessed March 28, 2026, [https://en.wikipedia.org/wiki/Binary_number](https://en.wikipedia.org/wiki/Binary_number)
 6. Pingala \- Wikipedia, accessed March 28, 2026, [https://en.wikipedia.org/wiki/Pingala](https://en.wikipedia.org/wiki/Pingala)
-7. Information Theory, Living Systems, and Communication Engineering \- PMC, accessed March 28, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC11120474/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120474/)
+7. Information Theory, Living Systems and Communication Engineering \- PMC, accessed March 28, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC11120474/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120474/)
 8. Information theory \- Entropy, Coding, Communication | Britannica, accessed March 28, 2026, [https://www.britannica.com/science/information-theory/Classical-information-theory](https://www.britannica.com/science/information-theory/Classical-information-theory)
 9. Entropy (information theory) \- Wikipedia, accessed March 28, 2026, [https://en.wikipedia.org/wiki/Entropy_(information_theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 10. How Pingala created the Binary Number System \- Indica Today, accessed March 28, 2026, [https://www.indica.today/quick-reads/pingala-created-binary-number-system/](https://www.indica.today/quick-reads/pingala-created-binary-number-system/)
@@ -462,7 +462,7 @@ By explicitly discarding transient mid-century technological implementations and
 12. CONCEPT OF ENTROPY IN VEDAS \- Anand Kumar Gupta, accessed March 28, 2026, [https://anandkgupta.medium.com/concept-of-entropy-in-vedas-97c8b7b695c7](https://anandkgupta.medium.com/concept-of-entropy-in-vedas-97c8b7b695c7)
 13. A Mathematical Theory of Communication, accessed March 28, 2026, [https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 15. Sanskrit for Organic Nomenclature \- ResearchGate, accessed March 28, 2026, [https://www.researchgate.net/publication/377527612_Sanskrit_for_Organic_Nomenclature_Reinventing_a_Model_of_Systematically_Naming_of_Compounds_based_on_a_7_Decades_old_Indian_Dictionary](https://www.researchgate.net/publication/377527612_Sanskrit_for_Organic_Nomenclature_Reinventing_a_Model_of_Systematically_Naming_of_Compounds_based_on_a_7_Decades_old_Indian_Dictionary)
-18. Pratyabhijñā Apoha Theory, Shannon–Weaver Information, Saussurean Structure, and Peircean Interpretant Agency \- MDPI, accessed March 28, 2026, [https://www.mdpi.com/2077-1444/9/6/191](https://www.mdpi.com/2077-1444/9/6/191)
+18. Pratyabhijñā Apoha Theory, Shannon–Weaver Information, Saussurean Structure and Peircean Interpretant Agency \- MDPI, accessed March 28, 2026, [https://www.mdpi.com/2077-1444/9/6/191](https://www.mdpi.com/2077-1444/9/6/191)
 26. Connecting Bhagavad Gita to Thermodynamics & Quantum Information \- Reddit, accessed March 28, 2026, [https://www.reddit.com/r/AdvaitaVedanta/comments/1punmen/connecting_bhagavad_gita_to_thermodynamics/](https://www.reddit.com/r/AdvaitaVedanta/comments/1punmen/connecting_bhagavad_gita_to_thermodynamics/)
 
 </div>

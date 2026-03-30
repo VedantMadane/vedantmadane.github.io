@@ -52,7 +52,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Viloma-karma-jijñāsā, ṛṇaṃ śūnyaṃ prasūyate |<br>Bhāgo mūlaṃ ca ghātāṅko, viparītena siddhyati || 3 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> The inquiry into inverse operations gives birth to negative numbers and zero. Division, roots, and logarithms are established by this reversal.</div>
+      <div class="prose-text"><strong>Translation:</strong> The inquiry into inverse operations gives birth to negative numbers and zero. Division, roots and logarithms are established by this reversal.</div>
     </div>
   </section>
 
@@ -104,7 +104,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Sarvaṃ spandanarūpaṃ yat, prakṛtyā naṭanaṃ tathā |<br>Anena sūtrabandhena, spaṣṭaṃ bhavati sarvathā || 7 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> Everything that is in the form of vibration, and the very dance of nature - by this binding mathematical formula, it becomes entirely clear.</div>
+      <div class="prose-text"><strong>Translation:</strong> Everything that is in the form of vibration and the very dance of nature - by this binding mathematical formula, it becomes entirely clear.</div>
     </div>
   </section>
 
@@ -117,7 +117,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Śūnyamekaṃ tathā vṛttaṃ, mūlaghāto'pi kalpitaḥ |<br>Pañcatattvasamāyogāt, pūrṇaṃ jñānaṃ prakāśate || 8 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> Zero, one, the circle (π), the base of growth (e), and the imagined unit (i) - from the union of these five elements, complete knowledge shines forth.</div>
+      <div class="prose-text"><strong>Translation:</strong> Zero, one, the circle (π), the base of growth (e) and the imagined unit (i) - from the union of these five elements, complete knowledge shines forth.</div>
     </div>
   </section>
 </div>

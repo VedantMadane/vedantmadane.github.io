@@ -72,7 +72,7 @@ This section codifies 15 theories spanning Economics and Social Identity. The pr
   <span data-line="1" data-start="" data-end="">लाभात्क्षयः कष्टतरस्तु लोके विलोक्यते मानस-वृत्त-भेदात् ।</span><br />
   <span data-line="2" data-start="" data-end="">मूलात्प्रतीक्षा न समा फलानां सिद्धान्त एषोऽस्ति हि दर्शितो यः ॥ २ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> In lived experience, loss is felt more painfully than gain; expectation does not value outcomes symmetrically, and this is the shown principle.</div>
+<div class="prose-text"><strong>Translation:</strong> In lived experience, loss is felt more painfully than gain; expectation does not value outcomes symmetrically and this is the shown principle.</div>
 
 <details>
 <summary>Linguistic derivations and breaking point</summary>
@@ -102,7 +102,7 @@ The descent from observable behavior to cognitive mechanics reveals that the hum
 <details>
 <summary>Word meanings and technical evaluation</summary>
 <div class="prose-text">
-Psychologists needed to explain why a person can hold a rational knowledge of safety while feeling irrational fear. This is codified through the Vedic model of the *Antahkaraṇa* (internal organ), where *Manas* handling sensory input is the fast system, and *Buddhi* (intellect) is the slow, analytical one.19
+Psychologists needed to explain why a person can hold a rational knowledge of safety while feeling irrational fear. This is codified through the Vedic model of the *Antahkaraṇa* (internal organ), where *Manas* handling sensory input is the fast system and *Buddhi* (intellect) is the slow, analytical one.19
 
 * **शीघ्रं (Śīghram):** Fast. System 1 processing.
 * **रभसं (Rabhasam):** Impulsive/Automatic. Root *rabh* (to grasp/begin).18
@@ -146,7 +146,7 @@ Charles Darwin (*Dārvina-maharṣi*) sought to explain the immense diversity of
 <div class="prose-text"><strong>Translation:</strong> In the cell nucleus lie the trait-bearing threads; within them the seed is carried from parent. At division they separate into offspring-lines, confirming Mendelian law.</div>
 
 <details>
-<summary>Word-for-word analysis, cell theory, and breaking point of biology</summary>
+<summary>Word-for-word analysis, cell theory and breaking point of biology</summary>
 <div class="prose-text">
 Sutton and Boveri identified that "genes" (*Bīja*) are located on chromosomes (*Guṇasūtra*).32
 
@@ -166,7 +166,7 @@ Cell Theory (*Kośa-vāda*) posits that the cell is the basic unit of life and a
 | Germ | *Sūkṣmajīva* | *sūkṣma* (subtle) \+ *jīva* (life) 11 |
 | Mitochondria | *Śakti-kośṭha* | *śakti* (energy) \+ *kośṭha* (room/vessel) |
 
-**Breaking Point of Biology:** When we zoom close enough on the DNA or the cell membrane, we stop seeing "life" and start seeing a chaotic soup of non-living molecules.44 Biology ends, and Node 43: Valence Bond Theory (Chemistry) begins.
+**Breaking Point of Biology:** When we zoom close enough on the DNA or the cell membrane, we stop seeing "life" and start seeing a chaotic soup of non-living molecules.44 Biology ends and Node 43: Valence Bond Theory (Chemistry) begins.
 </div>
 </details>
 
@@ -179,10 +179,10 @@ Chemistry explains how non-living atoms combine to create the complex structures
   <span data-line="1" data-start="" data-end="">परमाणु-कक्षाणां यदति-व्याप्ति-योगेन बन्धः प्रजायते ।</span><br />
   <span data-line="2" data-start="" data-end="">विद्युदणोः संस्पर्शेन युगल-भावं स संयोजकता-वादः ॥ ६ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Bonding arises through overlap of atomic orbitals; by the contact of electrons, paired structure forms, and this is the doctrine of valence.</div>
+<div class="prose-text"><strong>Translation:</strong> Bonding arises through overlap of atomic orbitals; by the contact of electrons, paired structure forms and this is the doctrine of valence.</div>
 
 <details>
-<summary>Technical terms, derivations, and insight</summary>
+<summary>Technical terms, derivations and insight</summary>
 <div class="prose-text">
 Introduced by Heitler and London and developed by Pauling (*Pālina*), this theory uses quantum mechanics to explain the "overlapping" (*Ati-vyāpti*) of atomic orbitals (*Paramāṇu-Kakṣā*) to form covalent bonds.46
 
@@ -264,7 +264,7 @@ Earth sciences bridge the gap between physics and biology. The most significant 
 <div class="prose-text"><strong>Translation:</strong> As earth-plates move, molten rock flows below through interior heat; collisions raise ranges and oceanic belts, thus the planet continually transforms.</div>
 
 <details>
-<summary>Technical lexicon, Milankovitch theory, and earth science terms</summary>
+<summary>Technical lexicon, Milankovitch theory and earth science terms</summary>
 <div class="prose-text">
 This theory describes the large-scale motion of the Earth's lithosphere (*Bhū-Kapaṭa*), driven by the internal heat of the mantle.62
 
@@ -314,7 +314,7 @@ The system of *Laghu* and *Guru* syllables constitutes a recursive binary expans
 ## The Rule of Emergence and the Consilience of Knowledge
 
 <details>
-<summary>Emergence, reductionism, and the consilience framework</summary>
+<summary>Emergence, reductionism and the consilience framework</summary>
 <div class="prose-text">
 The beauty of the Reductionist Chain is that while physics is the foundation, it does not render the other 98 theories redundant. This is due to the concept of **Emergence** (*Samudaya/Vyaktitā*).75
 
@@ -380,9 +380,9 @@ The goal of science is **Consilience** (*Samanvaya*), the underlying thread that
 <div class="prose-text">
 The descent through the Reductionist Chain leads inevitably to the bedrock of reality, where the laws of physics intersect with the nature of existence itself. By codifying these theories in Sanskrit, we reveal that modern science is not merely a collection of data but a hierarchy of "actions" (*Kriyā*) performed by the primordial substance (*Mūla-Prakṛti*).26
 
-The ultimate "consilience" is found in the realization that the universe expands (*Brahma*), is pervaded by fields (*Viṣṇu*), and eventually contracts (*Śiva*) in eternal cycles of Big Bang and Big Crunch.58 Through Pāṇini's grammar, we possess a tool to describe this reality with mathematical precision, ensuring that the maps of human knowledge remain accurate as we zoom ever deeper into the heart of the *Bindu*.58
+The ultimate "consilience" is found in the realization that the universe expands (*Brahma*), is pervaded by fields (*Viṣṇu*) and eventually contracts (*Śiva*) in eternal cycles of Big Bang and Big Crunch.58 Through Pāṇini's grammar, we possess a tool to describe this reality with mathematical precision, ensuring that the maps of human knowledge remain accurate as we zoom ever deeper into the heart of the *Bindu*.58
 
-*Meaning of closing verse:* From Economics (*Artha*), through psychological distress (*Vyathā*), following the web of mental states, entering the biology of life, and attaining the path of the atom, this path of vision into the cosmic body finally dissolves in the non-dual state of ultimate reality (*Advaita-Sat*).
+*Meaning of closing verse:* From Economics (*Artha*), through psychological distress (*Vyathā*), following the web of mental states, entering the biology of life and attaining the path of the atom, this path of vision into the cosmic body finally dissolves in the non-dual state of ultimate reality (*Advaita-Sat*).
 </div>
 </details>
 
