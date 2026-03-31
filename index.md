@@ -351,7 +351,7 @@ full-width: true
 .carousel-track {
   display: flex;
   gap: 1.5rem;
-  animation: scroll 30s linear infinite;
+  animation: scroll 80s linear infinite alternate;
   width: max-content;
 }
 
@@ -360,12 +360,8 @@ full-width: true
 }
 
 @keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(calc(-50% - 0.75rem));
-  }
+  from { transform: translateX(0); }
+  to { transform: translateX(calc(-100% + 100vw)); }
 }
 
 /* Option 3: Deep Orange for Merged Cards */
@@ -647,7 +643,81 @@ full-width: true
   
   <div class="carousel-container">
     <div class="carousel-track">
-      <!-- First set of cards -->
+      <div class="merged-card">
+        <div class="merged-card-icon">▲</div>
+        <div class="repo-name">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          vercel/next.js
+        </div>
+        <h4>Cache Handler file:// URL Fix</h4>
+        <p>Handle file:// URLs from import.meta.resolve in cache handler path.</p>
+        <div class="merged-card-tags">
+          <span class="merged-tag">TypeScript</span>
+          <span class="merged-tag">Framework</span>
+        </div>
+        <a href="https://github.com/vercel/next.js/pull/90370" class="merged-card-link" target="_blank">View PR #90370 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🦀</div>
+        <div class="repo-name">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          astral-sh/ruff
+        </div>
+        <h4>Fix Stack Overflow in ANN401</h4>
+        <p>Fix stack overflow on quoted annotations with escape sequences.</p>
+        <div class="merged-card-tags">
+          <span class="merged-tag">Rust</span>
+          <span class="merged-tag">Linter</span>
+        </div>
+        <a href="https://github.com/astral-sh/ruff/pull/23912" class="merged-card-link" target="_blank">View PR #23912 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🐳</div>
+        <div class="repo-name">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          moby/moby
+        </div>
+        <h4>Fix Goroutine Leak in TestRingLogger</h4>
+        <p>Fixed goroutine leak in Docker daemon ring logger test.</p>
+        <div class="merged-card-tags">
+          <span class="merged-tag">Go</span>
+          <span class="merged-tag">Docker</span>
+        </div>
+        <a href="https://github.com/moby/moby/pull/51854" class="merged-card-link" target="_blank">View PR #51854 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🐼</div>
+        <div class="repo-name">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          pandas-dev/pandas
+        </div>
+        <h4>PyArrow Dtype Retention Test</h4>
+        <p>Add test for groupby.var() pyarrow dtype retention.</p>
+        <div class="merged-card-tags">
+          <span class="merged-tag">Python</span>
+          <span class="merged-tag">Data</span>
+        </div>
+        <a href="https://github.com/pandas-dev/pandas/pull/63704" class="merged-card-link" target="_blank">View PR #63704 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🦖</div>
+        <div class="repo-name">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          facebook/docusaurus
+        </div>
+        <h4>Markdown File Path Links</h4>
+        <p>Add support for Markdown file path links in pages plugin.</p>
+        <div class="merged-card-tags">
+          <span class="merged-tag">TypeScript</span>
+          <span class="merged-tag">Docs</span>
+        </div>
+        <a href="https://github.com/facebook/docusaurus/pull/11666" class="merged-card-link" target="_blank">View PR #11666 →</a>
+      </div>
+
       <div class="merged-card">
         <div class="merged-card-icon">🤖</div>
         <div class="repo-name">
@@ -661,9 +731,7 @@ full-width: true
           <span class="merged-tag">React</span>
           <span class="merged-tag">UX</span>
         </div>
-        <a href="https://github.com/OpenHands/OpenHands/pull/12354" class="merged-card-link" target="_blank">
-          View PR #12354 →
-        </a>
+        <a href="https://github.com/OpenHands/OpenHands/pull/12354" class="merged-card-link" target="_blank">View PR #12354 →</a>
       </div>
       
       <div class="merged-card">
@@ -751,129 +819,99 @@ full-width: true
           <span class="merged-tag">ML</span>
           <span class="merged-tag">Refactor</span>
         </div>
-        <a href="https://github.com/optuna/optuna/pull/6412" class="merged-card-link" target="_blank">
-          View PR #6412 →
-        </a>
-      </div>
-      
-      <!-- Duplicate set for infinite scroll effect -->
-      <div class="merged-card">
-        <div class="merged-card-icon">🤖</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          OpenHands/OpenHands
-        </div>
-        <h4>Dismissible Error Banner UX</h4>
-        <p>Improved frontend error banner with dismiss and expand functionality.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">TypeScript</span>
-          <span class="merged-tag">React</span>
-          <span class="merged-tag">UX</span>
-        </div>
-        <a href="https://github.com/OpenHands/OpenHands/pull/12354" class="merged-card-link" target="_blank">
-          View PR #12354 →
-        </a>
-      </div>
-      
-      <div class="merged-card">
-        <div class="merged-card-icon">🧪</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          tox-dev/tox
-        </div>
-        <h4>Fix misleading ENVDIR reference</h4>
-        <p>Aligned devenv docs with the actual CLI parameter to avoid confusion.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">Python</span>
-          <span class="merged-tag">Docs</span>
-          <span class="merged-tag">CLI</span>
-        </div>
-        <a href="https://github.com/tox-dev/tox/pull/3670" class="merged-card-link" target="_blank">
-          View PR #3670 →
-        </a>
+        <a href="https://github.com/optuna/optuna/pull/6412" class="merged-card-link" target="_blank">View PR #6412 →</a>
       </div>
 
       <div class="merged-card">
-        <div class="merged-card-icon">🔧</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          jd/tenacity
-        </div>
-        <h4>Fix wait_chain docstring syntax</h4>
-        <p>Repaired the example to prevent syntax errors when copied by users.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">Python</span>
-          <span class="merged-tag">Docs</span>
-          <span class="merged-tag">Resilience</span>
-        </div>
-        <a href="https://github.com/jd/tenacity/pull/548" class="merged-card-link" target="_blank">
-          View PR #548 →
-        </a>
+        <div class="merged-card-icon">🗄️</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> lancedb/lancedb</div>
+        <h4>Float16/64 & Uint8 Vector Queries</h4>
+        <p>Support Float16, Float64, and Uint8 vector queries in Node.js SDK.</p>
+        <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">VectorDB</span></div>
+        <a href="https://github.com/lancedb/lancedb/pull/3193" class="merged-card-link" target="_blank">View PR #3193 →</a>
       </div>
 
       <div class="merged-card">
-        <div class="merged-card-icon">📦</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          pnpm/pnpm
-        </div>
-        <h4>Show workspace versions on mismatch</h4>
-        <p>Improved workspace resolution hints to speed up monorepo troubleshooting.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">JavaScript</span>
-          <span class="merged-tag">CLI</span>
-          <span class="merged-tag">Monorepo</span>
-        </div>
-        <a href="https://github.com/pnpm/pnpm/pull/10466" class="merged-card-link" target="_blank">
-          View PR #10466 →
-        </a>
+        <div class="merged-card-icon">🐳</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> docker/model-runner</div>
+        <h4>Expose Richer Model Metadata</h4>
+        <p>Expose richer model metadata in the v1/models API endpoint.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Docker</span><span class="merged-tag">AI</span></div>
+        <a href="https://github.com/docker/model-runner/pull/721" class="merged-card-link" target="_blank">View PR #721 →</a>
       </div>
-      
+
       <div class="merged-card">
-        <div class="merged-card-icon">🔥</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          infiniflow/ragflow
-        </div>
-        <h4>Chunk Retrieval Fix</h4>
-        <p>Ensure deleted chunks are not returned in retrieval results.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">Python</span>
-          <span class="merged-tag">RAG</span>
-          <span class="merged-tag">Backend</span>
-        </div>
-        <a href="https://github.com/infiniflow/ragflow/pull/12546" class="merged-card-link" target="_blank">
-          View PR #12546 →
-        </a>
+        <div class="merged-card-icon">🍱</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> bentoml/BentoML</div>
+        <h4>SQLite Concurrency Fix</h4>
+        <p>Resolve 'database is locked' errors under high concurrency with WAL mode.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">ML</span><span class="merged-tag">Backend</span></div>
+        <a href="https://github.com/bentoml/BentoML/pull/5558" class="merged-card-link" target="_blank">View PR #5558 →</a>
       </div>
-      
+
       <div class="merged-card">
-        <div class="merged-card-icon">🎯</div>
-        <div class="repo-name">
-          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          optuna/optuna
-        </div>
-        <h4>Replace .format() with f-strings</h4>
-        <p>Modernized string formatting in codebase using Python f-strings for better readability.</p>
-        <div class="merged-card-tags">
-          <span class="merged-tag">Python</span>
-          <span class="merged-tag">ML</span>
-          <span class="merged-tag">Refactor</span>
-        </div>
-        <a href="https://github.com/optuna/optuna/pull/6412" class="merged-card-link" target="_blank">
-          View PR #6412 →
-        </a>
+        <div class="merged-card-icon">🔍</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> deepset-ai/haystack</div>
+        <h4>DocumentCleaner Features</h4>
+        <p>Add strip_whitespaces and replace_regexes to DocumentCleaner.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">RAG</span></div>
+        <a href="https://github.com/deepset-ai/haystack/pull/10400" class="merged-card-link" target="_blank">View PR #10400 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🦙</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> run-llama/llama_index</div>
+        <h4>vLLM Server Mode</h4>
+        <p>Add OpenAI-like server mode for VllmServer integration.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">LLM</span></div>
+        <a href="https://github.com/run-llama/llama_index/pull/20537" class="merged-card-link" target="_blank">View PR #20537 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">💰</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> BerriAI/litellm</div>
+        <h4>Cache Prefix Extraction Fix</h4>
+        <p>Fix extract_cacheable_prefix to handle string content with cache_control.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">LLM</span></div>
+        <a href="https://github.com/BerriAI/litellm/pull/19266" class="merged-card-link" target="_blank">View PR #19266 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">📓</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> marimo-team/marimo</div>
+        <h4>SQL f-string Parsing Fix</h4>
+        <p>Fix SQL f-string placeholder causing parsing errors in interval expressions.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">Notebook</span></div>
+        <a href="https://github.com/marimo-team/marimo/pull/7881" class="merged-card-link" target="_blank">View PR #7881 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🛡️</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> aquasecurity/trivy</div>
+        <h4>Go 1.26 Version Format Fix</h4>
+        <p>Handle Go 1.26 GOEXPERIMENT version format change.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Security</span></div>
+        <a href="https://github.com/aquasecurity/trivy/pull/10351" class="merged-card-link" target="_blank">View PR #10351 →</a>
+      </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🕉️</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> kmadathil/sanskrit_parser</div>
+        <h4>72x Performance Speedup</h4>
+        <p>LRU caching and optimized parsing pipeline for Sanskrit morphological analysis.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">NLP</span><span class="merged-tag">Sanskrit</span></div>
+        <a href="https://github.com/kmadathil/sanskrit_parser/pull/189" class="merged-card-link" target="_blank">View PR #189 →</a>
       </div>
     </div>
   </div>
   
   <div class="merged-stats">
     <div class="stat-item">
-      <div class="stat-number">30</div>
+      <div class="stat-number">42</div>
       <div class="stat-label">PRs Merged</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">53</div>
+      <div class="stat-number">50</div>
       <div class="stat-label">Ongoing PRs</div>
     </div>
     <div class="stat-item">
@@ -893,15 +931,7 @@ full-width: true
   </div>
   
   <div class="carousel-container">
-    <div class="carousel-track" style="animation-duration: 60s;">
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🤖</div>
-        <div class="repo-name">vllm-project/vllm</div>
-        <h4>KV Cache Refactor</h4>
-        <p>Refactoring KV cache updates across attention backends.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">CUDA</span></div>
-        <a href="https://github.com/vllm-project/vllm/pull/32509" class="merged-card-link">View PR #32509 →</a>
-      </div>
+    <div class="carousel-track" style="animation-duration: 50s;">
       <div class="ongoing-card">
         <div class="merged-card-icon">🧠</div>
         <div class="repo-name">stanfordnlp/dspy</div>
@@ -909,14 +939,6 @@ full-width: true
         <p>Add cost tracking with budget constraints for LLM calls.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
         <a href="https://github.com/stanfordnlp/dspy/pull/9207" class="merged-card-link">View PR #9207 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🚀</div>
-        <div class="repo-name">crewAIInc/crewAI</div>
-        <h4>OpenAI Responses API</h4>
-        <p>Add OpenAI Responses API integration with streaming.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
-        <a href="https://github.com/crewAIInc/crewAI/pull/4248" class="merged-card-link">View PR #4248 →</a>
       </div>
       <div class="ongoing-card">
         <div class="merged-card-icon">🔗</div>
@@ -935,44 +957,60 @@ full-width: true
         <a href="https://github.com/vitejs/vite/pull/21429" class="merged-card-link">View PR #21429 →</a>
       </div>
       <div class="ongoing-card">
-        <div class="merged-card-icon">🐳</div>
-        <div class="repo-name">moby/moby</div>
-        <h4>Goroutine Leak Fix</h4>
-        <p>Fix goroutine leak in TestRingLogger.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Docker</span></div>
-        <a href="https://github.com/moby/moby/pull/51854" class="merged-card-link">View PR #51854 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🐼</div>
-        <div class="repo-name">pandas-dev/pandas</div>
-        <h4>PyArrow Tests</h4>
-        <p>Add test for groupby.var() pyarrow dtype retention.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">Data</span></div>
-        <a href="https://github.com/pandas-dev/pandas/pull/63704" class="merged-card-link">View PR #63704 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🤗</div>
-        <div class="repo-name">huggingface/transformers</div>
-        <h4>MobileNet Fix</h4>
-        <p>Fix MobileNet v1/v2 image processor default interpolation.</p>
+        <div class="merged-card-icon">🍱</div>
+        <div class="repo-name">bentoml/BentoML</div>
+        <h4>src-layout Support</h4>
+        <p>Native support for src-layout projects during bentoml build.</p>
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">ML</span></div>
-        <a href="https://github.com/huggingface/transformers/pull/43313" class="merged-card-link">View PR #43313 →</a>
+        <a href="https://github.com/bentoml/BentoML/pull/5555" class="merged-card-link">View PR #5555 →</a>
       </div>
       <div class="ongoing-card">
-        <div class="merged-card-icon">🦖</div>
-        <div class="repo-name">facebook/docusaurus</div>
-        <h4>MD Links</h4>
-        <p>Add support for Markdown file path links in pages plugin.</p>
-        <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Docs</span></div>
-        <a href="https://github.com/facebook/docusaurus/pull/11666" class="merged-card-link">View PR #11666 →</a>
+        <div class="merged-card-icon">🔧</div>
+        <div class="repo-name">conda/conda</div>
+        <h4>Type Hints for common/io</h4>
+        <p>Add type hints to conda/common/io module.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">CLI</span></div>
+        <a href="https://github.com/conda/conda/pull/15773" class="merged-card-link">View PR #15773 →</a>
       </div>
       <div class="ongoing-card">
-        <div class="merged-card-icon">🌬️</div>
-        <div class="repo-name">apache/airflow</div>
-        <h4>E2E Tests</h4>
-        <p>Add E2E tests for Pools and Variables page functionality.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">DevOps</span></div>
-        <a href="https://github.com/apache/airflow/pull/60592" class="merged-card-link">View PR #60592 →</a>
+        <div class="merged-card-icon">🐘</div>
+        <div class="repo-name">grafana/grafana</div>
+        <h4>Validation Error Details</h4>
+        <p>Include validation error details in 4xx API responses.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Observability</span></div>
+        <a href="https://github.com/grafana/grafana/pull/118681" class="merged-card-link">View PR #118681 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">📦</div>
+        <div class="repo-name">moby/buildkit</div>
+        <h4>Platform-Suffixed Config Keys</h4>
+        <p>Support platform-suffixed config keys in container image exporter.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Docker</span></div>
+        <a href="https://github.com/moby/buildkit/pull/6544" class="merged-card-link">View PR #6544 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🦕</div>
+        <div class="repo-name">denoland/deno</div>
+        <h4>DENO_INSTALL_ROOT Fix</h4>
+        <p>Use DENO_INSTALL_ROOT directly without appending bin.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Rust</span><span class="merged-tag">Runtime</span></div>
+        <a href="https://github.com/denoland/deno/pull/32280" class="merged-card-link">View PR #32280 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🔎</div>
+        <div class="repo-name">meilisearch/meilisearch</div>
+        <h4>Streaming Document Retrieval</h4>
+        <p>Implement streaming for document retrieval to avoid OOM crashes.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Rust</span><span class="merged-tag">Search</span></div>
+        <a href="https://github.com/meilisearch/meilisearch/pull/6171" class="merged-card-link">View PR #6171 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🔬</div>
+        <div class="repo-name">microsoft/TypeScript</div>
+        <h4>JSON.rawJSON Lib Types</h4>
+        <p>Add lib types for JSON.rawJSON, JSON.isRawJSON, and reviver context.</p>
+        <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Stdlib</span></div>
+        <a href="https://github.com/microsoft/TypeScript/pull/63248" class="merged-card-link">View PR #63248 →</a>
       </div>
     </div>
   </div>
