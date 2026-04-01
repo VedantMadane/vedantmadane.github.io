@@ -1146,7 +1146,7 @@ audio_sync: false
 
 ## नित्य-मूल्य-सिद्धान्तः (The Eternal Principle of Value)
 
-<p class="verse-topic">श्लोकः — भुजङ्गप्रयातम्</p>
+<p class="verse-topic">श्लोकः – भुजङ्गप्रयातम्</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v91">
   <span data-line="1" data-start="" data-end="">प्रमाणं हि मूल्यं सदा तिष्ठतीदम्।</span><br />
   <span data-line="2" data-start="" data-end="">यदा भ्रान्तिमल्लोकमेतत् प्रपश्येत्॥</span><br />

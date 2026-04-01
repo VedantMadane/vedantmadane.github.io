@@ -12,7 +12,7 @@ audio_sync: false
 {% capture verse_nl %}
 {% endcapture %}
 {% comment %}
-  _data/manavamati-bhramah.yml — rebuild: `python scripts/build_manavamati_yml.py`
+  _data/manavamati-bhramah.yml – rebuild: `python scripts/build_manavamati_yml.py`
   Source: C:\Projects\shatakam\mānavamati_bhramaḥ.txt
 {% endcomment %}
 
@@ -28,7 +28,7 @@ audio_sync: false
 {% endif %}
 
 <h2 class="work-title-iast">{{ book.title_sa }}</h2>
-{% if book.title_en %}<p class="section-head-en">{{ book.title_en }}{% if book.subtitle_en and book.subtitle_en != '' %} — {{ book.subtitle_en }}{% endif %}</p>{% endif %}
+{% if book.title_en %}<p class="section-head-en">{{ book.title_en }}{% if book.subtitle_en and book.subtitle_en != '' %} – {{ book.subtitle_en }}{% endif %}</p>{% endif %}
 {% if book.intro_visible and book.intro_visible != '' %}
 <div class="prose-text" markdown="1">{{ book.intro_visible | markdownify }}</div>
 {% endif %}

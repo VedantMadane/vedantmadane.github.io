@@ -13,7 +13,7 @@ audio_sync: false
 {% capture verse_nl %}
 {% endcapture %}
 {% comment %}
-  _data/manasa-vikara.yml — source: C:\Projects\shatakam\mānasa-vikāra.txt
+  _data/manasa-vikara.yml – source: C:\Projects\shatakam\mānasa-vikāra.txt
 {% endcomment %}
 
 <div class="reader-container audio-sync-root markdown-body">
@@ -28,7 +28,7 @@ audio_sync: false
 {% endif %}
 
 <h2 class="work-title-iast">{{ book.title_sa }}</h2>
-<p class="section-head-en">{{ book.title_en }}{% if book.subtitle_en %} — {{ book.subtitle_en }}{% endif %}</p>
+<p class="section-head-en">{{ book.title_en }}{% if book.subtitle_en %} – {{ book.subtitle_en }}{% endif %}</p>
 <div class="prose-text" markdown="1">{{ book.intro_visible | markdownify }}</div>
 
 {% for sec in book.sections %}
@@ -44,7 +44,7 @@ audio_sync: false
 
 {% for verse in sec.verses %}
   <div class="verse-block-manasa">
-    <p class="verse-topic">{% if verse.topic_en %}{{ verse.topic_en }}{% endif %} <small class="text-muted">({{ verse.meter_en }})</small>{% if verse.id %} — śloka {{ verse.id }}{% endif %}</p>
+    <p class="verse-topic">{% if verse.topic_en %}{{ verse.topic_en }}{% endif %} <small class="text-muted">({{ verse.meter_en }})</small>{% if verse.id %} – śloka {{ verse.id }}{% endif %}</p>
     <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v-{{ sec.slug }}-{{ verse.id }}">
       {% assign _raw = verse.text_sa | strip %}
       {% assign _lines = _raw | split: verse_nl %}

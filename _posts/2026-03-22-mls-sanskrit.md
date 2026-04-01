@@ -155,7 +155,7 @@ async fn yukti_reasoning_loop(agent: &Abhikarta) -> Action {
 <div class="sync-anchor" data-start="46.0" data-end="55.2"></div>
 ## ⚡ Layer 5: Parallel Delegation & Synthesis (युगपत्-कार्य-समाहारः)
 
-The Orchestrator breaks down complex prompts, spawning parallel asynchronous tasks, and merging the final outputs.
+The Orchestrator breaks down complex prompts, spawning parallel asynchronous tasks and merging the final outputs.
 *Meter: Āryā (आर्या)*
 
 > ###  युगपद्विविधकार्येषु सूत्रधरो नियुङ्क्ते निजसहायान् । 
@@ -231,7 +231,7 @@ For safety-critical tasks, the system must suspend its state graph and await hum
 > *yadā kāryaṃ gurutaraṃ sandeho vā pravartate tantre |*  
 > *svāminamanujñāṃ pṛṣṭvā paścāt tat karma sampādyam ...7*
 
-**Translation:** Whenever a task is of grave consequence, the machine must first ask the master for permission (*svāminam anujñāṃ pṛṣṭvā*), and only afterward execute that action.
+**Translation:** Whenever a task is of grave consequence, the machine must first ask the master for permission (*svāminam anujñāṃ pṛṣṭvā*) and only afterward execute that action.
 
 ```rust
 async fn route_high_risk_task(agent: &Abhikarta, task: Task) -> Result<Observation, Error> {
