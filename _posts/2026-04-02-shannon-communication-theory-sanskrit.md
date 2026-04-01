@@ -35,14 +35,14 @@ In this post, Claude Shannon is rendered in semantic Sanskrit as **श्रु�
 
 <details>
 <summary>Why semantic Sanskritization instead of pure transliteration</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
   <p>This edition uses dhatu-based technical neologisms rather than phonetic borrowing, so name-forms can enter compounds and meter naturally instead of sitting as opaque foreign syllable-blocks.</p>
 </div>
 </details>
 
 <details>
 <summary>Conceptual mapping, retention strategy and structural blueprint</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 The extraction of core concepts from the mathematical theory of communication requires a rigorous filtering process to determine what components constitute the fundamental, immutable theory and what elements are merely illustrative, transient artifacts of the era in which the theory was initially published.1
 
@@ -78,7 +78,7 @@ The total codification requires fourteen rigorous verses.
 
 <details>
 <summary>Lexicographical framework and morphological derivations</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 The translation of modern engineering terminology into Sanskrit cannot rely on mere phonetic transliteration; it requires strict adherence to morphological rules, utilizing the foundational roots (धातु) provided in the धातुपाठ. Following the lexicographical principles established by scholars of scientific Sanskrit such as Raghu Vira, technical terms must be constructed using a specific combination of prefixes (उपसर्ग), roots and suffixes (प्रत्यय) to ensure absolute semantic precision.15
 
@@ -112,18 +112,18 @@ The system is fundamentally composed of five components and one perturbing eleme
   <span data-line="1" data-start="" data-end="">सम्प्रेषणस्य तन्त्रेऽस्मिन् पञ्चाङ्गानि भवन्ति हि ।</span><br />
   <span data-line="2" data-start="" data-end="">प्रभवः प्रेषकश्चैव मार्गो ग्राहक एव च ॥ १ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> In the communication system there are five principal limbs: source, transmitter, channel, receiver and destination-chain endpoint.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> In the communication system there are five principal limbs: source, transmitter, channel, receiver and destination-chain endpoint.</div>
 
 <p class="verse-topic">Verse 2 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
   <span data-line="1" data-start="" data-end="">गन्तव्यं पञ्चमं प्रोक्तं सङ्केतो मार्गतो गतः ।</span><br />
   <span data-line="2" data-start="" data-end="">विक्षेपेण युतो मध्ये सन्देशो विकृतो भवेत् ॥ २ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> The destination is declared the fifth point; while traversing the channel, the signal may be corrupted by noise in transit.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> The destination is declared the fifth point; while traversing the channel, the signal may be corrupted by noise in transit.</div>
 
 <details>
 <summary>Grammatical analysis (पदच्छेद, अन्वय, प्रतिपदार्थ)</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 पदच्छेदः : सम्प्रेषणस्य तन्त्रे अस्मिन् पञ्च अङ्गानि भवन्ति हि । प्रभवः प्रेषकः च एव मार्गः ग्राहकः एव च ।
 
@@ -141,7 +141,7 @@ The system is fundamentally composed of five components and one perturbing eleme
 
 <details>
 <summary>Theoretical explication</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 The verses mathematically define the schematic diagram of a general communication system. The प्रभव (information source) produces a सन्देश (message) or a sequence of messages to be communicated to the receiving terminal.1 This source may be discrete, producing a sequence of letters, or continuous, producing a function of time $f(t)$.1
 
@@ -164,25 +164,25 @@ Historically, the conceptual foundation of the binary system and combinatorial m
   <span data-line="1" data-start="" data-end="">सन्देशानां विकल्पस्तु लघुकृत्या हि मीयते ।</span><br />
   <span data-line="2" data-start="" data-end="">आधारो द्विगुणस्तत्र मानं द्व्यङ्कमुदाहृतम् ॥ ३ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Message-choice is measured logarithmically; with base two, that measure is called the binary digit (bit).</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Message-choice is measured logarithmically; with base two, that measure is called the binary digit (bit).</div>
 
 <p class="verse-topic">Verse 4 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
   <span data-line="1" data-start="" data-end="">पिङ्गलेन पुरा प्रोक्तो लघुर्गुर्वात्मकः क्रमः ।</span><br />
   <span data-line="2" data-start="" data-end="">स एव द्व्यङ्करूपेण ज्ञानमाने प्रयुज्यते ॥ ४ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Pingala's ancient laghu-guru combinatorics is the same structure now used as binary form for information measurement.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Pingala's ancient laghu-guru combinatorics is the same structure now used as binary form for information measurement.</div>
 
 <p class="verse-topic">Verse 5 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
   <span data-line="1" data-start="" data-end="">प्रस्तारस्य विधानेन विकल्पानन्ततिर्मिता ।</span><br />
   <span data-line="2" data-start="" data-end="">शून्यैकेन च तद् बिम्बं यन्त्रेष्वपि विधीयते ॥ ५ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> By systematic enumeration, vast combinations are bounded; that same zero-one mapping is established in machines.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> By systematic enumeration, vast combinations are bounded; that same zero-one mapping is established in machines.</div>
 
 <details>
 <summary>Grammatical analysis (पदच्छेद, अन्वय, प्रतिपदार्थ)</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 पदच्छेदः : सन्देशानां विकल्पः तु लघुकृत्या हि मीयते । आधारः द्विगुणः तत्र मानं द्व्यङ्कम् उदाहृतम् ।
 
@@ -208,7 +208,7 @@ Historically, the conceptual foundation of the binary system and combinatorial m
 
 <details>
 <summary>Theoretical explication</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 The logarithmic measure, coined here as लघुकृति (Laghukṛti, the mathematical operation that reduces exponential growth into linear scaling), is convenient for several reasons. Parameters of engineering importance, such as time, bandwidth and the number of relays, tend to vary linearly with the logarithm of the number of possibilities.1 Adding one relay to a group doubles the number of possible states, adding exactly 1 to the base-2 logarithm of this number. A device with two stable positions, such as a relay or a flip-flop circuit, can store one द्व्यङ्क (bit) of information, as $N$ such devices can store $N$ bits, generating $2^N$ possible states, mirroring the equation $\log_2 2^N = N$.1
 
@@ -240,25 +240,25 @@ When a discrete information source operates, it generates symbols based on speci
   <span data-line="1" data-start="" data-end="">सम्भाव्यतानां सङ्घातं तल्लघुकृत्या च ताडितम् ।</span><br />
   <span data-line="2" data-start="" data-end="">ऋणात्मकं यदा कृत्वा सर्वं तद् विनिगम्यते ॥ ६ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Probabilities are aggregated, weighted by logarithms and negated in total; thus entropy is computed.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Probabilities are aggregated, weighted by logarithms and negated in total; thus entropy is computed.</div>
 
 <p class="verse-topic">Verse 7 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
   <span data-line="1" data-start="" data-end="">तत् फलं ह्यपोहनं स्यादक्रमता च गद्यते ।</span><br />
   <span data-line="2" data-start="" data-end="">ज्ञानोत्पादनवेगोऽयं प्रभवस्य विनिर्णयः ॥ ७ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> That result is entropy (apohana), also disorder; it gives the definite rate of information generation by the source.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> That result is entropy (apohana), also disorder; it gives the definite rate of information generation by the source.</div>
 
 <p class="verse-topic">Verse 8 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
   <span data-line="1" data-start="" data-end="">यन्त्राणां शृङ्खला यत्र पूर्वेण परिकल्पिता ।</span><br />
   <span data-line="2" data-start="" data-end="">तत्र सङ्कोचनं शक्यं भाषायां पाणिनेरिव ॥ ८ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Where state-chains are conditioned by prior state, compression is possible, much like structured inheritance in Paninian grammar.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Where state-chains are conditioned by prior state, compression is possible, much like structured inheritance in Paninian grammar.</div>
 
 <details>
 <summary>Grammatical analysis (पदच्छेद, अन्वय, प्रतिपदार्थ)</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 पदच्छेदः : सम्भाव्यतानां सङ्घातं तत्-लघुकृत्या च ताडितम् । ऋणात्मकं यदा कृत्वा सर्वं तद् विनिगम्यते ।
 
@@ -284,7 +284,7 @@ When a discrete information source operates, it generates symbols based on speci
 
 <details>
 <summary>Theoretical explication</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 The verses strictly codify Shannon's central equation for the entropy of a discrete set of probabilities $p_1, p_2,..., p_n$:
 
@@ -311,25 +311,25 @@ In practical physical applications, a communication channel is perpetually subje
   <span data-line="1" data-start="" data-end="">मार्गे विक्षेपदोषेण यदा सन्दिग्धता भवेत् ।</span><br />
   <span data-line="2" data-start="" data-end="">तदा प्राप्तेऽपि सन्देशे किञ्चिद् ज्ञानं प्रणश्यति ॥ ९ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> When channel noise induces ambiguity, some information is lost even if a message is received.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> When channel noise induces ambiguity, some information is lost even if a message is received.</div>
 
 <p class="verse-topic">Verse 10 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
   <span data-line="1" data-start="" data-end="">मूलज्ञानाद् वियोज्यैतां सन्दिग्धां विकृतिं ततः ।</span><br />
   <span data-line="2" data-start="" data-end="">यत् परं लभ्यते मानं सा मार्गक्षमता स्मृता ॥ १० ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Subtracting equivocation from original information yields the maximal reliable measure called channel capacity.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Subtracting equivocation from original information yields the maximal reliable measure called channel capacity.</div>
 
 <p class="verse-topic">Verse 11 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
   <span data-line="1" data-start="" data-end="">आदर्शसङ्केतविध्या दोषशून्यं हि सम्भवम् ।</span><br />
   <span data-line="2" data-start="" data-end="">क्षमताया अधो वेगे दोषांशो याति शून्यताम् ॥ ११ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> With ideal coding, near-errorless communication is possible; below capacity, error fraction tends toward zero.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> With ideal coding, near-errorless communication is possible; below capacity, error fraction tends toward zero.</div>
 
 <details>
 <summary>Grammatical analysis (पदच्छेद, अन्वय, प्रतिपदार्थ)</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 पदच्छेदः : मार्गे विक्षेप-दोषेण यदा सन्दिग्धता भवेत् । तदा प्राप्ते अपि सन्देशे किञ्चिद् ज्ञानं प्रणश्यति ।
 
@@ -353,7 +353,7 @@ In practical physical applications, a communication channel is perpetually subje
 
 <details>
 <summary>Theoretical explication</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 Equivocation, mathematically denoted as $H_y(x)$, represents the conditional entropy of the message when the received signal is known. It mathematically measures the average ambiguity of the received signal resulting from the channel noise.1 Shannon establishes that the actual rate of reliable information transmission ($R$) is determined by subtracting the equivocation from the entropy of the source:
 
@@ -382,25 +382,25 @@ Unlike discrete entropy, the entropy of a continuous distribution is relative to
   <span data-line="1" data-start="" data-end="">आवृत्तिर्विपुला मार्गे कोलाहलो निरन्तरः ।</span><br />
   <span data-line="2" data-start="" data-end="">शक्तेर्मानं यदा बद्धं क्षमता तत्र कथ्यते ॥ १२ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> In wideband channels with continuous noise, capacity is stated under bounded signal power.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> In wideband channels with continuous noise, capacity is stated under bounded signal power.</div>
 
 <p class="verse-topic">Verse 13 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v13">
   <span data-line="1" data-start="" data-end="">सङ्केतस्य च या शक्तिः कोलाहलेन मिश्रिता ।</span><br />
   <span data-line="2" data-start="" data-end="">कोलाहलेन विभक्ता लघुकृत्या च साधिता ॥ १३ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Signal power mixed with noise, divided by noise and taken logarithmically gives the computable core ratio.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Signal power mixed with noise, divided by noise and taken logarithmically gives the computable core ratio.</div>
 
 <p class="verse-topic">Verse 14 (Anuṣṭubh)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v14">
   <span data-line="1" data-start="" data-end="">विस्तारेण च सङ्गुण्या क्षमता सा प्रजायते ।</span><br />
   <span data-line="2" data-start="" data-end="">एतद्धि परमं मानं सम्प्रेषणविशारदैः ॥ १४ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Multiplying by bandwidth yields capacity; communication theorists regard this as the supreme bound.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Multiplying by bandwidth yields capacity; communication theorists regard this as the supreme bound.</div>
 
 <details>
 <summary>Grammatical analysis (पदच्छेद, अन्वय, प्रतिपदार्थ)</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 पदच्छेदः : आवृत्तिः विपुला मार्गे कोलाहलः निरन्तरः । शक्तेः मानं यदा बद्धं क्षमता तत्र कथ्यते ।
 
@@ -424,7 +424,7 @@ Unlike discrete entropy, the entropy of a continuous distribution is relative to
 
 <details>
 <summary>Theoretical explication</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 The final verses meticulously codify Theorem 17, commonly known as the Shannon-Hartley theorem. This theorem determines the theoretical upper bound on the rate of information that can be communicated at an arbitrarily low error rate over an analog communication channel subject to Additive White Gaussian Noise (AWGN).1 The capacity $C$ of a channel of band $W$, perturbed by white thermal noise power $N$, when the average transmitter power is limited to $P$, is given by:
 

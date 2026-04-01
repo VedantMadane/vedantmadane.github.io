@@ -29,7 +29,7 @@ audio_sync: false
 
 <h2 class="work-title-iast">{{ book.title_sa }}</h2>
 <p class="section-head-en">{{ book.title_en }}{% if book.subtitle_en %} — {{ book.subtitle_en }}{% endif %}</p>
-<div class="prose-text">{{ book.intro_visible | markdownify }}</div>
+<div class="prose-text" markdown="1">{{ book.intro_visible | markdownify }}</div>
 
 {% for sec in book.sections %}
 <section class="khandam" id="{{ sec.slug }}">
@@ -38,7 +38,7 @@ audio_sync: false
 
   {% if sec.plan_after_verses != true %}
     {% if sec.slug == 'yojana' %}
-    <div class="prose-text">{{ book.plan_commentary | markdownify }}</div>
+    <div class="prose-text" markdown="1">{{ book.plan_commentary | markdownify }}</div>
     {% endif %}
   {% endif %}
 
@@ -67,7 +67,7 @@ audio_sync: false
 {% endfor %}
 
   {% if sec.plan_after_verses == true %}
-  <div class="prose-text">{{ book.plan_commentary | markdownify }}</div>
+  <div class="prose-text" markdown="1">{{ book.plan_commentary | markdownify }}</div>
   {% endif %}
 
   {% unless forloop.last %}<hr class="section-rule" />{% endunless %}
@@ -76,12 +76,12 @@ audio_sync: false
 
 <details>
 <summary>पदच्छेदः, अन्वयः, शब्दार्थः च (word analysis)</summary>
-<div class="prose-text">{{ book.appendix_word_analysis | markdownify }}</div>
+<div class="prose-text" markdown="1">{{ book.appendix_word_analysis | markdownify }}</div>
 </details>
 
 <details>
 <summary>नूतन-शब्द-व्युत्पत्तिः (glossary of coined terms)</summary>
-<div class="prose-text">{{ book.appendix_glossary | markdownify }}</div>
+<div class="prose-text" markdown="1">{{ book.appendix_glossary | markdownify }}</div>
 </details>
 
 </div>

@@ -32,7 +32,7 @@ The uppermost tier of the chain examines the behavior of large groups of human a
 
 <details>
 <summary>Estimation of Nodes and Metrical Plan</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 This section codifies 15 theories spanning Economics and Social Identity. The primary meter chosen for axiomatic principles is *Anuṣṭubh* (8 syllables), while complex behavioral theories utilize *Indravajrā* (11 syllables) to allow for greater morphological depth.6
 
 | Node ID | Theory Name | Sanskritized Term | Required Verses | Preferred Meter |
@@ -50,11 +50,11 @@ This section codifies 15 theories spanning Economics and Social Identity. The pr
   <span data-line="1" data-start="" data-end="">विज्ञप्तिः सकला यत्र मूल्ये संतिष्ठते सदा ।</span><br />
   <span data-line="2" data-start="" data-end="">समर्था पण्यवीथी सा नैको जेतुं क्षमो हि ताम् ॥ १ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Where all available information is already settled into price, that market path is efficient; no lone actor can reliably defeat it.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Where all available information is already settled into price, that market path is efficient; no lone actor can reliably defeat it.</div>
 
 <details>
 <summary>Word-for-word derivation and analysis</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 1. **विज्ञप्तिः (Vijnaptiḥ):** Information. From root *vi-jñā* (to know/distinguish) \+ suffix *ktin*. It denotes the "manifested knowledge" available to the public.
 2. **सकला (Sakalā):** Entire/Complete. From *sa* (with) \+ *kalā* (part).
@@ -72,11 +72,11 @@ This section codifies 15 theories spanning Economics and Social Identity. The pr
   <span data-line="1" data-start="" data-end="">लाभात्क्षयः कष्टतरस्तु लोके विलोक्यते मानस-वृत्त-भेदात् ।</span><br />
   <span data-line="2" data-start="" data-end="">मूलात्प्रतीक्षा न समा फलानां सिद्धान्त एषोऽस्ति हि दर्शितो यः ॥ २ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> In lived experience, loss is felt more painfully than gain; expectation does not value outcomes symmetrically and this is the shown principle.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> In lived experience, loss is felt more painfully than gain; expectation does not value outcomes symmetrically and this is the shown principle.</div>
 
 <details>
 <summary>Linguistic derivations and breaking point</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 When the market map fails, we must zoom in on the individual human making the trades. Prospect Theory explains the deviation from rationality through "loss aversion" (*Kṣaya-vaimukhya*).12
 
 * **लाभात् (Lābhāt):** From gain. Root *labh* (to obtain) \+ *ghañ*.
@@ -97,11 +97,11 @@ The descent from observable behavior to cognitive mechanics reveals that the hum
   <span data-line="1" data-start="" data-end="">एकं हि शीघ्रं रभसं ह्यबुद्धं मन्दं परं तर्क-युतं सुयुक्तम् ।</span><br />
   <span data-line="2" data-start="" data-end="">द्विधा हि बुद्धिः प्रवदन्ति तज्ज्ञास्तथैव लोको भ्रमतेऽन्तराले ॥ ३ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> One mode is fast and impulsive, another slow and reasoned; the wise speak of this twofold intellect through which ordinary life oscillates.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> One mode is fast and impulsive, another slow and reasoned; the wise speak of this twofold intellect through which ordinary life oscillates.</div>
 
 <details>
 <summary>Word meanings and technical evaluation</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 Psychologists needed to explain why a person can hold a rational knowledge of safety while feeling irrational fear. This is codified through the Vedic model of the *Antahkaraṇa* (internal organ), where *Manas* handling sensory input is the fast system and *Buddhi* (intellect) is the slow, analytical one.19
 
 * **शीघ्रं (Śīghram):** Fast. System 1 processing.
@@ -122,11 +122,11 @@ Evolutionary biology provides the "Why" for the architecture of the mind. The er
   <span data-line="1" data-start="" data-end="">स्वभाव-सिद्धेन वरण्य-कर्मणा विभाति जीवो विविधाकृतिः पृथक् ।</span><br />
   <span data-line="2" data-start="" data-end="">य एव शक्तः प्रतिरोद्धुमापदं स एव वंशं सततं प्रवर्धते ॥ ४ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Through nature-grounded selection, life appears in diverse forms; the one fit to resist adversity is the one whose lineage continues.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Through nature-grounded selection, life appears in diverse forms; the one fit to resist adversity is the one whose lineage continues.</div>
 
 <details>
 <summary>Linguistic analysis and pivot to inheritance</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 Charles Darwin (*Dārvina-maharṣi*) sought to explain the immense diversity of life. In Sanskrit, "Evolution" is codified as *Utkrānti* (from *ut* \- up \+ *kram* \- to step) or *Prati-saincara* (the progressive evolution of consciousness into form).25
 
 1. **स्वभाव (Svabhāva):** Nature. From *sva* (self) \+ *bhāva* (being/becoming).
@@ -143,11 +143,11 @@ Charles Darwin (*Dārvina-maharṣi*) sought to explain the immense diversity of
   <span data-line="1" data-start="" data-end="">कोश-केन्द्रे स्थिताः स्युर्गुण-सूत्राः समस्तास्तेषु बीजं निरुद्धं वहति जनकात् ।</span><br />
   <span data-line="2" data-start="" data-end="">भेद-काले पृथक्त्वं भजति सुत-ततौ सिद्धान्तं मेण्डलीयं दृढयति च ननु ॥ ५ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> In the cell nucleus lie the trait-bearing threads; within them the seed is carried from parent. At division they separate into offspring-lines, confirming Mendelian law.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> In the cell nucleus lie the trait-bearing threads; within them the seed is carried from parent. At division they separate into offspring-lines, confirming Mendelian law.</div>
 
 <details>
 <summary>Word-for-word analysis, cell theory and breaking point of biology</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 Sutton and Boveri identified that "genes" (*Bīja*) are located on chromosomes (*Guṇasūtra*).32
 
 * **कोश-केन्द्रे (Kośa-kendre):** In the cell nucleus. *Kośa* (cell/sheath) \+ *kendra* (center).38
@@ -179,11 +179,11 @@ Chemistry explains how non-living atoms combine to create the complex structures
   <span data-line="1" data-start="" data-end="">परमाणु-कक्षाणां यदति-व्याप्ति-योगेन बन्धः प्रजायते ।</span><br />
   <span data-line="2" data-start="" data-end="">विद्युदणोः संस्पर्शेन युगल-भावं स संयोजकता-वादः ॥ ६ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Bonding arises through overlap of atomic orbitals; by the contact of electrons, paired structure forms and this is the doctrine of valence.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Bonding arises through overlap of atomic orbitals; by the contact of electrons, paired structure forms and this is the doctrine of valence.</div>
 
 <details>
 <summary>Technical terms, derivations and insight</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 Introduced by Heitler and London and developed by Pauling (*Pālina*), this theory uses quantum mechanics to explain the "overlapping" (*Ati-vyāpti*) of atomic orbitals (*Paramāṇu-Kakṣā*) to form covalent bonds.46
 
 1. **परमाणु (Paramāṇu):** Atom. From *parama* (ultimate) \+ *aṇu* (minute).38
@@ -205,11 +205,11 @@ Physics represents the deepest layer of the reductionist chain. Currently, the u
   <span data-line="1" data-start="" data-end="">देशश्च कालश्च मिलित्वा हि वक्रतां यत् । गुरुत्वं प्रजायते द्रव्यस्य संनिधौ हि ॥</span><br />
   <span data-line="2" data-start="" data-end="">सामान्य-सापेक्ष-वादं तं विदुस्तज्ज्ञाः । विष्णोरिव विश्वरूपं व्याप्तं नभोऽन्ते ॥ ७ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> Space and time together bend; in the presence of matter, gravity appears. The learned call this relativity, pervading the cosmos like an all-form.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> Space and time together bend; in the presence of matter, gravity appears. The learned call this relativity, pervading the cosmos like an all-form.</div>
 
 <details>
 <summary>Linguistic nuances</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 Albert Einstein (*Aiṃṣṭaina*) revolutionized gravity by describing it as the curvature (*Vakratā*) of the spacetime continuum (*Deśa-Kāla-Nirantara*).55
 
 * **सापेक्ष-वाद (Sāpekṣa-vāda):** Theory of Relativity. *Sa* (with) \+ *apekṣā* (expectation/relation). Literally, "the doctrine of relatedness".57
@@ -223,11 +223,11 @@ Albert Einstein (*Aiṃṣṭaina*) revolutionized gravity by describing it as t
   <span data-line="1" data-start="" data-end="">निश्चितं न किमपि क्षणान्तरे वीक्षणेन परिणाम-निश्चयः ।</span><br />
   <span data-line="2" data-start="" data-end="">यत्र वीक्षक-दृश्य-भेद-विलयस्तद्विज्ञानं हि पारमाणविकम् ॥ ८ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> At fine scales certainty dissolves; measurement itself fixes outcome. Where observer and observed distinction collapses, there stands atomic science.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> At fine scales certainty dissolves; measurement itself fixes outcome. Where observer and observed distinction collapses, there stands atomic science.</div>
 
 <details>
 <summary>Scientific context</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 Quantum mechanics describes nature at the scale of atoms and subatomic particles. It replaces determinism with probability (*Sambhāvyatā*) and introduces wave-particle duality (*Kaṇa-Urmi-Dvaita*).38
 
 Quantum physics eliminates the gap between the observer (*Vīkṣaka*) and the observed (*Dṛśya*), a phenomenon known as wavefunction collapse.54 This mirrors the Upanishadic tenet *Tat Tvam Asi* (That Thou Art), where the individual and the universal are identical.53
@@ -239,11 +239,11 @@ Quantum physics eliminates the gap between the observer (*Vīkṣaka*) and the o
   <span data-line="1" data-start="" data-end="">हिरण्यगर्भ-विस्फोटात् ब्रह्माण्डं प्रसरत्यहो ।</span><br />
   <span data-line="2" data-start="" data-end="">आदि-बिन्दुः स एवोक्तः सर्व-विज्ञान-कारणम् ॥ ९ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> From a primal cosmic burst, the universe expands; that original point is declared the generative cause for all scientific unfolding.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> From a primal cosmic burst, the universe expands; that original point is declared the generative cause for all scientific unfolding.</div>
 
 <details>
 <summary>Etymological analysis</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 The leading explanation for the origin of the universe, which modern physicists describe as a singularity (*Bindu*) expanding rapidly.56
 
 * **हिरण्यगर्भ (Hiraṇyagarbha):** The Golden Womb. Poetically used for the cosmic singularity.58
@@ -261,11 +261,11 @@ Earth sciences bridge the gap between physics and biology. The most significant 
   <span data-line="1" data-start="" data-end="">मग्ना यत्र मही चलाः खलु तदा पट्ट्यः प्रसरन्त्यहो । गर्भे तापात् प्रवहति शिला द्राविता वेगवत्यपि ॥</span><br />
   <span data-line="2" data-start="" data-end="">शैलाः संजनिता मिथः प्रतिघातात् सागर-मेखला । एवं परिवर्तते ननु धरा पृथ्वी-तत्व-दर्शने ॥ १० ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> As earth-plates move, molten rock flows below through interior heat; collisions raise ranges and oceanic belts, thus the planet continually transforms.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> As earth-plates move, molten rock flows below through interior heat; collisions raise ranges and oceanic belts, thus the planet continually transforms.</div>
 
 <details>
 <summary>Technical lexicon, Milankovitch theory and earth science terms</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 This theory describes the large-scale motion of the Earth's lithosphere (*Bhū-Kapaṭa*), driven by the internal heat of the mantle.62
 
 1. **भू-पट्टिका (Bhū-paṭṭikā):** Tectonic plates. *Paṭṭikā* (slab/plate).62
@@ -293,11 +293,11 @@ Mathematics and Information Theory provide the logical syntax for the entire red
   <span data-line="1" data-start="" data-end="">लघुना गुरुणा चैव द्वैधं बीजं प्रजायते ।</span><br />
   <span data-line="2" data-start="" data-end="">विज्ञप्तिः सा ध्रुवा प्रोक्ता गणितस्य प्रभासिनी ॥ ११ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> From short and long units a binary seed arises; that stable informational pattern shines as the basis of computation and mathematics.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> From short and long units a binary seed arises; that stable informational pattern shines as the basis of computation and mathematics.</div>
 
 <details>
 <summary>Linguistic insight and computational term table</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 Claude Shannon (*Chāṇana*) codified the quantification of digital information. Interestingly, Acharya Pingala (*Piṃgala*) used binary logic in his study of Sanskrit meters (*Chandaḥ-śāstra*), distinguishing between *Laghu* (Short/0) and *Guru* (Long/1).6
 
 The system of *Laghu* and *Guru* syllables constitutes a recursive binary expansion (*Prastāra*), anticipating the combinatorial logic of modern computer science by 2,000 years.6
@@ -315,7 +315,7 @@ The system of *Laghu* and *Guru* syllables constitutes a recursive binary expans
 
 <details>
 <summary>Emergence, reductionism and the consilience framework</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 The beauty of the Reductionist Chain is that while physics is the foundation, it does not render the other 98 theories redundant. This is due to the concept of **Emergence** (*Samudaya/Vyaktitā*).75
 
 | Concept | Sanskrit Technical Term | Philosophical Context |
@@ -333,7 +333,7 @@ The goal of science is **Consilience** (*Samanvaya*), the underlying thread that
 
 <details>
 <summary>Comprehensive mapping table of 100 scientific theories</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 
 | Discipline | Node | Theory Name | Sanskrit Neologism | Verse Est. |
 | :---- | :---- | :---- | :---- | :---- |
@@ -373,11 +373,11 @@ The goal of science is **Consilience** (*Samanvaya*), the underlying thread that
   <span data-line="1" data-start="" data-end="">अर्थाद् व्यथां तदनु मानस-वृत्त-जालं जीवे निविश्य परमाणु-पथं प्रपद्य ।</span><br />
   <span data-line="2" data-start="" data-end="">एवं हि विश्व-तनु-दर्शन-मार्ग-मेत- दद्वैत-सत्त्व-परमार्थ-पदे विलीय ॥ १२ ॥</span>
 </div>
-<div class="prose-text"><strong>Translation:</strong> From economics through mental turbulence, into life, then to the atomic path, this journey through the cosmic body resolves into a non-dual ground of truth.</div>
+<div class="prose-text" markdown="1"><strong>Translation:</strong> From economics through mental turbulence, into life, then to the atomic path, this journey through the cosmic body resolves into a non-dual ground of truth.</div>
 
 <details>
 <summary>Conclusion and closing analysis</summary>
-<div class="prose-text">
+<div class="prose-text" markdown="1">
 The descent through the Reductionist Chain leads inevitably to the bedrock of reality, where the laws of physics intersect with the nature of existence itself. By codifying these theories in Sanskrit, we reveal that modern science is not merely a collection of data but a hierarchy of "actions" (*Kriyā*) performed by the primordial substance (*Mūla-Prakṛti*).26
 
 The ultimate "consilience" is found in the realization that the universe expands (*Brahma*), is pervaded by fields (*Viṣṇu*) and eventually contracts (*Śiva*) in eternal cycles of Big Bang and Big Crunch.58 Through Pāṇini's grammar, we possess a tool to describe this reality with mathematical precision, ensuring that the maps of human knowledge remain accurate as we zoom ever deeper into the heart of the *Bindu*.58

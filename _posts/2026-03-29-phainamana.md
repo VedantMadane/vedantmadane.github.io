@@ -26,7 +26,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Gaṇanaṃ prathamaṃ tattvaṃ, tataḥ yogaḥ prajāyate |<br>Ekasya khalu saṃvṛddhyā, saṅkhyā-vistāra ucyate || 1 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> Counting is the first principle; from it, addition is born. By the continuous increment of one, the expansion of numbers is declared.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Counting is the first principle; from it, addition is born. By the continuous increment of one, the expansion of numbers is declared.</div>
     </div>
   </section>
 
@@ -39,7 +39,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Punarāvartitād yogāt, guṇākāro vidhīyate |<br>Guṇanasya cāvṛttyā, ghātakarma pradṛśyate || 2 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> From repeated addition, multiplication is defined. And by the repetition of multiplication, the operation of exponentiation is seen.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> From repeated addition, multiplication is defined. And by the repetition of multiplication, the operation of exponentiation is seen.</div>
     </div>
   </section>
 
@@ -52,7 +52,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Viloma-karma-jijñāsā, ṛṇaṃ śūnyaṃ prasūyate |<br>Bhāgo mūlaṃ ca ghātāṅko, viparītena siddhyati || 3 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> The inquiry into inverse operations gives birth to negative numbers and zero. Division, roots and logarithms are established by this reversal.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> The inquiry into inverse operations gives birth to negative numbers and zero. Division, roots and logarithms are established by this reversal.</div>
     </div>
   </section>
 
@@ -65,7 +65,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Vistāryante ca niyamā, ajñāte'pi pade tathā |<br>Kālpanika-padairyuktā, niṣpattiḥ paramādbhutā || 4 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> These rules are generalized, even into unknown domains. Joined with imaginary terms, the resulting derivation is supremely astounding.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> These rules are generalized, even into unknown domains. Joined with imaginary terms, the resulting derivation is supremely astounding.</div>
     </div>
   </section>
 
@@ -78,7 +78,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Ṛṇamekasya yanmūlaṃ, na śakyaṃ dṛṣṭabhūmiṣu |<br>Kalpitaṃ tatpadaṃ navyaṃ, tiryagrekhāṃ pradarśayet || 5 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> The root of negative one is not possible in the visible grounds (the real number line). That newly imagined term reveals the transverse (perpendicular) line.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> The root of negative one is not possible in the visible grounds (the real number line). That newly imagined term reveals the transverse (perpendicular) line.</div>
     </div>
   </section>
 
@@ -91,7 +91,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Bījāṅkānāṃ hi ghātena, vṛttamānaṃ prajāyate |<br>Jyākoṭijyāsvarūpeṇa, ghāto bhramati maṇḍale || 6 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> Indeed, by the exponentiation of algebraic numbers, the measure of the circle is born. In the form of sine (jyā) and cosine (koṭijyā), the exponent rotates in a circle.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Indeed, by the exponentiation of algebraic numbers, the measure of the circle is born. In the form of sine (jyā) and cosine (koṭijyā), the exponent rotates in a circle.</div>
     </div>
   </section>
 
@@ -104,7 +104,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Sarvaṃ spandanarūpaṃ yat, prakṛtyā naṭanaṃ tathā |<br>Anena sūtrabandhena, spaṣṭaṃ bhavati sarvathā || 7 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> Everything that is in the form of vibration and the very dance of nature - by this binding mathematical formula, it becomes entirely clear.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Everything that is in the form of vibration and the very dance of nature - by this binding mathematical formula, it becomes entirely clear.</div>
     </div>
   </section>
 
@@ -117,7 +117,7 @@ tags: [sanskrit]
     </div>
     <div class="translation-block">
       <div class="poetic-text">Śūnyamekaṃ tathā vṛttaṃ, mūlaghāto'pi kalpitaḥ |<br>Pañcatattvasamāyogāt, pūrṇaṃ jñānaṃ prakāśate || 8 ||</div>
-      <div class="prose-text"><strong>Translation:</strong> Zero, one, the circle (π), the base of growth (e) and the imagined unit (i) - from the union of these five elements, complete knowledge shines forth.</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Zero, one, the circle (π), the base of growth (e) and the imagined unit (i) - from the union of these five elements, complete knowledge shines forth.</div>
     </div>
   </section>
 </div>

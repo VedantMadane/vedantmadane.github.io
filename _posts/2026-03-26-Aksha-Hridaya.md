@@ -15,7 +15,7 @@ subtitle: The heart of dice - Ṛtuparṇa and Nala on probability (Sanskrit wit
   <h2 class="meter-heading">{{ book.title_sa }}</h2>
   <p class="aksha-intro">{{ book.intro }}</p>
   <div class="translation-block aksha-intro-en">
-    <div class="prose-text">{{ book.intro_en | markdownify }}</div>
+    <div class="prose-text" markdown="1">{{ book.intro_en | markdownify }}</div>
   </div>
 
 {% for section in book.sections %}
@@ -26,7 +26,7 @@ subtitle: The heart of dice - Ṛtuparṇa and Nala on probability (Sanskrit wit
       <h3 class="verse-number">Verse {{ verse.id }}</h3>
       <div class="sanskrit-text">{{ verse.text | newline_to_br }}</div>
       <div class="translation-block">
-        <div class="prose-text">
+        <div class="prose-text" markdown="1">
           <p class="translation-label"><strong>Translation:</strong></p>
           {{ verse.meaning | markdownify }}
         </div>

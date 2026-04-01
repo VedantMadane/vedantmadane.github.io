@@ -28,7 +28,7 @@ subtitle: Based on the book 'How I Found Freedom In An Unfree World by Harry Bro
   {% endif %}
   <div class="sanskrit-text">{{ verse.sanskrit | newline_to_br }}</div>
   <div class="translation-block">
-    <div class="prose-text"><strong>Meaning:</strong> {{ verse.meaning }}</div>
+    <div class="prose-text" markdown="1"><strong>Meaning:</strong> {{ verse.meaning }}</div>
   </div>
 </div>
   {% endfor %}
@@ -41,12 +41,12 @@ subtitle: Based on the book 'How I Found Freedom In An Unfree World by Harry Bro
   <p><strong>The Diagnosis</strong> <small class="text-muted">(Meter: {{ trap.diagnosis_verse.meter }})</small></p>
   <div class="sanskrit-text">{{ trap.diagnosis_verse.sanskrit | newline_to_br }}</div>
   <div class="translation-block">
-    <div class="prose-text"><strong>Meaning:</strong> {{ trap.diagnosis_verse.meaning }}</div>
+    <div class="prose-text" markdown="1"><strong>Meaning:</strong> {{ trap.diagnosis_verse.meaning }}</div>
   </div>
   <p><strong>The Escape</strong> <small class="text-muted">(Meter: {{ trap.escape_verse.meter }})</small></p>
   <div class="sanskrit-text">{{ trap.escape_verse.sanskrit | newline_to_br }}</div>
   <div class="translation-block">
-    <div class="prose-text"><strong>Meaning:</strong> {{ trap.escape_verse.meaning }}</div>
+    <div class="prose-text" markdown="1"><strong>Meaning:</strong> {{ trap.escape_verse.meaning }}</div>
   </div>
 </div>
   {% endfor %}

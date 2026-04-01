@@ -463,3 +463,71 @@ h3.sync-current {
 .translation-block .prose-text {
   line-height: 1.65;
 }
+
+/* ── Reader-container: section headings ── */
+.reader-container > h2 {
+  font-family: 'Noto Serif Devanagari', Georgia, serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #1a5276;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 2px solid #2980b9;
+}
+
+.reader-container > h2:first-of-type {
+  margin-top: 1.5rem;
+}
+
+/* ── Reader-container: collapsible details ── */
+.reader-container details {
+  margin: 0.6rem 0;
+}
+
+.reader-container details summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-family: 'Noto Serif Devanagari', Georgia, serif;
+  color: #2c3e50;
+  padding: 0.35rem 0;
+  user-select: none;
+}
+
+.reader-container details summary:hover {
+  color: #2980b9;
+}
+
+.reader-container details[open] > summary {
+  margin-bottom: 0.35rem;
+}
+
+.reader-container details .prose-text {
+  padding: 0.65rem 0.85rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border-left: 3px solid #d5dbdb;
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+/* ── Reader-container: tables inside details ── */
+.reader-container details table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  margin: 0.5rem 0;
+}
+
+.reader-container details th,
+.reader-container details td {
+  border: 1px solid #dee2e6;
+  padding: 0.45rem 0.65rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.reader-container details th {
+  background: #eef2f7;
+  font-weight: 600;
+}

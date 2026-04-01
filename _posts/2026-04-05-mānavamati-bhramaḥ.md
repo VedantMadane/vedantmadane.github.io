@@ -30,7 +30,7 @@ audio_sync: false
 <h2 class="work-title-iast">{{ book.title_sa }}</h2>
 {% if book.title_en %}<p class="section-head-en">{{ book.title_en }}{% if book.subtitle_en and book.subtitle_en != '' %} — {{ book.subtitle_en }}{% endif %}</p>{% endif %}
 {% if book.intro_visible and book.intro_visible != '' %}
-<div class="prose-text">{{ book.intro_visible | markdownify }}</div>
+<div class="prose-text" markdown="1">{{ book.intro_visible | markdownify }}</div>
 {% endif %}
 
 {% for stanza in book.stanzas %}
@@ -57,7 +57,7 @@ audio_sync: false
 
   <details>
   <summary>पदच्छेद, अन्वय, धात्वर्थ</summary>
-  <div class="prose-text">
+  <div class="prose-text" markdown="1">
     {% assign _p = stanza.padaccheda | strip %}
     {% if _p != '' %}
     <p><strong>पदच्छेदः</strong></p>
