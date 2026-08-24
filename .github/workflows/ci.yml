@@ -18,6 +18,7 @@ jobs:
           bundler-cache: true
 
       # Smoke-build. --future allows posts dated ahead of the runner clock.
+      # vendor/ is excluded in _config.yml so bundler path is not scanned as content.
       - name: Build site
         run: bundle exec jekyll build --future
 

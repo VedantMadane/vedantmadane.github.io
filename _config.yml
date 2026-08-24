@@ -244,6 +244,9 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
+  - .github/
+  - "*.gemspec"
 
 plugins:
   - jekyll-paginate
