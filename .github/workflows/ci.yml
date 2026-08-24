@@ -11,15 +11,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Smoke-build with jekyll/builder. --future allows dated-ahead posts.
-      - name: Build site (jekyll/builder)
-        run: |
-          mkdir -p _site
-          docker run --rm \
-            -v "${{ github.workspace }}:/srv/jekyll" \
-            -e PAGES_REPO_NWO="${{ github.repository }}" \
-            jekyll/builder:3.8 \
-            /bin/bash -c "chmod -R a+w /srv/jekyll && jekyll build --future"
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      # Smoke-build. --future allows posts dated ahead of the runner clock.
+      - name: Build site
+        run: bundle exec jekyll build --future
 
       - name: Verify build output
         run: |
