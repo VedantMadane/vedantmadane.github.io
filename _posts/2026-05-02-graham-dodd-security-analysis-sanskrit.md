@@ -2,8 +2,8 @@
 layout: post
 title: "प्रतिभूति-विश्लेषणम्–ग्रहाम-दोद-महोदयाभ्यां-प्रणीतस्य-ग्रन्थस्य-संस्कृत-श्लोकेषु-रूपान्तरणम्"
 subtitle: "Twelve verses in अनुष्टुभ्, वसन्ततिलका, उपजाति and शार्दूलविक्रीडितम् on Graham–Dodd *Security Analysis* – padaccheda, anvaya, śabdārtha, vyākaraṇa and Sanskrit commentary."
-permalink: "/2026-05-02-प्रतिभूति-विश्लेषणम्–ग्रहाम-दोद-महोदयाभ्यां-प्रणीतस्य-ग्रन्थस्य-संस्कृत-श्लोकेषु-रूपान्तरणम्/"
-slug: "प्रतिभूति-विश्लेषणम्–ग्रहाम-दोद-महोदयाभ्यां-प्रणीतस्य-ग्रन्थस्य-संस्कृत-श्लोकेषु-रूपान्तरणम्"
+permalink: "/2026-05-02-graham-dodd-security-analysis-sanskrit/"
+slug: "graham-dodd-security-analysis-sanskrit"
 tags: [sanskrit, finance, value-investing, security-analysis, graham-dodd, philology]
 audio_sync: false
 # audio_file: /assets/audio/FILENAME.mp3

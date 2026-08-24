@@ -2,8 +2,8 @@
 layout: post
 title: "कृत्रिममेधायन्त्रशिक्षणदत्तांशविज्ञानानां-तान्त्रिकतत्त्वानां-पाणिनीयदृष्ट्या-पद्यबद्धः-सङ्ग्रहः"
 subtitle: "Thirty-three verses in अनुष्टुभ्, उपजाति, वसन्ततिलका, शार्दूलविक्रीडित, शिखरिणी, मन्दाक्रान्ता, मालिनी and mixed meters – Pāṇinian codification of big data, ML, ensembles, Bayes and knowledge graphs."
-permalink: "/2026-05-04-कृत्रिममेधायन्त्रशिक्षणदत्तांशविज्ञानानां-तान्त्रिकतत्त्वानां-पाणिनीयदृष्ट्या-पद्यबद्धः-सङ्ग्रहः/"
-slug: "कृत्रिममेधायन्त्रशिक्षणदत्तांशविज्ञानानां-तान्त्रिकतत्त्वानां-पाणिनीयदृष्ट्या-पद्यबद्धः-सङ्ग्रहः"
+permalink: "/2026-05-04-ml-bigdata-panini-verse-sangraha/"
+slug: "ml-bigdata-panini-verse-sangraha"
 tags: [sanskrit, machine-learning, big-data, philology, panini, knowledge-graphs]
 audio_sync: false
 # audio_file: /assets/audio/FILENAME.mp3
