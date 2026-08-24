@@ -1,18 +1,28 @@
 name: Beautiful Jekyll CI
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+
 jobs:
   build:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Build the site in the jekyll/builder container
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Smoke-build with jekyll/builder. --future allows dated-ahead posts.
+      - name: Build site (jekyll/builder)
         run: |
-      - name: Upgrade RubyGems
-      - name: Build the site in the jekyll/builder container
+          mkdir -p _site
+          docker run --rm \
+            -v "${{ github.workspace }}:/srv/jekyll" \
+            -e PAGES_REPO_NWO="${{ github.repository }}" \
+            jekyll/builder:3.8 \
+            /bin/bash -c "chmod -R a+w /srv/jekyll && jekyll build --future"
+
+      - name: Verify build output
         run: |
-          export JEKYLL_VERSION=3.8
-          docker run \
-          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+          test -f _site/index.html
+          ls _site | head -n 40
+          echo "Jekyll CI build OK"
