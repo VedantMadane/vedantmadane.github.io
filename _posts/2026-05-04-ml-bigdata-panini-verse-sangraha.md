@@ -540,4 +540,4 @@ audio_sync: false
 
 </div>
 
-<script src="{{{{ '/assets/js/audio-sync.js' | relative_url }}}}"></script>
+<script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>
