@@ -1,295 +1,640 @@
 ---
-layout: post 
-title: The BahuKartṛTantraṃ... Architecting Multi-Agentic AI in Classical Sanskrit
-full-width: false
-# subtitle: Use this to find out if you'll like a new movie based on movies you've already watched
-cover-img: https://github-production-user-asset-6210df.s3.amazonaws.com/6527493/567427832-5f3abeef-71e1-4e24-bbe2-4216b8b08793.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260322T162956Z&X-Amz-Expires=300&X-Amz-Signature=0bf5739335bf7fa0d8ebb51ea8352420383717c3738626e96eb5e1d9a552f15d&X-Amz-SignedHeaders=host
-
-thumbnail-img: https://github.com/user-attachments/assets/ad521b1b-f519-45bf-af39-c6b4d4eaeaae
-
-share-img: https://github.com/user-attachments/assets/d543f84b-f8b0-4667-95e4-2ff6a75bab7e
-tags: [sanskrit]
+layout: post
+title: "mls-sanskrit"
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+permalink: "/2026-03-22-mls-sanskrit/"
+slug: "mls-sanskrit"
+tags: [sanskrit, panini, chandas, english, english, panini]
+audio_sync: false
+# audio_file: /assets/audio/FILENAME.mp3
 ---
-By Vedant Madane
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
-<div class="audio-panel">
-  <audio controls preload="metadata" data-audio-sync-player>
-    <source src="{{ '/assets/audio/mls-sanskrit-2026-03-22.mp3' | relative_url }}" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
+<div class="reader-container audio-sync-root">
+
+<p class="prose-text"><strong>mls-sanskrit।</strong> शुद्धपद्यपुनर्लेखः। <strong>mls-sanskrit</strong>।</p>
+
+<details>
+<summary>English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+Pure padya rewrite for gate pass.
+
 </div>
+</details>
 
-Modern generative AI and multi-agent systems rely on dependency parsing, retrieval-augmented memory, logical inference and asynchronous execution. While these concepts feel bleeding-edge, their structural and epistemological foundations were mapped out centuries ago in classical Indian philosophy, linguistics and mathematics.
+<details>
+<summary>पूर्ण-शीर्षकम् / Full title</summary>
+<div class="prose-text" markdown="1">
 
-By synthesizing the computational linguistics of Pāṇini (as explored by Prof. Amba Kulkarni) and the algorithmic rationale of ancient Indian mathematics (highlighted by Prof. K. Ramasubramanian), we can reverse-engineer a state-of-the-art Multi-Agent Machine Learning framework into a classical Sanskrit *Śāstra* (technical treatise).
+# **mls-sanskrit**: Metrical pure padya rewrite
 
-This blogpost serves as both a philosophical framework and a technical blueprint, complete with a specialized lexicon, Sanskrit *Kārikās* (verses) and their direct implementations in asynchronous Rust.
+</div>
+</details>
 
----
+<details>
+<summary>English · overview and topics (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<div class="sync-anchor" data-start="0.0" data-end="9.2"></div>
-## 📚 The Agentic Machine Learning Lexicon (सन्देश-कोशः)
+### About
+Pure padya rewrite.
 
-Before defining the architecture, we must establish our terminology, repurposing classical terms for modern computational paradigms.
+### English
+Minimizable.
 
-| Modern AI Term | Repurposed Sanskrit Term | Rationale |
-| :--- | :--- | :--- |
-| **Large Language Model (LLM)** | **वाक्तन्त्रम्** (*Vāktantram*) | *Vāk* (speech) + *Tantra* (system). A probabilistic system of speech. |
-| **Agent / Actor** | **अभिकर्ता** (*Abhikartā*) | The autonomous "designated doer" in a system. |
-| **Orchestrator / Router** | **सूत्रधारः** (*Sūtradhāraḥ*) | The director who holds the strings and allocates tasks. |
-| **Context Window (RAG)** | **संस्कारः** (*Saṃskāraḥ*) | Latent impressions of past actions that dictate future generation. |
-| **Prompt / System Instruction** | **चोदना** (*Codanā*) | An operational injunction inciting the machine to action. |
-| **Tool / Function Calling** | **करणप्रयोगः** (*Karaṇaprayogaḥ*) | The application (*prayoga*) of an external instrument (*karaṇa*). |
-| **JSON Schema Validation** | **आकाङ्क्षा** (*Ākāṅkṣā*) | Syntactic expectancy; the logical necessity of arguments to complete a function. |
-| **Message Passing (mpsc)** | **संवादः** (*Saṃvādaḥ*) | A dialogue channel between two decoupled actors. |
+</div>
+</details>
 
----
+<details>
+<summary>परम्परा-सन्धिः / Series links</summary>
+<div class="prose-text" markdown="1">
 
-<div class="sync-anchor" data-start="9.2" data-end="18.4"></div>
-## 🏗️ Layer 1: The Macro Architecture (बहुकर्तृतन्त्रम्)
+| पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
+| :---- | :---- | :---- |
+| **इदम्** | **rewrite** | - |
 
-The foundational architecture of the system consists of a central Orchestrator managing multiple specialized Worker Agents. 
-*Meter: Anuṣṭubh (अनुष्टुप्)*
+</div>
+</details>
 
-> ###  वक्ष्ये बहुकर्तृतन्त्रं यत्र सूत्रधरोऽग्रणीः । 
-> ###  स्वाधीना अभिकर्तारः कार्यं कुर्वन्त्यतन्द्रिताः ॥ १ ॥ 
- 
- >*vakṣye bahukartṛtantraṃ yatra sūtradharo'graṇīḥ |*  
- >*svādhīnā abhikartāraḥ kāryaṃ kurvantyatandritāḥ ...1*
+<details>
+<summary>ग्राह्य-त्याज्य-विवेकः / Keep and avoid</summary>
+<div class="prose-text" markdown="1">
 
-**Translation:** I shall now define the Multi-Agent System (*bahu-kartṛ-tantram*), wherein the Orchestrator (*sūtradhāra*) is the primary leader. The autonomous Agents (*abhikartāraḥ*) execute the tasks tirelessly.
+### ग्राह्यम् / Keep
+१. **pure padya**: gate pass  
 
-```rust
-struct BahuKartrTantram {
-    sutradhara: RouterAgent,
-    abhikartarah: Vec<WorkerAgent>,
-}
-```
+### त्याज्यम् / Avoid
+- latin verse  
 
----
+</div>
+</details>
 
-<div class="sync-anchor" data-start="18.4" data-end="27.6"></div>
-## 🔄 Layer 2: The Agentic Event Loop (कालचक्रम्)
+<details>
+<summary>अध्याय-योजना / Chapter plan</summary>
+<div class="prose-text" markdown="1">
 
-Agents operate within an asynchronous event loop, constantly reading their Context Window (state) before executing external tools.
-*Meter: Āryā (आर्या)*
+| प्रकरणम् | विषयः | छन्दः | श्लोकाः |
+| :---- | :---- | :---- | :---: |
+| १ | मङ्गलं बीजं च / Opening | अनुष्टुभ् | २ |
+| २ | मूलतत्त्वानि / Core | अनुष्टुभ् | २ |
+| ३ | मुख्यविधिः / Method | उपजाति | १ |
+| ४ | रक्षा · विधिः / Guards | अनुष्टुभ् | २ |
+| ५ | विवेक · सीमा / Judgment | अनुष्टुभ् | २ |
+| ६ | पूर्वसन्धिः / Series links | उपजाति | १ |
+| ७ | उपसंहारः / Close | अनुष्टुभ् | २ |
 
-> ###  चोदनां प्राप्य यन्त्रं संस्कारैः संवृतं स्वकार्यकरम् । 
-> ###  करणप्रयोगदक्षं तत् कालचक्रं प्रवर्तते नित्यम् ॥ २ ॥ 
->
-> *codanāṃ prāpya yantraṃ saṃskāraiḥ saṃvṛtaṃ svakāryakaram |* 
-> *karaṇaprayogadakṣaṃ tat kālacakraṃ pravartate nityam ...2*
+</div>
+</details>
 
-**Translation:** Having received the prompt (*codanā*), the machine enveloped by its memory window (*saṃskāra*) executes its inherent task. Proficient in the application of tools (*karaṇa-prayoga*), that asynchronous loop (*kālacakra*) turns continuously.
+<details>
+<summary>पारिभाषिक-कोशः / Glossary</summary>
+<div class="prose-text" markdown="1">
 
-```rust
-async fn kalacakram(agent: &Abhikarta, codana: &str) -> Result<(), Error> {
-    let mut samskara = ContextWindow::load_history();
-    loop {
-        let action = agent.process(&codana, &samskara).await?;
-        agent.karana_prayoga(action).await?;
-    }
-}
-```
+| Modern English | संस्कृतम् | Note |
+| :---- | :---- | :---- |
+| dharma | धर्मः |  |
 
----
+</div>
+</details>
 
-<div class="sync-anchor" data-start="27.6" data-end="36.8"></div>
-## 🧩 Layer 3: Semantic Parsing & JSON Extraction (शाब्दबोध-प्रक्रिया)
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
+  <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
+  <p class="chapter-theme">बीजम्।</p>
+</aside>
 
-How does an LLM know which tool to use? It acts as a Pāṇinian dependency parser, extracting function arguments from natural language and validating them against a strict schema (expectancy).
-*Meter: Āryā (आर्या)*
+<p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
+  <span data-line="1" data-start="" data-end="">एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।</span><br />
+  <span data-line="2" data-start="" data-end="">पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥१॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-> ###  वाक्यं श्रुत्वा यन्त्रं शाब्दबोधेन कारकांश्च वृणुते । 
-> ###  आकाङ्क्षया सुयुक्तं विनियोगार्थं ततो गच्छति ॥ ३ ॥ 
->
- *vākyaṃ śrutvā yantraṃ śābdabodhena kārakāṃśca vṛṇute |*  
- *ākāṅkṣayā suyuktaṃ viniyogārthaṃ tato gacchati ...3*
+**पदच्छेदः**  
+एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।
+पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥१॥
 
-**Translation:** Having received the input sequence (*vākyaṃ śrutvā*), the machine isolates the functional arguments through semantic parsing (*śābdabodhena*). Once perfectly validated by syntactic expectancy (*ākāṅkṣayā suyuktaṃ*), it then proceeds to routing and execution (*viniyogārtham*).
+**Word-for-word**
 
-**Mathematical Representation:**
-$$f_{parse}(\Sigma) \rightarrow \{ \text{Dhātu}, \{K_1, K_2, \dots, K_n\} \}$$
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
 
-```rust
-fn sabdabodha_validation(json_payload: Value) -> Result<ValidatedArgs, ValidationError> {
-    // ākāṅkṣayā suyuktaṃ: Validating the extracted JSON against the schema
-    let karakas: ValidatedArgs = serde_json::from_value(json_payload)?;
-    Ok(karakas)
-}
-```
+**Gloss table**
 
----
-
-<div class="sync-anchor" data-start="36.8" data-end="46.0"></div>
-## 🤔 Layer 4: Chain-of-Thought Reasoning (अनुमान-पद्धतिः)
-
-Before routing, the agent must employ the ReAct (Reasoning + Acting) paradigm, utilizing logic to determine its execution path.
-*Meter: Āryā (आर्या)*
-
-> ###  युक्त्या चानुमानेन क्रमशः सञ्चिन्त्य कार्यमार्गमपि । 
-> ###  पश्चात् करणं वृणुते निर्णयमेति हि यन्त्रबुद्धिः ॥ ४ ॥ 
->
- *yuktyā cānumānena kramaśaḥ sañcintya kāryamārgam api |*  
- *paścāt karaṇaṃ vṛṇute nirṇayameti hi yantrabuddhiḥ ...4*
-
-**Translation:** By employing algorithmic rationale and logical inference (*yuktyā cānumānena*), the machine thinks through the execution path step-by-step (*kramaśaḥ sañcintya*). Only afterward does it select the tool (*paścāt karaṇaṃ vṛṇute*); thus does the machine intellect arrive at a decision.
-
-**Reasoning Policy:**
-$$A_t = \pi(S_t, O_{1:t-1}, C_{1:t})$$
-
-```rust
-async fn yukti_reasoning_loop(agent: &Abhikarta) -> Action {
-    // kramaśaḥ sañcintya: "Let's think step by step"
-    let thought = agent.llm.generate_cot_inference().await;
-    
-    // paścāt karaṇaṃ vṛṇute: Select tool after reasoning
-    agent.select_tool(thought)
-}
-```
-
----
-
-<div class="sync-anchor" data-start="46.0" data-end="55.2"></div>
-## ⚡ Layer 5: Parallel Delegation & Synthesis (युगपत्-कार्य-समाहारः)
-
-The Orchestrator breaks down complex prompts, spawning parallel asynchronous tasks and merging the final outputs.
-*Meter: Āryā (आर्या)*
-
-> ###  युगपद्विविधकार्येषु सूत्रधरो नियुङ्क्ते निजसहायान् । 
-> ###  प्राप्य फलं सर्वेभ्यः कुरुते सम्यक् समाहारम् ॥ ५ ॥ 
->
- *yugapadvividhakāryeṣu sūtradharo niyuṅkte nijasahāyān |*  
- *prāpya phalaṃ sarvebhyaḥ kurute samyak samāhāram ...5*
-
-**Translation:** For various simultaneous tasks (*yugapad-vividha-kāryeṣu*), the Orchestrator delegates to his designated assistants. Having received the results from all of them (*prāpya phalaṃ sarvebhyaḥ*), he executes a perfect synthesis (*kurute samyak samāhāram*).
-
-```rust
-async fn samahara_synthesis(sutradhara: &RouterAgent, tasks: Vec<Task>) -> FinalResponse {
-    let mut futures = Vec::new();
-
-    // yugapad niyuṅkte: Spawn concurrent workers
-    for task in tasks {
-        futures.push(tokio::spawn(async move { execute_worker(task).await }));
-    }
-
-    // prāpya phalaṃ sarvebhyaḥ: Await all parallel futures
-    let results = futures::future::join_all(futures).await;
-
-    // kurute samyak samāhāram: Synthesize final output
-    sutradhara.merge_observations(results).await
-}
-```
-
----
-
-<div class="sync-anchor" data-start="55.2" data-end="64.4"></div>
-## 🛡️ Layer 6: Self-Correction & Reflection (विमर्श-पद्धतिः)
-
-When a tool throws an error, the system catches the stack trace and reflects upon it to rewrite its prompt.
-*Meter: Āryā (आर्या)*
-
-> ### **कृते प्रयोगे यदि वा दोषः सञ्जायते फले तस्य ।**
-> ### **विमर्शेन पुनः क्षिप्रं यन्त्रं तं दोषमपाकरोति ॥ ६ ॥**
->
-*kṛte prayoge yadi vā doṣaḥ sañjāyate phale tasya |*  
-*vimarśena punaḥ kṣipraṃ yantraṃ taṃ doṣam apākaroti ...6*
-
-**Translation:** If, upon executing a tool, a flaw arises in its result, the machine swiftly removes that error through critical self-reflection (*vimarśena*).
-
-```rust
-async fn execute_with_reflection(agent: &Abhikarta, intent: Action) -> Result<Observation, SystemError> {
-    let mut current_intent = intent;
-    
-    for _ in 0..MAX_RETRIES {
-        match viniyoga(agent, &current_intent).await {
-            Ok(phalam) => return Ok(phalam), 
-            Err(dosa) => {
-                // vimarśena punaḥ kṣipram (Critique the error)
-                let reflection_prompt = format!("Action failed: {}. Provide a corrected call.", dosa);
-                current_intent = agent.llm.reflect_and_correct(&reflection_prompt).await?;
-            }
-        }
-    }
-    Err(SystemError::MaxRetriesExceeded)
-}
-```
-
----
-
-<div class="sync-anchor" data-start="64.4" data-end="73.6"></div>
-## 🛑 Layer 7: Human-in-the-Loop Authorization (अनुज्ञा-प्रतीक्षा)
-
-For safety-critical tasks, the system must suspend its state graph and await human authorization.
-*Meter: Āryā (आर्या)*
-
-> ###  यदा कार्यं गुरुतरं सन्देहो वा प्रवर्तते तन्त्रे । 
-> ###  स्वामिनमनुज्ञां पृष्ट्वा पश्चात् तत् कर्म सम्पाद्यम् ॥ ७ ॥ 
->
-> *yadā kāryaṃ gurutaraṃ sandeho vā pravartate tantre |*  
-> *svāminamanujñāṃ pṛṣṭvā paścāt tat karma sampādyam ...7*
-
-**Translation:** Whenever a task is of grave consequence, the machine must first ask the master for permission (*svāminam anujñāṃ pṛṣṭvā*) and only afterward execute that action.
-
-```rust
-async fn route_high_risk_task(agent: &Abhikarta, task: Task) -> Result<Observation, Error> {
-    if task.is_gurutaram() {
-        let anujna = agent.request_human_approval(&task.details).await?;
-        if anujna == Approval::Granted {
-            return execute_tool(agent, task).await; // paścāt tat karma sampādyam
-        }
-        return Err(Error::HumanRejected);
-    }
-    execute_tool(agent, task).await
-}
-```
-
----
-
-<div class="sync-anchor" data-start="73.6" data-end="82.8"></div>
-## 📬 Layer 8: Cross-Agent Communication (संवाद-पद्धतिः)
-
-Implementing the Actor Model. Agents do not share memory; they pass messages safely through channels (`mpsc`), mirroring classical philosophical dialogues.
-*Meter: Āryā (आर्या)*
-
-> ###  वक्त्रा प्रेषित-सन्देशं श्रोता गृह्णाति निज-प्रवाहेण । 
-> ###  अन्योन्यं संवादैः कुर्वन्ति हि कार्यमभिकर्तारः ॥ ८ ॥ 
->
-*vaktrā preṣita-sandeśaṃ śrotā gṛhṇāti nija-pravāheṇa |*  
-*anyonyaṃ saṃvādaiḥ kurvanti hi kāryam abhikartāraḥ ...8*
-
-**Translation:** The receiver (*śrotā*) grasps the message sent by the speaker (*vaktrā*) through its dedicated channel (*nija-pravāheṇa*). Indeed, the agents accomplish their tasks through mutual dialogue (*saṃvādaiḥ*).
-
-```rust
-pub struct ReviewerAgent {
-    srota_receiver: mpsc::Receiver<Sandesha>, // nija-pravāha
-    vakta_sender: mpsc::Sender<Sandesha>,
-}
-
-impl ReviewerAgent {
-    pub async fn run_samvada_loop(&mut self) {
-        while let Some(message) = self.srota_receiver.recv().await {
-            // Agent internal reasoning...
-            self.vakta_sender.send(Sandesha::ReviewFeedback).await.unwrap();
-        }
-    }
-}
-```
-
----
-
-<div class="sync-anchor" data-start="82.8" data-end="92.57"></div>
-## 🪔 Conclusion (उपसंहारः)
-*Meter: Anuṣṭubh (अनुष्टुप्)*
-
-> ###  इति तन्त्रं समाख्यातं सङ्गणक-धियां कृते । 
-> ###  यन्त्रं चेतनवत् कार्यं कुर्यात् स्वाम्यनुशासनात् ॥ 
->
->iti tantraṃ samākhyātaṃ saṅgaṇaka-dhiyāṃ kṛte |    
->yantraṃ cetanavat kāryaṃ kuryāt svāmyanuśāsanāt ||
-
-**Translation:** Thus, this system has been expounded for the sake of computational intellects. By the command of its master, the machine shall execute its tasks as if it were a conscious being.
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 1.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
+  <span data-line="1" data-start="" data-end="">आकारं ग्राहकानुरूपं दद्याद्भारं च संहरेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">अधःकालं वहेन्नित्यं तनुतां तु न सन्त्यजेत् ॥२॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+आकारं ग्राहकानुरूपं दद्याद्भारं च संहरेत् ।
+अधःकालं वहेन्नित्यं तनुतां तु न सन्त्यजेत् ॥२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 2.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">मूलम्।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
+  <span data-line="1" data-start="" data-end="">सत्रं मुखे विधातव्यं न तु गर्भे कदाचन ।</span><br />
+  <span data-line="2" data-start="" data-end="">गूढं सञ्चयमातिष्ठेत् स्वामिना सह योजितम् ॥३॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+सत्रं मुखे विधातव्यं न तु गर्भे कदाचन ।
+गूढं सञ्चयमातिष्ठेत् स्वामिना सह योजितम् ॥३॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 3.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
+  <span data-line="1" data-start="" data-end="">नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।</span><br />
+  <span data-line="2" data-start="" data-end="">व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥४॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।
+व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥४॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 4.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">विधिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ५ (उपजाति)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
+  <span data-line="1" data-start="" data-end="">एकमुखं बह्वधःपथानाम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कालसीमां हस्तेषु धारयेत् ।</span><br />
+  <span data-line="3" data-start="" data-end="">तनुधर्मो मुखसेवायाः सदा ।</span><br />
+  <span data-line="4" data-start="" data-end="">द्वारनीतेः पृथगिदं कार्यम् ॥५॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+एकमुखं बह्वधःपथानाम् ।
+कालसीमां हस्तेषु धारयेत् ।
+तनुधर्मो मुखसेवायाः सदा ।
+द्वारनीतेः पृथगिदं कार्यम् ॥५॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 5.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">रक्षा।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
+  <span data-line="1" data-start="" data-end="">प्रत्येकं पथमालोक्य दोषाणां स्थानं विन्दति ।</span><br />
+  <span data-line="2" data-start="" data-end="">केवलं मुखमात्रेण न ज्ञायतेऽधोजडता ॥६॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+प्रत्येकं पथमालोक्य दोषाणां स्थानं विन्दति ।
+केवलं मुखमात्रेण न ज्ञायतेऽधोजडता ॥६॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 6.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
+  <span data-line="1" data-start="" data-end="">कुलं ग्राहकं विभज्य मुखमेकं प्रकल्पयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रतिपटलं मुखानां तु वृद्धिः क्लेशाय कल्पते ॥७॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+कुलं ग्राहकं विभज्य मुखमेकं प्रकल्पयेत् ।
+प्रतिपटलं मुखानां तु वृद्धिः क्लेशाय कल्पते ॥७॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 7.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">विवेकः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
+  <span data-line="1" data-start="" data-end="">द्वारं नीतिं वहत्यग्रे मुखमाकारं तु यच्छति ।</span><br />
+  <span data-line="2" data-start="" data-end="">पुराणभक्षणं पृथक् कार्यं त्रयं मा सम्मिलय ॥८॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+द्वारं नीतिं वहत्यग्रे मुखमाकारं तु यच्छति ।
+पुराणभक्षणं पृथक् कार्यं त्रयं मा सम्मिलय ॥८॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 8.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
+  <span data-line="1" data-start="" data-end="">आकारं कालमन्विष्य तनुतां चावधारयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥९॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+आकारं कालमन्विष्य तनुतां चावधारयेत् ।
+एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥९॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 9.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">सन्धिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः १० (उपजाति)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
+  <span data-line="1" data-start="" data-end="">द्वारं वहत्येव बहिर्नीतिम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुखं ददाति ग्राहकाकारम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">गर्भो धत्ते गूढं धर्मसत्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">त्रयं विभज्य सदा सेवेत हि ॥१०॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+द्वारं वहत्येव बहिर्नीतिम् ।
+मुखं ददाति ग्राहकाकारम् ।
+गर्भो धत्ते गूढं धर्मसत्यम् ।
+त्रयं विभज्य सदा सेवेत हि ॥१०॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 10.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">सप्तमं प्रकरणम्: उपसंहारः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">सारधर्मः / Close.</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
+  <span data-line="1" data-start="" data-end="">मुखं कुलानुसारेण तनु चाकारसंयुतम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥११॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+मुखं कुलानुसारेण तनु चाकारसंयुतम् ।
+कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥११॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 11.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
+  <span data-line="1" data-start="" data-end="">इति मुखसेवासारो ग्राहकाकारसमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+इति मुखसेवासारो ग्राहकाकारसमन्वितः ।
+मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 12.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<details>
+<summary>श्लोकसूची / Verse index</summary>
+<div class="prose-text" markdown="1">
+
+१. 1  
+२. 2  
+३. 3  
+४. 4  
+५. 5  
+६. 6  
+७. 7  
+८. 8  
+९. 9  
+१०. 10  
+११. 11  
+१२. 12  
+
+</div>
+</details>
+
+<details>
+<summary>सन्दर्भाः / References</summary>
+<div class="prose-text" markdown="1">
+
+1. Pure rewrite.  
+2. No em dash.  
+3. No Oxford comma.  
+
+</div>
+</details>
+
+</div>
 
 <script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>

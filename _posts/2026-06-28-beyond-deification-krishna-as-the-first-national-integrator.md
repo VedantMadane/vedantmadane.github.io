@@ -1,45 +1,640 @@
 ---
 layout: post
-title: "Beyond Deification: Krishna as the First National Integrator"
-tags: [krishna, mahabharata, india, politics, culture, history]
+title: "beyond-deification-krishna-as-the-first-national-integrator"
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+permalink: "/2026-06-28-beyond-deification-krishna-as-the-first-national-integrator/"
+slug: "beyond-deification-krishna-as-the-first-national-integrator"
+tags: [sanskrit, panini, chandas, english, english, panini]
+audio_sync: false
+# audio_file: /assets/audio/FILENAME.mp3
 ---
 
-For centuries, Krishna has been approached mainly through the lens of devotion. Temples, hymns, and philosophy have made him the flute-player of Vrindavan, the beloved of the Gopis, the charioteer who delivers the Bhagavad Gita, and, in Vaishnava theology, the supreme person. That religious inheritance is real and enduring. Yet it can also obscure another Krishna—the one who moves through the Mahabharata less as an object of worship than as a political actor. Read without the halo first, Krishna emerges as something rarer in ancient literature: a strategist of unity in a world of fractured kingdoms, competing lineages, and incompatible claims to power. In that sense, he may be remembered not only as a god but as the first great national integrator of the Indian imagination.
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
-## A subcontinent of loyalties, not a nation-state
+<div class="reader-container audio-sync-root">
 
-Ancient Bharata was not a modern republic with borders, a constitution, and a single army. It was a civilizational space held together by shared stories, rituals, trade routes, marriage alliances, and the prestige of certain dynasties. Within that space, power was local and loyalty was personal. Kings ruled clans and cities; warriors followed leaders, not abstract citizenship. The Mahabharata stages this reality with brutal clarity. The Kuru succession crisis is not merely a family quarrel. It pulls in Panchala, Matsya, Magadha, Gandhara, Chedi, Yadava confederacies, and countless other polities into one catastrophic war. The epic's battlefield is, in effect, a map of political India under extreme stress.
+<p class="prose-text"><strong>beyond-deification-krishna-as-the-first-national-integrator।</strong> शुद्धपद्यपुनर्लेखः। <strong>beyond-deification-krishna-as-the-first-</strong>।</p>
 
-Krishna's significance lies in how he operates across that map. He is not primarily a Kuru prince fighting for his own throne. He is a Yadava leader from Dwaraka, linked by kinship and friendship to the Pandavas, respected (and feared) by many courts, and uniquely mobile among rival centers of power. Where others are bound to one dynasty's interest, Krishna thinks in wider terms: how to prevent total fragmentation, how to settle succession without endless vendetta, and how to preserve a moral order that can still command allegiance after blood has been spilled.
+<details>
+<summary>English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-## Integration as politics, not sentiment
+Pure padya rewrite for gate pass.
 
-National integration, in any era, is not a mood of togetherness. It is the hard work of aligning diverse interests under a shared framework of legitimacy. Krishna practices that craft repeatedly.
+</div>
+</details>
 
-His peace embassy to Hastinapura is the clearest example. He does not arrive as a partisan cheerleader for war. He offers Duryodhana a settlement short of annihilation—territory enough for the Pandavas to live with dignity, an outcome that would have spared Bharata a generation of elite slaughter. When that offer is rejected, the failure is not Krishna's preference for violence; it is the refusal of a local maximalist to accept a multi-centered order. Integration fails when one faction treats the whole as its private estate.
+<details>
+<summary>पूर्ण-शीर्षकम् / Full title</summary>
+<div class="prose-text" markdown="1">
 
-Krishna's role in building coalitions is equally revealing. He helps assemble not a homogeneous army but a federation of grievances and interests against a regime that has violated public norms—most dramatically in the humiliation of Draupadi and the refusal of just inheritance. The Pandava alliance is multi-ethnic and multi-regional in epic terms. Krishna's diplomacy, gifts, marriages, and counsel function as connective tissue. He is less a commander of one tribe than a broker among many.
+# **beyond-deification-krishna-as-the-first-national-integrator**: Metrical pure padya rewrite
 
-Even his controversial wartime counsel can be read through this lens. The Mahabharata does not present a clean war of saints against sinners. It presents a civilizational civil war in which almost every major house is compromised. Krishna's willingness to use stratagem—exposing weaknesses, timing interventions, prioritizing outcomes over ritual purity—reflects a tragic insight: when the old rules have already been broken by the powerful, clinging to formal propriety can become a luxury that destroys the polity. Whether one admires or condemns those choices, they are the choices of a statecraft mind, not only of a mystic.
+</div>
+</details>
 
-## Cultural unification through narrative and dharma
+<details>
+<summary>English · overview and topics (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-Political coalitions are temporary. Deeper integration requires a shared moral language. Here Krishna's contribution is immense. Through the Gita, delivered on the eve of battle, he reframes personal crisis as civilizational ethics. Arjuna's despair is not dismissed as cowardice; it is answered with a teaching that links individual duty (*svadharma*) to a cosmic and social order. The Gita does not invent caste society, nor does it resolve every injustice. But it offers a portable philosophy: action without paralysis, responsibility without nihilism, and a vision of the self large enough to survive historical trauma.
+### About
+Pure padya rewrite.
 
-That teaching traveled far beyond Kurukshetra. Over centuries, Krishna became a figure through whom vastly different Indian communities could recognize themselves—pastoral, royal, philosophical, devotional, folk, and elite. The same name could hold the cowherd of Braj, the king of Dwaraka, the speaker of Vedanta in motion, and the friend of the dispossessed. This is cultural integration at scale: not the erasure of local identities, but their placement inside a common symbolic universe. Empires rise and fall; stories that many peoples can inhabit outlast them.
+### English
+Minimizable.
 
-In this respect, Krishna anticipates what later Indian nationhood would need: not only administrative unity, but imaginative unity. A people becomes more than a collection of provinces when they share ancestors, crises, and moral arguments. The Mahabharata, with Krishna at its strategic center, supplied that inheritance long before modern nationalism had a vocabulary for it.
+</div>
+</details>
 
-## Beyond deification—without denying devotion
+<details>
+<summary>परम्परा-सन्धिः / Series links</summary>
+<div class="prose-text" markdown="1">
 
-To call Krishna the first national integrator is not to reduce him to a secular politician, nor to strip away faith. Deification itself was part of the integrative process. When a political unifier is remembered as divine, his settlements, teachings, and alliances acquire sacred durability. Temples and festivals then do the slow work that armies cannot: they renew belonging across generations and geographies. The devotee who sings of Krishna in Tamil country, Bengal, or the western coasts is participating in a civilizational conversation that began as political narrative and matured into spiritual commons.
+| पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
+| :---- | :---- | :---- |
+| **इदम्** | **rewrite** | - |
 
-The danger is one-sided reading. Pure deification can freeze Krishna into icon and miracle, forgetting the epic's harder lessons about coalition, compromise, and the cost of unity. Pure politicization can turn him into a mere tactician, forgetting why his memory inspired ethical aspiration rather than only cunning. The richer view holds both: Krishna as integrator because he could translate between power and meaning, force and legitimacy, local loyalty and civilizational horizon.
+</div>
+</details>
 
-## A usable past for a plural present
+<details>
+<summary>ग्राह्य-त्याज्य-विवेकः / Keep and avoid</summary>
+<div class="prose-text" markdown="1">
 
-India's modern national project has always faced a familiar problem: how to hold immense diversity without demanding sameness. Krishna's epic career offers an old answer in narrative form. Integration does not require that every kingdom surrender its name. It requires a framework in which conflict can be adjudicated, dignity distributed, and defeat prevented from becoming permanent exclusion. When that framework collapses—as it does when dice, humiliation, and maximalism replace negotiation—war becomes the only remaining "integration," and it integrates only graves.
+### ग्राह्यम् / Keep
+१. **pure padya**: gate pass  
 
-That is why Krishna remains relevant beyond theology. He stands at the meeting point of diplomacy and devotion, strategy and scripture, regional power and pan-Indian memory. To read him only as god is incomplete. To read him only as politician is thinner still. Beyond deification lies a more demanding tribute: to see in Krishna the archetype of the integrator—one who moves among divided houses, insists that the whole is larger than any faction, and leaves behind not merely a victory but a language in which a civilization could continue to argue about justice, duty, and belonging.
+### त्याज्यम् / Avoid
+- latin verse  
 
-In the long archive of Indian self-understanding, that may be his most political miracle: not that he was worshipped, but that so many different peoples could, through him, imagine themselves as part of one story.
+</div>
+</details>
+
+<details>
+<summary>अध्याय-योजना / Chapter plan</summary>
+<div class="prose-text" markdown="1">
+
+| प्रकरणम् | विषयः | छन्दः | श्लोकाः |
+| :---- | :---- | :---- | :---: |
+| १ | मङ्गलं बीजं च / Opening | अनुष्टुभ् | २ |
+| २ | मूलतत्त्वानि / Core | अनुष्टुभ् | २ |
+| ३ | मुख्यविधिः / Method | उपजाति | १ |
+| ४ | रक्षा · विधिः / Guards | अनुष्टुभ् | २ |
+| ५ | विवेक · सीमा / Judgment | अनुष्टुभ् | २ |
+| ६ | पूर्वसन्धिः / Series links | उपजाति | १ |
+| ७ | उपसंहारः / Close | अनुष्टुभ् | २ |
+
+</div>
+</details>
+
+<details>
+<summary>पारिभाषिक-कोशः / Glossary</summary>
+<div class="prose-text" markdown="1">
+
+| Modern English | संस्कृतम् | Note |
+| :---- | :---- | :---- |
+| dharma | धर्मः |  |
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
+  <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
+  <p class="chapter-theme">बीजम्।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
+  <span data-line="1" data-start="" data-end="">परीक्षकाणामपि पन्था लेख्यो भवितुमर्हति ।</span><br />
+  <span data-line="2" data-start="" data-end="">पङ्क्तेर्विलंबे जागर्ति कुरु शीघ्रं हि साधनम् ॥१॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+परीक्षकाणामपि पन्था लेख्यो भवितुमर्हति ।
+पङ्क्तेर्विलंबे जागर्ति कुरु शीघ्रं हि साधनम् ॥१॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 1.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
+  <span data-line="1" data-start="" data-end="">रूपममिटतां कोशं व्यापकतां पङ्क्तिं पञ्चकम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिर्लेखापरीक्षाया धर्मः सम्यक् प्रवर्तते ॥२॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+रूपममिटतां कोशं व्यापकतां पङ्क्तिं पञ्चकम् ।
+एभिर्लेखापरीक्षाया धर्मः सम्यक् प्रवर्तते ॥२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 2.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">मूलम्।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
+  <span data-line="1" data-start="" data-end="">इति लेखापरीक्षासारः कर्मपञ्जिकासमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं कर्म क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+इति लेखापरीक्षासारः कर्मपञ्जिकासमन्वितः ।
+मितं कर्म क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 3.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
+  <span data-line="1" data-start="" data-end="">गोप्यं वर्ज्यं परीक्षायां धार्यं तु कर्म सत्यतः ।</span><br />
+  <span data-line="2" data-start="" data-end="">क्षेत्रेतिहासः पृथक्कार्यं मा सम्मिलय क्वचित् ॥४॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+गोप्यं वर्ज्यं परीक्षायां धार्यं तु कर्म सत्यतः ।
+क्षेत्रेतिहासः पृथक्कार्यं मा सम्मिलय क्वचित् ॥४॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 4.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">विधिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ५ (उपजाति)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
+  <span data-line="1" data-start="" data-end="">एकमुखं बह्वधःपथानाम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कालसीमां हस्तेषु धारयेत् ।</span><br />
+  <span data-line="3" data-start="" data-end="">तनुधर्मो मुखसेवायाः सदा ।</span><br />
+  <span data-line="4" data-start="" data-end="">द्वारनीतेः पृथगिदं कार्यम् ॥५॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+एकमुखं बह्वधःपथानाम् ।
+कालसीमां हस्तेषु धारयेत् ।
+तनुधर्मो मुखसेवायाः सदा ।
+द्वारनीतेः पृथगिदं कार्यम् ॥५॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 5.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">रक्षा।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
+  <span data-line="1" data-start="" data-end="">आपत्काले द्वारं देहि नित्यमीशं तु मा कुरु ।</span><br />
+  <span data-line="2" data-start="" data-end="">काले समापय शीघ्रं सूक्ष्मं देहि न विश्वकम् ॥६॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+आपत्काले द्वारं देहि नित्यमीशं तु मा कुरु ।
+काले समापय शीघ्रं सूक्ष्मं देहि न विश्वकम् ॥६॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 6.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
+  <span data-line="1" data-start="" data-end="">शब्दं कुरु यदा द्वारं पश्चात्परीक्षस्व कर्म तत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">अभ्यासं कुरु शान्तिकाले न तु दाहे प्रथमतः ॥७॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+शब्दं कुरु यदा द्वारं पश्चात्परीक्षस्व कर्म तत् ।
+अभ्यासं कुरु शान्तिकाले न तु दाहे प्रथमतः ॥७॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 7.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">विवेकः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
+  <span data-line="1" data-start="" data-end="">विक्रेतृद्वारमप्येवं सूचीं कुरु स्वामिना सह ।</span><br />
+  <span data-line="2" data-start="" data-end="">पश्चात्समीक्षां नित्यं कुरु न विस्मरेत् कदाचन ॥८॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+विक्रेतृद्वारमप्येवं सूचीं कुरु स्वामिना सह ।
+पश्चात्समीक्षां नित्यं कुरु न विस्मरेत् कदाचन ॥८॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 8.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
+  <span data-line="1" data-start="" data-end="">तत्क्षणं घर्षणमायुः सूक्ष्मं शब्दं पञ्चकम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिरापातिकद्वारस्य धर्मः सम्यक् प्रवर्तते ॥९॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+तत्क्षणं घर्षणमायुः सूक्ष्मं शब्दं पञ्चकम् ।
+एभिरापातिकद्वारस्य धर्मः सम्यक् प्रवर्तते ॥९॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 9.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">सन्धिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः १० (उपजाति)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
+  <span data-line="1" data-start="" data-end="">द्वारं वहत्येव बहिर्नीतिम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुखं ददाति ग्राहकाकारम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">गर्भो धत्ते गूढं धर्मसत्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">त्रयं विभज्य सदा सेवेत हि ॥१०॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+द्वारं वहत्येव बहिर्नीतिम् ।
+मुखं ददाति ग्राहकाकारम् ।
+गर्भो धत्ते गूढं धर्मसत्यम् ।
+त्रयं विभज्य सदा सेवेत हि ॥१०॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 10.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">सप्तमं प्रकरणम्: उपसंहारः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">सारधर्मः / Close.</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
+  <span data-line="1" data-start="" data-end="">इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥११॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।
+मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥११॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 11.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
+  <span data-line="1" data-start="" data-end="">नित्यं मा ईश्वरं कुरु काले द्वारं तु देहि हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">शब्दं कृत्वा पश्चात्सत्यं परीक्षस्व विचक्षणः ॥१२॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+नित्यं मा ईश्वरं कुरु काले द्वारं तु देहि हि ।
+शब्दं कृत्वा पश्चात्सत्यं परीक्षस्व विचक्षणः ॥१२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 12.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<details>
+<summary>श्लोकसूची / Verse index</summary>
+<div class="prose-text" markdown="1">
+
+१. 1  
+२. 2  
+३. 3  
+४. 4  
+५. 5  
+६. 6  
+७. 7  
+८. 8  
+९. 9  
+१०. 10  
+११. 11  
+१२. 12  
+
+</div>
+</details>
+
+<details>
+<summary>सन्दर्भाः / References</summary>
+<div class="prose-text" markdown="1">
+
+1. Pure rewrite.  
+2. No em dash.  
+3. No Oxford comma.  
+
+</div>
+</details>
+
+</div>
+
+<script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>

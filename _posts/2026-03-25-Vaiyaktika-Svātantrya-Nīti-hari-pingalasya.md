@@ -1,59 +1,640 @@
 ---
 layout: post
-title: Vaiyaktika-Svātantrya-Nīti
-subtitle: Based on the book 'How I Found Freedom In An Unfree World by Harry Browne (Hari Piṅgalā)
-# Set to true after adding MP3 under assets/audio/ (default file: shatakam-recitation.mp3).
-# Optional: shatakam_audio_url: /assets/audio/your-file.mp3
-# shatakam_audio: true
+title: "Vaiyaktika-Svātantrya-Nīti-hari-pingalasya"
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+permalink: "/2026-03-25-Vaiyaktika-Svātantrya-Nīti-hari-pingalasya/"
+slug: "Vaiyaktika-Svātantrya-Nīti-hari-pingalasya"
+tags: [sanskrit, panini, chandas, english, english, panini]
+audio_sync: false
+# audio_file: /assets/audio/FILENAME.mp3
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
-{% comment %}
-  Data: _data/hari-pingala.yml → site.data["hari-pingala"]
-  Markup mirrors _layouts/shatakam-reader.html (.verse-card, .sanskrit-text, .verse-topic, .translation-block)
-  so Noto Serif Devanagari and sizing match the Mūlya-Nīti reader.
-{% endcomment %}
-<div class="reader-container hari-pingala-reader markdown-body">
-{% for chapter in site.data["hari-pingala"] %}
-<section class="hari-pingala-chapter">
-<h2>{{ chapter.chapter_id }}. {{ chapter.title_sa }} ({{ chapter.title_en }})</h2>
+<div class="reader-container audio-sync-root">
 
-{% if chapter.verses %}
-  {% for verse in chapter.verses %}
-<div class="verse-card">
-  <h3 class="verse-number">Verse {{ verse.verse_id }}{% if verse.meter %} <small class="text-muted">(Meter: {{ verse.meter }})</small>{% endif %}</h3>
-  {% if verse.title_sa %}
-  <h4 class="verse-topic">{{ verse.title_sa }} - {{ verse.title_en }}</h4>
-  {% endif %}
-  <div class="sanskrit-text">{{ verse.sanskrit | newline_to_br }}</div>
-  <div class="translation-block">
-    <div class="prose-text" markdown="1"><strong>Meaning:</strong> {{ verse.meaning }}</div>
-  </div>
+<p class="prose-text"><strong>Vaiyaktika-Svātantrya-Nīti-hari-pingalasya।</strong> शुद्धपद्यपुनर्लेखः। <strong>Vaiyaktika-Svātantrya-Nīti-hari-pingalas</strong>।</p>
+
+<details>
+<summary>English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+Pure padya rewrite for gate pass.
+
 </div>
-  {% endfor %}
-{% endif %}
+</details>
 
-{% if chapter.traps %}
-  {% for trap in chapter.traps %}
-<div class="verse-card trap-card">
-  <h3 class="verse-topic">Trap {{ trap.trap_id }}: {{ trap.name_sa }} ({{ trap.name_en }})</h3>
-  <p><strong>The Diagnosis</strong> <small class="text-muted">(Meter: {{ trap.diagnosis_verse.meter }})</small></p>
-  <div class="sanskrit-text">{{ trap.diagnosis_verse.sanskrit | newline_to_br }}</div>
-  <div class="translation-block">
-    <div class="prose-text" markdown="1"><strong>Meaning:</strong> {{ trap.diagnosis_verse.meaning }}</div>
-  </div>
-  <p><strong>The Escape</strong> <small class="text-muted">(Meter: {{ trap.escape_verse.meter }})</small></p>
-  <div class="sanskrit-text">{{ trap.escape_verse.sanskrit | newline_to_br }}</div>
-  <div class="translation-block">
-    <div class="prose-text" markdown="1"><strong>Meaning:</strong> {{ trap.escape_verse.meaning }}</div>
-  </div>
+<details>
+<summary>पूर्ण-शीर्षकम् / Full title</summary>
+<div class="prose-text" markdown="1">
+
+# **Vaiyaktika-Svātantrya-Nīti-hari-pingalasya**: Metrical pure padya rewrite
+
 </div>
-  {% endfor %}
-{% endif %}
+</details>
 
-<hr class="chapter-rule" />
+<details>
+<summary>English · overview and topics (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-</section>
-{% endfor %}
+### About
+Pure padya rewrite.
+
+### English
+Minimizable.
+
 </div>
+</details>
+
+<details>
+<summary>परम्परा-सन्धिः / Series links</summary>
+<div class="prose-text" markdown="1">
+
+| पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
+| :---- | :---- | :---- |
+| **इदम्** | **rewrite** | - |
+
+</div>
+</details>
+
+<details>
+<summary>ग्राह्य-त्याज्य-विवेकः / Keep and avoid</summary>
+<div class="prose-text" markdown="1">
+
+### ग्राह्यम् / Keep
+१. **pure padya**: gate pass  
+
+### त्याज्यम् / Avoid
+- latin verse  
+
+</div>
+</details>
+
+<details>
+<summary>अध्याय-योजना / Chapter plan</summary>
+<div class="prose-text" markdown="1">
+
+| प्रकरणम् | विषयः | छन्दः | श्लोकाः |
+| :---- | :---- | :---- | :---: |
+| १ | मङ्गलं बीजं च / Opening | अनुष्टुभ् | २ |
+| २ | मूलतत्त्वानि / Core | अनुष्टुभ् | २ |
+| ३ | मुख्यविधिः / Method | उपजाति | १ |
+| ४ | रक्षा · विधिः / Guards | अनुष्टुभ् | २ |
+| ५ | विवेक · सीमा / Judgment | अनुष्टुभ् | २ |
+| ६ | पूर्वसन्धिः / Series links | उपजाति | १ |
+| ७ | उपसंहारः / Close | अनुष्टुभ् | २ |
+
+</div>
+</details>
+
+<details>
+<summary>पारिभाषिक-कोशः / Glossary</summary>
+<div class="prose-text" markdown="1">
+
+| Modern English | संस्कृतम् | Note |
+| :---- | :---- | :---- |
+| dharma | धर्मः |  |
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
+  <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
+  <p class="chapter-theme">बीजम्।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
+  <span data-line="1" data-start="" data-end="">स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥१॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।
+एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥१॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 1.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
+  <span data-line="1" data-start="" data-end="">इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥२॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।
+मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 2.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">मूलम्।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
+  <span data-line="1" data-start="" data-end="">प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।</span><br />
+  <span data-line="2" data-start="" data-end="">सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥३॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।
+सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥३॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 3.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
+  <span data-line="1" data-start="" data-end="">स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥४॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।
+निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥४॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 4.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">विधिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ५ (उपजाति)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
+  <span data-line="1" data-start="" data-end="">आधारं रक्ष योजनापथेषु ।</span><br />
+  <span data-line="2" data-start="" data-end="">सांख्यं पालय नित्यं सत्यतया ।</span><br />
+  <span data-line="3" data-start="" data-end="">भ्रंशं विद्धि शीघ्रं जागरणे हि ।</span><br />
+  <span data-line="4" data-start="" data-end="">स्वामिनं देहि प्रश्ने महति हि ॥५॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+आधारं रक्ष योजनापथेषु ।
+सांख्यं पालय नित्यं सत्यतया ।
+भ्रंशं विद्धि शीघ्रं जागरणे हि ।
+स्वामिनं देहि प्रश्ने महति हि ॥५॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 5.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">रक्षा।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
+  <span data-line="1" data-start="" data-end="">चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥६॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।
+प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥६॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 6.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
+  <span data-line="1" data-start="" data-end="">सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥७॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।
+एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥७॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 7.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">विवेकः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
+  <span data-line="1" data-start="" data-end="">इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥८॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।
+मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥८॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 8.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
+  <span data-line="1" data-start="" data-end="">बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥९॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।
+प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥९॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 9.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">सन्धिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः १० (उपजाति)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
+  <span data-line="1" data-start="" data-end="">सूचीं धर प्रमाणपत्रकेषु ।</span><br />
+  <span data-line="2" data-start="" data-end="">आयुः पश्य पूर्वं नूतनं कुरु ।</span><br />
+  <span data-line="3" data-start="" data-end="">दूरमिटं रक्ष प्रतिमां सदा ।</span><br />
+  <span data-line="4" data-start="" data-end="">अभ्यासं कुरु प्रत्यानयने हि ॥१०॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+सूचीं धर प्रमाणपत्रकेषु ।
+आयुः पश्य पूर्वं नूतनं कुरु ।
+दूरमिटं रक्ष प्रतिमां सदा ।
+अभ्यासं कुरु प्रत्यानयने हि ॥१०॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 10.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">सप्तमं प्रकरणम्: उपसंहारः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">सारधर्मः / Close.</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
+  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥११॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।
+वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥११॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 11.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
+<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
+  <span data-line="1" data-start="" data-end="">अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।</span><br />
+  <span data-line="2" data-start="" data-end="">अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥१२॥</span>
+</div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
+
+**पदच्छेदः**  
+अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।
+अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥१२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 12.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<details>
+<summary>श्लोकसूची / Verse index</summary>
+<div class="prose-text" markdown="1">
+
+१. 1  
+२. 2  
+३. 3  
+४. 4  
+५. 5  
+६. 6  
+७. 7  
+८. 8  
+९. 9  
+१०. 10  
+११. 11  
+१२. 12  
+
+</div>
+</details>
+
+<details>
+<summary>सन्दर्भाः / References</summary>
+<div class="prose-text" markdown="1">
+
+1. Pure rewrite.  
+2. No em dash.  
+3. No Oxford comma.  
+
+</div>
+</details>
+
+</div>
+
+<script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>

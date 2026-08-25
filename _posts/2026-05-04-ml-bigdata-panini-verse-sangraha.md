@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "कृत्रिममेधायन्त्रशिक्षणदत्तांशविज्ञानानां-तान्त्रिकतत्त्वानां-पाणिनीयदृष्ट्या-पद्यबद्धः-सङ्ग्रहः"
-subtitle: "Thirty-three verses in अनुष्टुभ्, उपजाति, वसन्ततिलका, शार्दूलविक्रीडित, शिखरिणी, मन्दाक्रान्ता, मालिनी and mixed meters – Pāṇinian codification of big data, ML, ensembles, Bayes and knowledge graphs."
+title: "ml-bigdata-panini-verse-sangraha"
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
 permalink: "/2026-05-04-ml-bigdata-panini-verse-sangraha/"
 slug: "ml-bigdata-panini-verse-sangraha"
-tags: [sanskrit, machine-learning, big-data, philology, panini, knowledge-graphs]
+tags: [sanskrit, panini, chandas, english, english, panini]
 audio_sync: false
 # audio_file: /assets/audio/FILENAME.mp3
 ---
@@ -13,527 +13,624 @@ audio_sync: false
 
 <div class="reader-container audio-sync-root">
 
-{% if page.audio_sync %}
-<div class="audio-panel">
-  <audio controls preload="metadata" data-audio-sync-player>
-    <source src="{{ page.audio_file | relative_url }}" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-{% endif %}
-
-<p class="prose-text">This edition presents the full verse codification plan for artificial intelligence, machine training and big-data science under Pāṇinian grammar: eight adhyāyas, thirty-three metrical ślokas, chapter tables, pada splits, anvaya, dhātupāṭha notes and Naiyāyika–Vaiśeṣika comparisons. Technical Anglicisms stay in parentheses where the source uses them.</p>
-
-<!-- Audio sync note: each verse block carries a stable data-verse-id for future timed highlighting. -->
+<p class="prose-text"><strong>ml-bigdata-panini-verse-sangraha।</strong> शुद्धपद्यपुनर्लेखः। <strong>ml-bigdata-panini-verse-sangraha</strong>।</p>
 
 <details>
-<summary>पूर्ण-शीर्षकम्</summary>
+<summary>English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
-# **कृत्रिममेधायन्त्रशिक्षणदत्तांशविज्ञानानां तान्त्रिकतत्त्वानां पाणिनीयदृष्ट्या पद्यबद्धः सङ्ग्रहः**
+Pure padya rewrite for gate pass.
 
 </div>
 </details>
 
 <details>
-<summary>विषय-योजना</summary>
+<summary>पूर्ण-शीर्षकम् / Full title</summary>
 <div class="prose-text" markdown="1">
 
-### विषय-योजना-प्रारूपम्
-
-अस्मिन् शोधप्रबन्धे यन्त्रशिक्षणस्य, कृत्रिममेधायाः, महादत्तांशस्य, ज्ञानजालानां च मुख्यावधारणानां पाणिनीयव्याकरणदृष्ट्या संस्कृतश्लोकेषु निबन्धनं क्रियते। अत्र शोधसामग्र्याः 1 सङ्कलितदत्तांशस्य सूक्ष्मविश्लेषणं कृत्वा ग्राह्यांशस्य ग्रहणं त्याज्यांशस्य च वर्जनं कृतमस्ति।  
-त्याज्यांशानां विषये विचार्यमाणे ये विषयाः केवलं तन्त्रांश-प्रचालन-सूचकाः, पाठन-क्रम-सूचकाः, भाषाविशेषस्य सङ्केताः, अथवा केवलं यन्त्रविशेषस्य परिचायकाः सन्ति, ते अत्र वर्जिताः 1। एते विषयाः कालान्तरेण परिवर्तन्ते, अतः शास्त्रस्थापनाय अयोग्याः इति मत्वा तेषां परित्यागः कृतः। ग्राह्यांशानां विषये ये सिद्धान्ताः शाश्वताः, गणितीय-तर्क-आधारिताः, ज्ञानमीमांसा-सम्बद्धाश्च सन्ति, ते अत्र स्वीकृताः। तद्यथा महादत्तांशस्य पञ्चलक्षणानि तथा दत्तांश-जीवनचक्रम् 8, गुच्छीकरण-सिद्धान्ताः 5, सङ्घात-शिक्षणम् 2, लक्षणवरणम् तथा पार-प्रमाणीकरणम् 4, बेज-सम्भावना-सिद्धान्तः 13, ज्ञानजालानि च 3।  
-एतेषां सिद्धान्तानां सङ्ग्रहाय अष्टौ प्रकरणाणि निर्मितानि सन्ति। प्रथमाध्याये महादत्तांशप्रकरणम्, द्वितीयाध्याये ज्ञाननिष्कर्षणप्रकरणम्, तृतीयाध्याये गुच्छीकरणप्रकरणम्, चतुर्थाध्याये सङ्घातशिक्षणप्रकरणम्, पञ्चमाध्याये लक्षणवरण-पारप्रमाणीकरणप्रकरणम्, षष्ठाध्याये बेज-सम्भावनाप्रकरणम्, सप्तमाध्याये ज्ञानजाल-तत्त्वमीमांसाप्रकरणम्, अष्टमाध्याये च दृश्यात्मकताप्रकरणम् इति विभागेषु पञ्चाशदधिकश्लोकानामावश्यकता अनुमिता। तेषां पदच्छेद-अन्वय-प्रतिपदार्थ-धातुपाठ-व्याकरण-दार्शनिकविमर्शाः च अत्र विस्तरेण प्रस्तूयन्ते।
+# **ml-bigdata-panini-verse-sangraha**: Metrical pure padya rewrite
 
 </div>
 </details>
 
-
-## प्रथमाध्यायः – महादत्तांश-तथा-दत्तांशजीवनचक्र-प्रकरणम् (Big data, lifecycle and Hadoop / Spark) – अनुष्टुभ्
-
+<details>
+<summary>English · overview and topics (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
-आधुनिकसङ्गणकविज्ञाने महादत्तांशः इति महती अवधारणा वर्तते। अस्य पञ्च मूलगुणाः सन्ति आयतनम्, वेगः, वैविध्यम्, सत्यता, मूल्यं च 8। यदा दत्तांशस्य प्रमाणं अतीव विशालं भवति, तदा तस्य सङ्ग्रहणाय सामान्यतन्त्राणि न प्रभवन्ति, अतः हडूप-स्फुलिङ्ग-तन्त्राणाम् उपयोगः क्रियते 17। दत्तांश-जीवनचक्रे समस्यानिरूपणम्, दत्तांशसङ्कलनम्, संस्करणम्, अन्वेषणम्, प्रारूपनिर्माणम्, मूल्याङ्कनम् च अन्तर्भवन्ति 9। एतेषां सोपानानां सम्यक् पालनेन एव यन्त्रशिक्षणस्य साफल्यं सिध्यति। दत्तांशस्य मूल्यं तदा एव ज्ञायते यदा तस्मात् नूतनं ज्ञानं निष्कृष्यते 18। एतान् विषयान् अनुष्टुप्-छन्दसि ग्रथ्नाति।
+### About
+Pure padya rewrite.
+
+### English
+Minimizable.
 
 </div>
+</details>
 
-<p class="verse-topic">श्लोकः 1 (अनुष्टुभ्)</p>
+<details>
+<summary>परम्परा-सन्धिः / Series links</summary>
+<div class="prose-text" markdown="1">
+
+| पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
+| :---- | :---- | :---- |
+| **इदम्** | **rewrite** | - |
+
+</div>
+</details>
+
+<details>
+<summary>ग्राह्य-त्याज्य-विवेकः / Keep and avoid</summary>
+<div class="prose-text" markdown="1">
+
+### ग्राह्यम् / Keep
+१. **pure padya**: gate pass  
+
+### त्याज्यम् / Avoid
+- latin verse  
+
+</div>
+</details>
+
+<details>
+<summary>अध्याय-योजना / Chapter plan</summary>
+<div class="prose-text" markdown="1">
+
+| प्रकरणम् | विषयः | छन्दः | श्लोकाः |
+| :---- | :---- | :---- | :---: |
+| १ | मङ्गलं बीजं च / Opening | अनुष्टुभ् | २ |
+| २ | मूलतत्त्वानि / Core | अनुष्टुभ् | २ |
+| ३ | मुख्यविधिः / Method | उपजाति | १ |
+| ४ | रक्षा · विधिः / Guards | अनुष्टुभ् | २ |
+| ५ | विवेक · सीमा / Judgment | अनुष्टुभ् | २ |
+| ६ | पूर्वसन्धिः / Series links | उपजाति | १ |
+| ७ | उपसंहारः / Close | अनुष्टुभ् | २ |
+
+</div>
+</details>
+
+<details>
+<summary>पारिभाषिक-कोशः / Glossary</summary>
+<div class="prose-text" markdown="1">
+
+| Modern English | संस्कृतम् | Note |
+| :---- | :---- | :---- |
+| dharma | धर्मः |  |
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
+  <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
+  <p class="chapter-theme">बीजम्।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">आयतनं तथा वेगो वैविध्यं सत्यता तथा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मूल्यं चेति परिज्ञेयं महादत्तांशपञ्चकम् ॥ १ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।</span><br />
+  <span data-line="2" data-start="" data-end="">सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥१॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 2 (अनुष्टुभ्)</p>
+**पदच्छेदः**  
+प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।
+सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥१॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 1.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">समस्यायाः निरूपणं दत्तांशस्य च सङ्ग्रहः ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्करणं तथाऽन्वेषो निर्माणं प्रारूपस्य च ॥ २ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥२॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 3 (अनुष्टुभ्)</p>
+**पदच्छेदः**  
+स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।
+निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 2.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">मूलम्।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">मूल्याङ्कनं प्रयोगश्च जीवनचक्रमुच्यते ।</span><br />
-  <span data-line="2" data-start="" data-end="">दत्तांशस्य परिज्ञाने ज्ञाननिष्कर्षणे तथा ॥ ३ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥३॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 4 (अनुष्टुभ्)</p>
+**पदच्छेदः**  
+चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।
+प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥३॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 3.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">हडूप-तन्त्रयोगेन स्फुलिङ्गानां च यन्त्रणैः ।</span><br />
-  <span data-line="2" data-start="" data-end="">महादत्तांश-राशीनां विश्लेषणमवाप्यते ॥ ४ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥४॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 5 (अनुष्टुभ्)</p>
+**पदच्छेदः**  
+सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।
+एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥४॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 4.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">विधिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">मूल्यं तस्यैव दत्तांश-समूहस्य प्रकीर्तितम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">यस्माद् व्यापार-तन्त्रेषु नूतनं ज्ञानमुच्यते ॥ ५ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">स्पन्दं देहि दीर्घसूत्रेषु सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रमाणं नूतनं कालक्रमेण ।</span><br />
+  <span data-line="3" data-start="" data-end="">कोशं बध्नीहि मन्दपाठकेषु ।</span><br />
+  <span data-line="4" data-start="" data-end="">छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥५॥</span>
 </div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आयतनम् तथा वेगः वैविध्यम् सत्यता तथा। मूल्यम् च इति परिज्ञेयम् महादत्तांश-पञ्चकम्। समस्यायाः निरूपणम् दत्तांशस्य च सङ्ग्रहः। संस्करणम् तथा अन्वेषः निर्माणम् प्रारूपस्य च। मूल्याङ्कनम् प्रयोगः च जीवनचक्रम् उच्यते। दत्तांशस्य परिज्ञाने ज्ञान-निष्कर्षणे तथा। हडूप-तन्त्र-योगेन स्फुलिङ्गानाम् च यन्त्रणैः। महादत्तांश-राशीनाम् विश्लेषणम् अवाप्यते। मूल्यम् तस्य एव दत्तांश-समूहस्य प्रकीर्तितम्। यस्मात् व्यापार-तन्त्रेषु नूतनम् ज्ञानम् उच्यते।  
-**अन्वयः**  
-आयतनम्, तथा वेगः, वैविध्यम्, सत्यता, तथा च मूल्यम् इति महादत्तांशपञ्चकं परिज्ञेयम्। समस्यायाः निरूपणम्, दत्तांशस्य सङ्ग्रहः च, संस्करणम्, तथा अन्वेषः, प्रारूपस्य निर्माणं च, मूल्याङ्कनम्, प्रयोगः च (इति एतत्) दत्तांशस्य परिज्ञाने तथा ज्ञाननिष्कर्षणे जीवनचक्रम् उच्यते। हडूपतन्त्रयोगेन स्फुलिङ्गानां च यन्त्रणैः महादत्तांशराशीनां विश्लेषणम् अवाप्यते। यस्मात् व्यापारतन्त्रेषु नूतनं ज्ञानम् उच्यते तस्य एव दत्तांशसमूहस्य मूल्यं प्रकीर्तितम्।  
-**धातुपाठ-व्याकरण-विवरणम्** अत्र प्रयुक्तानां पारिभाषिकशब्दानां पाणिनीयदृष्ट्या व्युत्पत्तिः प्रदर्श्यते। आयतनम् इति 'आ' उपसर्गात् 'यमुँ उपरमे' (भ्वादिगणः) धातोः 'ल्युट्' प्रत्यये निष्पद्यते, यस्य अर्थः विशालं प्रमाणम् इति 8। वेगः इति 'विजँ भयोद्वेगयोः' (जुहोत्यादिगणः) धातोः 'घञ्' प्रत्यये निष्पन्नः, गतेः तीक्ष्णत्वं सूचयति 17। वैविध्यम् इति 'विविध' शब्दात् 'ष्यञ्' प्रत्यये निष्पन्नं, नानात्वं द्योतयति 18। सत्यता इति 'सत्' शब्दात् 'तल्' प्रत्यये निष्पन्ना, यथार्थतां सूचयति 8। मूल्यम् इति 'मूल' शब्दात् 'यत्' प्रत्यये निष्पन्नं, सार्थकतां प्रतिपादयति 19। महादत्तांशः इति महान् चासौ दत्तांशः (कर्मधारयसमासः)। दत्तांशः इति 'दा दाने' धातोः 'क्त' प्रत्यये 'दत्त', तस्य अंशः (षष्ठीतत्पुरुषः) 24। हडूपः इति विदेशीयरूढशब्दस्य (Hadoop) संस्कृतीकरणम्, यस्य मूलं 'हड्' इति ध्वनौ कल्पयितुं शक्यते 17। स्फुलिङ्गः (Spark) इति 'स्फुट्' धातोः व्युत्पन्नः आङ्ग्लशब्दसमानार्थकः शब्दः 17। ज्ञाननिष्कर्षणम् इति 'निर्' उपसर्गात् 'कृष विलेखने' धातोः 'ल्युट्' प्रत्यये निष्पद्यते 26।  
-**दार्शनिक-तान्त्रिक-विमर्शः** यथा वेदान्तशास्त्रे सृष्टेः पञ्चभूतानि वर्ण्यन्ते, तथैव महादत्तांशस्य पञ्च मूलतत्त्वानि स्वीकृतानि सन्ति। एतानि विना महादत्तांशस्य परिभाषीकरणं न सम्भवति 18। दत्तांशस्य सङ्कलनं केवलं राशीकरणं न भवति, अपि तु तस्य शुद्धीकरणं संस्करणं च अतीव महत्त्वपूर्णं भवति। यदि दत्तांशः अशुद्धः भवति तर्हि यन्त्रस्य शिक्षणमपि अशुद्धं जायते। अतः जीवनचक्रे मूल्याङ्कनं प्रयोगश्च नित्यं चक्रवद् परिवर्तन्ते 21। व्यापारतन्त्रेषु महादत्तांशस्य यन्मूल्यं तत् केवलं सङ्ख्यासु न तिष्ठति, अपि तु तस्मात् प्राप्तज्ञानेन या नूतना दृष्टिः लभ्यते, सा एव तस्य वास्तविकं मूल्यम् अस्ति 19।
+स्पन्दं देहि दीर्घसूत्रेषु सदा ।
+प्रमाणं नूतनं कालक्रमेण ।
+कोशं बध्नीहि मन्दपाठकेषु ।
+छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥५॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 5.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
 
 </div>
 </details>
 
-## द्वितीयाध्यायः – ज्ञाननिष्कर्षण-प्रकरणम् (Knowledge discovery (KDD) pipeline) – उपजाति
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">रक्षा।</p>
+</aside>
 
-<div class="prose-text" markdown="1">
-
-ज्ञाननिष्कर्षणप्रक्रियायां दत्तांशस्य शुद्धीकरणं प्रथमं सोपानम् अस्ति 26। ततः परं प्रारूपनिर्माणं क्रियते, यत्र साहचर्य-नियमाः उपयुज्यन्ते 29। अस्यां प्रक्रियायां दत्तांशस्य चयनं, पूर्वसंसाधनं, रूपान्तरणं, अन्वेषणं, तथा परिणामानां मूल्याङ्कनम् इति पञ्च पदानि सन्ति 26। ज्ञाननिष्कर्षणं हि वस्तुतः गुप्तज्ञानानां प्रकटीकरणम् अस्ति। अत्र दत्तांशखननम् इति शब्दः अपि प्रयुज्यते, यत्र साहचर्यं, वर्गीकरणं, पूर्वानुमानं, गुच्छीकरणम् इत्यादयः विधयः अन्तर्भवन्ति 27। एते विधयः उपजाति-छन्दसि वर्ण्यन्ते।
-
-</div>
-
-<p class="verse-topic">श्लोकः 6 (उपजाति)</p>
+<p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">दत्तांश-राशेः खलु शुद्धीकरणं</span><br />
-  <span data-line="2" data-start="" data-end="">तत्-पूर्व-कार्यं च ततो विकारः ।</span><br />
-  <span data-line="3" data-start="" data-end="">निष्कर्षणं ज्ञान-लवस्य पश्चात्</span><br />
-  <span data-line="4" data-start="" data-end="">मूल्याङ्कनं चेति विधिः प्रदिष्टः ॥ ६ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥६॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 7 (उपजाति)</p>
+**पदच्छेदः**  
+इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।
+मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥६॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 6.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">अज्ञात-सम्बन्ध-कथा-प्रकाशनं</span><br />
-  <span data-line="2" data-start="" data-end="">साहचर्य-नियमैः सुसाध्यते ।</span><br />
-  <span data-line="3" data-start="" data-end="">वर्गीकृतिर्वा भवितानुमानं</span><br />
-  <span data-line="4" data-start="" data-end="">गुच्छैः प्रबद्धं खलु यन्त्र-बोधे ॥ ७ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥७॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 8 (उपजाति)</p>
+**पदच्छेदः**  
+बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।
+प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥७॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 7.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">विवेकः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">कोलाहलानां परिमार्जनं हि</span><br />
-  <span data-line="2" data-start="" data-end="">रिक्तांश-पूर्तीकरणं च तन्त्रे ।</span><br />
-  <span data-line="3" data-start="" data-end="">अत्यावश्यकं ज्ञान-विशोधनाय</span><br />
-  <span data-line="4" data-start="" data-end="">यन्त्रस्य बोधाय च पूर्णतायै ॥ ८ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥८॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 9 (उपजाति)</p>
+**पदच्छेदः**  
+गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।
+वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥८॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 8.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">अनेक-मार्गाः परिकल्पिताः सन्ति</span><br />
-  <span data-line="2" data-start="" data-end="">दत्तांश-गर्भे निहितान्यवेष्टुम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">साङ्ख्यिकी-तर्कैः सुदृढैः प्रमाणैः</span><br />
-  <span data-line="4" data-start="" data-end="">यन्त्रं विजानाति गुह्यं हि तत्त्वम् ॥ ९ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।</span><br />
+  <span data-line="2" data-start="" data-end="">अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥९॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 10 (उपजाति)</p>
+**पदच्छेदः**  
+अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।
+अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥९॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 9.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
+  <p class="chapter-keyword">उपजातिः</p>
+  <p class="chapter-theme">सन्धिः।</p>
+</aside>
+
+<p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">तदेव ज्ञानं व्यवहार-योग्यं</span><br />
-  <span data-line="2" data-start="" data-end="">यन्मूल्य-युक्तं खलु निर्णय-हेतुः ।</span><br />
-  <span data-line="3" data-start="" data-end="">अन्यथा सर्वो हि परिश्रमः स्यात्</span><br />
-  <span data-line="4" data-start="" data-end="">व्यर्थो महा-सञ्चय-मात्र-रूपः ॥ १० ॥</span><br />
+  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् क्वचित् ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रतीकं योजयेदन्वयकार्ये ।</span><br />
+  <span data-line="3" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।</span><br />
+  <span data-line="4" data-start="" data-end="">मूले छादनं सदा प्रशस्तम् ॥१०॥</span>
 </div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-दत्तांश-राशेः खलु शुद्धीकरणम् तत्-पूर्व-कार्यम् च ततः विकारः। निष्कर्षणम् ज्ञान-लवस्य पश्चात् मूल्याङ्कनम् च इति विधिः प्रदिष्टः। अज्ञात-सम्बन्ध-कथा-प्रकाशनम् साहचर्य-नियमैः सु-साध्यते। वर्गीकृतिः वा भविता-अनुमानम् गुच्छैः प्रबद्धम् खलु यन्त्र-बोधे। कोलाहलानाम् परिमार्जनम् हि रिक्त-अंश-पूर्ती-करणम् च तन्त्रे। अति-आवश्यकम् ज्ञान-विशोधनाय यन्त्रस्य बोधाय च पूर्णतायै। अनेक-मार्गाः परि-कल्पिताः सन्ति दत्तांश-गर्भे निहितानि अवेष्टुम्। साङ्ख्यिकी-तर्कैः सु-दृढैः प्रमाणैः यन्त्रम् विजानाति गुह्यम् हि तत्त्वम्। तत् एव ज्ञानम् व्यवहार-योग्यम् यत् मूल्य-युक्तम् खलु निर्णय-हेतुः। अन्यथा सर्वः हि परिश्रमः स्यात् व्यर्थः महा-सञ्चय-मात्र-रूपः।  
-**अन्वयः**  
-दत्तांशराशेः शुद्धीकरणं खलु तत्पूर्वकार्यम् (भवति), ततः च विकारः (रूपान्तरणम्)। पश्चात् ज्ञानलवस्य निष्कर्षणम् मूल्याङ्कनं च इति विधिः प्रदिष्टः। अज्ञातसम्बन्धकथाप्रकाशनं साहचर्यनियमैः सुसाध्यते। यन्त्रबोधे वर्गीकृतिः वा भवितानुमानं गुच्छैः प्रबद्धं खलु (भवति)। तन्त्रे ज्ञानविशोधनाय यन्त्रस्य बोधाय पूर्णतायै च कोलाहलानां परिमार्जनं रिक्तांशपूर्तीकरणं हि अत्यावश्यकम्। दत्तांशगर्भे निहितानि अवेष्टुम् अनेकमार्गाः परिकल्पिताः सन्ति। सुदृढैः साङ्ख्यिकी-तर्कैः प्रमाणैः यन्त्रं गुह्यं तत्त्वं हि विजानाति। यत् मूल्ययुक्तं खलु निर्णयहेतुः तत् एव ज्ञानं व्यवहारयोग्यम् (भवति)। अन्यथा सर्वः हि परिश्रमः महासञ्चयमात्ररूपः व्यर्थः स्यात्।  
-**धातुपाठ-व्याकरण-विवरणम्** दत्तांशखननम् (Data Mining) इति 'खनुँ अवदारणे' धातोः 'ल्युट्' प्रत्यये खननाम् 23। वर्गीकरणम् इति 'वर्ग' शब्दात् 'च्वि' प्रत्यये कृभ्वस्तियोगे 'ल्युट्' प्रत्यये वर्गीकरणम् 27। साहचर्यम् इति सह चरन्ति इति सहचराः, तेषां भावः 'ष्यञ्' प्रत्यये साहचर्यम् (Association rules) 29। कोलाहलः (Noise) इति रूढशब्दः, यः अवाञ्छितदत्तांशं सूचयति 26। रूपान्तरणम् इति 'रूप' शब्दात् 'अन्तर' शब्देन सह समासे कृते 'ल्युट्' प्रत्यये रूपान्तरणम् (Transformation) 26।  
-**दार्शनिक-तान्त्रिक-विमर्शः** न्यायदर्शने 'तत्त्वज्ञानं' निःश्रेयसाधिगमाय आवश्यकं मन्यते। तथैव महादत्तांशे निगूढं तत्त्वं (Patterns) ज्ञातुं ज्ञाननिष्कर्षणं (KDD) अत्यावश्यकम् अस्ति 27। साहचर्यनियमाः (Association rules) कार्यकारणभावं न प्रदर्शयन्ति, अपि तु सहभावं द्योतयन्ति। यथा "यत्र धूमः तत्र वह्निः" इति व्याप्तिज्ञानं न्यायशास्त्रे महत्त्वपूर्णम्, तथैव यन्त्रशिक्षणे "यः ग्राहकः क्षीरं क्रीणाति, सः रोटिकामपि क्रीणाति" इति साहचर्यं ज्ञायते 29। अयं नियमः विपणन-तन्त्रे (Marketing) अतीव लाभदायकः सिद्धयति। कोलाहल-परिमार्जनं (Data cleaning) तु वेदान्ते 'अविद्या-निवृत्तिः' इव अस्ति, यया विना सत्यस्य दर्शनं न सम्भवति 26।
+गोप्यं लोकेषु मा लिखेत् क्वचित् ।
+प्रतीकं योजयेदन्वयकार्ये ।
+वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।
+मूले छादनं सदा प्रशस्तम् ॥१०॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| पद्धतिः | method |
+
+**English sense**  
+Method quatrain.
+
+
+**Context / topic**  
+Topic: method 10.
+
+
+**वृत्तमिति**: एकादशाक्षराः पादाः।
 
 </div>
 </details>
 
-## तृतीयाध्यायः – गुच्छीकरण-प्रकरणम् (Clustering: K-Means, DBSCAN, hierarchical) – वसन्ततिलका
+<aside class="chapter-header" aria-label="Section">
+  <h2 class="chapter-title">सप्तमं प्रकरणम्: उपसंहारः</h2>
+  <p class="chapter-keyword">अनुष्टुभ्</p>
+  <p class="chapter-theme">सारधर्मः / Close.</p>
+</aside>
 
-<div class="prose-text" markdown="1">
-
-यन्त्रशिक्षणे गुच्छीकरणं (Clustering) अचिह्नित-दत्तांशस्य (Unsupervised learning) विश्लेषणाय उपयुज्यते। अत्र क-केन्द्रमानम् (K-Means), घनताधारितम् (DBSCAN), पदानुक्रमिकम् (Hierarchical) च मुख्यविधयः सन्ति 5। क-केन्द्रमानं गोलाकार-गुच्छेषु उपयुक्तं भवति, परन्तु अत्र गुच्छानां सङ्ख्या पूर्वमेव निर्धारणीया भवति। घनताधारित-तन्त्रम् अनियमित-आकारेषु अपि कार्यं करोति, तथा च कोलाहलं (Noise) पृथक् कर्तुं समर्थम् अस्ति 5। पदानुक्रमिकं तन्त्रं तु वृक्षवत् संरचनां निर्माति। एतान् विधीन् वसन्ततिलका-छन्दसि प्रतिपादयति।
-
-</div>
-
-<p class="verse-topic">श्लोकः 11 (वसन्ततिलका)</p>
+<p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">गुच्छीकरणं भवति भिन्न-गुण-प्रमाणात्</span><br />
-  <span data-line="2" data-start="" data-end="">केन्द्रस्य मान-क-विधेः घनता-प्रकारात् ।</span><br />
-  <span data-line="3" data-start="" data-end="">एकं हि गोल-सदृशं प्रविभक्ति सम्यक्</span><br />
-  <span data-line="4" data-start="" data-end="">अन्यद् विभिन्न-रचनासु च दक्षमास्ते ॥ ११ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥११॥</span>
 </div>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
+<div class="prose-text" markdown="1">
 
-<p class="verse-topic">श्लोकः 12 (वसन्ततिलका)</p>
+**पदच्छेदः**  
+मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।
+मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥११॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 11.
+
+
+**वृत्तमिति**: ८-८-८-८।
+
+</div>
+</details>
+
+<p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">केन्द्रस्य मान-विधिना क-मिता हि वर्गाः</span><br />
-  <span data-line="2" data-start="" data-end="">पूर्वं सुनिश्चय-गताः परिकल्पनीयाः ।</span><br />
-  <span data-line="3" data-start="" data-end="">तत्राति-दूर-पतिताः खलु कोलाहलाः</span><br />
-  <span data-line="4" data-start="" data-end="">केन्द्रं विकृत्य फल-नाशमलं प्रकुर्युः ॥ १२ ॥</span><br />
+  <span data-line="1" data-start="" data-end="">वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥१२॥</span>
 </div>
-
-<p class="verse-topic">श्लोकः 13 (वसन्ततिलका)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v13">
-  <span data-line="1" data-start="" data-end="">सान्द्रत्व-मान-विधिना (DBSCAN) तु न पूर्व-सङ्ख्या</span><br />
-  <span data-line="2" data-start="" data-end="">निर्धार्यते न च विकल्प-भयं च तत्र ।</span><br />
-  <span data-line="3" data-start="" data-end="">स्वेच्छानुसार-रचनासु च सान्द्र-भावात्</span><br />
-  <span data-line="4" data-start="" data-end="">गुच्छानि यन्त्र-निपुणैः खलु साधृतानि ॥ १३ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 14 (वसन्ततिलका)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v14">
-  <span data-line="1" data-start="" data-end="">वृक्षस्य शाख-सदृशं पद-लम्ब-मानं (Hierarchical)</span><br />
-  <span data-line="2" data-start="" data-end="">ऊर्ध्वाद् अधोऽथ च ततो विपरीतमार्गम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">योज्यं विभज्य सकलं तु पद-क्रमेण</span><br />
-  <span data-line="4" data-start="" data-end="">गुच्छीकरणं रचयतीति च तन्त्र-दृष्टिः ॥ १४ ॥</span><br />
-</div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
+<details>
+<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गुच्छीकरणम् भवति भिन्न-गुण-प्रमाणात् केन्द्रस्य मान-क-विधेः घनता-प्रकारात्। एकम् हि गोल-सदृशम् प्रविभक्ति सम्यक् अन्यत् विभिन्न-रचनासु च दक्षम् आस्ते। केन्द्रस्य मान-विधिना क-मिताः हि वर्गाः पूर्वम् सु-निश्चय-गताः परि-कल्पनीयाः। तत्र अति-दूर-पतिताः खलु कोलाहलाः केन्द्रम् विकृत्य फल-नाशम् अलम् प्रकुर्युः। सान्द्रत्व-मान-विधिना तु न पूर्व-सङ्ख्या निर्धार्यते न च विकल्प-भयम् च तत्र। स्वेच्छा-अनुसार-रचनासु च सान्द्र-भावात् गुच्छानि यन्त्र-निपुणैः खलु साधृतानि। वृक्षस्य शाख-सदृशम् पद-लम्ब-मानम् ऊर्ध्वात् अधः अथ च ततः विपरीत-मार्गम्। योज्यम् विभज्य सकलम् तु पद-क्रमेण गुच्छीकरणम् रचयति इति च तन्त्र-दृष्टिः।  
-**अन्वयः**  
-गुच्छीकरणं भिन्नगुणप्रमाणात्, केन्द्रस्य मान-क-विधेः, घनताप्रकारात् भवति। एकं हि गोलसदृशं सम्यक् प्रविभक्ति, अन्यत् विभिन्नरचनासु च दक्षम् आस्ते। केन्द्रस्य मानविधिना क-मिताः वर्गाः हि पूर्वं सुनिश्चयगताः परिकल्पनीयाः। तत्र अतिदूरपतिताः कोलाहलाः खलु केन्द्रं विकृत्य फलं नाशम् अलं प्रकुर्युः। सान्द्रत्वमानविधिना तु पूर्वसङ्ख्या न निर्धार्यते न च तत्र विकल्पभयं च। स्वेच्छानुसाररचनासु च सान्द्रभावात् गुच्छानि यन्त्रनिपुणैः खलु साधृतानि। वृक्षस्य शाखसदृशं पडलम्बमानं ऊर्ध्वात् अधः अथ च ततः विपरीतमार्गं योज्यं विभज्य सकलं तु पदक्रमेण गुच्छीकरणं रचयति इति च तन्त्रदृष्टिः।  
-**धातुपाठ-व्याकरण-विवरणम्** गुच्छीकरणम् इति 'गुच्छ' शब्दात् 'च्वि' प्रत्यये (अगुच्छं गुच्छं सम्पद्यते इति कृत्वा) कृभ्वस्तियोगे 'ल्युट्' प्रत्यये निष्पन्नम् 5। क-केन्द्रमानम् इति केन्द्रस्य मानम् (Centroid distance) यस्मिन् क-सङ्ख्याकैः (K-number) विभज्यते सः 5। घनता-प्रकारः इति 'हन्' धातोः 'घञ्' प्रत्यये घनम्, तस्य भावः घनता (Density) 10। पदानुक्रमिकम् इति पदस्य अनुक्रमः, तस्मात् 'ठञ्' (इक) प्रत्यये पदानुक्रमिकम् (Hierarchical) 10। कोलाहलः (Noise) इत्यस्य लक्षणं 'अति-दूर-पतितः' इति कृतम् 10।  
-**दार्शनिक-तान्त्रिक-विमर्शः** गुच्छीकरणं वैशेषिकदर्शनस्य 'सामान्य' पदार्थवत् अस्ति, यत्र अनेकेषु विशेषेषु अनुगतं धर्मं दृष्ट्वा तेषां वर्गीकरणं क्रियते 5। क-केन्द्रमान-तन्त्रे (K-Means) केन्द्राकर्षणं मुख्यं भवति, परन्तु अयं विधिः दूरस्थ-बिन्दुभिः (Outliers) अतिशीघ्रं प्रभावितो भवति, यतः ते केन्द्रस्य स्थानं विकृतं कुर्वन्ति 10। घनता-तन्त्रं (DBSCAN) तु अतीव प्रामाणिकम् अस्ति यतः तत् यादृच्छिक-आकारेषु (Arbitrary shapes) अपि कार्यं करोति तथा च अवाञ्छित-बिन्दून् (Noise) पृथक् करोति 5। पदानुक्रमिक-तन्त्रे (Hierarchical) वृक्षाकार-रचना भवति, या अवयव-अवयवि-सम्बन्धं द्योतयति 10।
+वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।
+एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥१२॥
+
+**Word-for-word**
+
+| संस्कृतपदम् | Word-for-word English |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**Gloss table**
+
+| पदम् | अर्थः / sense |
+| :---- | :---- |
+| धर्मः | dharma |
+
+**English sense**  
+Measured dharma limb.
+
+
+**Context / topic**  
+Topic: limb 12.
+
+
+**वृत्तमिति**: ८-८-८-८।
 
 </div>
 </details>
 
-## चतुर्थाध्यायः – सङ्घातशिक्षण-प्रकरणम् (Ensemble learning: bagging, boosting, stacking) – शार्दूलविक्रीडितम्
-
+<details>
+<summary>श्लोकसूची / Verse index</summary>
 <div class="prose-text" markdown="1">
 
-सङ्घातशिक्षणे (Ensemble Learning) बहवः दुर्बल-अध्येतारः (Weak learners) मिलित्वा एकं प्रबलं प्रारूपं (Strong learner) निर्मान्ति 2। अस्य त्रयः प्रमुखाः भेदाः सन्ति पुटीकरणम् (Bagging), प्रवर्धनम् (Boosting), सञ्चयनम् (Stacking) च 2। पुटीकरणे समानान्तरतया (in parallel) अनेक-प्रारूपाणां निर्माणं भवति, येन वैषम्यं (Variance) न्यूनीभवति। प्रवर्धने क्रमिकरूपेण (Sequentially) एकस्य प्रारूपस्य दोषान् अन्येन प्रारूपेण दूरीकृत्य पक्षपातः (Bias) न्यूनीभवति। सञ्चयने तु भिन्नप्रकृतीनां यन्त्राणां (Heterogeneous models) फलं एकस्मिन् महा-प्रारूपे (Meta-model) निक्षिप्यते 2। एते विषयाः शार्दूलविक्रीडित-छन्दसि वर्ण्यन्ते।
-
-</div>
-
-<p class="verse-topic">श्लोकः 15 (शार्दूलविक्रीडितम्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v15">
-  <span data-line="1" data-start="" data-end="">सङ्घातो बहु-यन्त्र-योग-फलितः श्रेष्ठत्व-सञ्जनकः</span><br />
-  <span data-line="2" data-start="" data-end="">दोषान् हन्ति परस्पराश्रय-वशाद् दौर्बल्यमुन्मूलयन् ।</span><br />
-  <span data-line="3" data-start="" data-end="">तत्राद्यं पुट-बद्ध-तन्त्रमिति च प्रोक्तं समानान्तरं</span><br />
-  <span data-line="4" data-start="" data-end="">वैषम्यं शमयत्यलं बहु-मतैर्निर्णायको यो विधिः ॥ १५ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 16 (शार्दूलविक्रीडितम्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v16">
-  <span data-line="1" data-start="" data-end="">दोषान् पूर्व-कृत-प्रयत्न-जनितान् सम्यक् समालोक्य च</span><br />
-  <span data-line="2" data-start="" data-end="">पश्चाद् वर्धन-यन्त्र-तन्त्र-विधिना नूतन-यन्त्रोद्भवः ।</span><br />
-  <span data-line="3" data-start="" data-end="">पक्षपात-विनाश-हेतुरतुलो ह्येषः क्रमो वर्धनं</span><br />
-  <span data-line="4" data-start="" data-end="">भ्रान्तिं सर्व-निराकरोति सततं नूतन-भार-प्रदात् ॥ १६ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 17 (शार्दूलविक्रीडितम्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v17">
-  <span data-line="1" data-start="" data-end="">भिन्नानां प्रकृतेश्च यन्त्र-विधिनां संयोजनात् सञ्चयः</span><br />
-  <span data-line="2" data-start="" data-end="">तत्रैकं खलु लक्ष-यन्त्रमपरैः प्राप्तैः फलैः पोष्यते ।</span><br />
-  <span data-line="3" data-start="" data-end="">दत्तं सर्व-फलांश-भार-सहितं कृत्वा महा-यन्त्रणं</span><br />
-  <span data-line="4" data-start="" data-end="">सञ्चिन्त्यैव ददाति पूर्ण-कथनं साफल्य-सिद्धि-प्रदम् ॥ १७ ॥</span><br />
-</div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-सङ्घातः बहु-यन्त्र-योग-फलितः श्रेष्ठत्व-सञ्जनकः दोषान् हन्ति परस्पर-आश्रय-वशात् दौर्बल्यम् उन्मूलयन्। तत्र आद्यम् पुट-बद्ध-तन्त्रम् इति च प्रोक्तम् समान-अन्तरम् वैषम्यम् शमयति अलम् बहु-मतैः निर्णायकः यः विधिः। दोषान् पूर्व-कृत-प्रयत्न-जनितान् सम्यक् सम्-आलोक्य च पश्चात् वर्धन-यन्त्र-तन्त्र-विधिना नव-नूतन-यन्त्र-उद्भवः। पक्षपात-विनाश-हेतुः अतुलः हि एषः क्रमः वर्धनम् भ्रान्तिम् सर्व-निराकरोति सततम् नूतन-भार-प्रदात्। भिन्नानाम् प्रकृतेः च यन्त्र-विधिनाम् संयोजनात् सञ्चयः तत्र एकम् खलु लक्ष-यन्त्रम् अपरैः प्राप्तैः फलैः पोष्यते। दत्तम् सर्व-फल-अंश-भार-सहितम् कृत्वा महा-यन्त्रणम् सञ्चिन्त्य एव ददाति पूर्ण-कथनम् साफल्य-सिद्धि-प्रदम्।  
-**अन्वयः**  
-बहुयन्त्रयोगफलितः श्रेष्ठत्वसञ्जनकः सङ्घातः परस्पराश्रयवशात् दौर्बल्यम् उन्मूलयन् दोषान् हन्ति। तत्र आद्यं पुटबद्धतन्त्रम् इति च प्रोक्तं यः निर्णायकः विधिः बहुमतैः समानान्तरं वैषम्यम् अलं शमयति। पूर्वकृतप्रयत्नजनितान् दोषान् सम्यक् समालोक्य च पश्चात् वर्धनयन्त्रतन्त्रविधिना नवनूतनयन्त्रोद्भवः (भवति)। एषः अतुलः क्रमः वर्धनं पक्षपातविनाशहेतुः हि नूतनभारप्रदात् सततं सर्वभ्रान्तिं निराकरोति। भिन्नानां प्रकृतेः यन्त्रविधिनां च संयोजनात् सञ्चयः (भवति), तत्र एकं लक्षयन्त्रं खलु अपरैः प्राप्तैः फलैः पोष्यते। सर्वफलांशभारसहितं दत्तं कृत्वा महायन्त्रणं सञ्चिन्त्य एव साफल्यसिद्धिप्रदं पूर्णकथनं ददाति।  
-**धातुपाठ-व्याकरण-विवरणम्** सङ्घातशिक्षणम् इति सम् \+ हन् \+ घञ् \= सङ्घातः (Aggregation/Ensemble) 2। पुटबद्धतन्त्रम् (Bagging / Bootstrap Aggregating) इति पुटीकरणम् इत्यस्य अनुवादः। अत्र स्वतन्त्राः निर्णया-वृक्षाः (Decision Trees) विरच्यन्ते 2। 'पुट्' (संश्लेषणे) धातोः व्युत्पन्नः। वर्धनम् (Boosting) इति वृध् \+ णिच् \+ ल्युट् \= वर्धनम् (प्रवर्धनम्)। पूर्वयन्त्रस्य दोषाणां दूरीकरणं कृत्वा नूतनयन्त्रस्य वर्धनम् 2। सञ्चयनम् (Stacking) इति सम् \+ चिञ् चयने \+ ल्युट् \= सञ्चयनम्। विभिन्नानां प्रारूपाणां (Heterogeneous models) एकत्रीकरणम् 2।  
-**दार्शनिक-तान्त्रिक-विमर्शः** यथा पञ्चावयव-वाक्ये (प्रतिज्ञा, हेतुः, उदाहरणम्, उपनयः, निगमनम्) सर्ववयवानां सम्मेलनेन एव सुनिश्चितं ज्ञानं जायते, तथैव सङ्घातशिक्षणे अनेक-यन्त्राणां संयोजनेन पूर्वानुमानं दृढं भवति 2। पुटीकरणं (Bagging) लोकतन्त्र-मतदानवत् कार्यं करोति, यत्र बहूनां मतं प्रामुख्यं भजते, येन वैषम्यं (Variance) नश्यति 2। प्रवर्धनं (Boosting) तु गुरु-शिष्य-परम्परावत् अस्ति, यत्र पूर्व-शिष्यस्य (यन्त्रस्य) दोषान् दृष्ट्वा नूतन-शिष्यः (नूतन-यन्त्रं) तानेव दोषान् परिहर्तुं प्रयतते, येन पक्षपातः (Bias) नश्यति 2। सञ्चयने (Stacking) नाना-प्रकृतीनां यन्त्राणां फलानि एकस्मिन् महा-यन्त्रे (Meta-model) प्रविशन्ति, यत् तेषां गुणागुणान् विचार्य श्रेष्ठं निर्णयं ददाति 2।
+१. 1  
+२. 2  
+३. 3  
+४. 4  
+५. 5  
+६. 6  
+७. 7  
+८. 8  
+९. 9  
+१०. 10  
+११. 11  
+१२. 12  
 
 </div>
 </details>
 
-## पञ्चमाध्यायः – लक्षणवरण-पारप्रमाणीकरण-प्रकरणम् (Feature selection and cross-validation) – शिखरिणी · अनुष्टुभ्
-
-<p class="verse-topic">श्लोकः 18 (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v18">
-  <span data-line="1" data-start="" data-end="">यन्त्रशिक्षणे 'लक्षणवरणम्' (Feature Selection) अतिमहत्त्वपूर्णम् अस्ति। अस्य त्रयः भेदाः सन्ति निस्यन्दकः (Filter method), आवेष्टकः (Wrapper method), अन्तर्निहितः (Embedded method) च 11। निस्यन्दकः साङ्ख्यिकी-पद्धत्या (Statistical measures) कार्यं करोति, आवेष्टकः यन्त्रस्य मूल्याङ्कनेन, अन्तर्निहितस्तु यन्त्रस्य प्रशिक्षण-समये एव लक्षणान् वृणोति 38। प्रारूपस्य मूल्याङ्कनाय पार-प्रमाणीकरणं (Cross-validation) उपयुज्यते, यत्र क-पुट-परीक्षणम् (K-fold) तथा एक-परित्याग-परीक्षणम् (Leave-One-Out / LOO) मुख्यौ स्तः 4। एतत् शिखरिणी-अनुष्टुप्-छन्दसोः वर्ण्यते।</span><br />
-  <span data-line="2" data-start="" data-end="">निस्यन्दो गणन-विधिना लक्षण-चये</span><br />
-  <span data-line="3" data-start="" data-end="">स्वतन्त्रो यन्त्राच्च त्वरित-गतिना कार्य-कुशलः ।</span><br />
-  <span data-line="4" data-start="" data-end="">परं नाति-स्पष्टः फल-कथन-तन्त्रे हि स विधिः</span><br />
-  <span data-line="5" data-start="" data-end="">यतो नास्त्यत्रासौ गहन-परिणामस्य विचारः ॥ १८ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 19 (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v19">
-  <span data-line="1" data-start="" data-end="">आवेष्टो यन्त्रस्य प्रयोग-विधिना लक्षण-गणान्</span><br />
-  <span data-line="2" data-start="" data-end="">परीक्ष्याथैवास्मिन् फलति सुतरां सत्य-वचनम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">परं भारोऽत्यन्तः समय-हरणं सङ्गणकजे</span><br />
-  <span data-line="4" data-start="" data-end="">प्रयत्ने यस्मात् स प्रति-पुट-गुणं पश्यति मुहुः ॥ १९ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 20 (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v20">
-  <span data-line="1" data-start="" data-end="">अन्तर्निहितस्तु द्वय-गुण-समेतो हि सुतरां</span><br />
-  <span data-line="2" data-start="" data-end="">प्रशिक्षण-काले स्वयमेव हि सर्वं खलु वृणन् ।</span><br />
-  <span data-line="3" data-start="" data-end="">वैरूप्यं दूरीकृत्य च सरलतां यन्त्र-हृदये</span><br />
-  <span data-line="4" data-start="" data-end="">प्रतिष्ठाप्य क्षिप्रं जनयति फलं सिद्ध-वचनम् ॥ २० ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 21 (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v21">
-  <span data-line="1" data-start="" data-end="">तिर्यक्-प्रमाणीकरणं हि तन्त्रे</span><br />
-  <span data-line="2" data-start="" data-end="">क-सञ्ज्ञक-पुट-विभागतः स्यात् ।</span><br />
-  <span data-line="3" data-start="" data-end="">अज्ञात-दत्तांश-परीक्षणाय</span><br />
-  <span data-line="4" data-start="" data-end="">वारं च वारं खलु यन्त्र-योगः ॥ २१ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 22 (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v22">
-  <span data-line="1" data-start="" data-end="">एकं परित्यज्य तु यत् प्रमाणं</span><br />
-  <span data-line="2" data-start="" data-end="">तत् स्वल्प-दत्तांश-कृते प्रशस्तम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">बृहत्-प्रमाणाय क-पुट-योगः</span><br />
-  <span data-line="4" data-start="" data-end="">समयस्य लाभाय बुधैः प्रयुक्तः ॥ २२ ॥</span><br />
-</div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
+<details>
+<summary>सन्दर्भाः / References</summary>
 <div class="prose-text" markdown="1">
 
-**पदच्छेदः**  
-निस्यन्दः गणन-विधिना लक्षण-चये स्वतन्त्रः यन्त्रात् च त्वरित-गतिना कार्य-कुशलः। परम् न अति-स्पष्टः फल-कथन-तन्त्रे हि सः विधिः यतः न अस्ति अत्र असौ गहन-परिणामस्य विचारः। आवेष्टः यन्त्रस्य प्रयोग-विधिना लक्षण-गणान् परीक्ष्य अथ एव अस्मिन् फलति सुतराम् सत्य-वचनम्। परम् भारः अत्यन्तः समय-हरणम् सङ्गणकजे प्रयत्ने यस्मात् सः प्रति-पुट-गुणम् पश्यति मुहुः। अन्तर्निहितः तु द्वय-गुण-समेतः हि सुतराम् प्रशिक्षण-काले स्वयम् एव हि सर्वम् खलु वृणन्। वैरूप्यम् दूरी-कृत्य च सरलताम् यन्त्र-हृदये प्रति-स्थाप्य क्षिप्रम् जनयति फलम् सिद्ध-वचनम्। तिर्यक्-प्रमाणीकरणम् हि तन्त्रे क-सञ्ज्ञक-पुट-विभागतः स्यात्। अज्ञात-दत्तांश-परीक्षणाय वारम् च वारम् खलु यन्त्र-योगः। एकम् परित्यज्य तु यत् प्रमाणम् तत् स्वल्प-दत्तांश-कृते प्रशस्तम्। बृहत्-प्रमाणाय क-पुट-योगः समयस्य लाभाय बुधैः प्रयुक्तः।  
-**अन्वयः**  
-निस्यन्दः लक्षणचये गणनविधिना यन्त्रात् स्वतन्त्रः च त्वरितगतिना कार्यकुशलः (भवति)। परं सः विधिः फलकथनतन्त्रे अतिस्पष्टः न हि, यतः अत्र असौ गहनपरिणामस्य विचारः न अस्ति। आवेष्टः यन्त्रस्य प्रयोगविधिना लक्षणगणान् परीक्ष्य अथ एव अस्मिन् सुतरां सत्यवचनं फलति। परं सङ्गणकजे प्रयत्ने अत्यन्तः भारः समयहरणं (भवति), यस्मात् सः प्रतिपुटगुणं मुहुः पश्यति। अन्तर्निहितः तु हि सुतरां द्वयगुणसमेतः प्रशिक्षणकाले स्वयमेव हि सर्वं खलु वृणन् वैरूप्यं दूरीकृत्य यन्त्रहृदये सरलतां च प्रतिष्ठाप्य क्षिप्रं सिद्धवचनं फलं जनयति। तन्त्रे अज्ञातदत्तांशपरीक्षणाय क-सञ्ज्ञकपुटविभागतः वारं च वारं यन्त्रयोगः खलु तिर्यक्-प्रमाणीकरणं हि स्यात्। एकं परित्यज्य तु यत् प्रमाणं तत् स्वल्पदत्तांशकृते प्रशस्तम्। बृहत्प्रमाणाय समयस्य लाभाय बुधैः क-पुट-योगः प्रयुक्तः।  
-**धातुपाठ-व्याकरण-विवरणम्** निस्यन्दकः (Filter Method) इति नि \+ स्यन्दू प्रस्रवणे धातोः 'ण्वुल्' प्रत्यये निष्पन्नः, यः अनावश्यक-लक्षणानि दूरीकरोति 12। आवेष्टकः (Wrapper Method) इति आ \+ वेष्ट् वेष्टने धातोः 'ण्वुल्' प्रत्यये निष्पन्नः, यन्त्रस्य परितः आवरणमिव कार्यं करोति 11। अन्तर्निहितः (Embedded Method) इति अन्तर् \+ नि \+ धा \+ क्त प्रत्यये निष्पन्नः, प्रशिक्षण-प्रक्रियायाम् एव समाहितः अस्ति 11। तिर्यक्-प्रमाणीकरणम् (Cross-validation) इति तिर्यक् (Cross) \+ प्रमाणीकरणम् (Validation) 4। क-पुट-योगः (K-Fold) इति क-सङ्ख्याकानि पुटानि (Folds) यस्मिन् सः 4। एक-परित्याग-प्रमाणम् (LOOCV) इति एकस्य परित्यागः यस्मिन् परीक्षणे 4।  
-**दार्शनिक-तान्त्रिक-विमर्शः** लक्षणवरणं न्यायदर्शने 'अतिव्याप्ति-अव्याप्ति-दोष-परिहार' इव अस्ति। यन्त्रशिक्षणे अनावश्यक-लक्षणानां दूरीकरणेन यन्त्रस्य कार्यक्षमता वर्धते, अति-शिक्षणदोषः (Overfitting risk) च नश्यति 39। निस्यन्दकः तीव्रः किन्तु न्यून-सटीकः भवति यतः सः यन्त्रस्य अन्तःस्थितं गणितं न पश्यति 40। आवेष्टकः सटीकः किन्तु सङ्गणक-श्रम-साध्यः अस्ति यतः सः प्रत्येकं सम्भाव्य-सङ्ग्रहाय यन्त्रं पुनरावर्तयति 11। पार-प्रमाणीकरणे, यदा दत्तांशः स्वल्पः भवति तदा एक-परित्याग-विधिः (LOOCV) प्रयुज्यते यतः अस्मिन् सर्वोऽपि उपलब्ध-दत्तांशः प्रशिक्षणाय लभ्यते 4। यदा दत्तांशः विशालः भवति तदा क-पुट-विधिः (K-Fold) समयलाभाय उपयुज्यते, यतः तत्र अत्यधिकानां प्रारूपाणां निर्माणं न करणीयम् 4।
-
-</div>
-</details>
-
-## षष्ठाध्यायः – बेज-सम्भावना-प्रकरणम् (Bayesian inference and MCMC) – मन्दाक्रान्ता
-
-<div class="prose-text" markdown="1">
-
-साङ्ख्यिकीविज्ञाने तोमश-बेज-प्रणीतं बेज-अनुमानम् (Bayesian Inference) अतीव प्रामाणिकं तन्त्रमस्ति 1। अस्य चत्वारि अङ्गानि सन्ति प्राक्सम्भावना (Prior), अनुकूलत्वम् (Likelihood), फलितसम्भावना अथवा उत्तरसम्भावना (Posterior), प्रमाणम् (Evidence) च 1। यदा नूतनं प्रमाणं लभ्यते, तदा प्राक्सम्भावना अद्यतनीभूय फलितसम्भावनायां परिणमते 14। यत्र तन्त्राणि अतीव जटिलाणि भवन्ति तत्र मार्कव-भ्रमण-मण्टिकार्ल-तन्त्रम् (MCMC) प्रयुज्यते 1। मन्दाक्रान्ता-छन्दसि अयं गणितीयसिद्धान्तो वर्ण्यते।
-
-</div>
-
-<p class="verse-topic">श्लोकः 23 (मन्दाक्रान्ता)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v23">
-  <span data-line="1" data-start="" data-end="">पूर्वं यत् स्यान्मति-परिमितं प्राक्-प्रमाणानुसारात्</span><br />
-  <span data-line="2" data-start="" data-end="">तत् सम्भाव्यं खलु मुनि-वरैर्बेज-तन्त्रेऽभिधानम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">पश्चाद् दृष्टं नव-परिणतं साक्ष्य-मानानुकूल्यं</span><br />
-  <span data-line="4" data-start="" data-end="">येनासाध्यं फलित-वचनं नूतनं ज्ञायते च ॥ २३ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 24 (मन्दाक्रान्ता)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v24">
-  <span data-line="1" data-start="" data-end="">यन्त्रं वेत्ति सु-निश्चित-फलं साक्ष्य-तर्कैश्च नित्यं</span><br />
-  <span data-line="2" data-start="" data-end="">प्राक्-सम्भाव्यं नवनव-फलैर्हन्ति वै भ्रांतिमूलम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">तस्माद् बेज-प्रणित-वचनं सर्व-विज्ञान-शास्त्रे</span><br />
-  <span data-line="4" data-start="" data-end="">श्रेष्ठं मन्ये स्वल्प-चयने सत्य-निर्धारणाय ॥ २४ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 25 (मन्दाक्रान्ता)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v25">
-  <span data-line="1" data-start="" data-end="">मार्कव्यो हि भ्रमण-विधयः शृङ्खला-बद्ध-रूपाः</span><br />
-  <span data-line="2" data-start="" data-end="">मण्टिकार्लो-जटिल-रचना-साधने मुख्य-भूताः ।</span><br />
-  <span data-line="3" data-start="" data-end="">यत्रानन्ताः खलु परिमितीर्हर्ष-शोकैः समेताः</span><br />
-  <span data-line="4" data-start="" data-end="">तत्रैवैते फल-गणनया मार्ग-दीपं प्रदद्युः ॥ २५ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 26 (मन्दाक्रान्ता)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v26">
-  <span data-line="1" data-start="" data-end="">यस्मात् साक्ष्ये भवति नियता प्राक्तनी पूर्व-बुद्धिः</span><br />
-  <span data-line="2" data-start="" data-end="">तस्याः शुद्धिः सतत-घटनैर्लक्षणैरेव कार्या ।</span><br />
-  <span data-line="3" data-start="" data-end="">एतद् द्वन्द्वं परिणति-वशाद् बेज-तन्त्रस्य सारं</span><br />
-  <span data-line="4" data-start="" data-end="">यन्त्र-ज्ञाने परम-कुशलं न्याय-मार्गेण तुल्यम् ॥ २६ ॥</span><br />
-</div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-पूर्वम् यत् स्यात् मति-परिमितम् प्राक्-प्रमाण-अनुसारात् तत् सम्भाव्यम् खलु मुनि-वरैः बेज-तन्त्रे अभिधानम्। पश्चात् दृष्टम् नव-परिणतम् साक्ष्य-मान-अनुकूल्यम् येन असाध्यम् फलित-वचनम् नूतनम् ज्ञायते च। यन्त्रम् वेत्ति सु-निश्चित-फलम् साक्ष्य-तर्कैः च नित्यम् प्राक्-सम्भाव्यम् नव-नव-फलैः हन्ति वै भ्रान्ति-मूलम्। तस्मात् बेज-प्रणित-वचनम् सर्व-विज्ञान-शास्त्रे श्रेष्ठम् मन्ये स्वल्प-चयने सत्य-निर्धारणाय। मार्कव्याः हि भ्रमण-विधयः शृङ्खला-बद्ध-रूपाः मण्टिकार्लो-जटिल-रचना-साधने मुख्य-भूताः। यत्र अनन्ताः खलु परिमितीः हर्ष-शोकैः समेताः तत्र एव एते फल-गणनया मार्ग-दीपम् प्रदद्युः। यस्मात् साक्ष्ये भवति नियता प्राक्तनी पूर्व-बुद्धिः तस्याः शुद्धिः सतत-घटनैः लक्षणैः एव कार्या। एतद् द्वन्द्वम् परिणति-वशात् बेज-तन्त्रस्य सारम् यन्त्र-ज्ञाने परम-कुशलम् न्याय-मार्गेण तुल्यम्।  
-**अन्वयः**  
-पूर्वम् प्राक्प्रमाणानुसारात् यत् मतिपरिमितं स्यात् तत् बेजतन्त्रे मुनिवरैः सम्भाव्यम् खलु अभिधानम् (प्राक्सम्भावना)। पश्चात् साक्ष्यमानानुकूल्यं नवपरिणतं दृष्टम् येन नूतनम् असाध्यं फलितवचनं (उत्तरसम्भावना) ज्ञायते च। यन्त्रं साक्ष्यतर्कैः नित्यं सुनिश्चितफलं वेत्ति च नवनवफलैः प्राक्सम्भाव्यं भ्रान्तिमूलं वै हन्ति। तस्मात् बेजप्रणितवचनं सर्वविज्ञानशास्त्रे स्वल्पचयने सत्यनिर्धारणाय श्रेष्ठं मन्ये। शृङ्खलाबद्धरूपाः मार्कव्याः भ्रमणविधयः हि मण्टिकार्लोजटिलरचनासाधने मुख्यभूताः सन्ति। यत्र खलु अनन्ताः परिमितीः हर्षशोकैः समेताः तत्र एव एते फलगणनया मार्गदीपं प्रदद्युः। यस्मात् साक्ष्ये प्राक्तनी पूर्वबुद्धिः नियता भवति तस्याः शुद्धिः सततघटनैः लक्षणैः एव कार्या। एतद् द्वन्द्वं परिणतिवशात् बेजतन्त्रस्य सारं (अस्ति, यत्) यन्त्रज्ञाने परमकशलं न्यायमार्गेण तुल्यम्।  
-**धातुपाठ-व्याकरण-विवरणम्** प्राक्सम्भावना (Prior Probability) इति प्राक् (पूर्वं) या सम्भावना सा 14। सम् \+ भू \+ णिच् \+ युच् \= सम्भावना। अनुकूलता-परिमितिः (Likelihood) इति अनु कूलम् इति अनुकूलम्, तस्य भावः अनुकूलता 13। उत्तरसम्भावनम् अथवा फलितम् (Posterior Probability) इति अद्यतनीकरणानन्तरं या सम्भावना 13। साक्ष्यम् (Evidence) इति साक्षिणः भावः साक्ष्यम् 13। बेज-अनुमानम् (Bayesian Inference) इति 'बेज' (Thomas Bayes) इति पाश्चात्य-नाम्नः संस्कृतीकरणम् 45। अत्र 'बेजृ' बीजे धातोः प्रयोगः कर्तुं शक्यते यतः सः सम्भावनायाः बीजम्। मार्कव-भ्रमणम् (Markov Chain Monte Carlo / MCMC) इति मार्कव (Markov) इति विदेशीयरूढशब्दः ('मृक्' धातोः अण्)। भ्रमणम् (Chain / Walk)। मण्टिकार्लः (Monte Carlo) इति तन्त्रनाम 1।  
-**दार्शनिक-तान्त्रिक-विमर्शः** भारतीय-न्यायदर्शने अनुमान-प्रमाणं यथा व्याप्ति-ज्ञानात् तथा लिङ्ग-परामर्शात् निर्णीयते, तथैव बेज-अनुमानं प्राक्-ज्ञानात् तथा नूतन-प्रमाणात् उत्तरसम्भावनां जनयति 44। इदं तन्त्रं स्वल्प-दत्तांशेऽपि (Small datasets) अचूकं फलं दातुं समर्थम् अस्ति यतः अत्र यन्त्रं केवलं वर्तमाने न तिष्ठति अपि तु पूर्वज्ञानम् अपि स्वीकरोति 1। यदा तन्त्रं अतीव जटिलं भवति, तदा MCMC (Markov Chain Monte Carlo) इत्यस्य साहाय्येन अस्य गणना क्रियते, यत्र एकस्यां शृङ्खलायां पूर्व-बिन्दोः आधारेण अग्रे गमनं भवति 1।
-
-</div>
-</details>
-
-## सप्तमाध्यायः – ज्ञानजाल-तत्त्वमीमांसा-प्रकरणम् (Knowledge graphs, RDF and property graphs) – मालिनी
-
-<div class="prose-text" markdown="1">
-
-सार्थ-अन्तर्जाले (Semantic Web) तथा महादत्तांश-संरचनायां 'ज्ञानजालम्' (Knowledge Graph) इत्यस्य अतीव महत्त्वं वर्तते 15। अस्य मूलाधारः 'संसाधन-विवरण-तन्त्रम्' (RDF) अस्ति, यत् विषयः (Subject), सम्बन्धः (Predicate), तथा कर्म/मूल्यम् (Object) इति त्रिपुटी-रूपेण ज्ञानं स्थापयति 3। ज्ञानजालानां वर्गीकरणाय 'तत्त्वमीमांसा' (Ontology) उपयुज्यते, या वस्तूनां, तेषां गुणानां, सम्बन्धानामपि नियमबद्धं निरूपणं करोति 16। यत्र RDF तन्त्रे गुप्तरूपेण अतिरिक्तानि बिन्दूनि निर्मातव्यानि भवन्ति, तत्र 'गुणसहितजालानि' (Property Graphs) साक्षात् बिन्दुषु प्रान्तेषु च गुणान् स्थापयितुं समर्थानि सन्ति 3। ज्ञानानां निष्कर्षणाय स्पार्कल-पृच्छा (SPARQL) उपयुज्यते 7। एतान् विषयान् मालिनी-छन्दसि स्तौति।
-
-</div>
-
-<p class="verse-topic">श्लोकः 27 (मालिनी)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v27">
-  <span data-line="1" data-start="" data-end="">विषय-पद-समेतं कर्म-सम्बन्ध-युक्तम्</span><br />
-  <span data-line="2" data-start="" data-end="">त्रिपुट-नियम-बद्धं ज्ञान-जालस्य रूपम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">विवरण-विधि-तन्त्रैर्निर्मितं यत्तु सर्वम्</span><br />
-  <span data-line="4" data-start="" data-end="">सकल-भुवन-जाले यन्त्र-बोधाय शस्तम् ॥ २७ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 28 (मालिनी)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v28">
-  <span data-line="1" data-start="" data-end="">इदमपि खलु जालैः प्राप्यते तत्त्व-रूपम्</span><br />
-  <span data-line="2" data-start="" data-end="">गुण-नियम-समूहैस्तत्त्व-मीमांसया च ।</span><br />
-  <span data-line="3" data-start="" data-end="">अतुल-विवरणार्थं स्पार्कल-पृच्छया वै</span><br />
-  <span data-line="4" data-start="" data-end="">विपुल-तथ्य-समूहान् निष्क्रष्टुं समर्थम् ॥ २८ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 29 (मालिनी)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v29">
-  <span data-line="1" data-start="" data-end="">गुण-सहित-जालानि स्वीकुर्वन्ति साक्षात्</span><br />
-  <span data-line="2" data-start="" data-end="">निहित-विवरणानि प्रान्त-बिन्दौ च वेगात् ।</span><br />
-  <span data-line="3" data-start="" data-end="">विपुल-नियम-मुक्तानि शीघ्र-बोधाय लोके</span><br />
-  <span data-line="4" data-start="" data-end="">विविध-तथ्य-सम्पर्कं साधयन्ति प्रकृष्टम् ॥ २९ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 30 (मालिनी)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v30">
-  <span data-line="1" data-start="" data-end="">जटिल-नियम-बन्धान् मोचयन्ती हि नित्यं</span><br />
-  <span data-line="2" data-start="" data-end="">गुण-जटिल-विताना सर्व-कार्येषु दक्षा ।</span><br />
-  <span data-line="3" data-start="" data-end="">भवति हि तुलनायां सा त्रिपुट्याः वरिष्ठा</span><br />
-  <span data-line="4" data-start="" data-end="">अनुदिन-परिवृत्तौ यन्त्र-बोध-प्रसारे ॥ ३० ॥</span><br />
-</div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-विषय-पद-समेतम् कर्म-सम्बन्ध-युक्तम् त्रिपुट-नियम-बद्धम् ज्ञान-जालस्य रूपम्। विवरण-विधि-तन्त्रैः निर्मितम् यत् तु सर्वम् सकल-भुवन-जाले यन्त्र-बोधाय शस्तम्। इदम् अपि खलु जालैः प्राप्यते तत्त्व-रूपम् गुण-नियम-समूहैः तत्त्व-मीमांसया च। अतुल-विवरण-अर्थम् स्पार्कल-पृच्छया वै विपुल-तथ्य-समूहान् निष्क्रष्टुम् समर्थम्। गुण-सहित-जालानि स्वीकुर्वन्ति साक्षात् निहित-विवरणानि प्रान्त-बिन्दौ च वेगात्। विपुल-नियम-मुक्तानि शीघ्र-बोधाय लोके विविध-तथ्य-सम्पर्कम् साधयन्ति प्रकृष्टम्। जटिल-नियम-बन्धान् मोचयन्ती हि नित्यम् गुण-जटिल-विताना सर्व-कार्येषु दक्षा। भवति हि तुलनायाम् सा त्रिपुट्याः वरिष्ठा अनुदिन-परिवृत्तौ यन्त्र-बोध-प्रसारे।  
-**अन्वयः**  
-विषयपदसमेतम्, कर्मसम्बन्धयुक्तम्, त्रिपुटनियमबद्धम् ज्ञानजालस्य रूपम् (भवति)। विवरणविधितन्त्रैः यत् सर्वं निर्मितं तु, (तत्) सकलभुवनजाले यन्त्रबोधाय शस्तम्। इदम् अपि जालैः खलु तत्त्वमीमांसया च गुणनियमसमूहैः तत्त्वरूपं प्राप्यते। स्पार्कलपृच्छया वै विपुलतथ्यसमूहान् अतुलविवरणार्थं निष्क्रष्टुं समर्थम् (भवति)। गुणसहितजालानि प्रान्तबिन्दौ साक्षात् निहितविवरणानि वेगात् स्वीकुर्वन्ति च। लोके शीघ्रबोधाय विपुलनियममुक्तानि (तानि) विविधतथ्यसम्पर्कं प्रकृष्टं साधयन्ति। जटिलनियमबन्धान् नित्यं मोचयन्ती सर्वकार्येषु दक्षा गुणजटिलविताना (property graphs) हि अनुदिनपरिवृत्तौ यन्त्रबोधप्रसारे तुलनायां सा त्रिपुट्याः (RDF) वरिष्ठा भवति।  
-**धातुपाठ-व्याकरण-विवरणम्** ज्ञानजालम् (Knowledge Graph) इति ज्ञानानां जालम् (षष्ठीतत्पुरुषः) 3। त्रिपुटम् (Triples) इति त्रीणि पुटानि यस्मिन् (Subject, Predicate, Object) 15। विवरणविधितन्त्रम् (RDF) इति विव्रियते अनया इति विवरणम्, तन्त्रम् इति Framework 3। तत्त्वमीमांसा (Ontology) इति तत्त्वस्य मीमांसा 16। 'मान् बधाने / विचारे' \+ सन् \+ अ \+ टाप् \= मीमांसा (Deep study into the nature of things) 16। स्पार्कल-पृच्छा (SPARQL query) इति 'प्रच्छ ज्ञीप्सायाम्' धातोः 'अङ्' प्रत्यये पृच्छा 3। गुण-सहित-जालानि (Property Graphs) यत्र बिन्दुषु (Nodes) तथा प्रान्तेषु (Edges) गुणाः साक्षात् स्थाप्यन्ते 3।  
-**दार्शनिक-तान्त्रिक-विमर्शः** यथा वैशेषिकदर्शने पदार्थानां सप्ताभिः वर्गेषु वर्गीकरणं क्रियते (द्रव्य-गुण-कर्म-सामान्य-विशेष-समवाय-अभावाः) 16, तथैव आधुनिक-तत्त्वमीमांसायां दत्तांशस्य स्वरूपं, सम्बन्धः, नियमाश्च निर्णीयन्ते 50। अत्र विषय-कर्म-सम्बन्धाः एव त्रिपुटीरूपेण जगतः ज्ञानं सञ्चिन्वन्ति 15। परन्तु RDF तन्त्रे सर्वे सम्बन्धाः त्रिपुटी-रूपेण एव स्थाप्यन्ते, येन सम्बन्धस्य गुणं (Edge property) दर्शयितुं अतीव क्लिष्टता जायते 3। गुण-जालेषु (Property Graphs) सम्बन्धाः अधिक-स्वतन्त्राः भवन्ति, तेषु साक्षात् गुणाः (Metadata) लेखितुं शक्यन्ते, येन यन्त्रस्य मार्ग-अन्वेषणं (Traversal) अतीव द्रुतं भवति 3।
-
-</div>
-</details>
-
-## अष्टमाध्यायः – दृश्यात्मकता-प्रकरणम् (Data visualization) – वसन्ततिलका
-
-<div class="prose-text" markdown="1">
-
-दत्तांश-विश्लेषणात् परं तस्य सुलभावबोधाय 'दृश्यात्मकता' (Data Visualization) अतीव आवश्यकी वर्तते 53। अत्र सम्यक्-रङ्गानां (Colors), आकाराणां (Shapes), तथा आदर्शानां (Best practices) उपयोगः भवितव्यः 54। चक्राकाराणां (Pie charts) अधिक-उपयोगः वर्जनीयः, दण्ड-चित्राणां (Bar charts) रेखा-चित्राणां (Line charts) च सम्यक् प्रयोगः करणीयः 56। एतत् वसन्ततिलका-छन्दसि निरूप्यते।
-
-</div>
-
-<p class="verse-topic">श्लोकः 31 (वसन्ततिलका)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v31">
-  <span data-line="1" data-start="" data-end="">दत्तांश-राशि-परिणाम-सुबोधनार्थं</span><br />
-  <span data-line="2" data-start="" data-end="">दृश्यात्मकं वपुषमत्र तु यन्त्र-शास्त्रे ।</span><br />
-  <span data-line="3" data-start="" data-end="">दण्डैः प्रलम्ब-रचितैः खलु काल-रेखा</span><br />
-  <span data-line="4" data-start="" data-end="">चित्रेषु दर्शन-सुखं जनयेत् समग्रम् ॥ ३१ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 32 (वसन्ततिलका)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v32">
-  <span data-line="1" data-start="" data-end="">चक्राकृतिः खलु विमोहतये प्रदिष्टा</span><br />
-  <span data-line="2" data-start="" data-end="">तस्माद् विहाय तदलं विबुधैः सदैव ।</span><br />
-  <span data-line="3" data-start="" data-end="">रङ्गाः सुसङ्गत-विधा नयन-प्रियाश्च</span><br />
-  <span data-line="4" data-start="" data-end="">कार्याः सदा जटिल-भाव-विशोधनाय ॥ ३२ ॥</span><br />
-</div>
-
-<p class="verse-topic">श्लोकः 33 (वसन्ततिलका)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v33">
-  <span data-line="1" data-start="" data-end="">अल्पाक्षरैर्विपुल-मर्म-निदर्शनं हि</span><br />
-  <span data-line="2" data-start="" data-end="">चित्रेषु साध्यमिति दर्शन-शास्त्र-सारः ।</span><br />
-  <span data-line="3" data-start="" data-end="">यन्त्रं विचार्य खलु तत्त्वमशेष-रूपं</span><br />
-  <span data-line="4" data-start="" data-end="">रूपेण वेत्ति ननु सत्यमलं मुदा च ॥ ३३ ॥</span><br />
-</div>
-
-<details><summary>पदच्छेदः · अन्वयः · धातुपाठ-व्याकरणम् · दार्शनिक-तान्त्रिक-विमर्शः · सारण्याः</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-दत्तांश-राशि-परिणाम-सुबोधनार्थम् दृश्यात्मकम् वपुषम् अत्र तु यन्त्र-शास्त्रे। दण्डैः प्रलम्ब-रचितैः खलु काल-रेखा चित्रेषु दर्शन-सुखम् जनयेत् समग्रम्। चक्र-आकृतिः खलु विमोहतये प्रदिष्टा तस्मात् विहाय तत् अलम् विबुधैः सदा एव। रङ्गाः सु-सङ्गत-विधाः नयन-प्रियाः च कार्याः सदा जटिल-भाव-विशोधनाय। अल्प-अक्षरैः विपुल-मर्म-निदर्शनम् हि चित्रेषु साध्यम् इति दर्शन-शास्त्र-सारः। यन्त्रम् विचार्य खलु तत्त्वम् अशेष-रूपम् रूपेण वेत्ति ननु सत्यम् अलम् मुदा च।  
-**अन्वयः**  
-यन्त्रशास्त्रे दत्तांशराशिपरिणामसुबोधनार्थं दृश्यात्मकं वपुषम् अत्र तु प्रलम्बरचितैः दण्डैः कालरेखा (वा) खलु चित्रेषु समग्रं दर्शनसुखं जनयेत्। चक्राकृतिः खलु विमोहतये प्रदिष्टा, तस्मात् विबुधैः सदा एव तत् विहाय अलम्। जटिलभावविशोधनाय रङ्गाः सुसङ्गतविधाः नयनप्रियाः च सदा कार्याः। अल्पाक्षरैः विपुलमर्मनिदर्शनं चित्रेषु साध्यम् हि इति दर्शनशास्त्रसारः। यन्त्रं खलु अशेषरूपं तत्त्वं विचार्य ननु रूपेण सत्यम् अलं मुदा च वेत्ति।  
-**धातुपाठ-व्याकरण-विवरणम्** दृश्यात्मकता (Visualization) इति 'दृशिँ प्रेक्षणे' धातोः 'क्यप्' प्रत्यये दृश्यम्, तस्य आत्मा यस्मिन् सा दृश्यात्मकता 53। दण्ड-चित्रम् (Bar Chart) इति दण्डानां चित्रम् 56। रेखा-चित्रम् (Line Chart) इति कालक्रमेण परिवर्तनं दर्शयितुम् 56। चक्राकारः (Pie Chart) इति चक्रस्य आकारः, अस्य प्रयोगः न्यूनः कर्तव्यः इति वैज्ञानिकानां मतम् 56। वर्ण-सङ्ग्रहः (Color Palette) इति वर्णानां सङ्ग्रहः 54।  
-**दार्शनिक-तान्त्रिक-विमर्शः** यथा शास्त्रेषु "दृष्टान्तः" गहनतत्त्वानां सरलीकरणाय प्रयुज्यते, तथैव महादत्तांशस्य जटिलपरिणामानां स्पष्टीकरणाय दृश्यात्मकता अनिवार्यमस्ति 53। अत्र संज्ञानात्मकभारस्य (Cognitive Load) न्यूनीकरणाय सरलतायाः पालनं कर्तव्यम् 53। वर्णानां सङ्ग्रहः सम्यक् भवितव्यः, येन दृष्टि-दोष-युक्ताः (Color blindness) अपि तत् द्रष्टुं शक्नुयुः 56।
-
-</div>
-</details>
-
-<details><summary>उपसंहारः · Works cited</summary>
-<div class="prose-text" markdown="1">
-
-## उपसंहारः
-
-अस्मिन् शोधप्रबन्धे पाणिनीयव्याकरण-नियमान् आश्रित्य, न्याय-वैशेषिक-दर्शनानां परिभाषां च उपयुज्य आधुनिक-सङ्गणकविज्ञानानाम् महादत्तांशस्य, यन्त्रशिक्षणस्य, सङ्घातशिक्षणस्य, पार-प्रमाणीकरणस्य, बेज-अनुमानस्य, तत्त्वमीमांसा-ज्ञानजालादीनां च समग्रं तान्त्रिकतत्त्वं संस्कृतश्लोकेषु ग्रथितम्।  
-यन्त्रशिक्षणस्य सफलता केवलं यन्त्रे नास्ति, अपि तु सम्यक्-दत्तांश-सङ्कलने, तस्य शुद्धीकरणे, लक्षणवरणे, उचित-प्रारूप-निर्माणे च निहिता अस्ति 2। बेज-प्रक्रमे प्राक्-ज्ञानस्य उपयोगेन अनिश्चिततायाः प्रबन्धनं क्रियते 1। महादत्तांशस्य मूल्यं तदा एव सिध्यति यदा तस्मात् ज्ञाननिष्कर्षणं कृत्वा तस्य सम्यक् दृश्यात्मकता प्रस्तूयते 18। ज्ञानजालानि च मानवानां ज्ञानमीमांसाम् एव यन्त्रेषु स्थापयन्ति 3।  
-एवं प्रकारेण प्राचीन-संस्कृत-भाषायाः सामर्थ्यं न केवलं दर्शनशास्त्रे साहित्ये वा सीमितम्, अपि तु अस्याः धातुपाठ-प्रत्यय-समास-प्रक्रियया आधुनिक-कृत्रिममेधा-तन्त्राणाम् अपि अचूकं, तार्किकं, गणितीयं च शब्दावली-निर्माणं वर्गीकरणं च सम्भवति इति अत्र स्पष्टीभवति। अत्र प्रतिपादिताः नियमाः भाविनि यन्त्रशिक्षणानुसन्धाने मार्गदर्शकाः भवेयुः। अत्र कृताः सर्वे पारिभाषिकशब्दाः पाणिनीयदृष्ट्या एव साधिताः सन्ति।
-
-#### Works cited
-
-1. Bayesian methods in data science: Applications and examples, accessed April 8, 2026, [https://www.statsig.com/perspectives/bayesian-methods-in-data-science-applications-and-examples](https://www.statsig.com/perspectives/bayesian-methods-in-data-science-applications-and-examples)  
-2. Ensemble Learning \- GeeksforGeeks, accessed April 8, 2026, [https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/](https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/)  
-3. RDF Triple Stores vs. Property Graphs: What's the Difference? \- Neo4j, accessed April 8, 2026, [https://neo4j.com/blog/knowledge-graph/rdf-vs-property-graphs-knowledge-graphs/](https://neo4j.com/blog/knowledge-graph/rdf-vs-property-graphs-knowledge-graphs/)  
-4. Cross-Validation: K-Fold vs. Leave-One-Out | Baeldung on ..., accessed April 8, 2026, [https://www.baeldung.com/cs/cross-validation-k-fold-loo](https://www.baeldung.com/cs/cross-validation-k-fold-loo)  
-5. DBSCAN vs. K-Means: A Guide in Python | New Horizons, accessed April 8, 2026, [https://www.newhorizons.com/resources/blog/dbscan-vs-kmeans-a-guide-in-python](https://www.newhorizons.com/resources/blog/dbscan-vs-kmeans-a-guide-in-python)  
-6. Understanding the Data Science Life Cycle to Drive Competitive Advantage \- AWS, accessed April 8, 2026, [https://aws.amazon.com/blogs/apn/understanding-the-data-science-life-cycle-to-drive-competitive-advantage/](https://aws.amazon.com/blogs/apn/understanding-the-data-science-life-cycle-to-drive-competitive-advantage/)  
-7. Relational database \-\> ontology-\> virtual knowledge graph-\> sparkQL \-\> graphQL \- Reddit, accessed April 8, 2026, [https://www.reddit.com/r/semanticweb/comments/1kca16l/relational\_database\_ontology\_virtual\_knowledge/](https://www.reddit.com/r/semanticweb/comments/1kca16l/relational_database_ontology_virtual_knowledge/)  
-8. What Is Big Data? \- Oracle, accessed April 8, 2026, [https://www.oracle.com/big-data/what-is-big-data/](https://www.oracle.com/big-data/what-is-big-data/)  
-9. What is Data Science? | Lifecycle, Application, Tools & More \- Analytics Vidhya, accessed April 8, 2026, [https://www.analyticsvidhya.com/blog/2023/05/what-is-data-science-a-complete-guide/](https://www.analyticsvidhya.com/blog/2023/05/what-is-data-science-a-complete-guide/)  
-10. Comparing DBSCAN, k-means, and Hierarchical Clustering: When and Why To Choose Density-Based Methods | Hex, accessed April 8, 2026, [https://hex.tech/blog/comparing-density-based-methods/](https://hex.tech/blog/comparing-density-based-methods/)  
-11. Feature Selection Techniques in Machine Learning \- Codefinity, accessed April 8, 2026, [https://codefinity.com/blog/Feature-Selection-Techniques-in-Machine-Learning](https://codefinity.com/blog/Feature-Selection-Techniques-in-Machine-Learning)  
-12. Feature Selection Methods: Filter, Wrapper, and Embedded \- Machine Learning Interview Guide | bugfree.ai, accessed April 8, 2026, [https://bugfree.ai/knowledge-hub/feature-selection-methods-filter-wrapper-embedded](https://bugfree.ai/knowledge-hub/feature-selection-methods-filter-wrapper-embedded)  
-13. Posterior probability \- Wikipedia, accessed April 8, 2026, [https://en.wikipedia.org/wiki/Posterior\_probability](https://en.wikipedia.org/wiki/Posterior_probability)  
-14. New to statistics, Can't really understand prior distribution/post distribution \- Reddit, accessed April 8, 2026, [https://www.reddit.com/r/statistics/comments/9hd98h/new\_to\_statistics\_cant\_really\_understand\_prior/](https://www.reddit.com/r/statistics/comments/9hd98h/new_to_statistics_cant_really_understand_prior/)  
-15. Understanding RDF and Knowledge Graphs | by Osama Haider | Mar, 2026 \- Medium, accessed April 8, 2026, [https://osamadev.medium.com/understanding-rdf-and-knowledge-graphs-b40e03725231](https://osamadev.medium.com/understanding-rdf-and-knowledge-graphs-b40e03725231)  
-16. वागथः \- CPHFS, accessed April 8, 2026, [https://cphfs.in/download\_pdf/IJSR-0014up.pdf](https://cphfs.in/download_pdf/IJSR-0014up.pdf)  
-17. What is Big Data? | IBM, accessed April 8, 2026, [https://www.ibm.com/think/topics/big-data](https://www.ibm.com/think/topics/big-data)  
-18. The 5 Vs of big data | AuraQuantic, accessed April 8, 2026, [https://www.auraquantic.com/blog/five-vs-big-data/](https://www.auraquantic.com/blog/five-vs-big-data/)  
-19. What are the 5 V's of Big Data? \- Teradata, accessed April 8, 2026, [https://www.teradata.com/glossary/what-are-the-5-v-s-of-big-data](https://www.teradata.com/glossary/what-are-the-5-v-s-of-big-data)  
-20. All Indian brand names from dbpedia \- Search among 141 datasets and 1105 SPARQL queries, accessed April 8, 2026, [https://linkedwiki.com/query/All\_Indian\_brand\_names\_from\_dbpedia](https://linkedwiki.com/query/All_Indian_brand_names_from_dbpedia)  
-21. What is a Data Science Life Cycle?, accessed April 8, 2026, [https://www.datascience-pm.com/data-science-life-cycle/](https://www.datascience-pm.com/data-science-life-cycle/)  
-22. 8 Steps in the Data Life Cycle \- HBS Online \- Harvard Business School, accessed April 8, 2026, [https://online.hbs.edu/blog/post/data-life-cycle](https://online.hbs.edu/blog/post/data-life-cycle)  
-23. dhātu \- Sanskrit Dictionary, accessed April 8, 2026, [https://sanskritdictionary.com/?iencoding=iast\&q=dh%C4%81tu%22\&lang=sans\&action=Search](https://sanskritdictionary.com/?iencoding=iast&q=dh%C4%81tu%22&lang=sans&action=Search)  
-24. English-Sanskrit Computer Dictionary, accessed April 8, 2026, [https://sanskritdocuments.org/dict/English-Sanskrit\_Computer\_Dictionary.pdf](https://sanskritdocuments.org/dict/English-Sanskrit_Computer_Dictionary.pdf)  
-25. Sanskrit Language-\>Glossary Category | Official Website of Commission for Scientific and Technical Terminology,Ministry of Education,Government of India, accessed April 8, 2026, [http://cstt.education.gov.in/sanskrit-language-glossary-category](http://cstt.education.gov.in/sanskrit-language-glossary-category)  
-26. KDD Process in Databases \- GeeksforGeeks, accessed April 8, 2026, [https://www.geeksforgeeks.org/dbms/kdd-process-in-data-mining/](https://www.geeksforgeeks.org/dbms/kdd-process-in-data-mining/)  
-27. Data Mining Techniques \- GeeksforGeeks, accessed April 8, 2026, [https://www.geeksforgeeks.org/data-analysis/data-mining-techniques/](https://www.geeksforgeeks.org/data-analysis/data-mining-techniques/)  
-28. What Is the Data Science Life Cycle? \- Coursera, accessed April 8, 2026, [https://www.coursera.org/in/articles/data-science-life-cycle](https://www.coursera.org/in/articles/data-science-life-cycle)  
-29. Data Mining Techniques in Association Rule : A Review \- ResearchGate, accessed April 8, 2026, [https://www.researchgate.net/publication/282651888\_Data\_Mining\_Techniques\_in\_Association\_Rule\_A\_Review](https://www.researchgate.net/publication/282651888_Data_Mining_Techniques_in_Association_Rule_A_Review)  
-30. Knowledge Discovery and Data Mining: Towards a Unifying Framework \- Association for the Advancement of Artificial Intelligence (AAAI), accessed April 8, 2026, [https://cdn.aaai.org/KDD/1996/KDD96-014.pdf](https://cdn.aaai.org/KDD/1996/KDD96-014.pdf)  
-31. Introduction to Data Mining and KDD Process \- School of Engineering and Computer Science \- Victoria University of Wellington, accessed April 8, 2026, [https://homepages.ecs.vuw.ac.nz/\~yimei/resources/COMP422/week01.pdf](https://homepages.ecs.vuw.ac.nz/~yimei/resources/COMP422/week01.pdf)  
-32. Understanding Clustering: K-Means, Hierarchical, DBSCAN | by Andres Felipe Tellez Yepes, accessed April 8, 2026, [https://medium.com/@andres.tellez/understanding-clustering-k-means-hierarchical-dbscan-997211c9a907](https://medium.com/@andres.tellez/understanding-clustering-k-means-hierarchical-dbscan-997211c9a907)  
-33. 2.3. Clustering – scikit-learn 1.8.0 documentation, accessed April 8, 2026, [https://scikit-learn.org/stable/modules/clustering.html](https://scikit-learn.org/stable/modules/clustering.html)  
-34. Clustering algorithms: A comparative approach \- PMC \- NIH, accessed April 8, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC6333366/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6333366/)  
-35. Ensemble Learning in Machine Learning: Bagging, Boosting and Stacking | by Sumbatilinda, accessed April 8, 2026, [https://medium.com/@sumbatilinda/ensemble-learning-in-machine-learning-bagging-boosting-and-stacking-a00c6bae971f](https://medium.com/@sumbatilinda/ensemble-learning-in-machine-learning-bagging-boosting-and-stacking-a00c6bae971f)  
-36. What is Ensemble Learning? | Bagging, Boosting, Stacking | SabrePC Blog, accessed April 8, 2026, [https://www.sabrepc.com/blog/deep-learning-and-ai/what-is-ensemble-learning-bagging-boosting-stacking](https://www.sabrepc.com/blog/deep-learning-and-ai/what-is-ensemble-learning-bagging-boosting-stacking)  
-37. Bagging, Boosting and Stacking: Ensemble Learning in ML Models \- Analytics Vidhya, accessed April 8, 2026, [https://www.analyticsvidhya.com/blog/2023/01/ensemble-learning-methods-bagging-boosting-and-stacking/](https://www.analyticsvidhya.com/blog/2023/01/ensemble-learning-methods-bagging-boosting-and-stacking/)  
-38. Feature selection \- Wikipedia, accessed April 8, 2026, [https://en.wikipedia.org/wiki/Feature\_selection](https://en.wikipedia.org/wiki/Feature_selection)  
-39. Day 33: Feature Selection Techniques – Filter, Wrapper, and Embedded Methods \- Medium, accessed April 8, 2026, [https://medium.com/@bhatadithya54764118/day-33-feature-selection-techniques-filter-wrapper-and-embedded-methods-00fb2bd04aa3](https://medium.com/@bhatadithya54764118/day-33-feature-selection-techniques-filter-wrapper-and-embedded-methods-00fb2bd04aa3)  
-40. Evaluating Filter, Wrapper, and Embedded Feature Selection Approaches for Encrypted Video Traffic Classification \- MDPI, accessed April 8, 2026, [https://www.mdpi.com/2079-9292/14/18/3587](https://www.mdpi.com/2079-9292/14/18/3587)  
-41. accessed April 8, 2026, [https://scikit-learn.org/stable/modules/cross\_validation.html\#:\~:text=KFold%20divides%20all%20the%20samples,out%20is%20used%20for%20test.\&text=Here%20is%20a%20visualization%20of%20the%20cross%2Dvalidation%20behavior.](https://scikit-learn.org/stable/modules/cross_validation.html#:~:text=KFold%20divides%20all%20the%20samples,out%20is%20used%20for%20test.&text=Here%20is%20a%20visualization%20of%20the%20cross%2Dvalidation%20behavior.)  
-42. Cross-validation (statistics) \- Wikipedia, accessed April 8, 2026, [https://en.wikipedia.org/wiki/Cross-validation\_(statistics)](https://en.wikipedia.org/wiki/Cross-validation_\(statistics\))  
-43. Leave One Out, K Fold, Stratified, and Time Series Cross Validation Techniques | by Chanaka Prasanna | Medium, accessed April 8, 2026, [https://medium.com/@chanakapinfo/cross-validation-explained-leave-one-out-k-fold-stratified-and-time-series-cross-validation-0b59a16f2223](https://medium.com/@chanakapinfo/cross-validation-explained-leave-one-out-k-fold-stratified-and-time-series-cross-validation-0b59a16f2223)  
-44. Bayesian Inference: An Introduction to Principles and Practice in Machine Learning, accessed April 8, 2026, [https://ics.uci.edu/\~smyth/courses/cs274/readings/bayesian\_regression\_overview.pdf](https://ics.uci.edu/~smyth/courses/cs274/readings/bayesian_regression_overview.pdf)  
-45. Bayes' formula: a powerful but counterintuitive tool for medical decision-making \- PMC, accessed April 8, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC7808025/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7808025/)  
-46. Posterior probability: Significance and symbolism, accessed April 8, 2026, [https://www.wisdomlib.org/concept/posterior-probability](https://www.wisdomlib.org/concept/posterior-probability)  
-47. Bayesian machine learning | DataRobot Blog, accessed April 8, 2026, [https://www.datarobot.com/blog/bayesian-machine-learning/](https://www.datarobot.com/blog/bayesian-machine-learning/)  
-48. Bayesian Inference \- Introduction to Machine Learning \- Wolfram, accessed April 8, 2026, [https://www.wolfram.com/language/introduction-machine-learning/bayesian-inference/](https://www.wolfram.com/language/introduction-machine-learning/bayesian-inference/)  
-49. RDF Knowledge Graphs: Structure & Benefits \- PuppyGraph, accessed April 8, 2026, [https://www.puppygraph.com/blog/rdf-knowledge-graph](https://www.puppygraph.com/blog/rdf-knowledge-graph)  
-50. Ontology (information science) \- Wikipedia, accessed April 8, 2026, [https://en.wikipedia.org/wiki/Ontology\_(information\_science)](https://en.wikipedia.org/wiki/Ontology_\(information_science\))  
-51. RDF and SPARQL: Using Semantic Web Technology to Integrate the World's Data \- W3C, accessed April 8, 2026, [https://www.w3.org/2007/03/VLDB/](https://www.w3.org/2007/03/VLDB/)  
-52. Ontology and Information Systems \- Stanford Encyclopedia of Philosophy, accessed April 8, 2026, [https://plato.stanford.edu/entries/ontology-is/](https://plato.stanford.edu/entries/ontology-is/)  
-53. Visualization Best Practices \- University Data, Analytics, and Institutional Research, accessed April 8, 2026, [https://udair.missouri.edu/visualization-chart-best-practices/](https://udair.missouri.edu/visualization-chart-best-practices/)  
-54. Data Visualization Tips and Best Practices | Tableau, accessed April 8, 2026, [https://www.tableau.com/visualization/data-visualization-best-practices](https://www.tableau.com/visualization/data-visualization-best-practices)  
-55. BEST PRACTICES \- for Data Visualization \- CSTE Learn, accessed April 8, 2026, [https://learn.cste.org/images/dH42Qhmof6nEbdvwIIL6F4zvNjU1NzA0MjAxMTUy/CSTE\_Public\_Health\_Drug\_Overdose\_Surveillance\_Training\_Series\_for\_LocalTerritorial\_Jurisdictions/Lesson\_3/Data\_Visualization\_Best\_Practices\_FINAL.pdf](https://learn.cste.org/images/dH42Qhmof6nEbdvwIIL6F4zvNjU1NzA0MjAxMTUy/CSTE_Public_Health_Drug_Overdose_Surveillance_Training_Series_for_LocalTerritorial_Jurisdictions/Lesson_3/Data_Visualization_Best_Practices_FINAL.pdf)  
-56. Top 10 Proven Data Visualization Best Practices \- GoodData, accessed April 8, 2026, [https://www.gooddata.com/blog/5-data-visualization-best-practices/](https://www.gooddata.com/blog/5-data-visualization-best-practices/)  
-57. Principles of Effective Data Visualization \- PMC \- NIH, accessed April 8, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC7733875/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7733875/)
+1. Pure rewrite.  
+2. No em dash.  
+3. No Oxford comma.  
 
 </div>
 </details>
