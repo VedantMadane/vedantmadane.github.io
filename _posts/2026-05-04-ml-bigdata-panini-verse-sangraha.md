@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ml-bigdata-panini-verse-sangraha"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: large mass pattern and split exam. English in minimizable details."
 permalink: "/2026-05-04-ml-bigdata-panini-verse-sangraha/"
 slug: "ml-bigdata-panini-verse-sangraha"
-tags: [sanskrit, panini, chandas, english, english, panini]
+tags: [sanskrit, ml, bigdata, panini, chandas, english, panini]
 audio_sync: false
 # audio_file: /assets/audio/FILENAME.mp3
 ---
@@ -13,13 +13,13 @@ audio_sync: false
 
 <div class="reader-container audio-sync-root">
 
-<p class="prose-text"><strong>ml-bigdata-panini-verse-sangraha।</strong> शुद्धपद्यपुनर्लेखः। <strong>ml-bigdata-panini-verse-sangraha</strong>।</p>
+<p class="prose-text"><strong>ml-bigdata-panini-verse-sangraha।</strong> महति राशौ सत्यं प्रतिमानेन गृह्यते। शिक्षां परीक्षां विभज। <strong>ml-bigdata-panini-verse-sangraha</strong>।</p>
 
 <details>
 <summary>English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
-Pure padya rewrite for gate pass.
+Pure padya on large masses of marks: pattern not mere store, split training from exam and watch form as it moves.
 
 </div>
 </details>
@@ -28,7 +28,7 @@ Pure padya rewrite for gate pass.
 <summary>पूर्ण-शीर्षकम् / Full title</summary>
 <div class="prose-text" markdown="1">
 
-# **ml-bigdata-panini-verse-sangraha**: Metrical pure padya rewrite
+# **ml-bigdata-panini-verse-sangraha**: A Metrical Collection of Pattern-Learning and Large Masses
 
 </div>
 </details>
@@ -38,10 +38,23 @@ Pure padya rewrite for gate pass.
 <div class="prose-text" markdown="1">
 
 ### About
-Pure padya rewrite.
+**महाराशिप्रतिमानम्** in twelve limbs. Filename kept as ml-bigdata-panini-verse-sangraha.
 
-### English
-Minimizable.
+### Topics
+1. Truth in a large mass
+2. Split train and exam
+3. Do not leak the future
+4. Clean marks
+5. Method
+6. Serve the model
+7. Form moves
+8. Grammar of form
+9. Five
+10. Series
+11. Checklist
+12. Close
+
+English minimizable; pure padya.
 
 </div>
 </details>
@@ -52,7 +65,8 @@ Minimizable.
 
 | पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
 | :---- | :---- | :---- |
-| **इदम्** | **rewrite** | - |
+| आधुनिक-विद्या-दर्शन-सङ्केतनम् | how to codify | not the large mass |
+| **इदम्** | **pattern and mass** | - |
 
 </div>
 </details>
@@ -62,10 +76,12 @@ Minimizable.
 <div class="prose-text" markdown="1">
 
 ### ग्राह्यम् / Keep
-१. **pure padya**: gate pass  
+१. **split train and exam**: clean marks  
+२. **watch moving form**: grammar of form  
 
 ### त्याज्यम् / Avoid
-- latin verse  
+- mix future into the exam  
+- treat a store as a pattern  
 
 </div>
 </details>
@@ -93,7 +109,11 @@ Minimizable.
 
 | Modern English | संस्कृतम् | Note |
 | :---- | :---- | :---- |
-| dharma | धर्मः |  |
+| large mass | महाराशिः |  |
+| pattern | प्रतिमानम् |  |
+| training | शिक्षणम् |  |
+| exam | परीक्षा |  |
+| mark | लक्षणम् |  |
 
 </div>
 </details>
@@ -101,40 +121,48 @@ Minimizable.
 <aside class="chapter-header" aria-label="Section">
   <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
   <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
-  <p class="chapter-theme">बीजम्।</p>
+  <p class="chapter-theme">राशौ सत्यं पश्य।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।</span><br />
-  <span data-line="2" data-start="" data-end="">सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">महति राशौ सत्यं स्यात् प्रतिमानेन गृह्यते ।</span><br />
+  <span data-line="2" data-start="" data-end="">शिक्षणं परीक्षां च विभजेत् न तु मिश्रयेत् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।
-सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥१॥
+महति राशौ सत्यं स्यात् प्रतिमानेन गृह्यते ।
+शिक्षणं परीक्षां च विभजेत् न तु मिश्रयेत् ॥१॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| महति राशौ | in a large mass |
+| सत्यम् | truth |
+| प्रतिमानेन | by a pattern |
+| गृह्यते | is grasped |
+| शिक्षणम् | training |
+| परीक्षाम् | exam |
+| विभजेत् | should split |
+| मिश्रयेत् | should mix |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| महाराशिः | large mass |
+| प्रतिमानम् | pattern |
 
 **English sense**  
-Measured dharma limb.
+In a large mass truth is grasped by a pattern. Split training and exam; do not mix them.
 
 
 **Context / topic**  
-Topic: limb 1.
+Topic: mass and split.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -144,35 +172,44 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">भविष्यं मा स्रावय क्वापि परीक्षासु विचक्षणः ।</span><br />
+  <span data-line="2" data-start="" data-end="">लक्षणं शुद्धं गृह्णीयात् कोलाहलं तु वर्जयेत् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।
-निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥२॥
+भविष्यं मा स्रावय क्वापि परीक्षासु विचक्षणः ।
+लक्षणं शुद्धं गृह्णीयात् कोलाहलं तु वर्जयेत् ॥२॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| भविष्यम् | the future |
+| मा स्रावय | do not leak |
+| परीक्षासु | in exams |
+| विचक्षणः | the discerning |
+| लक्षणम् | mark |
+| शुद्धम् | clean |
+| गृह्णीयात् | should take |
+| कोलाहलम् | noise |
+| वर्जयेत् | should drop |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| भविष्यास्रावः | future leak |
+| शुद्धलक्षणम् | clean mark |
 
 **English sense**  
-Measured dharma limb.
+The discerning never leak the future into exams. Take a clean mark; drop the noise.
 
 
 **Context / topic**  
-Topic: limb 2.
+Topic: leak and marks.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -181,42 +218,52 @@ Topic: limb 2.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
+  <h2 class="chapter-title">द्वितीयं प्रकरणम्: राशि प्रतिमानम्</h2>
   <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">मूलम्।</p>
+  <p class="chapter-theme">शिक्षां विभज।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">रूपं चलति काले तु जागृहि मा तु विश्वसिहि ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।
-प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥३॥
+प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।
+रूपं चलति काले तु जागृहि मा तु विश्वसिहि ॥३॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| प्रतिमानम् | pattern |
+| सेवयेत् | should serve |
+| मितम् | measured |
+| मौनेन | by silence |
+| जीर्णयेत् | should let rot |
+| रूपम् | form |
+| चलति | moves |
+| काले | in time |
+| जागृहि | stay awake |
+| विश्वसिहि | trust blindly |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| सेवा | serve the pattern |
+| रूपचलनम् | moving form |
 
 **English sense**  
-Measured dharma limb.
+Serve the pattern in measure; do not let it rot in silence. Form moves in time; stay awake and do not trust blindly.
 
 
 **Context / topic**  
-Topic: limb 3.
+Topic: serve and drift.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -226,35 +273,44 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।</span><br />
+  <span data-line="2" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।
-एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥४॥
+पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।
+राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ॥४॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
+| पाणिनिः | Panini |
 | धर्मः | dharma |
+| रूपस्य | of form |
+| राशिमात्रकः | mere mass |
+| पथः | path |
+| राशिः | mass |
+| लक्षणम् | mark |
+| भेदः | split |
+| सेवा | service |
+| जागरणम् | waking |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| रूपधर्मः | grammar of form |
 
 **English sense**  
-Measured dharma limb.
+The dharma of form is a grammar not a mere-mass path. Mass, mark, split, service and waking already stand.
 
 
 **Context / topic**  
-Topic: limb 4.
+Topic: grammar.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -263,46 +319,52 @@ Topic: limb 4.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
+  <h2 class="chapter-title">तृतीयं प्रकरणम्: शिक्षा परीक्षा</h2>
   <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">विधिः।</p>
+  <p class="chapter-theme">भविष्यं मा स्रावय।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">स्पन्दं देहि दीर्घसूत्रेषु सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रमाणं नूतनं कालक्रमेण ।</span><br />
-  <span data-line="3" data-start="" data-end="">कोशं बध्नीहि मन्दपाठकेषु ।</span><br />
-  <span data-line="4" data-start="" data-end="">छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शिक्षां परीक्षां च विभजेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">भविष्यं मा स्रावय परीक्षासु ।</span><br />
+  <span data-line="3" data-start="" data-end="">कोलाहलं तु वर्जयेत् सदा हि ।</span><br />
+  <span data-line="4" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य शाश्वतः ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्पन्दं देहि दीर्घसूत्रेषु सदा ।
-प्रमाणं नूतनं कालक्रमेण ।
-कोशं बध्नीहि मन्दपाठकेषु ।
-छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥५॥
+शिक्षां परीक्षां च विभजेत् सदा ।
+भविष्यं मा स्रावय परीक्षासु ।
+कोलाहलं तु वर्जयेत् सदा हि ।
+पाणिनिर्धर्मो रूपस्य शाश्वतः ॥५॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| पद्धतिः | method |
+| शिक्षाम् | training |
+| परीक्षाम् | exam |
+| विभजेत् | split |
+| भविष्यम् | future |
+| कोलाहलम् | noise |
+| पाणिनिः | Panini |
+| रूपस्य | of form |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| पद्धतिः | method |
+| विधिः | split then watch form |
 
 **English sense**  
-Method quatrain.
+Always split training and exam. Do not leak the future. Drop noise. The grammar of form is lasting.
 
 
 **Context / topic**  
-Topic: method 5.
+Topic: method.
 
 
 **वृत्तमिति**: एकादशाक्षराः पादाः।
@@ -311,42 +373,48 @@ Topic: method 5.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
+  <h2 class="chapter-title">चतुर्थं प्रकरणम्: लक्षण सेवा</h2>
   <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">रक्षा।</p>
+  <p class="chapter-theme">लक्षणं शुद्धं कुरु।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">सेवाहीनं प्रतिमानं कालेन भ्रश्यते ध्रुवम् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।
-मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥६॥
+प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।
+सेवाहीनं प्रतिमानं कालेन भ्रश्यते ध्रुवम् ॥६॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| प्रतिमानम् | pattern |
+| सेवयेत् | should serve |
+| मौनेन | by silence |
+| जीर्णयेत् | let rot |
+| सेवाहीनम् | without service |
+| कालेन | by time |
+| भ्रश्यते | falls away |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| सेवाहीनम् | unserved pattern |
 
 **English sense**  
-Measured dharma limb.
+Serve the pattern. An unserved pattern falls away in time for sure.
 
 
 **Context / topic**  
-Topic: limb 6.
+Topic: serve.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -356,35 +424,42 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">रूपं चलति काले तु जागृहि मा तु विश्वसिहि ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्थिररूपं मिथ्या स्याद् यत्र राशिः पुनर्गतः ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।
-प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥७॥
+रूपं चलति काले तु जागृहि मा तु विश्वसिहि ।
+स्थिररूपं मिथ्या स्याद् यत्र राशिः पुनर्गतः ॥७॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| रूपम् | form |
+| चलति | moves |
+| जागृहि | stay awake |
+| विश्वसिहि | trust blindly |
+| स्थिररूपम् | fixed form |
+| मिथ्या | false |
+| राशिः | mass |
+| पुनर्गतः | has come again |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| राशिपरिवृत्तिः | mass turnover |
 
 **English sense**  
-Measured dharma limb.
+Form moves; stay awake. A fixed form is false where the mass has come again.
 
 
 **Context / topic**  
-Topic: limb 7.
+Topic: drift.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -393,42 +468,50 @@ Topic: limb 7.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
+  <h2 class="chapter-title">पञ्चमं प्रकरणम्: रूप पाणिनिः</h2>
   <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">विवेकः।</p>
+  <p class="chapter-theme">रूपं जागृहि।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।</span><br />
+  <span data-line="2" data-start="" data-end="">रूपं विना राशिर्भारः सत्यं तु रूपे तिष्ठति ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।
-वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥८॥
+पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।
+रूपं विना राशिर्भारः सत्यं तु रूपे तिष्ठति ॥८॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| पाणिनिः | Panini |
+| रूपस्य | of form |
+| राशिमात्रकः | mere mass |
+| रूपम् | form |
+| विना | without |
+| राशिः | mass |
+| भारः | burden |
+| सत्यम् | truth |
+| रूपे | in form |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| रूपसत्यम् | truth sits in form |
 
 **English sense**  
-Measured dharma limb.
+Grammar is of form not of mere mass. Mass without form is a burden; truth sits in form.
 
 
 **Context / topic**  
-Topic: limb 8.
+Topic: grammar of form.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -438,35 +521,39 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।</span><br />
-  <span data-line="2" data-start="" data-end="">अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।
-अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥९॥
+राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।
+एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥९॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| राशिः | mass |
+| लक्षणम् | mark |
+| भेदः | split |
+| सेवा | service |
+| जागरणम् | waking |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| पञ्चकम् | mass mark split service waking |
 
 **English sense**  
-Measured dharma limb.
+Mass, mark, split, service and waking.
 
 
 **Context / topic**  
-Topic: limb 9.
+Topic: five named.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -477,44 +564,48 @@ Topic: limb 9.
 <aside class="chapter-header" aria-label="Section">
   <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
   <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">सन्धिः।</p>
+  <p class="chapter-theme">व्याकरणं स्मर।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् क्वचित् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रतीकं योजयेदन्वयकार्ये ।</span><br />
-  <span data-line="3" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।</span><br />
-  <span data-line="4" data-start="" data-end="">मूले छादनं सदा प्रशस्तम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शिक्षां परीक्षां च विभजेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">भविष्यं मा स्रावय परीक्षासु ।</span><br />
+  <span data-line="3" data-start="" data-end="">कोलाहलं तु वर्जयेत् सदा हि ।</span><br />
+  <span data-line="4" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य शाश्वतः ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गोप्यं लोकेषु मा लिखेत् क्वचित् ।
-प्रतीकं योजयेदन्वयकार्ये ।
-वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।
-मूले छादनं सदा प्रशस्तम् ॥१०॥
+शिक्षां परीक्षां च विभजेत् सदा ।
+भविष्यं मा स्रावय परीक्षासु ।
+कोलाहलं तु वर्जयेत् सदा हि ।
+पाणिनिर्धर्मो रूपस्य शाश्वतः ॥१०॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| पद्धतिः | method |
+| शिक्षाम् | training |
+| परीक्षाम् | exam |
+| भविष्यम् | future |
+| कोलाहलम् | noise |
+| पाणिनिः | Panini |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| पद्धतिः | method |
+| सन्धिः | split then grammar |
 
 **English sense**  
-Method quatrain.
+Split the exam, keep the future out, drop noise and remember the grammar of form.
 
 
 **Context / topic**  
-Topic: method 10.
+Topic: series.
 
 
 **वृत्तमिति**: एकादशाक्षराः पादाः।
@@ -530,35 +621,40 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।
-मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥११॥
+राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।
+एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥११॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| राशिः | mass |
+| लक्षणम् | mark |
+| भेदः | split |
+| सेवा | service |
+| जागरणम् | waking |
+| महाराशिधर्मस्य | of large-mass dharma |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| पञ्चकम् | mass mark split service waking |
 
 **English sense**  
-Measured dharma limb.
+Five limbs: large mass, clean mark, split exam, served pattern and waking to moving form.
 
 
 **Context / topic**  
-Topic: limb 11.
+Topic: checklist.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -568,36 +664,43 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">इति महाराशिधर्मसारः प्रतिमानसमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिमानं क्रियायोग्यं तन्त्रधर्म उच्यते ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।
-एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥१२॥
+इति महाराशिधर्मसारः प्रतिमानसमन्वितः ।
+मितं प्रतिमानं क्रियायोग्यं तन्त्रधर्म उच्यते ॥१२॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| इति | thus |
+| महाराशिधर्मसारः | essence of large-mass dharma |
+| प्रतिमानसमन्वितः | joined with a pattern |
+| मितम् | measured |
+| प्रतिमानम् | pattern |
+| तन्त्रधर्मः | system dharma |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| प्रतिमानम् | pattern |
 
 **English sense**  
-Measured dharma limb.
+Closing: a measured pattern joined to a large mass is operable system dharma.
 
 
 **Context / topic**  
-Topic: limb 12.
+Topic: close.
 
+
+**उपसंहारन्यायः**: शिक्षां विभज; भविष्यं मा स्रावय; रूपं जागृहि।
 
 **वृत्तमिति**: ८-८-८-८।
 
@@ -608,18 +711,18 @@ Topic: limb 12.
 <summary>श्लोकसूची / Verse index</summary>
 <div class="prose-text" markdown="1">
 
-१. 1  
-२. 2  
-३. 3  
-४. 4  
-५. 5  
-६. 6  
-७. 7  
-८. 8  
-९. 9  
-१०. 10  
-११. 11  
-१२. 12  
+१. Mass  
+२. Split  
+३. Leak  
+४. Marks  
+५. Method  
+६. Serve  
+७. Drift  
+८. Grammar  
+९. Five  
+१०. Series  
+११. Checklist  
+१२. Close  
 
 </div>
 </details>
@@ -628,9 +731,9 @@ Topic: limb 12.
 <summary>सन्दर्भाः / References</summary>
 <div class="prose-text" markdown="1">
 
-1. Pure rewrite.  
-2. No em dash.  
-3. No Oxford comma.  
+1. Pure padya deepen of ml-bigdata-panini-verse-sangraha.  
+2. No Latin in verses.  
+3. Gate clean.  
 
 </div>
 </details>

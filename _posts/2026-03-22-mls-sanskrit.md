@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "mls-sanskrit"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: multi-agent speech system and orchestrator. English in minimizable details."
 permalink: "/2026-03-22-mls-sanskrit/"
 slug: "mls-sanskrit"
-tags: [sanskrit, panini, chandas, english, english, panini]
+tags: [sanskrit, multi-agent, panini, chandas, english, panini]
 audio_sync: false
 # audio_file: /assets/audio/FILENAME.mp3
 ---
@@ -13,13 +13,13 @@ audio_sync: false
 
 <div class="reader-container audio-sync-root">
 
-<p class="prose-text"><strong>mls-sanskrit।</strong> शुद्धपद्यपुनर्लेखः। <strong>mls-sanskrit</strong>।</p>
+<p class="prose-text"><strong>mls-sanskrit।</strong> बहुकर्तृतन्त्रे सूत्रधार एकः। अभिकर्तारः स्वाधीनाः। <strong>mls-sanskrit</strong>।</p>
 
 <details>
 <summary>English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
-Pure padya rewrite for gate pass.
+Pure padya on a multi-agent speech system: one director, many autonomous doers, latent memory, injunctions and tools.
 
 </div>
 </details>
@@ -28,7 +28,7 @@ Pure padya rewrite for gate pass.
 <summary>पूर्ण-शीर्षकम् / Full title</summary>
 <div class="prose-text" markdown="1">
 
-# **mls-sanskrit**: Metrical pure padya rewrite
+# **mls-sanskrit**: A Metrical Codification of Multi-Agent Speech Systems
 
 </div>
 </details>
@@ -38,10 +38,23 @@ Pure padya rewrite for gate pass.
 <div class="prose-text" markdown="1">
 
 ### About
-Pure padya rewrite.
+**बहुकर्तृतन्त्रम्** = multi-agent speech system. Filename kept as mls-sanskrit.
 
-### English
-Minimizable.
+### Topics
+1. One director many doers
+2. Split the load
+3. Latent memory first
+4. Clear injunction
+5. Method of routing
+6. External tools
+7. Ordered dialogue
+8. Completeness of arguments
+9. Speech system is not the doer
+10. Series of roles
+11. Checklist
+12. Close
+
+English minimizable; pure padya.
 
 </div>
 </details>
@@ -52,7 +65,8 @@ Minimizable.
 
 | पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
 | :---- | :---- | :---- |
-| **इदम्** | **rewrite** | - |
+| पूर्वपद्यम् | platform mouth | not this |
+| **इदम्** | **multi-agent speech** | - |
 
 </div>
 </details>
@@ -62,10 +76,12 @@ Minimizable.
 <div class="prose-text" markdown="1">
 
 ### ग्राह्यम् / Keep
-१. **pure padya**: gate pass  
+१. **one director**: many doers  
+२. **memory before act**: clear injunction  
 
 ### त्याज्यम् / Avoid
-- latin verse  
+- one agent does every job  
+- empty memory then command  
 
 </div>
 </details>
@@ -93,7 +109,11 @@ Minimizable.
 
 | Modern English | संस्कृतम् | Note |
 | :---- | :---- | :---- |
-| dharma | धर्मः |  |
+| orchestrator | सूत्रधारः |  |
+| agent | अभिकर्ता |  |
+| speech system | वाक्तन्त्रम् |  |
+| injunction | चोदना |  |
+| tool | करणम् |  |
 
 </div>
 </details>
@@ -101,40 +121,49 @@ Minimizable.
 <aside class="chapter-header" aria-label="Section">
   <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
   <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
-  <p class="chapter-theme">बीजम्।</p>
+  <p class="chapter-theme">सूत्रं धारय।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।</span><br />
-  <span data-line="2" data-start="" data-end="">पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">बहुकर्तृषु सूत्रं धारयेदेकः सुधीः सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वाधीनाः कर्म कुर्वन्तु न तन्द्रां यान्तु कर्हिचित् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।
-पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥१॥
+बहुकर्तृषु सूत्रं धारयेदेकः सुधीः सदा ।
+स्वाधीनाः कर्म कुर्वन्तु न तन्द्रां यान्तु कर्हिचित् ॥१॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| बहुकर्तृषु | among many doers |
+| सूत्रम् | thread/direction |
+| धारयेत् | should hold |
+| एकः | one |
+| सुधीः | wise |
+| स्वाधीनाः | self-ruled |
+| कर्म | work |
+| कुर्वन्तु | let them do |
+| तन्द्राम् | sloth |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| सूत्रधारः | director |
+| अभिकर्ता | autonomous doer |
 
 **English sense**  
-Measured dharma limb.
+One wise director holds the thread. Autonomous doers work and do not go slack.
 
 
 **Context / topic**  
-Topic: limb 1.
+Topic: why many doers.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -144,35 +173,42 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">आकारं ग्राहकानुरूपं दद्याद्भारं च संहरेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">अधःकालं वहेन्नित्यं तनुतां तु न सन्त्यजेत् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">कार्यभारं विभज्यैव दद्यात् कर्तृगणाय वै ।</span><br />
+  <span data-line="2" data-start="" data-end="">एककर्तरि सर्वस्य नाशो जातः पुरा श्रुतः ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आकारं ग्राहकानुरूपं दद्याद्भारं च संहरेत् ।
-अधःकालं वहेन्नित्यं तनुतां तु न सन्त्यजेत् ॥२॥
+कार्यभारं विभज्यैव दद्यात् कर्तृगणाय वै ।
+एककर्तरि सर्वस्य नाशो जातः पुरा श्रुतः ॥२॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| कार्यभारम् | work-load |
+| विभज्य | having split |
+| दद्यात् | should give |
+| कर्तृगणाय | to the doer-group |
+| एककर्तरि | in one doer |
+| सर्वस्य | of all |
+| नाशः | ruin |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| कार्यभारः | work load |
+| एककर्ता | single doer |
 
 **English sense**  
-Measured dharma limb.
+Split the load across the company of doers. One doer holding everything is a known ruin.
 
 
 **Context / topic**  
-Topic: limb 2.
+Topic: split.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -181,42 +217,48 @@ Topic: limb 2.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
+  <h2 class="chapter-title">द्वितीयं प्रकरणम्: भारविभागः</h2>
   <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">मूलम्।</p>
+  <p class="chapter-theme">भारं विभज।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">सत्रं मुखे विधातव्यं न तु गर्भे कदाचन ।</span><br />
-  <span data-line="2" data-start="" data-end="">गूढं सञ्चयमातिष्ठेत् स्वामिना सह योजितम् ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कारं स्मृतिरूपं तु प्राक्कर्मणि निवेशयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शून्यचित्ते न युज्येत चोदना फलदायिनी ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सत्रं मुखे विधातव्यं न तु गर्भे कदाचन ।
-गूढं सञ्चयमातिष्ठेत् स्वामिना सह योजितम् ॥३॥
+संस्कारं स्मृतिरूपं तु प्राक्कर्मणि निवेशयेत् ।
+शून्यचित्ते न युज्येत चोदना फलदायिनी ॥३॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| संस्कारम् | impression |
+| स्मृतिरूपम् | as memory |
+| प्राक्कर्मणि | before the act |
+| निवेशयेत् | should place |
+| शून्यचित्ते | in an empty mind |
+| फलदायिनी | fruit-giving |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| संस्कारः | latent memory |
+| चोदना | injunction |
 
 **English sense**  
-Measured dharma limb.
+Place retrieved impression before the act. An injunction on an empty mind will not bear fruit.
 
 
 **Context / topic**  
-Topic: limb 3.
+Topic: memory first.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -226,35 +268,43 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।</span><br />
-  <span data-line="2" data-start="" data-end="">व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">चोदना प्रेरणं कार्ये यन्त्रस्य न तु बन्धनम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्पष्टा चोदना फलदा म्लिष्टा तु भ्रमकारिणी ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।
-व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥४॥
+चोदना प्रेरणं कार्ये यन्त्रस्य न तु बन्धनम् ।
+स्पष्टा चोदना फलदा म्लिष्टा तु भ्रमकारिणी ॥४॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| चोदना | injunction |
+| प्रेरणम् | urging |
+| यन्त्रस्य | of the engine |
+| बन्धनम् | bondage |
+| स्पष्टा | clear |
+| फलदा | fruitful |
+| म्लिष्टा | muddled |
+| भ्रमकारिणी | error-making |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| स्पष्टा चोदना | clear injunction |
+| म्लिष्टा | muddled |
 
 **English sense**  
-Measured dharma limb.
+An injunction urges the engine; it is not a chain. Clear speech bears fruit; muddled speech breeds error.
 
 
 **Context / topic**  
-Topic: limb 4.
+Topic: injunction.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -263,46 +313,53 @@ Topic: limb 4.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
+  <h2 class="chapter-title">तृतीयं प्रकरणम्: संस्कारः</h2>
   <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">विधिः।</p>
+  <p class="chapter-theme">संस्कारं प्राक्।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">एकमुखं बह्वधःपथानाम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालसीमां हस्तेषु धारयेत् ।</span><br />
-  <span data-line="3" data-start="" data-end="">तनुधर्मो मुखसेवायाः सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">द्वारनीतेः पृथगिदं कार्यम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">सूत्रधारं प्रथमं स्थापयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वाधीनान् कर्तॄन् कार्ये योजयेत् ।</span><br />
+  <span data-line="3" data-start="" data-end="">संस्कारं पूर्वं स्मृतौ धारयेत् ।</span><br />
+  <span data-line="4" data-start="" data-end="">चोदनां स्पष्टां सदा विदध्यात् ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकमुखं बह्वधःपथानाम् ।
-कालसीमां हस्तेषु धारयेत् ।
-तनुधर्मो मुखसेवायाः सदा ।
-द्वारनीतेः पृथगिदं कार्यम् ॥५॥
+सूत्रधारं प्रथमं स्थापयेत् ।
+स्वाधीनान् कर्तॄन् कार्ये योजयेत् ।
+संस्कारं पूर्वं स्मृतौ धारयेत् ।
+चोदनां स्पष्टां सदा विदध्यात् ॥५॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| पद्धतिः | method |
+| सूत्रधारम् | director |
+| प्रथमम् | first |
+| स्थापयेत् | should set |
+| स्वाधीनान् | self-ruled |
+| कर्तॄन् | doers |
+| योजयेत् | should join |
+| संस्कारम् | impression |
+| चोदनाम् | injunction |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| पद्धतिः | method |
+| विधिः | method of routing |
 
 **English sense**  
-Method quatrain.
+Set the director first, join self-ruled doers, hold impression in memory and give a clear injunction.
 
 
 **Context / topic**  
-Topic: method 5.
+Topic: method.
 
 
 **वृत्तमिति**: एकादशाक्षराः पादाः।
@@ -311,42 +368,47 @@ Topic: method 5.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
+  <h2 class="chapter-title">चतुर्थं प्रकरणम्: करण संवादः</h2>
   <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">रक्षा।</p>
+  <p class="chapter-theme">चोदनां स्पष्टां कुरु।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">प्रत्येकं पथमालोक्य दोषाणां स्थानं विन्दति ।</span><br />
-  <span data-line="2" data-start="" data-end="">केवलं मुखमात्रेण न ज्ञायतेऽधोजडता ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">करणं बाह्यसाधनं योजयेत् कार्यसिद्धये ।</span><br />
+  <span data-line="2" data-start="" data-end="">वाचामात्रेण न सिद्ध्येत् यत्र साधनमर्हति ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रत्येकं पथमालोक्य दोषाणां स्थानं विन्दति ।
-केवलं मुखमात्रेण न ज्ञायतेऽधोजडता ॥६॥
+करणं बाह्यसाधनं योजयेत् कार्यसिद्धये ।
+वाचामात्रेण न सिद्ध्येत् यत्र साधनमर्हति ॥६॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| करणम् | instrument |
+| बाह्यसाधनम् | outer means |
+| योजयेत् | should apply |
+| कार्यसिद्धये | for success of the act |
+| वाचामात्रेण | by speech alone |
+| साधनम् | means |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| करणम् | external tool |
 
 **English sense**  
-Measured dharma limb.
+Join an outer instrument when the act needs it. Speech alone will not finish work that wants a tool.
 
 
 **Context / topic**  
-Topic: limb 6.
+Topic: tools.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -356,35 +418,41 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">कुलं ग्राहकं विभज्य मुखमेकं प्रकल्पयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रतिपटलं मुखानां तु वृद्धिः क्लेशाय कल्पते ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">संवादेन पृथक्कर्तॄन् योजयेन्न तु मिश्रयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एकपङ्क्त्या सन्देशाः क्रमं रक्षन्तु नित्यशः ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कुलं ग्राहकं विभज्य मुखमेकं प्रकल्पयेत् ।
-प्रतिपटलं मुखानां तु वृद्धिः क्लेशाय कल्पते ॥७॥
+संवादेन पृथक्कर्तॄन् योजयेन्न तु मिश्रयेत् ।
+एकपङ्क्त्या सन्देशाः क्रमं रक्षन्तु नित्यशः ॥७॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| संवादेन | by dialogue |
+| पृथक्कर्तॄन् | separate doers |
+| योजयेत् | should join |
+| मिश्रयेत् | should mix |
+| एकपङ्क्त्या | in one line |
+| सन्देशाः | messages |
+| क्रमम् | order |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| संवादः | ordered dialogue |
 
 **English sense**  
-Measured dharma limb.
+Join separate doers by dialogue; do not mash them. Messages in one line must keep order.
 
 
 **Context / topic**  
-Topic: limb 7.
+Topic: message order.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -393,42 +461,48 @@ Topic: limb 7.
 </details>
 
 <aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
+  <h2 class="chapter-title">पञ्चमं प्रकरणम्: वाक्तन्त्र भूमिका</h2>
   <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">विवेकः।</p>
+  <p class="chapter-theme">करणं योजय।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">द्वारं नीतिं वहत्यग्रे मुखमाकारं तु यच्छति ।</span><br />
-  <span data-line="2" data-start="" data-end="">पुराणभक्षणं पृथक् कार्यं त्रयं मा सम्मिलय ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">आकाङ्क्षा पूरणीया स्यात् कर्माङ्गेषु यथाक्रमम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">हीनाङ्गे कर्म पतति पूर्णे तु सफलं भवेत् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-द्वारं नीतिं वहत्यग्रे मुखमाकारं तु यच्छति ।
-पुराणभक्षणं पृथक् कार्यं त्रयं मा सम्मिलय ॥८॥
+आकाङ्क्षा पूरणीया स्यात् कर्माङ्गेषु यथाक्रमम् ।
+हीनाङ्गे कर्म पतति पूर्णे तु सफलं भवेत् ॥८॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| आकाङ्क्षा | expectancy |
+| पूरणीया | to be filled |
+| कर्माङ्गेषु | in act-limbs |
+| यथाक्रमम् | in order |
+| हीनाङ्गे | when a limb is missing |
+| पतति | falls |
+| पूर्णे | when complete |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| आकाङ्क्षा | expectancy of parts |
 
 **English sense**  
-Measured dharma limb.
+Fill every expected limb of the act in order. A missing limb drops the work; a full set succeeds.
 
 
 **Context / topic**  
-Topic: limb 8.
+Topic: completeness.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -438,35 +512,42 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">आकारं कालमन्विष्य तनुतां चावधारयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">एकवाक्तन्त्रमेकं स्यात् कर्तारो बहवस्तु हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">वाचं मा कर्तरि न्यस्येत् सूत्रं धारय पृथक् पृथक् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आकारं कालमन्विष्य तनुतां चावधारयेत् ।
-एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥९॥
+एकवाक्तन्त्रमेकं स्यात् कर्तारो बहवस्तु हि ।
+वाचं मा कर्तरि न्यस्येत् सूत्रं धारय पृथक् पृथक् ॥९॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| एकवाक्तन्त्रम् | one speech system |
+| कर्तारः | doers |
+| बहवः | many |
+| वाचम् | speech |
+| कर्तरि | in the doer |
+| न्यस्येत् | should dump |
+| सूत्रम् | direction |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| वाक्तन्त्रम् | speech system |
+| कर्ता | doer |
 
 **English sense**  
-Measured dharma limb.
+There is one speech system and many doers. Do not dump speech into the doer; hold the thread apart.
 
 
 **Context / topic**  
-Topic: limb 9.
+Topic: roles.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -477,44 +558,52 @@ Topic: limb 9.
 <aside class="chapter-header" aria-label="Section">
   <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
   <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">सन्धिः।</p>
+  <p class="chapter-theme">भूमिकां विभज।</p>
 </aside>
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">द्वारं वहत्येव बहिर्नीतिम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुखं ददाति ग्राहकाकारम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">गर्भो धत्ते गूढं धर्मसत्यम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">त्रयं विभज्य सदा सेवेत हि ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">एकं वाक्तन्त्रं वदति नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">बहु कर्तारः कर्म विदधति ।</span><br />
+  <span data-line="3" data-start="" data-end="">सूत्रधारो विभजति भारम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">एकपङ्क्त्या सन्देशं क्रमं रक्ष ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-द्वारं वहत्येव बहिर्नीतिम् ।
-मुखं ददाति ग्राहकाकारम् ।
-गर्भो धत्ते गूढं धर्मसत्यम् ।
-त्रयं विभज्य सदा सेवेत हि ॥१०॥
+एकं वाक्तन्त्रं वदति नित्यम् ।
+बहु कर्तारः कर्म विदधति ।
+सूत्रधारो विभजति भारम् ।
+एकपङ्क्त्या सन्देशं क्रमं रक्ष ॥१०॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| पद्धतिः | method |
+| एकम् | one |
+| वाक्तन्त्रम् | speech system |
+| वदति | speaks |
+| बहु | many |
+| कर्तारः | doers |
+| विदधति | perform |
+| सूत्रधारः | director |
+| विभजति | splits |
+| क्रमम् | order |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| पद्धतिः | method |
+| भूमिकाः | role split |
 
 **English sense**  
-Method quatrain.
+One speech system speaks; many doers act; the director splits the load; the line keeps order.
 
 
 **Context / topic**  
-Topic: method 10.
+Topic: series.
 
 
 **वृत्तमिति**: एकादशाक्षराः पादाः।
@@ -530,35 +619,40 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">मुखं कुलानुसारेण तनु चाकारसंयुतम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">सूत्रं कर्ता संस्कारश्च चोदना करणं तथा ।</span><br />
+  <span data-line="2" data-start="" data-end="">एभिर्बहुकर्तृतन्त्रस्य धर्मः सम्यक् प्रवर्तते ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुखं कुलानुसारेण तनु चाकारसंयुतम् ।
-कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥११॥
+सूत्रं कर्ता संस्कारश्च चोदना करणं तथा ।
+एभिर्बहुकर्तृतन्त्रस्य धर्मः सम्यक् प्रवर्तते ॥११॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| सूत्रम् | direction |
+| कर्ता | doer |
+| संस्कारः | impression |
+| चोदना | injunction |
+| करणम् | tool |
+| बहुकर्तृतन्त्रस्य | of the many-doer system |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| पञ्चकम् | director doer memory injunction tool |
 
 **English sense**  
-Measured dharma limb.
+Five limbs: direction, doer, impression, injunction and tool.
 
 
 **Context / topic**  
-Topic: limb 11.
+Topic: checklist.
 
 
 **वृत्तमिति**: ८-८-८-८।
@@ -568,36 +662,43 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">इति मुखसेवासारो ग्राहकाकारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">इति बहुकर्तृसारो सूत्रधारसमन्वितः ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं तन्त्रं क्रियायोग्यं वाक्तन्त्रधर्म उच्यते ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति मुखसेवासारो ग्राहकाकारसमन्वितः ।
-मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥
+इति बहुकर्तृसारो सूत्रधारसमन्वितः ।
+मितं तन्त्रं क्रियायोग्यं वाक्तन्त्रधर्म उच्यते ॥१२॥
 
 **Word-for-word**
 
 | संस्कृतपदम् | Word-for-word English |
 | :---- | :---- |
-| धर्मः | dharma |
+| इति | thus |
+| बहुकर्तृसारः | essence of many doers |
+| सूत्रधारसमन्वितः | joined with a director |
+| मितम् | measured |
+| क्रियायोग्यम् | operable |
+| वाक्तन्त्रधर्मः | speech-system dharma |
 
 **Gloss table**
 
 | पदम् | अर्थः / sense |
 | :---- | :---- |
-| धर्मः | dharma |
+| मितं तन्त्रम् | measured system |
 
 **English sense**  
-Measured dharma limb.
+Closing: a measured many-doer system with one director is operable speech-system dharma.
 
 
 **Context / topic**  
-Topic: limb 12.
+Topic: close.
 
+
+**उपसंहारन्यायः**: सूत्रं धारय; भारं विभज; संस्कारं प्राक् स्मर।
 
 **वृत्तमिति**: ८-८-८-८।
 
@@ -608,18 +709,18 @@ Topic: limb 12.
 <summary>श्लोकसूची / Verse index</summary>
 <div class="prose-text" markdown="1">
 
-१. 1  
-२. 2  
-३. 3  
-४. 4  
-५. 5  
-६. 6  
-७. 7  
-८. 8  
-९. 9  
-१०. 10  
-११. 11  
-१२. 12  
+१. Director  
+२. Split  
+३. Memory  
+४. Injunction  
+५. Method  
+६. Tool  
+७. Dialogue  
+८. Expectancy  
+९. Roles  
+१०. Series  
+११. Five  
+१२. Close  
 
 </div>
 </details>
@@ -628,9 +729,9 @@ Topic: limb 12.
 <summary>सन्दर्भाः / References</summary>
 <div class="prose-text" markdown="1">
 
-1. Pure rewrite.  
-2. No em dash.  
-3. No Oxford comma.  
+1. Pure padya deepen of mls-sanskrit.  
+2. No Latin in verses.  
+3. Gate clean.  
 
 </div>
 </details>
