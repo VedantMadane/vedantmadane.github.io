@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">इति मुखसेवासारो ग्राहकाकारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति पथं सत्ये बध्नीयात् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">इति प्रतिभूति गर्भे धर्मं निवेशयेत् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति मुखसेवासारो ग्राहकाकारसमन्वितः ।
-मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१॥
+प्रतिभूति पथं सत्ये बध्नीयात् नित्यम् ।
+इति प्रतिभूति गर्भे धर्मं निवेशयेत् ॥१॥
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">दीर्घसूत्रे स्पन्दं देहि मृतं मा शङ्कस्व क्वचित् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रमाणं कालक्रमेण नूतनं कुरु सर्वदा ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति मितं कर्मपथं नयेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">प्रतिभूति गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-दीर्घसूत्रे स्पन्दं देहि मृतं मा शङ्कस्व क्वचित् ।
-प्रमाणं कालक्रमेण नूतनं कुरु सर्वदा ॥२॥
+प्रतिभूति मितं कर्मपथं नयेत् सदा ।
+प्रतिभूति गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">आन्तरजालेन विस्तारं कुरु बहुषु सेवकेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">रूपं सन्देशस्य रक्ष संस्करणेन बन्धनम् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति धर्मः कर्मसु स्थिरः नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति भ्रंशं जागरे विद्यात् ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आन्तरजालेन विस्तारं कुरु बहुषु सेवकेषु ।
-रूपं सन्देशस्य रक्ष संस्करणेन बन्धनम् ॥४॥
+प्रतिभूति धर्मः कर्मसु स्थिरः नित्यम् ।
+मितं प्रतिभूति भ्रंशं जागरे विद्यात् ॥४॥
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">सीमां देहि सम्पर्काणां वेगं च सन्देशानाम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">छेदे सङ्केतं ब्रूहि पुनर्बन्धाय सुस्थिरम् ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं प्रतिभूति स्थिरं यत्र जयो भवेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं प्रतिभूति क्रमं पश्यन् धारयेत् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सीमां देहि सम्पर्काणां वेगं च सन्देशानाम् ।
-छेदे सङ्केतं ब्रूहि पुनर्बन्धाय सुस्थिरम् ॥६॥
+नित्यं प्रतिभूति स्थिरं यत्र जयो भवेत् ।
+नित्यं प्रतिभूति क्रमं पश्यन् धारयेत् ॥६॥
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">एतद् प्रतिभूति गर्भे धर्मं निवेशयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति पथं सत्ये बध्नीयात् ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।
-एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥७॥
+एतद् प्रतिभूति गर्भे धर्मं निवेशयेत् ।
+मितं प्रतिभूति पथं सत्ये बध्नीयात् ॥७॥
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति कर्मणि स्वामिनं धरेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति प्रतिमां दूरं रक्षेत् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।
-मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥८॥
+प्रतिभूति कर्मणि स्वामिनं धरेत् सदा ।
+मितं प्रतिभूति प्रतिमां दूरं रक्षेत् ॥८॥
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।</span><br />
-  <span data-line="2" data-start="" data-end="">सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">मितं प्रतिभूति द्वारे शब्दं कुर्यात् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति दोषस्थाने विजानीयात् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।
-सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥९॥
+मितं प्रतिभूति द्वारे शब्दं कुर्यात् सदा ।
+मितं प्रतिभूति दोषस्थाने विजानीयात् ॥९॥
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं प्रतिभूति आधारं पथेषु रक्षेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति मितं कर्मपथं नयेत् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।
-निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥११॥
+नित्यं प्रतिभूति आधारं पथेषु रक्षेत् ।
+मितं प्रतिभूति मितं कर्मपथं नयेत् ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति दीर्घेषु स्पन्दं दद्यात् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">इति प्रतिभूति स्थिरं यत्र जयो भवेत् ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।
-प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥१२॥
+प्रतिभूति दीर्घेषु स्पन्दं दद्यात् नित्यम् ।
+इति प्रतिभूति स्थिरं यत्र जयो भवेत् ॥१२॥
 
 **Word-for-word**
 

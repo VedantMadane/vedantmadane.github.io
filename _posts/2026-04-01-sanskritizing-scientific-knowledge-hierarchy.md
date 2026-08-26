@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कृतीक कर्मणि स्वामिनं धरेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">संस्कृतीक पथं सत्ये बध्नीयात् नित्यम् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।
-निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥१॥
+संस्कृतीक कर्मणि स्वामिनं धरेत् सदा ।
+संस्कृतीक पथं सत्ये बध्नीयात् नित्यम् ॥१॥
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कृतीक प्रतिमां दूरं रक्षेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">संस्कृतीक गुह्यं लोके मा लिखेत् नित्यम् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।
-प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥२॥
+संस्कृतीक प्रतिमां दूरं रक्षेत् नित्यम् ।
+संस्कृतीक गुह्यं लोके मा लिखेत् नित्यम् ॥२॥
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">मितं संस्कृतीक कर्मणि स्वामिनं धरेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">संस्कृतीक निषेधमपि स्मरेत् नित्यम् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।
-एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥३॥
+मितं संस्कृतीक कर्मणि स्वामिनं धरेत् ।
+संस्कृतीक निषेधमपि स्मरेत् नित्यम् ॥३॥
 
 **Word-for-word**
 
@@ -319,7 +319,7 @@ Topic: method 5.
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
   <span data-line="1" data-start="" data-end="">संस्कृतीक परीक्ष्य पश्चात् कुर्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥६॥</span>
+  <span data-line="2" data-start="" data-end="">मितं संस्कृतीक गोप्येषु ह्रस्वं धरेत् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -327,7 +327,7 @@ Topic: method 5.
 
 **पदच्छेदः**  
 संस्कृतीक परीक्ष्य पश्चात् कुर्यात् नित्यम् ।
-प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥६॥
+मितं संस्कृतीक गोप्येषु ह्रस्वं धरेत् ॥६॥
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कृतीक रक्षेत् पुराणपथेऽपि हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं संस्कृतीक रक्षेत् पुराणपथेऽपि ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।
-वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥७॥
+संस्कृतीक रक्षेत् पुराणपथेऽपि हि ।
+मितं संस्कृतीक रक्षेत् पुराणपथेऽपि ॥७॥
 
 **Word-for-word**
 
@@ -439,7 +439,7 @@ Topic: limb 8.
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
   <span data-line="1" data-start="" data-end="">संस्कृतीक फलं शीघ्रं विजानीयात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥९॥</span>
+  <span data-line="2" data-start="" data-end="">संस्कृतीक धर्मः कर्मसु स्थिरः नित्यम् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -447,7 +447,7 @@ Topic: limb 8.
 
 **पदच्छेदः**  
 संस्कृतीक फलं शीघ्रं विजानीयात् सदा ।
-मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥९॥
+संस्कृतीक धर्मः कर्मसु स्थिरः नित्यम् ॥९॥
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कृतीक सारो मितक्रियायुक्तः सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं संस्कृतीक निषेधमपि स्मरेत् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।
-एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥११॥
+संस्कृतीक सारो मितक्रियायुक्तः सदा ।
+मितं संस्कृतीक निषेधमपि स्मरेत् ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">इति गोप्यांशसारो लोपलेखनसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">मितं संस्कृतीक धर्मः कर्मसु स्थिरः हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">संस्कृतीक अनुमतिपथे तिष्ठेत् सदा ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति गोप्यांशसारो लोपलेखनसमन्वितः ।
-मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥
+मितं संस्कृतीक धर्मः कर्मसु स्थिरः हि ।
+संस्कृतीक अनुमतिपथे तिष्ठेत् सदा ॥१२॥
 
 **Word-for-word**
 

@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">सीमां देहि सम्पर्काणां वेगं च सन्देशानाम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">छेदे सङ्केतं ब्रूहि पुनर्बन्धाय सुस्थिरम् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">मितं शास्त्र दोषस्थाने विजानीयात् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं शास्त्र दोषस्थाने विजानीयात् सदा ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सीमां देहि सम्पर्काणां वेगं च सन्देशानाम् ।
-छेदे सङ्केतं ब्रूहि पुनर्बन्धाय सुस्थिरम् ॥१॥
+मितं शास्त्र दोषस्थाने विजानीयात् सदा ।
+नित्यं शास्त्र दोषस्थाने विजानीयात् सदा ॥१॥
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र आयुः पूर्वं पश्येत् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र नूतनं प्रमाणं कुर्यात् सदा ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।
-एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥२॥
+शास्त्र आयुः पूर्वं पश्येत् एव नित्यम् ।
+मितं शास्त्र नूतनं प्रमाणं कुर्यात् सदा ॥२॥
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">एतद् शास्त्र अनुमतिपथे तिष्ठेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं शास्त्र भ्रंशं जागरे विद्यात् नित्यम् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।
-मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥
+एतद् शास्त्र अनुमतिपथे तिष्ठेत् सदा ।
+नित्यं शास्त्र भ्रंशं जागरे विद्यात् नित्यम् ॥३॥
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।</span><br />
-  <span data-line="2" data-start="" data-end="">सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र बीजं शुद्धं रक्षेत् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रमाणपत्रमायुः पश्य पूर्वं नूतनं कुरु ।
-सूचीं धर स्वामिना सह मृत्युं मा विस्मर क्वचित् ॥४॥
+शास्त्र बीजं शुद्धं रक्षेत् एव नित्यम् ।
+मितं शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ॥४॥
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">द्वारं वहत्येव बहिर्नीतिम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुखं ददाति ग्राहकाकारम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">गर्भो धत्ते गूढं धर्मसत्यम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">त्रयं विभज्य सदा सेवेत हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं शास्त्र पथं रक्ष नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं शास्त्र जागरय नित्यम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">शास्त्र सत्यं लिख सदा नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">मितं शास्त्र सत्यं लिख नित्यम् ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-द्वारं वहत्येव बहिर्नीतिम् ।
-मुखं ददाति ग्राहकाकारम् ।
-गर्भो धत्ते गूढं धर्मसत्यम् ।
-त्रयं विभज्य सदा सेवेत हि ॥५॥
+नित्यं शास्त्र पथं रक्ष नित्यम् ।
+नित्यं शास्त्र जागरय नित्यम् ।
+शास्त्र सत्यं लिख सदा नित्यम् ।
+मितं शास्त्र सत्यं लिख नित्यम् ॥५॥
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं शास्त्र निषेधमपि स्मरेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एतद् शास्त्र द्वारे शब्दं कुर्यात् हि नित्यम् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्वयं नूतनं विधेयं दूरं पश्य बहिः स्थितम् ।
-निजं च सार्वजनिकं च स्तरां विभज्य रक्षय ॥६॥
+नित्यं शास्त्र निषेधमपि स्मरेत् नित्यम् ।
+एतद् शास्त्र द्वारे शब्दं कुर्यात् हि नित्यम् ॥६॥
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">इति शास्त्र दोषस्थाने विजानीयात् सदा ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-चोरे निरसनं शीघ्रं कुञ्जीं सुरक्षिते निधेहि ।
-प्रयाणं रुन्धि यदि मृत्युः समीपं वर्तते हि ॥७॥
+नित्यं शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ।
+इति शास्त्र दोषस्थाने विजानीयात् सदा ॥७॥
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं शास्त्र मितं कर्मपथं नयेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">शास्त्र काले द्वारं दद्यात् एव नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।
-एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥८॥
+नित्यं शास्त्र मितं कर्मपथं नयेत् सदा ।
+शास्त्र काले द्वारं दद्यात् एव नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -531,7 +531,7 @@ Topic: method 10.
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
   <span data-line="1" data-start="" data-end="">इति शास्त्र द्वारे शब्दं कुर्यात् हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥११॥</span>
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र गुह्यं लोके मा लिखेत् नित्यम् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -539,7 +539,7 @@ Topic: method 10.
 
 **पदच्छेदः**  
 इति शास्त्र द्वारे शब्दं कुर्यात् हि नित्यम् ।
-प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥११॥
+मितं शास्त्र गुह्यं लोके मा लिखेत् नित्यम् ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">इति शास्त्र निषेधमपि स्मरेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शीघ्रं शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।
-वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥१२॥
+इति शास्त्र निषेधमपि स्मरेत् नित्यम् ।
+शीघ्रं शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥१२॥
 
 **Word-for-word**
 

@@ -620,7 +620,7 @@ Topic: series.
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
   <span data-line="1" data-start="" data-end="">सूत्रं कर्ता संस्कारश्च चोदना करणं तथा ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्बहुकर्तृतन्त्रस्य धर्मः सम्यक् प्रवर्तते ॥११॥</span>
+  <span data-line="2" data-start="" data-end="">शास्त्र धर्मः कर्मसु स्थिरः सदा नित्यम् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -628,7 +628,7 @@ Topic: series.
 
 **पदच्छेदः**  
 सूत्रं कर्ता संस्कारश्च चोदना करणं तथा ।
-एभिर्बहुकर्तृतन्त्रस्य धर्मः सम्यक् प्रवर्तते ॥११॥
+शास्त्र धर्मः कर्मसु स्थिरः सदा नित्यम् ॥११॥
 
 **Word-for-word**
 

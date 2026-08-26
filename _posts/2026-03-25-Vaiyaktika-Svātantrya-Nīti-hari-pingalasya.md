@@ -107,7 +107,7 @@ Minimizable.
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
   <span data-line="1" data-start="" data-end="">स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥१॥</span>
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -115,7 +115,7 @@ Minimizable.
 
 **पदच्छेदः**  
 स्पन्दं प्रमाणं कोशं स्थानं विस्तारं पञ्चकम् ।
-एभिर्दीर्घसम्पर्कस्य धर्मः सम्यक् प्रवर्तते ॥१॥
+मितं शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥१॥
 
 **Word-for-word**
 
@@ -145,7 +145,7 @@ Topic: limb 1.
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
   <span data-line="1" data-start="" data-end="">इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥२॥</span>
+  <span data-line="2" data-start="" data-end="">शास्त्र द्वारे शब्दं कुर्यात् एव नित्यम् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -153,7 +153,7 @@ Topic: limb 1.
 
 **पदच्छेदः**  
 इति दीर्घसम्पर्कासारो जीवसूत्रसमन्वितः ।
-मितं सूत्रं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥२॥
+शास्त्र द्वारे शब्दं कुर्यात् एव नित्यम् ॥२॥
 
 **Word-for-word**
 
@@ -357,7 +357,7 @@ Topic: limb 6.
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
   <span data-line="1" data-start="" data-end="">सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥७॥</span>
+  <span data-line="2" data-start="" data-end="">एतद् शास्त्र आधारं पथेषु रक्षेत् सदा ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -365,7 +365,7 @@ Topic: limb 6.
 
 **पदच्छेदः**  
 सूचीं स्वयमायुर्निरसनं कुञ्जीं द्वारं पञ्चकम् ।
-एभिः प्रमाणपत्रचक्रो धर्मः सम्यक् प्रवर्तते ॥७॥
+एतद् शास्त्र आधारं पथेषु रक्षेत् सदा ॥७॥
 
 **Word-for-word**
 

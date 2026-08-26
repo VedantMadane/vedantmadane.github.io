@@ -401,7 +401,7 @@ Topic: limb 7.
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
   <span data-line="1" data-start="" data-end="">इति मुखसेवासारो ग्राहकाकारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥८॥</span>
+  <span data-line="2" data-start="" data-end="">यन्त्र पथं सत्ये बध्नीयात् सदा नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -409,7 +409,7 @@ Topic: limb 7.
 
 **पदच्छेदः**  
 इति मुखसेवासारो ग्राहकाकारसमन्वितः ।
-मितं मुखं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥८॥
+यन्त्र पथं सत्ये बध्नीयात् सदा नित्यम् ॥८॥
 
 **Word-for-word**
 

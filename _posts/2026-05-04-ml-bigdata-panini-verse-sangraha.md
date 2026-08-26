@@ -522,7 +522,7 @@ Topic: grammar of form.
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
   <span data-line="1" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥९॥</span>
+  <span data-line="2" data-start="" data-end="">इति शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -530,7 +530,7 @@ Topic: grammar of form.
 
 **पदच्छेदः**  
 राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।
-एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥९॥
+इति शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ॥९॥
 
 **Word-for-word**
 
@@ -622,7 +622,7 @@ Topic: series.
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
   <span data-line="1" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥११॥</span>
+  <span data-line="2" data-start="" data-end="">इति शास्त्र आयुः पूर्वं पश्येत् हि नित्यम् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -630,7 +630,7 @@ Topic: series.
 
 **पदच्छेदः**  
 राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।
-एभिर्महाराशिधर्मस्य रीतिः सम्यक् प्रवर्तते ॥११॥
+इति शास्त्र आयुः पूर्वं पश्येत् हि नित्यम् ॥११॥
 
 **Word-for-word**
 

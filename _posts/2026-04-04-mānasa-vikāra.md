@@ -107,7 +107,7 @@ Minimizable.
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
   <span data-line="1" data-start="" data-end="">इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१॥</span>
+  <span data-line="2" data-start="" data-end="">शास्त्र मितं कर्मपथं नयेत् हि नित्यम् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -115,7 +115,7 @@ Minimizable.
 
 **पदच्छेदः**  
 इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।
-मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१॥
+शास्त्र मितं कर्मपथं नयेत् हि नित्यम् ॥१॥
 
 **Word-for-word**
 
@@ -145,7 +145,7 @@ Topic: limb 1.
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
   <span data-line="1" data-start="" data-end="">शास्त्र गर्भे धर्मं निवेशयेत् हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">शास्त्र धर्मः सम्यक् प्रवर्तते हि नित्यम् ॥२॥</span>
+  <span data-line="2" data-start="" data-end="">नित्यं शास्त्र रक्षेत् पुराणपथेऽपि हि ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -153,7 +153,7 @@ Topic: limb 1.
 
 **पदच्छेदः**  
 शास्त्र गर्भे धर्मं निवेशयेत् हि नित्यम् ।
-शास्त्र धर्मः सम्यक् प्रवर्तते हि नित्यम् ॥२॥
+नित्यं शास्त्र रक्षेत् पुराणपथेऽपि हि ॥२॥
 
 **Word-for-word**
 

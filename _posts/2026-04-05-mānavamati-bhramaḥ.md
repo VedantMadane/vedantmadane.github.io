@@ -439,7 +439,7 @@ Topic: limb 8.
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
   <span data-line="1" data-start="" data-end="">नित्यं शास्त्र स्थिरं यत्र जयो भवेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र धर्मः सम्यक् प्रवर्तते सदा ॥९॥</span>
+  <span data-line="2" data-start="" data-end="">नित्यं शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -447,7 +447,7 @@ Topic: limb 8.
 
 **पदच्छेदः**  
 नित्यं शास्त्र स्थिरं यत्र जयो भवेत् सदा ।
-मितं शास्त्र धर्मः सम्यक् प्रवर्तते सदा ॥९॥
+नित्यं शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥९॥
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">आकारं कालमन्विष्य तनुतां चावधारयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं शास्त्र कर्मणि स्वामिनं धरेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">इति शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आकारं कालमन्विष्य तनुतां चावधारयेत् ।
-एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥११॥
+नित्यं शास्त्र कर्मणि स्वामिनं धरेत् सदा ।
+इति शास्त्र अनुमतिपथे तिष्ठेत् सदा ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">मुखं कुलानुसारेण तनु चाकारसंयुतम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">मितं शास्त्र गोप्येषु ह्रस्वं धरेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र मितं कर्मपथं नयेत् सदा ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुखं कुलानुसारेण तनु चाकारसंयुतम् ।
-कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥१२॥
+मितं शास्त्र गोप्येषु ह्रस्वं धरेत् नित्यम् ।
+मितं शास्त्र मितं कर्मपथं नयेत् सदा ॥१२॥
 
 **Word-for-word**
 

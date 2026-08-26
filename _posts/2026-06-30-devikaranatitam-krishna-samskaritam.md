@@ -107,7 +107,7 @@ Minimizable.
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
   <span data-line="1" data-start="" data-end="">इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मार्गं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१॥</span>
+  <span data-line="2" data-start="" data-end="">इति कृष्ण प्रतिमां दूरं रक्षेत् नित्यम् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -115,7 +115,7 @@ Minimizable.
 
 **पदच्छेदः**  
 इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।
-मितं मार्गं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१॥
+इति कृष्ण प्रतिमां दूरं रक्षेत् नित्यम् ॥१॥
 
 **Word-for-word**
 
@@ -319,7 +319,7 @@ Topic: method 5.
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
   <span data-line="1" data-start="" data-end="">मितं कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं कृष्ण धर्मः सम्यक् प्रवर्तते सदा ॥६॥</span>
+  <span data-line="2" data-start="" data-end="">नित्यं कृष्ण काले द्वारं दद्यात् हि नित्यम् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -327,7 +327,7 @@ Topic: method 5.
 
 **पदच्छेदः**  
 मितं कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।
-मितं कृष्ण धर्मः सम्यक् प्रवर्तते सदा ॥६॥
+नित्यं कृष्ण काले द्वारं दद्यात् हि नित्यम् ॥६॥
 
 **Word-for-word**
 
@@ -401,7 +401,7 @@ Topic: limb 7.
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
   <span data-line="1" data-start="" data-end="">मितं कृष्ण सारो मितक्रियायुक्तः सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">नित्यं कृष्ण धर्मः सम्यक् प्रवर्तते सदा ॥८॥</span>
+  <span data-line="2" data-start="" data-end="">कृष्ण द्वारे शब्दं कुर्यात् एव नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -409,7 +409,7 @@ Topic: limb 7.
 
 **पदच्छेदः**  
 मितं कृष्ण सारो मितक्रियायुक्तः सदा ।
-नित्यं कृष्ण धर्मः सम्यक् प्रवर्तते सदा ॥८॥
+कृष्ण द्वारे शब्दं कुर्यात् एव नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">आकारं कालमन्विष्य तनुतां चावधारयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण रक्षेत् पुराणपथेऽपि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण पथं सत्ये बध्नीयात् सदा नित्यम् ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आकारं कालमन्विष्य तनुतां चावधारयेत् ।
-एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥१२॥
+कृष्ण रक्षेत् पुराणपथेऽपि नित्यम् ।
+कृष्ण पथं सत्ये बध्नीयात् सदा नित्यम् ॥१२॥
 
 **Word-for-word**
 

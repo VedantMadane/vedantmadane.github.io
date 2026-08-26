@@ -107,7 +107,7 @@ Minimizable.
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
   <span data-line="1" data-start="" data-end="">बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥१॥</span>
+  <span data-line="2" data-start="" data-end="">मितं अक्षहृद सांख्यं सत्यतया पालयेत् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -115,7 +115,7 @@ Minimizable.
 
 **पदच्छेदः**  
 बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।
-प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥१॥
+मितं अक्षहृद सांख्यं सत्यतया पालयेत् ॥१॥
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">अक्षहृद काले द्वारं दद्यात् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं अक्षहृद दीर्घेषु स्पन्दं दद्यात् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गोप्यं लोकेषु मा लिखेत् प्रतीकं योजयेत् सदा ।
-वर्गं ज्ञात्वा सुरक्षितं लिखेन्मूले च गोपयेत् ॥२॥
+अक्षहृद काले द्वारं दद्यात् हि नित्यम् ।
+मितं अक्षहृद दीर्घेषु स्पन्दं दद्यात् ॥२॥
 
 **Word-for-word**
 
@@ -319,7 +319,7 @@ Topic: method 5.
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
   <span data-line="1" data-start="" data-end="">वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥६॥</span>
+  <span data-line="2" data-start="" data-end="">अक्षहृद द्वारे शब्दं कुर्यात् हि नित्यम् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -327,7 +327,7 @@ Topic: method 5.
 
 **पदच्छेदः**  
 वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।
-एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥६॥
+अक्षहृद द्वारे शब्दं कुर्यात् हि नित्यम् ॥६॥
 
 **Word-for-word**
 
@@ -357,7 +357,7 @@ Topic: limb 6.
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
   <span data-line="1" data-start="" data-end="">इति गोप्यांशसारो लोपलेखनसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥७॥</span>
+  <span data-line="2" data-start="" data-end="">अक्षहृद स्थिरं यत्र जयो भवेत् सदा ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -365,7 +365,7 @@ Topic: limb 6.
 
 **पदच्छेदः**  
 इति गोप्यांशसारो लोपलेखनसमन्वितः ।
-मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥७॥
+अक्षहृद स्थिरं यत्र जयो भवेत् सदा ॥७॥
 
 **Word-for-word**
 

@@ -107,7 +107,7 @@ Minimizable.
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
   <span data-line="1" data-start="" data-end="">मुक्तस्रोत नूतनं प्रमाणं कुर्यात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत धर्मः सम्यक् प्रवर्तते सदा ॥१॥</span>
+  <span data-line="2" data-start="" data-end="">मितं मुक्तस्रोत नूतनं प्रमाणं कुर्यात् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -115,7 +115,7 @@ Minimizable.
 
 **पदच्छेदः**  
 मुक्तस्रोत नूतनं प्रमाणं कुर्यात् सदा ।
-मुक्तस्रोत धर्मः सम्यक् प्रवर्तते सदा ॥१॥
+मितं मुक्तस्रोत नूतनं प्रमाणं कुर्यात् ॥१॥
 
 **Word-for-word**
 
@@ -145,7 +145,7 @@ Topic: limb 1.
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
   <span data-line="1" data-start="" data-end="">मुक्तस्रोत कर्मणि स्वामिनं धरेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥२॥</span>
+  <span data-line="2" data-start="" data-end="">मितं मुक्तस्रोत भ्रंशं जागरे विद्यात् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -153,7 +153,7 @@ Topic: limb 1.
 
 **पदच्छेदः**  
 मुक्तस्रोत कर्मणि स्वामिनं धरेत् सदा ।
-मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥२॥
+मितं मुक्तस्रोत भ्रंशं जागरे विद्यात् ॥२॥
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत द्वारे शब्दं कुर्यात् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत सत्ये सूचीं लिखेत् हि नित्यम् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।
-एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥३॥
+मुक्तस्रोत द्वारे शब्दं कुर्यात् हि नित्यम् ।
+मुक्तस्रोत सत्ये सूचीं लिखेत् हि नित्यम् ॥३॥
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">इति गोप्यांशसारो लोपलेखनसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत निषेधमपि स्मरेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत धर्मः कर्मसु स्थिरः नित्यम् ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति गोप्यांशसारो लोपलेखनसमन्वितः ।
-मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥४॥
+मुक्तस्रोत निषेधमपि स्मरेत् नित्यम् ।
+मुक्तस्रोत धर्मः कर्मसु स्थिरः नित्यम् ॥४॥
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">द्वारं वहत्येव बहिर्नीतिम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुखं ददाति ग्राहकाकारम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">गर्भो धत्ते गूढं धर्मसत्यम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">त्रयं विभज्य सदा सेवेत हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत स्वामिनं स्मर सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत दोषं विद्धि नित्यम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">मुक्तस्रोत बीजं रक्ष नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">मुक्तस्रोत फलं चिन्तय सदा ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-द्वारं वहत्येव बहिर्नीतिम् ।
-मुखं ददाति ग्राहकाकारम् ।
-गर्भो धत्ते गूढं धर्मसत्यम् ।
-त्रयं विभज्य सदा सेवेत हि ॥५॥
+मुक्तस्रोत स्वामिनं स्मर सदा ।
+मुक्तस्रोत दोषं विद्धि नित्यम् ।
+मुक्तस्रोत बीजं रक्ष नित्यम् ।
+मुक्तस्रोत फलं चिन्तय सदा ॥५॥
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">कर्तारं कर्म चाक्षिप्य लेखायां धारयेद् दृढम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">अमिटां पङ्क्तिमातिष्ठेत् पृथक् कोशे च रक्षय ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत क्रमं पश्यन् धारयेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत बीजं शुद्धं रक्षेत् हि नित्यम् ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कर्तारं कर्म चाक्षिप्य लेखायां धारयेद् दृढम् ।
-अमिटां पङ्क्तिमातिष्ठेत् पृथक् कोशे च रक्षय ॥७॥
+मुक्तस्रोत क्रमं पश्यन् धारयेत् नित्यम् ।
+मुक्तस्रोत बीजं शुद्धं रक्षेत् हि नित्यम् ॥७॥
 
 **Word-for-word**
 
@@ -401,7 +401,7 @@ Topic: limb 7.
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
   <span data-line="1" data-start="" data-end="">मुक्तस्रोत गर्भे धर्मं निवेशयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥८॥</span>
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत परीक्ष्य पश्चात् कुर्यात् नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -409,7 +409,7 @@ Topic: limb 7.
 
 **पदच्छेदः**  
 मुक्तस्रोत गर्भे धर्मं निवेशयेत् सदा ।
-कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥८॥
+मुक्तस्रोत परीक्ष्य पश्चात् कुर्यात् नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">परीक्षकाणामपि पन्था लेख्यो भवितुमर्हति ।</span><br />
-  <span data-line="2" data-start="" data-end="">पङ्क्तेर्विलंबे जागर्ति कुरु शीघ्रं हि साधनम् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">मितं मुक्तस्रोत कर्मणि स्वामिनं धरेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत सारो मितक्रियायुक्तः सदा ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-परीक्षकाणामपि पन्था लेख्यो भवितुमर्हति ।
-पङ्क्तेर्विलंबे जागर्ति कुरु शीघ्रं हि साधनम् ॥९॥
+मितं मुक्तस्रोत कर्मणि स्वामिनं धरेत् ।
+मुक्तस्रोत सारो मितक्रियायुक्तः सदा ॥९॥
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">रूपममिटतां कोशं व्यापकतां पङ्क्तिं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्लेखापरीक्षाया धर्मः सम्यक् प्रवर्तते ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">मितं मुक्तस्रोत द्वारे शब्दं कुर्यात् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत स्थिरं यत्र जयो भवेत् सदा ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-रूपममिटतां कोशं व्यापकतां पङ्क्तिं पञ्चकम् ।
-एभिर्लेखापरीक्षाया धर्मः सम्यक् प्रवर्तते ॥११॥
+मितं मुक्तस्रोत द्वारे शब्दं कुर्यात् सदा ।
+मुक्तस्रोत स्थिरं यत्र जयो भवेत् सदा ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">इति लेखापरीक्षासारः कर्मपञ्जिकासमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं कर्म क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">मितं मुक्तस्रोत धर्मः कर्मसु स्थिरः हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं मुक्तस्रोत स्थिरं यत्र जयो भवेत् ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति लेखापरीक्षासारः कर्मपञ्जिकासमन्वितः ।
-मितं कर्म क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥१२॥
+मितं मुक्तस्रोत धर्मः कर्मसु स्थिरः हि ।
+मितं मुक्तस्रोत स्थिरं यत्र जयो भवेत् ॥१२॥
 
 **Word-for-word**
 

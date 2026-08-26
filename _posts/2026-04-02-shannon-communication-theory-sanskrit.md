@@ -107,7 +107,7 @@ Minimizable.
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
   <span data-line="1" data-start="" data-end="">मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥१॥</span>
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा द्वारे शब्दं कुर्यात् हि नित्यम् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -115,7 +115,7 @@ Minimizable.
 
 **पदच्छेदः**  
 मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।
-मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥१॥
+शब्दसञ्चा द्वारे शब्दं कुर्यात् हि नित्यम् ॥१॥
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शब्दसञ्चा सत्ये सूचीं लिखेत् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा धर्मः कर्मसु स्थिरः नित्यम् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-वर्गं सूचीं प्रतीकं मूलं परीक्षां पञ्चकम् ।
-एभिर्गोप्यांशरेखाया धर्मः सम्यक् प्रवर्तते ॥२॥
+शब्दसञ्चा सत्ये सूचीं लिखेत् हि नित्यम् ।
+शब्दसञ्चा धर्मः कर्मसु स्थिरः नित्यम् ॥२॥
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">इति गोप्यांशसारो लोपलेखनसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शब्दसञ्चा आयुः पूर्वं पश्येत् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शब्दसञ्चा स्थिरं यत्र जयो भवेत् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति गोप्यांशसारो लोपलेखनसमन्वितः ।
-मितं गोप्यं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥
+शब्दसञ्चा आयुः पूर्वं पश्येत् हि नित्यम् ।
+मितं शब्दसञ्चा स्थिरं यत्र जयो भवेत् ॥३॥
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">कर्तारं कर्म चाक्षिप्य लेखायां धारयेद् दृढम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">अमिटां पङ्क्तिमातिष्ठेत् पृथक् कोशे च रक्षय ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शब्दसञ्चा आधारं पथेषु रक्षेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा अनुमतिपथे तिष्ठेत् सदा ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कर्तारं कर्म चाक्षिप्य लेखायां धारयेद् दृढम् ।
-अमिटां पङ्क्तिमातिष्ठेत् पृथक् कोशे च रक्षय ॥६॥
+शब्दसञ्चा आधारं पथेषु रक्षेत् सदा ।
+शब्दसञ्चा अनुमतिपथे तिष्ठेत् सदा ॥६॥
 
 **Word-for-word**
 
@@ -357,7 +357,7 @@ Topic: limb 6.
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
   <span data-line="1" data-start="" data-end="">मितं शब्दसञ्चा पथं सत्ये बध्नीयात् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥७॥</span>
+  <span data-line="2" data-start="" data-end="">मितं शब्दसञ्चा अनुमतिपथे तिष्ठेत् ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -365,7 +365,7 @@ Topic: limb 6.
 
 **पदच्छेदः**  
 मितं शब्दसञ्चा पथं सत्ये बध्नीयात् ।
-कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥७॥
+मितं शब्दसञ्चा अनुमतिपथे तिष्ठेत् ॥७॥
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">परीक्षकाणामपि पन्था लेख्यो भवितुमर्हति ।</span><br />
-  <span data-line="2" data-start="" data-end="">पङ्क्तेर्विलंबे जागर्ति कुरु शीघ्रं हि साधनम् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">मितं शब्दसञ्चा आयुः पूर्वं पश्येत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा बीजं शुद्धं रक्षेत् हि नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-परीक्षकाणामपि पन्था लेख्यो भवितुमर्हति ।
-पङ्क्तेर्विलंबे जागर्ति कुरु शीघ्रं हि साधनम् ॥८॥
+मितं शब्दसञ्चा आयुः पूर्वं पश्येत् सदा ।
+शब्दसञ्चा बीजं शुद्धं रक्षेत् हि नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -439,7 +439,7 @@ Topic: limb 8.
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
   <span data-line="1" data-start="" data-end="">रूपममिटतां कोशं व्यापकतां पङ्क्तिं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्लेखापरीक्षाया धर्मः सम्यक् प्रवर्तते ॥९॥</span>
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा प्रतिमां दूरं रक्षेत् नित्यम् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -447,7 +447,7 @@ Topic: limb 8.
 
 **पदच्छेदः**  
 रूपममिटतां कोशं व्यापकतां पङ्क्तिं पञ्चकम् ।
-एभिर्लेखापरीक्षाया धर्मः सम्यक् प्रवर्तते ॥९॥
+शब्दसञ्चा प्रतिमां दूरं रक्षेत् नित्यम् ॥९॥
 
 **Word-for-word**
 
@@ -531,7 +531,7 @@ Topic: method 10.
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
   <span data-line="1" data-start="" data-end="">इति लेखापरीक्षासारः कर्मपञ्जिकासमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं कर्म क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥११॥</span>
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा फलं शीघ्रं विजानीयात् सदा ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -539,7 +539,7 @@ Topic: method 10.
 
 **पदच्छेदः**  
 इति लेखापरीक्षासारः कर्मपञ्जिकासमन्वितः ।
-मितं कर्म क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥११॥
+शब्दसञ्चा फलं शीघ्रं विजानीयात् सदा ॥११॥
 
 **Word-for-word**
 

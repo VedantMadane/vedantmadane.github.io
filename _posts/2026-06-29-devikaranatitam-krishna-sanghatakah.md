@@ -319,7 +319,7 @@ Topic: method 5.
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
   <span data-line="1" data-start="" data-end="">मितं कृष्ण गुह्यं लोके मा लिखेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कृष्ण धर्मः सम्यक् प्रवर्तते हि नित्यम् ॥६॥</span>
+  <span data-line="2" data-start="" data-end="">इति कृष्ण सारो मितक्रियायुक्तः सदा ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
@@ -327,7 +327,7 @@ Topic: method 5.
 
 **पदच्छेदः**  
 मितं कृष्ण गुह्यं लोके मा लिखेत् नित्यम् ।
-कृष्ण धर्मः सम्यक् प्रवर्तते हि नित्यम् ॥६॥
+इति कृष्ण सारो मितक्रियायुक्तः सदा ॥६॥
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">एकमुखं बह्वधःपथानाम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालसीमां हस्तेषु धारयेत् ।</span><br />
-  <span data-line="3" data-start="" data-end="">तनुधर्मो मुखसेवायाः सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">द्वारनीतेः पृथगिदं कार्यम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">मितं कृष्ण सारं धारय सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण सूचीं लिख सदा नित्यम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">कृष्ण पङ्क्तिं रक्ष सदा नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">कृष्ण अंशं विभज हि नित्यम् ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकमुखं बह्वधःपथानाम् ।
-कालसीमां हस्तेषु धारयेत् ।
-तनुधर्मो मुखसेवायाः सदा ।
-द्वारनीतेः पृथगिदं कार्यम् ॥१०॥
+मितं कृष्ण सारं धारय सदा ।
+कृष्ण सूचीं लिख सदा नित्यम् ।
+कृष्ण पङ्क्तिं रक्ष सदा नित्यम् ।
+कृष्ण अंशं विभज हि नित्यम् ॥१०॥
 
 **Word-for-word**
 
