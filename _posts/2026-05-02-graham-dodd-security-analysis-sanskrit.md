@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति पथं सत्ये बध्नीयात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">इति प्रतिभूति गर्भे धर्मं निवेशयेत् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र लिख जागरणं कुरु बहिः सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यम् शास्त्र फलं पश्य सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति पथं सत्ये बध्नीयात् नित्यम् ।
-इति प्रतिभूति गर्भे धर्मं निवेशयेत् ॥१॥
+शास्त्र लिख जागरणं कुरु बहिः सदा ।
+नित्यम् शास्त्र फलं पश्य सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति मितं कर्मपथं नयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रतिभूति गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र जाग्रत् लिख एकतः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र गुह्य पश्य नित्यम् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति मितं कर्मपथं नयेत् सदा ।
-प्रतिभूति गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥
+शास्त्र जाग्रत् लिख एकतः सदा नित्यम् ।
+मितं शास्त्र गुह्य पश्य नित्यम् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति नूतनं प्रमाणं कुर्यात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति आधारं पथेषु रक्षेत् ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सीमा देहि नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र क्रम पश्य नित्यम् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति नूतनं प्रमाणं कुर्यात् सदा ।
-मितं प्रतिभूति आधारं पथेषु रक्षेत् ॥३॥
+शास्त्र सीमा देहि नित्यम् एव नित्यम् ।
+मितं शास्त्र क्रम पश्य नित्यम् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति धर्मः कर्मसु स्थिरः नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति भ्रंशं जागरे विद्यात् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र फल बध्नीहि नित्यम् सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र क्रम पश्य सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति धर्मः कर्मसु स्थिरः नित्यम् ।
-मितं प्रतिभूति भ्रंशं जागरे विद्यात् ॥४॥
+शास्त्र फल बध्नीहि नित्यम् सदा नित्यम् ।
+मितं शास्त्र क्रम पश्य सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति प्रवाहं मितं कुरु ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति फलं चिन्तय ।</span><br />
-  <span data-line="3" data-start="" data-end="">प्रतिभूति धर्मं सेवेत सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">प्रतिभूति वृत्तिं रक्ष नित्यम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र दोष बध्नीहि हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यम् क्रम पश्य सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">मूल अन्तः स्मरेत् सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">धर्म लघु विद्धि सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति प्रवाहं मितं कुरु ।
-मितं प्रतिभूति फलं चिन्तय ।
-प्रतिभूति धर्मं सेवेत सदा ।
-प्रतिभूति वृत्तिं रक्ष नित्यम् ॥५॥
+शास्त्र दोष बध्नीहि हि सम्यक् ।
+नित्यम् क्रम पश्य सदा सम्यक् ।
+मूल अन्तः स्मरेत् सदा सम्यक् ।
+धर्म लघु विद्धि सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">नित्यं प्रतिभूति स्थिरं यत्र जयो भवेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">नित्यं प्रतिभूति क्रमं पश्यन् धारयेत् ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र बध्नीहि जागरणं कुरु सदा हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">सदा शास्त्र फलं पश्य सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं प्रतिभूति स्थिरं यत्र जयो भवेत् ।
-नित्यं प्रतिभूति क्रमं पश्यन् धारयेत् ॥६॥
+शास्त्र बध्नीहि जागरणं कुरु सदा हि ।
+सदा शास्त्र फलं पश्य सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">एतद् प्रतिभूति गर्भे धर्मं निवेशयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति पथं सत्ये बध्नीयात् ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सेवा बध्नीहि शीघ्रम् सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार पश्य सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एतद् प्रतिभूति गर्भे धर्मं निवेशयेत् ।
-मितं प्रतिभूति पथं सत्ये बध्नीयात् ॥७॥
+शास्त्र सेवा बध्नीहि शीघ्रम् सदा नित्यम् ।
+मितं शास्त्र भार पश्य सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति कर्मणि स्वामिनं धरेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति प्रतिमां दूरं रक्षेत् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र स्मरेत् जागरणं कुरु लघु सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">सदा शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति कर्मणि स्वामिनं धरेत् सदा ।
-मितं प्रतिभूति प्रतिमां दूरं रक्षेत् ॥८॥
+शास्त्र स्मरेत् जागरणं कुरु लघु सदा ।
+सदा शास्त्र फलं कुरु सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">मितं प्रतिभूति द्वारे शब्दं कुर्यात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति दोषस्थाने विजानीयात् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र क्रम पालय पर सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार कुरु सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं प्रतिभूति द्वारे शब्दं कुर्यात् सदा ।
-मितं प्रतिभूति दोषस्थाने विजानीयात् ॥९॥
+शास्त्र क्रम पालय पर सदा नित्यम् ।
+मितं शास्त्र भार कुरु सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति सूचीं लिख नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति सत्यं लिख हि ।</span><br />
-  <span data-line="3" data-start="" data-end="">मितं प्रतिभूति सूचीं लिख हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">प्रतिभूति शीघ्रं पश्य नित्यम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र भार पालय हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">बहिः भार कुरु सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">मूल एकतः पालय सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">कर्म लघु विद्धि सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति सूचीं लिख नित्यम् ।
-मितं प्रतिभूति सत्यं लिख हि ।
-मितं प्रतिभूति सूचीं लिख हि ।
-प्रतिभूति शीघ्रं पश्य नित्यम् ॥१०॥
+शास्त्र भार पालय हि सम्यक् ।
+बहिः भार कुरु सदा सम्यक् ।
+मूल एकतः पालय सम्यक् ।
+कर्म लघु विद्धि सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">नित्यं प्रतिभूति आधारं पथेषु रक्षेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति मितं कर्मपथं नयेत् ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सीमा पालय बहिः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार कुरु सम्यक् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं प्रतिभूति आधारं पथेषु रक्षेत् ।
-मितं प्रतिभूति मितं कर्मपथं नयेत् ॥११॥
+शास्त्र सीमा पालय बहिः सदा नित्यम् ।
+मितं शास्त्र भार कुरु सम्यक् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">प्रतिभूति दीर्घेषु स्पन्दं दद्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">इति प्रतिभूति स्थिरं यत्र जयो भवेत् ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र फल पालय बहिः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र सीमा कुरु सम्यक् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिभूति दीर्घेषु स्पन्दं दद्यात् नित्यम् ।
-इति प्रतिभूति स्थिरं यत्र जयो भवेत् ॥१२॥
+शास्त्र फल पालय बहिः सदा नित्यम् ।
+मितं शास्त्र सीमा कुरु सम्यक् हि नित्यम् ।
 
 **Word-for-word**
 

@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">अनुक्रमः पथं ददाति योजना तु वृणोति तम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">अंशः स्थानं विभनक्ति त्रयं विभज्य चिन्तय ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र द्वार सीमां लिख बहिः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र क्रम धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-अनुक्रमः पथं ददाति योजना तु वृणोति तम् ।
-अंशः स्थानं विभनक्ति त्रयं विभज्य चिन्तय ॥१॥
+शास्त्र द्वार सीमां लिख बहिः हि नित्यम् ।
+स्वामिनं शास्त्र क्रम धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">फैणमान प्रतिमां दूरं रक्षेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मार्ग सेवेत बहिः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र क्रम कुरु दीर्घ हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान प्रतिमां दूरं रक्षेत् नित्यम् ।
-फैणमान गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥
+शास्त्र मार्ग सेवेत बहिः सदा नित्यम् ।
+मितं शास्त्र क्रम कुरु दीर्घ हि नित्यम् ।
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">फैणमान सांख्यं सत्यतया पालयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान भ्रंशं जागरे विद्यात् नित्यम् ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सेवेत जागरणं कुरु अन्तः हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">दीर्घ शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान सांख्यं सत्यतया पालयेत् ।
-फैणमान भ्रंशं जागरे विद्यात् नित्यम् ॥३॥
+शास्त्र सेवेत जागरणं कुरु अन्तः हि ।
+दीर्घ शास्त्र फलं कुरु सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">फैणमान निषेधमपि स्मरेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">एकतः शास्त्र द्वारं काले देहि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">क्रम दीर्घ शास्त्र बीजं रक्षेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान निषेधमपि स्मरेत् नित्यम् ।
-फैणमान दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥४॥
+एकतः शास्त्र द्वारं काले देहि नित्यम् ।
+क्रम दीर्घ शास्त्र बीजं रक्षेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">फैणमान जागरय नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान अंशं विभज सदा ।</span><br />
-  <span data-line="3" data-start="" data-end="">फैणमान फलं चिन्तय सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">फैणमान प्रतीकं योजय हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र भार सेवेत हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">एकतः क्रम कुरु हि सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">द्वार सम्यक् विद्धि सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">बीज सम्यक् धारय हि सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान जागरय नित्यम् ।
-फैणमान अंशं विभज सदा ।
-फैणमान फलं चिन्तय सदा ।
-फैणमान प्रतीकं योजय हि ॥५॥
+शास्त्र भार सेवेत हि सम्यक् ।
+एकतः क्रम कुरु हि सम्यक् ।
+द्वार सम्यक् विद्धि सदा सम्यक् ।
+बीज सम्यक् धारय हि सम्यक् ।
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">फैणमान पथं सत्ये बध्नीयात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान आधारं पथेषु रक्षेत् सदा ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सीमा सेवेत एकतः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र क्रम कुरु पूर्व हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान पथं सत्ये बध्नीयात् नित्यम् ।
-फैणमान आधारं पथेषु रक्षेत् सदा ॥६॥
+शास्त्र सीमा सेवेत एकतः हि नित्यम् ।
+मितं शास्त्र क्रम कुरु पूर्व हि नित्यम् ।
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">फैणमान बीजं शुद्धं रक्षेत् हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान रक्षेत् पुराणपथेऽपि हि ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सेवेत जागरणं कुरु द्वितः हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">पूर्व शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान बीजं शुद्धं रक्षेत् हि नित्यम् ।
-फैणमान रक्षेत् पुराणपथेऽपि हि ॥७॥
+शास्त्र सेवेत जागरणं कुरु द्वितः हि ।
+पूर्व शास्त्र फलं कुरु सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">मितं फैणमान रक्षेत् पुराणपथेऽपि ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान सत्ये सूचीं लिखेत् हि नित्यम् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सेवा सीमां लिख पथे हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र भार धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं फैणमान रक्षेत् पुराणपथेऽपि ।
-फैणमान सत्ये सूचीं लिखेत् हि नित्यम् ॥८॥
+शास्त्र सेवा सीमां लिख पथे हि नित्यम् ।
+स्वामिनं शास्त्र भार धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">फैणमान स्थिरं यत्र जयो भवेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं फैणमान बीजं शुद्धं रक्षेत् सदा ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र धर्म रक्ष नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार कुरु पूर्व हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान स्थिरं यत्र जयो भवेत् सदा ।
-मितं फैणमान बीजं शुद्धं रक्षेत् सदा ॥९॥
+शास्त्र धर्म रक्ष नित्यम् एव नित्यम् ।
+मितं शास्त्र भार कुरु पूर्व हि नित्यम् ।
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">फैणमान मा त्यज हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">फैणमान वृत्तिं रक्ष नित्यम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">मितं फैणमान जागरय हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">फैणमान सारं धारय सदा ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र नित्यम् सेवेत हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कर्म पथं रक्ष सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">सत्यं भार कुरु सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">पूर्व सारं धारय हि सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान मा त्यज हि नित्यम् ।
-फैणमान वृत्तिं रक्ष नित्यम् ।
-मितं फैणमान जागरय हि ।
-फैणमान सारं धारय सदा ॥१०॥
+शास्त्र नित्यम् सेवेत हि सम्यक् ।
+कर्म पथं रक्ष सदा सम्यक् ।
+सत्यं भार कुरु सदा सम्यक् ।
+पूर्व सारं धारय हि सम्यक् ।
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">मितं फैणमान भ्रंशं जागरे विद्यात् ।</span><br />
-  <span data-line="2" data-start="" data-end="">नित्यं फैणमान भ्रंशं जागरे विद्यात् ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र क्रम धारय लघु सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार कुरु पर हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं फैणमान भ्रंशं जागरे विद्यात् ।
-नित्यं फैणमान भ्रंशं जागरे विद्यात् ॥११॥
+शास्त्र क्रम धारय लघु सदा नित्यम् ।
+मितं शास्त्र भार कुरु पर हि नित्यम् ।
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">फैणमान गर्भे धर्मं निवेशयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं फैणमान दीर्घेषु स्पन्दं दद्यात् ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र धारय जागरणं कुरु लघु हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">पर शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-फैणमान गर्भे धर्मं निवेशयेत् सदा ।
-मितं फैणमान दीर्घेषु स्पन्दं दद्यात् ॥१२॥
+शास्त्र धारय जागरणं कुरु लघु हि ।
+पर शास्त्र फलं कुरु सदा हि नित्यम् ।
 
 **Word-for-word**
 

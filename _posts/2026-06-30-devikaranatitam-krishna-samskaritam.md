@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">इति कृष्ण प्रतिमां दूरं रक्षेत् नित्यम् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सीमा देहि सम्यक् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र मूल सेवेत नित्यम् एव ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।
-इति कृष्ण प्रतिमां दूरं रक्षेत् नित्यम् ॥१॥
+शास्त्र सीमा देहि सम्यक् एव नित्यम् ।
+मितं शास्त्र मूल सेवेत नित्यम् एव ।
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">कृष्ण फलं शीघ्रं विजानीयात् हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं कृष्ण परीक्ष्य पश्चात् कुर्यात् नित्यम् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मित बध्नीहि पर सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र बीज सेवेत नित्यम् एव ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कृष्ण फलं शीघ्रं विजानीयात् हि नित्यम् ।
-मितं कृष्ण परीक्ष्य पश्चात् कुर्यात् नित्यम् ॥२॥
+शास्त्र मित बध्नीहि पर सदा नित्यम् ।
+मितं शास्त्र बीज सेवेत नित्यम् एव ।
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">कृष्ण आयुः पूर्वं पश्येत् सर्वदा नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">इति कृष्ण अनुमतिपथे तिष्ठेत् सदा ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र गुह्य स्मरेत् अन्तः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र बीज रक्ष नित्यम् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कृष्ण आयुः पूर्वं पश्येत् सर्वदा नित्यम् ।
-इति कृष्ण अनुमतिपथे तिष्ठेत् सदा ॥३॥
+शास्त्र गुह्य स्मरेत् अन्तः सदा नित्यम् ।
+मितं शास्त्र बीज रक्ष नित्यम् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">मितं कृष्ण क्रमं पश्यन् धारयेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं कृष्ण दोषस्थाने विजानीयात् सदा ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र गण पालय त्रितः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र द्वार रक्ष सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं कृष्ण क्रमं पश्यन् धारयेत् नित्यम् ।
-मितं कृष्ण दोषस्थाने विजानीयात् सदा ॥४॥
+शास्त्र गण पालय त्रितः सदा नित्यम् ।
+मितं शास्त्र द्वार रक्ष सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">कृष्ण स्वामिनं स्मर हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कृष्ण शीघ्रं पश्य सदा नित्यम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">कृष्ण प्रवाहं मितं कुरु सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">कृष्ण मूलं रक्ष सदा नित्यम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र नेतृ पालय हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">पथे द्वार रक्ष सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">सीमा शीघ्रम् विद्धि सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">बीज एकतः बध्नीहि सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कृष्ण स्वामिनं स्मर हि नित्यम् ।
-कृष्ण शीघ्रं पश्य सदा नित्यम् ।
-कृष्ण प्रवाहं मितं कुरु सदा ।
-कृष्ण मूलं रक्ष सदा नित्यम् ॥५॥
+शास्त्र नेतृ पालय हि सम्यक् ।
+पथे द्वार रक्ष सदा सम्यक् ।
+सीमा शीघ्रम् विद्धि सदा सम्यक् ।
+बीज एकतः बध्नीहि सम्यक् ।
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">मितं कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">नित्यं कृष्ण काले द्वारं दद्यात् हि नित्यम् ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र पङ्क्ति नयेत् शीघ्रम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र द्वार रक्ष सम्यक् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।
-नित्यं कृष्ण काले द्वारं दद्यात् हि नित्यम् ॥६॥
+शास्त्र पङ्क्ति नयेत् शीघ्रम् एव नित्यम् ।
+मितं शास्त्र द्वार रक्ष सम्यक् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">कृष्ण नूतनं प्रमाणं कुर्यात् हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कृष्ण कर्मणि स्वामिनं धरेत् हि नित्यम् ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र नयेत् जागरणं कुरु शीघ्रम् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">सम्यक् शास्त्र फलं रक्ष सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कृष्ण नूतनं प्रमाणं कुर्यात् हि नित्यम् ।
-कृष्ण कर्मणि स्वामिनं धरेत् हि नित्यम् ॥७॥
+शास्त्र नयेत् जागरणं कुरु शीघ्रम् सदा ।
+सम्यक् शास्त्र फलं रक्ष सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">मितं कृष्ण सारो मितक्रियायुक्तः सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">कृष्ण द्वारे शब्दं कुर्यात् एव नित्यम् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मूल वर्धय एकतः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र सूची धारय सम्यक् एव ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं कृष्ण सारो मितक्रियायुक्तः सदा ।
-कृष्ण द्वारे शब्दं कुर्यात् एव नित्यम् ॥८॥
+शास्त्र मूल वर्धय एकतः हि नित्यम् ।
+मितं शास्त्र सूची धारय सम्यक् एव ।
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">नित्यं कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कृष्ण काले द्वारं दद्यात् सर्वदा नित्यम् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मार्ग वर्धय द्वितः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र सूची धारय शीघ्रम् एव ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।
-कृष्ण काले द्वारं दद्यात् सर्वदा नित्यम् ॥९॥
+शास्त्र मार्ग वर्धय द्वितः सदा नित्यम् ।
+मितं शास्त्र सूची धारय शीघ्रम् एव ।
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">मितं कृष्ण जागरय नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कृष्ण भारं विभज हि नित्यम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">कृष्ण सत्यं लिख सदा नित्यम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">मितं कृष्ण स्वामिनं स्मर सदा ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सूची वर्धय हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">द्वितः सूची धारय हि सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">फल लघु पश्य सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">द्वार द्वितः स्मरेत् सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं कृष्ण जागरय नित्यम् ।
-कृष्ण भारं विभज हि नित्यम् ।
-कृष्ण सत्यं लिख सदा नित्यम् ।
-मितं कृष्ण स्वामिनं स्मर सदा ॥१०॥
+शास्त्र सूची वर्धय हि सम्यक् ।
+द्वितः सूची धारय हि सम्यक् ।
+फल लघु पश्य सदा सम्यक् ।
+द्वार द्वितः स्मरेत् सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">इति कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं कृष्ण फलं शीघ्रं विजानीयात् सदा ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र वर्धय जागरणं कुरु द्वितः हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">शीघ्रम् शास्त्र फलं धारय सदा नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति कृष्ण मितं क्रियायोग्यं स्यात् नित्यम् ।
-मितं कृष्ण फलं शीघ्रं विजानीयात् सदा ॥११॥
+शास्त्र वर्धय जागरणं कुरु द्वितः हि ।
+शीघ्रम् शास्त्र फलं धारय सदा नित्यम् ।
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">कृष्ण रक्षेत् पुराणपथेऽपि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कृष्ण पथं सत्ये बध्नीयात् सदा नित्यम् ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र नेतृ सेवेत सदा सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र पङ्क्ति धारय शीघ्रम् एव ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कृष्ण रक्षेत् पुराणपथेऽपि नित्यम् ।
-कृष्ण पथं सत्ये बध्नीयात् सदा नित्यम् ॥१२॥
+शास्त्र नेतृ सेवेत सदा सदा नित्यम् ।
+मितं शास्त्र पङ्क्ति धारय शीघ्रम् एव ।
 
 **Word-for-word**
 

@@ -126,16 +126,16 @@ English minimizable; pure padya.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">महति राशौ सत्यं स्यात् प्रतिमानेन गृह्यते ।</span><br />
-  <span data-line="2" data-start="" data-end="">शिक्षणं परीक्षां च विभजेत् न तु मिश्रयेत् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र पालय जागरणं कुरु एकतः ।</span><br />
+  <span data-line="2" data-start="" data-end="">सम्यक् शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-महति राशौ सत्यं स्यात् प्रतिमानेन गृह्यते ।
-शिक्षणं परीक्षां च विभजेत् न तु मिश्रयेत् ॥१॥
+शास्त्र पालय जागरणं कुरु एकतः ।
+सम्यक् शास्त्र फलं कुरु सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -172,16 +172,16 @@ Topic: mass and split.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">भविष्यं मा स्रावय क्वापि परीक्षासु विचक्षणः ।</span><br />
-  <span data-line="2" data-start="" data-end="">लक्षणं शुद्धं गृह्णीयात् कोलाहलं तु वर्जयेत् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र नयेत् जागरणं कुरु नित्यम् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">सम्यक् शास्त्र फलं लिख सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-भविष्यं मा स्रावय क्वापि परीक्षासु विचक्षणः ।
-लक्षणं शुद्धं गृह्णीयात् कोलाहलं तु वर्जयेत् ॥२॥
+शास्त्र नयेत् जागरणं कुरु नित्यम् सदा ।
+सम्यक् शास्त्र फलं लिख सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -225,16 +225,16 @@ Topic: leak and marks.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">रूपं चलति काले तु जागृहि मा तु विश्वसिहि ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मार्ग नयेत् नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र फल लिख सम्यक् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।
-रूपं चलति काले तु जागृहि मा तु विश्वसिहि ॥३॥
+शास्त्र मार्ग नयेत् नित्यम् एव नित्यम् ।
+मितं शास्त्र फल लिख सम्यक् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -273,16 +273,16 @@ Topic: serve and drift.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।</span><br />
-  <span data-line="2" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र गुह्य जानीयात् सदा सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र फल लिख शीघ्रम् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।
-राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ॥४॥
+शास्त्र गुह्य जानीयात् सदा सदा नित्यम् ।
+मितं शास्त्र फल लिख शीघ्रम् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -326,20 +326,20 @@ Topic: grammar.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">शिक्षां परीक्षां च विभजेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">भविष्यं मा स्रावय परीक्षासु ।</span><br />
-  <span data-line="3" data-start="" data-end="">कोलाहलं तु वर्जयेत् सदा हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य शाश्वतः ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र भार जानीयात् हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">सम्यक् फल लिख सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">बीज एकतः पालय सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">कर्म दीर्घ विद्धि सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-शिक्षां परीक्षां च विभजेत् सदा ।
-भविष्यं मा स्रावय परीक्षासु ।
-कोलाहलं तु वर्जयेत् सदा हि ।
-पाणिनिर्धर्मो रूपस्य शाश्वतः ॥५॥
+शास्त्र भार जानीयात् हि सम्यक् ।
+सम्यक् फल लिख सदा सम्यक् ।
+बीज एकतः पालय सम्यक् ।
+कर्म दीर्घ विद्धि सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -380,16 +380,16 @@ Topic: method.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">सेवाहीनं प्रतिमानं कालेन भ्रश्यते ध्रुवम् ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मार्ग नयेत् नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शीघ्रम् शास्त्र फलं लिख सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रतिमानं सेवयेत् मितं न तु मौनेन जीर्णयेत् ।
-सेवाहीनं प्रतिमानं कालेन भ्रश्यते ध्रुवम् ॥६॥
+शास्त्र मार्ग नयेत् नित्यम् एव नित्यम् ।
+शीघ्रम् शास्त्र फलं लिख सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -424,16 +424,16 @@ Topic: serve.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">रूपं चलति काले तु जागृहि मा तु विश्वसिहि ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्थिररूपं मिथ्या स्याद् यत्र राशिः पुनर्गतः ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र धर्म वर्धय पूर्व सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र दोष लिख शीघ्रम् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-रूपं चलति काले तु जागृहि मा तु विश्वसिहि ।
-स्थिररूपं मिथ्या स्याद् यत्र राशिः पुनर्गतः ॥७॥
+शास्त्र धर्म वर्धय पूर्व सदा नित्यम् ।
+मितं शास्त्र दोष लिख शीघ्रम् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -475,16 +475,16 @@ Topic: drift.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।</span><br />
-  <span data-line="2" data-start="" data-end="">रूपं विना राशिर्भारः सत्यं तु रूपे तिष्ठति ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र गुह्य जानीयात् सदा सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र दोष धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-पाणिनिर्धर्मो रूपस्य न तु राशिमात्रकः पथः ।
-रूपं विना राशिर्भारः सत्यं तु रूपे तिष्ठति ॥८॥
+शास्त्र गुह्य जानीयात् सदा सदा नित्यम् ।
+स्वामिनं शास्त्र दोष धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -521,16 +521,16 @@ Topic: grammar of form.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।</span><br />
-  <span data-line="2" data-start="" data-end="">इति शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सूची सेवेत अन्तः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र दोष लिख लघु हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।
-इति शास्त्र क्रमं पश्यन् धारयेत् नित्यम् ॥९॥
+शास्त्र सूची सेवेत अन्तः सदा नित्यम् ।
+मितं शास्त्र दोष लिख लघु हि नित्यम् ।
 
 **Word-for-word**
 
@@ -569,20 +569,20 @@ Topic: five named.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">शिक्षां परीक्षां च विभजेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">भविष्यं मा स्रावय परीक्षासु ।</span><br />
-  <span data-line="3" data-start="" data-end="">कोलाहलं तु वर्जयेत् सदा हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">पाणिनिर्धर्मो रूपस्य शाश्वतः ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र भार जानीयात् हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">सम्यक् फल लिख सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">बीज एकतः पालय सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">रक्ष दीर्घ पश्य सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-शिक्षां परीक्षां च विभजेत् सदा ।
-भविष्यं मा स्रावय परीक्षासु ।
-कोलाहलं तु वर्जयेत् सदा हि ।
-पाणिनिर्धर्मो रूपस्य शाश्वतः ॥१०॥
+शास्त्र भार जानीयात् हि सम्यक् ।
+सम्यक् फल लिख सदा सम्यक् ।
+बीज एकतः पालय सम्यक् ।
+रक्ष दीर्घ पश्य सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -621,16 +621,16 @@ Topic: series.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।</span><br />
-  <span data-line="2" data-start="" data-end="">इति शास्त्र आयुः पूर्वं पश्येत् हि नित्यम् ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सूची सेवेत अन्तः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">लघु शास्त्र फलं लिख सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-राशिर्लक्षणं भेदश्च सेवा जागरणं तथा ।
-इति शास्त्र आयुः पूर्वं पश्येत् हि नित्यम् ॥११॥
+शास्त्र सूची सेवेत अन्तः सदा नित्यम् ।
+लघु शास्त्र फलं लिख सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -664,16 +664,16 @@ Topic: checklist.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">इति महाराशिधर्मसारः प्रतिमानसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं प्रतिमानं क्रियायोग्यं तन्त्रधर्म उच्यते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र भार सेवेत एकतः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र दोष देहि लघु हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति महाराशिधर्मसारः प्रतिमानसमन्वितः ।
-मितं प्रतिमानं क्रियायोग्यं तन्त्रधर्म उच्यते ॥१२॥
+शास्त्र भार सेवेत एकतः हि नित्यम् ।
+मितं शास्त्र दोष देहि लघु हि नित्यम् ।
 
 **Word-for-word**
 

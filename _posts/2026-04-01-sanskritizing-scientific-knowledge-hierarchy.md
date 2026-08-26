@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक कर्मणि स्वामिनं धरेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक पथं सत्ये बध्नीयात् नित्यम् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र काल सीमां लिख बहिः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र काल धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक कर्मणि स्वामिनं धरेत् सदा ।
-संस्कृतीक पथं सत्ये बध्नीयात् नित्यम् ॥१॥
+शास्त्र काल सीमां लिख बहिः हि नित्यम् ।
+स्वामिनं शास्त्र काल धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक प्रतिमां दूरं रक्षेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक गुह्यं लोके मा लिखेत् नित्यम् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र देहि जागरणं कुरु अन्तः सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">अन्तः शास्त्र फलं देहि सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक प्रतिमां दूरं रक्षेत् नित्यम् ।
-संस्कृतीक गुह्यं लोके मा लिखेत् नित्यम् ॥२॥
+शास्त्र देहि जागरणं कुरु अन्तः सदा ।
+अन्तः शास्त्र फलं देहि सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">मितं संस्कृतीक कर्मणि स्वामिनं धरेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक निषेधमपि स्मरेत् नित्यम् ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र बिम्ब बध्नीहि अन्तः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र काल देहि अन्तः हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं संस्कृतीक कर्मणि स्वामिनं धरेत् ।
-संस्कृतीक निषेधमपि स्मरेत् नित्यम् ॥३॥
+शास्त्र बिम्ब बध्नीहि अन्तः सदा नित्यम् ।
+मितं शास्त्र काल देहि अन्तः हि नित्यम् ।
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक आयुः पूर्वं पश्येत् हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक सांख्यं सत्यतया पालयेत् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र रक्ष बध्नीहि द्वितः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र काल बध्नीहि अन्तः नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक आयुः पूर्वं पश्येत् हि नित्यम् ।
-संस्कृतीक सांख्यं सत्यतया पालयेत् ॥४॥
+शास्त्र रक्ष बध्नीहि द्वितः सदा नित्यम् ।
+मितं शास्त्र काल बध्नीहि अन्तः नित्यम् ।
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक सत्रं रक्ष नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक भारं विभज सदा ।</span><br />
-  <span data-line="3" data-start="" data-end="">संस्कृतीक सीमां पालय सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">संस्कृतीक जागरय नित्यम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र जाग्रत् बध्नीहि हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">त्रितः काल बध्नीहि हि सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">सूची दीर्घ कुरु सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">मार्ग शीघ्रम् पश्य सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक सत्रं रक्ष नित्यम् ।
-संस्कृतीक भारं विभज सदा ।
-संस्कृतीक सीमां पालय सदा ।
-संस्कृतीक जागरय नित्यम् ॥५॥
+शास्त्र जाग्रत् बध्नीहि हि सम्यक् ।
+त्रितः काल बध्नीहि हि सम्यक् ।
+सूची दीर्घ कुरु सदा सम्यक् ।
+मार्ग शीघ्रम् पश्य सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक परीक्ष्य पश्चात् कुर्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं संस्कृतीक गोप्येषु ह्रस्वं धरेत् ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र बध्नीहि जागरणं कुरु त्रितः हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">अन्तः शास्त्र फलं बध्नीहि सदा नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक परीक्ष्य पश्चात् कुर्यात् नित्यम् ।
-मितं संस्कृतीक गोप्येषु ह्रस्वं धरेत् ॥६॥
+शास्त्र बध्नीहि जागरणं कुरु त्रितः हि ।
+अन्तः शास्त्र फलं बध्नीहि सदा नित्यम् ।
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक रक्षेत् पुराणपथेऽपि हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं संस्कृतीक रक्षेत् पुराणपथेऽपि ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र स्मरेत् जागरणं कुरु पथे सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">एकतः शास्त्र फलं बध्नीहि सदा सदा ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक रक्षेत् पुराणपथेऽपि हि ।
-मितं संस्कृतीक रक्षेत् पुराणपथेऽपि ॥७॥
+शास्त्र स्मरेत् जागरणं कुरु पथे सदा ।
+एकतः शास्त्र फलं बध्नीहि सदा सदा ।
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक गोप्येषु ह्रस्वं धरेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक बीजं शुद्धं रक्षेत् हि नित्यम् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मार्ग स्मरेत् नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र नाम बध्नीहि एकतः सदा ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक गोप्येषु ह्रस्वं धरेत् नित्यम् ।
-संस्कृतीक बीजं शुद्धं रक्षेत् हि नित्यम् ॥८॥
+शास्त्र मार्ग स्मरेत् नित्यम् एव नित्यम् ।
+मितं शास्त्र नाम बध्नीहि एकतः सदा ।
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक फलं शीघ्रं विजानीयात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक धर्मः कर्मसु स्थिरः नित्यम् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सूची सीमां लिख नित्यम् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र नाम धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक फलं शीघ्रं विजानीयात् सदा ।
-संस्कृतीक धर्मः कर्मसु स्थिरः नित्यम् ॥९॥
+शास्त्र सूची सीमां लिख नित्यम् हि नित्यम् ।
+स्वामिनं शास्त्र नाम धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">एकमुखं बह्वधःपथानाम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालसीमां हस्तेषु धारयेत् ।</span><br />
-  <span data-line="3" data-start="" data-end="">तनुधर्मो मुखसेवायाः सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">द्वारनीतेः पृथगिदं कार्यम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र नाम पालय हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शीघ्रम् नाम बध्नीहि हि सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">पङ्क्ति दीर्घ लिख सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">मार्ग लघु पश्य सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकमुखं बह्वधःपथानाम् ।
-कालसीमां हस्तेषु धारयेत् ।
-तनुधर्मो मुखसेवायाः सदा ।
-द्वारनीतेः पृथगिदं कार्यम् ॥१०॥
+शास्त्र नाम पालय हि सम्यक् ।
+शीघ्रम् नाम बध्नीहि हि सम्यक् ।
+पङ्क्ति दीर्घ लिख सदा सम्यक् ।
+मार्ग लघु पश्य सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">संस्कृतीक सारो मितक्रियायुक्तः सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं संस्कृतीक निषेधमपि स्मरेत् ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र कर्म पालय दीर्घ सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र पत्र बध्नीहि एकतः सदा ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कृतीक सारो मितक्रियायुक्तः सदा ।
-मितं संस्कृतीक निषेधमपि स्मरेत् ॥११॥
+शास्त्र कर्म पालय दीर्घ सदा नित्यम् ।
+मितं शास्त्र पत्र बध्नीहि एकतः सदा ।
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">मितं संस्कृतीक धर्मः कर्मसु स्थिरः हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">संस्कृतीक अनुमतिपथे तिष्ठेत् सदा ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र रक्ष सीमां लिख पूर्व हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र पत्र धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं संस्कृतीक धर्मः कर्मसु स्थिरः हि ।
-संस्कृतीक अनुमतिपथे तिष्ठेत् सदा ॥१२॥
+शास्त्र रक्ष सीमां लिख पूर्व हि नित्यम् ।
+स्वामिनं शास्त्र पत्र धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 

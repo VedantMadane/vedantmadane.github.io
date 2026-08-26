@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत नूतनं प्रमाणं कुर्यात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मुक्तस्रोत नूतनं प्रमाणं कुर्यात् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र पश्य जागरणं कुरु त्रितः सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">पूर्व शास्त्र फलं बध्नीहि सदा नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत नूतनं प्रमाणं कुर्यात् सदा ।
-मितं मुक्तस्रोत नूतनं प्रमाणं कुर्यात् ॥१॥
+शास्त्र पश्य जागरणं कुरु त्रितः सदा ।
+पूर्व शास्त्र फलं बध्नीहि सदा नित्यम् ।
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत कर्मणि स्वामिनं धरेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मुक्तस्रोत भ्रंशं जागरे विद्यात् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र फल कुरु नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र पत्र बध्नीहि पूर्व नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत कर्मणि स्वामिनं धरेत् सदा ।
-मितं मुक्तस्रोत भ्रंशं जागरे विद्यात् ॥२॥
+शास्त्र फल कुरु नित्यम् एव नित्यम् ।
+मितं शास्त्र पत्र बध्नीहि पूर्व नित्यम् ।
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत द्वारे शब्दं कुर्यात् हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत सत्ये सूचीं लिखेत् हि नित्यम् ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र काल कुरु नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र बिम्ब बध्नीहि पूर्व नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत द्वारे शब्दं कुर्यात् हि नित्यम् ।
-मुक्तस्रोत सत्ये सूचीं लिखेत् हि नित्यम् ॥३॥
+शास्त्र काल कुरु नित्यम् एव नित्यम् ।
+मितं शास्त्र बिम्ब बध्नीहि पूर्व नित्यम् ।
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत निषेधमपि स्मरेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत धर्मः कर्मसु स्थिरः नित्यम् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र कर्म लिख शीघ्रम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र बिम्ब स्मरेत् पूर्व हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत निषेधमपि स्मरेत् नित्यम् ।
-मुक्तस्रोत धर्मः कर्मसु स्थिरः नित्यम् ॥४॥
+शास्त्र कर्म लिख शीघ्रम् एव नित्यम् ।
+मितं शास्त्र बिम्ब स्मरेत् पूर्व हि नित्यम् ।
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत स्वामिनं स्मर सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत दोषं विद्धि नित्यम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">मुक्तस्रोत बीजं रक्ष नित्यम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">मुक्तस्रोत फलं चिन्तय सदा ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र पत्र बध्नीहि हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">अन्तः गण स्मरेत् सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">सूची पथे वर्धय हि सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">जाग्रत् पर कुरु सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत स्वामिनं स्मर सदा ।
-मुक्तस्रोत दोषं विद्धि नित्यम् ।
-मुक्तस्रोत बीजं रक्ष नित्यम् ।
-मुक्तस्रोत फलं चिन्तय सदा ॥५॥
+शास्त्र पत्र बध्नीहि हि सम्यक् ।
+अन्तः गण स्मरेत् सदा सम्यक् ।
+सूची पथे वर्धय हि सम्यक् ।
+जाग्रत् पर कुरु सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत पथं सत्ये बध्नीयात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत भ्रंशं जागरे विद्यात् नित्यम् ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र बिम्ब बध्नीहि एकतः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र गण स्मरेत् पर हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत पथं सत्ये बध्नीयात् नित्यम् ।
-मुक्तस्रोत भ्रंशं जागरे विद्यात् नित्यम् ॥६॥
+शास्त्र बिम्ब बध्नीहि एकतः हि नित्यम् ।
+मितं शास्त्र गण स्मरेत् पर हि नित्यम् ।
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत क्रमं पश्यन् धारयेत् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत बीजं शुद्धं रक्षेत् हि नित्यम् ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र बध्नीहि जागरणं कुरु एकतः ।</span><br />
+  <span data-line="2" data-start="" data-end="">पर शास्त्र फलं स्मरेत् सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत क्रमं पश्यन् धारयेत् नित्यम् ।
-मुक्तस्रोत बीजं शुद्धं रक्षेत् हि नित्यम् ॥७॥
+शास्त्र बध्नीहि जागरणं कुरु एकतः ।
+पर शास्त्र फलं स्मरेत् सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत गर्भे धर्मं निवेशयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत परीक्ष्य पश्चात् कुर्यात् नित्यम् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र रक्ष बध्नीहि त्रितः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र नेतृ स्मरेत् बहिः हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत गर्भे धर्मं निवेशयेत् सदा ।
-मुक्तस्रोत परीक्ष्य पश्चात् कुर्यात् नित्यम् ॥८॥
+शास्त्र रक्ष बध्नीहि त्रितः सदा नित्यम् ।
+मितं शास्त्र नेतृ स्मरेत् बहिः हि नित्यम् ।
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">मितं मुक्तस्रोत कर्मणि स्वामिनं धरेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत सारो मितक्रियायुक्तः सदा ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र बध्नीहि जागरणं कुरु पथे हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">बहिः शास्त्र फलं स्मरेत् सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं मुक्तस्रोत कर्मणि स्वामिनं धरेत् ।
-मुक्तस्रोत सारो मितक्रियायुक्तः सदा ॥९॥
+शास्त्र बध्नीहि जागरणं कुरु पथे हि ।
+बहिः शास्त्र फलं स्मरेत् सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">मुक्तस्रोत मूलं रक्ष नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत सीमां पालय सदा ।</span><br />
-  <span data-line="3" data-start="" data-end="">मुक्तस्रोत साक्ष्यं देहि नित्यम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">मुक्तस्रोत लघु गृह्ण नित्यम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र क्रम स्मरेत् सदा सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">सदा नेतृ पालय हि सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">पङ्क्ति पथे वर्धय हि सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">सत्य पर लिख सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुक्तस्रोत मूलं रक्ष नित्यम् ।
-मुक्तस्रोत सीमां पालय सदा ।
-मुक्तस्रोत साक्ष्यं देहि नित्यम् ।
-मुक्तस्रोत लघु गृह्ण नित्यम् ॥१०॥
+शास्त्र क्रम स्मरेत् सदा सम्यक् ।
+सदा नेतृ पालय हि सम्यक् ।
+पङ्क्ति पथे वर्धय हि सम्यक् ।
+सत्य पर लिख सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">मितं मुक्तस्रोत द्वारे शब्दं कुर्यात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुक्तस्रोत स्थिरं यत्र जयो भवेत् सदा ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र भार स्मरेत् सम्यक् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र नेतृ पालय बहिः नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं मुक्तस्रोत द्वारे शब्दं कुर्यात् सदा ।
-मुक्तस्रोत स्थिरं यत्र जयो भवेत् सदा ॥११॥
+शास्त्र भार स्मरेत् सम्यक् एव नित्यम् ।
+मितं शास्त्र नेतृ पालय बहिः नित्यम् ।
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">मितं मुक्तस्रोत धर्मः कर्मसु स्थिरः हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मुक्तस्रोत स्थिरं यत्र जयो भवेत् ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र स्मरेत् जागरणं कुरु सम्यक् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">बहिः शास्त्र फलं पालय सदा नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मितं मुक्तस्रोत धर्मः कर्मसु स्थिरः हि ।
-मितं मुक्तस्रोत स्थिरं यत्र जयो भवेत् ॥१२॥
+शास्त्र स्मरेत् जागरणं कुरु सम्यक् सदा ।
+बहिः शास्त्र फलं पालय सदा नित्यम् ।
 
 **Word-for-word**
 

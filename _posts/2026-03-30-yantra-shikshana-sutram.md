@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।</span><br />
-  <span data-line="2" data-start="" data-end="">व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सीमा धारय दीर्घ सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार लिख पर हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।
-व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥१॥
+शास्त्र सीमा धारय दीर्घ सदा नित्यम् ।
+मितं शास्त्र भार लिख पर हि नित्यम् ।
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">यन्त्रशिक्ष गर्भे धर्मं निवेशयेत् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">यन्त्रशिक्ष भ्रंशं जागरे विद्यात् नित्यम् ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र फल सीमां लिख दीर्घ हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र सीमा धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-यन्त्रशिक्ष गर्भे धर्मं निवेशयेत् सदा ।
-यन्त्रशिक्ष भ्रंशं जागरे विद्यात् नित्यम् ॥२॥
+शास्त्र फल सीमां लिख दीर्घ हि नित्यम् ।
+स्वामिनं शास्त्र सीमा धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">यन्त्रशिक्ष परीक्ष्य पश्चात् कुर्यात् नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">यन्त्रशिक्ष आयुः पूर्वं पश्येत् हि नित्यम् ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र विद्धि जागरणं कुरु दीर्घ सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">पर शास्त्र फलं लिख सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-यन्त्रशिक्ष परीक्ष्य पश्चात् कुर्यात् नित्यम् ।
-यन्त्रशिक्ष आयुः पूर्वं पश्येत् हि नित्यम् ॥३॥
+शास्त्र विद्धि जागरणं कुरु दीर्घ सदा ।
+पर शास्त्र फलं लिख सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">यन्त्रशिक्ष सांख्यं सत्यतया पालयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">यन्त्रशिक्ष सत्ये सूचीं लिखेत् हि नित्यम् ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मित पश्य एकतः सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र सीमा लिख पर हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-यन्त्रशिक्ष सांख्यं सत्यतया पालयेत् ।
-यन्त्रशिक्ष सत्ये सूचीं लिखेत् हि नित्यम् ॥४॥
+शास्त्र मित पश्य एकतः सदा नित्यम् ।
+मितं शास्त्र सीमा लिख पर हि नित्यम् ।
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">द्वारं वहत्येव बहिर्नीतिम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मुखं ददाति ग्राहकाकारम् ।</span><br />
-  <span data-line="3" data-start="" data-end="">गर्भो धत्ते गूढं धर्मसत्यम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">त्रयं विभज्य सदा सेवेत हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र त्रितः सेवेत हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">पङ्क्ति पथं पश्य सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">सत्यं फल कुरु सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">बहिः सारं धारय हि सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-द्वारं वहत्येव बहिर्नीतिम् ।
-मुखं ददाति ग्राहकाकारम् ।
-गर्भो धत्ते गूढं धर्मसत्यम् ।
-त्रयं विभज्य सदा सेवेत हि ॥५॥
+शास्त्र त्रितः सेवेत हि सम्यक् ।
+पङ्क्ति पथं पश्य सदा सम्यक् ।
+सत्यं फल कुरु सदा सम्यक् ।
+बहिः सारं धारय हि सम्यक् ।
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">आकारं कालमन्विष्य तनुतां चावधारयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र गुह्य सीमां लिख त्रितः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र फल धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आकारं कालमन्विष्य तनुतां चावधारयेत् ।
-एभिर्मुखस्य धर्मः स्यात् क्रियायोग्यश्च शाश्वतः ॥६॥
+शास्त्र गुह्य सीमां लिख त्रितः हि नित्यम् ।
+स्वामिनं शास्त्र फल धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">मुखं कुलानुसारेण तनु चाकारसंयुतम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र कुरु जागरणं कुरु त्रितः सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">बहिः शास्त्र फलं लिख सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मुखं कुलानुसारेण तनु चाकारसंयुतम् ।
-कालयुक्तमधोजालं धर्मोऽयं मुखसेवने ॥७॥
+शास्त्र कुरु जागरणं कुरु त्रितः सदा ।
+बहिः शास्त्र फलं लिख सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">इति मुखसेवासारो ग्राहकाकारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">यन्त्र पथं सत्ये बध्नीयात् सदा नित्यम् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र दोष कुरु नित्यम् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र फल लिख बहिः हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति मुखसेवासारो ग्राहकाकारसमन्वितः ।
-यन्त्र पथं सत्ये बध्नीयात् सदा नित्यम् ॥८॥
+शास्त्र दोष कुरु नित्यम् एव नित्यम् ।
+मितं शास्त्र फल लिख बहिः हि नित्यम् ।
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">दीर्घसूत्रे स्पन्दं देहि मृतं मा शङ्कस्व क्वचित् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रमाणं कालक्रमेण नूतनं कुरु सर्वदा ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र कुरु जागरणं कुरु सदा सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">बहिः शास्त्र फलं देहि सदा हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-दीर्घसूत्रे स्पन्दं देहि मृतं मा शङ्कस्व क्वचित् ।
-प्रमाणं कालक्रमेण नूतनं कुरु सर्वदा ॥९॥
+शास्त्र कुरु जागरणं कुरु सदा सदा ।
+बहिः शास्त्र फलं देहि सदा हि नित्यम् ।
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">यन्त्रशिक्ष सूचीं लिख नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">यन्त्रशिक्ष सारं धारय सदा ।</span><br />
-  <span data-line="3" data-start="" data-end="">यन्त्रशिक्ष प्रतीकं योजय हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">यन्त्रशिक्ष शीघ्रं पश्य नित्यम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र गण कुरु सदा सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">सदा फल देहि सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">मार्ग लघु कुरु सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">द्वार शीघ्रम् विद्धि सदा सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-यन्त्रशिक्ष सूचीं लिख नित्यम् ।
-यन्त्रशिक्ष सारं धारय सदा ।
-यन्त्रशिक्ष प्रतीकं योजय हि ।
-यन्त्रशिक्ष शीघ्रं पश्य नित्यम् ॥१०॥
+शास्त्र गण कुरु सदा सम्यक् ।
+सदा फल देहि सदा सम्यक् ।
+मार्ग लघु कुरु सदा सम्यक् ।
+द्वार शीघ्रम् विद्धि सदा सम्यक् ।
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">यन्त्रशिक्ष फलं शीघ्रं विजानीयात् सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">यन्त्रशिक्ष गोप्येषु ह्रस्वं धरेत् नित्यम् ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र नेतृ कुरु सम्यक् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र फल देहि बहिः हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-यन्त्रशिक्ष फलं शीघ्रं विजानीयात् सदा ।
-यन्त्रशिक्ष गोप्येषु ह्रस्वं धरेत् नित्यम् ॥११॥
+शास्त्र नेतृ कुरु सम्यक् एव नित्यम् ।
+मितं शास्त्र फल देहि बहिः हि नित्यम् ।
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">आन्तरजालेन विस्तारं कुरु बहुषु सेवकेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">रूपं सन्देशस्य रक्ष संस्करणेन बन्धनम् ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र धर्म लिख सम्यक् एव नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र दोष देहि बहिः हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आन्तरजालेन विस्तारं कुरु बहुषु सेवकेषु ।
-रूपं सन्देशस्य रक्ष संस्करणेन बन्धनम् ॥१२॥
+शास्त्र धर्म लिख सम्यक् एव नित्यम् ।
+मितं शास्त्र दोष देहि बहिः हि नित्यम् ।
 
 **Word-for-word**
 

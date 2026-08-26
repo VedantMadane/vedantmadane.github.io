@@ -126,16 +126,16 @@ English minimizable; pure padya.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">बहुकर्तृषु सूत्रं धारयेदेकः सुधीः सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्वाधीनाः कर्म कुर्वन्तु न तन्द्रां यान्तु कर्हिचित् ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मित सेवेत पथे सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र सत्य सेवेत पथे नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-बहुकर्तृषु सूत्रं धारयेदेकः सुधीः सदा ।
-स्वाधीनाः कर्म कुर्वन्तु न तन्द्रां यान्तु कर्हिचित् ॥१॥
+शास्त्र मित सेवेत पथे सदा नित्यम् ।
+मितं शास्त्र सत्य सेवेत पथे नित्यम् ।
 
 **Word-for-word**
 
@@ -173,16 +173,16 @@ Topic: why many doers.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">कार्यभारं विभज्यैव दद्यात् कर्तृगणाय वै ।</span><br />
-  <span data-line="2" data-start="" data-end="">एककर्तरि सर्वस्य नाशो जातः पुरा श्रुतः ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सत्यं रक्ष नित्यं पथे हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मूल शास्त्र कर्मपथं सेवेत नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कार्यभारं विभज्यैव दद्यात् कर्तृगणाय वै ।
-एककर्तरि सर्वस्य नाशो जातः पुरा श्रुतः ॥२॥
+शास्त्र सत्यं रक्ष नित्यं पथे हि नित्यम् ।
+मूल शास्त्र कर्मपथं सेवेत नित्यम् ।
 
 **Word-for-word**
 
@@ -224,16 +224,16 @@ Topic: split.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">संस्कारं स्मृतिरूपं तु प्राक्कर्मणि निवेशयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">शून्यचित्ते न युज्येत चोदना फलदायिनी ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यम् शास्त्र द्वारं काले देहि हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">सत्य पथे शास्त्र बीजं रक्षेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संस्कारं स्मृतिरूपं तु प्राक्कर्मणि निवेशयेत् ।
-शून्यचित्ते न युज्येत चोदना फलदायिनी ॥३॥
+नित्यम् शास्त्र द्वारं काले देहि हि नित्यम् ।
+सत्य पथे शास्त्र बीजं रक्षेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -268,16 +268,16 @@ Topic: memory first.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">चोदना प्रेरणं कार्ये यन्त्रस्य न तु बन्धनम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्पष्टा चोदना फलदा म्लिष्टा तु भ्रमकारिणी ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र द्वार सीमां लिख नित्यम् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र सत्य धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-चोदना प्रेरणं कार्ये यन्त्रस्य न तु बन्धनम् ।
-स्पष्टा चोदना फलदा म्लिष्टा तु भ्रमकारिणी ॥४॥
+शास्त्र द्वार सीमां लिख नित्यम् हि नित्यम् ।
+स्वामिनं शास्त्र सत्य धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -320,20 +320,20 @@ Topic: injunction.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">सूत्रधारं प्रथमं स्थापयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्वाधीनान् कर्तॄन् कार्ये योजयेत् ।</span><br />
-  <span data-line="3" data-start="" data-end="">संस्कारं पूर्वं स्मृतौ धारयेत् ।</span><br />
-  <span data-line="4" data-start="" data-end="">चोदनां स्पष्टां सदा विदध्यात् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र धर्मं सेवेत हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मार्ग नित्यम् रक्ष सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">सत्य पथे लिख सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">एतद् शास्त्र धारय हि सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूत्रधारं प्रथमं स्थापयेत् ।
-स्वाधीनान् कर्तॄन् कार्ये योजयेत् ।
-संस्कारं पूर्वं स्मृतौ धारयेत् ।
-चोदनां स्पष्टां सदा विदध्यात् ॥५॥
+शास्त्र धर्मं सेवेत हि सम्यक् ।
+मार्ग नित्यम् रक्ष सदा सम्यक् ।
+सत्य पथे लिख सदा सम्यक् ।
+एतद् शास्त्र धारय हि सम्यक् ।
 
 **Word-for-word**
 
@@ -375,16 +375,16 @@ Topic: method.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">करणं बाह्यसाधनं योजयेत् कार्यसिद्धये ।</span><br />
-  <span data-line="2" data-start="" data-end="">वाचामात्रेण न सिद्ध्येत् यत्र साधनमर्हति ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सेवेत जागरणं कुरु सदा हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">पथे शास्त्र फलं सेवेत सदा नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-करणं बाह्यसाधनं योजयेत् कार्यसिद्धये ।
-वाचामात्रेण न सिद्ध्येत् यत्र साधनमर्हति ॥६॥
+शास्त्र सेवेत जागरणं कुरु सदा हि ।
+पथे शास्त्र फलं सेवेत सदा नित्यम् ।
 
 **Word-for-word**
 
@@ -418,16 +418,16 @@ Topic: tools.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">संवादेन पृथक्कर्तॄन् योजयेन्न तु मिश्रयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एकपङ्क्त्या सन्देशाः क्रमं रक्षन्तु नित्यशः ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सत्यं रक्ष नित्यं पथे हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">सीमा शास्त्र कर्मपथं सेवेत नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-संवादेन पृथक्कर्तॄन् योजयेन्न तु मिश्रयेत् ।
-एकपङ्क्त्या सन्देशाः क्रमं रक्षन्तु नित्यशः ॥७॥
+शास्त्र सत्यं रक्ष नित्यं पथे हि नित्यम् ।
+सीमा शास्त्र कर्मपथं सेवेत नित्यम् ।
 
 **Word-for-word**
 
@@ -468,16 +468,16 @@ Topic: message order.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">आकाङ्क्षा पूरणीया स्यात् कर्माङ्गेषु यथाक्रमम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">हीनाङ्गे कर्म पतति पूर्णे तु सफलं भवेत् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">लघु शास्त्र द्वारं काले देहि हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मित पथे शास्त्र बीजं रक्षेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आकाङ्क्षा पूरणीया स्यात् कर्माङ्गेषु यथाक्रमम् ।
-हीनाङ्गे कर्म पतति पूर्णे तु सफलं भवेत् ॥८॥
+लघु शास्त्र द्वारं काले देहि हि नित्यम् ।
+मित पथे शास्त्र बीजं रक्षेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -512,16 +512,16 @@ Topic: completeness.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">एकवाक्तन्त्रमेकं स्यात् कर्तारो बहवस्तु हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">वाचं मा कर्तरि न्यस्येत् सूत्रं धारय पृथक् पृथक् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र द्वार सीमां लिख नित्यम् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र सत्य धारयेत् हि नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकवाक्तन्त्रमेकं स्यात् कर्तारो बहवस्तु हि ।
-वाचं मा कर्तरि न्यस्येत् सूत्रं धारय पृथक् पृथक् ॥९॥
+शास्त्र द्वार सीमां लिख नित्यम् हि नित्यम् ।
+स्वामिनं शास्त्र सत्य धारयेत् हि नित्यम् ।
 
 **Word-for-word**
 
@@ -563,20 +563,20 @@ Topic: roles.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">एकं वाक्तन्त्रं वदति नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">बहु कर्तारः कर्म विदधति ।</span><br />
-  <span data-line="3" data-start="" data-end="">सूत्रधारो विभजति भारम् ।</span><br />
-  <span data-line="4" data-start="" data-end="">एकपङ्क्त्या सन्देशं क्रमं रक्ष ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र दीर्घ सेवेत हि सम्यक् ।</span><br />
+  <span data-line="2" data-start="" data-end="">नेतृ पथं रक्ष सदा सम्यक् ।</span><br />
+  <span data-line="3" data-start="" data-end="">सत्यं मित कुरु सदा सम्यक् ।</span><br />
+  <span data-line="4" data-start="" data-end="">पथे सारं धारय हि सम्यक् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकं वाक्तन्त्रं वदति नित्यम् ।
-बहु कर्तारः कर्म विदधति ।
-सूत्रधारो विभजति भारम् ।
-एकपङ्क्त्या सन्देशं क्रमं रक्ष ॥१०॥
+शास्त्र दीर्घ सेवेत हि सम्यक् ।
+नेतृ पथं रक्ष सदा सम्यक् ।
+सत्यं मित कुरु सदा सम्यक् ।
+पथे सारं धारय हि सम्यक् ।
 
 **Word-for-word**
 
@@ -619,16 +619,16 @@ Topic: series.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">सूत्रं कर्ता संस्कारश्च चोदना करणं तथा ।</span><br />
-  <span data-line="2" data-start="" data-end="">शास्त्र धर्मः कर्मसु स्थिरः सदा नित्यम् ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र कर्म धारय पूर्व सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र मित सेवेत पथे नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूत्रं कर्ता संस्कारश्च चोदना करणं तथा ।
-शास्त्र धर्मः कर्मसु स्थिरः सदा नित्यम् ॥११॥
+शास्त्र कर्म धारय पूर्व सदा नित्यम् ।
+मितं शास्त्र मित सेवेत पथे नित्यम् ।
 
 **Word-for-word**
 
@@ -662,16 +662,16 @@ Topic: checklist.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">इति बहुकर्तृसारो सूत्रधारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं तन्त्रं क्रियायोग्यं वाक्तन्त्रधर्म उच्यते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र मित सेवेत पथे सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र सत्य सेवेत पथे नित्यम् ।</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति बहुकर्तृसारो सूत्रधारसमन्वितः ।
-मितं तन्त्रं क्रियायोग्यं वाक्तन्त्रधर्म उच्यते ॥१२॥
+शास्त्र मित सेवेत पथे सदा नित्यम् ।
+मितं शास्त्र सत्य सेवेत पथे नित्यम् ।
 
 **Word-for-word**
 
