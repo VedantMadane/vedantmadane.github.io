@@ -74,7 +74,7 @@ def main():
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--strict-exit", action="store_true", default=True)
     args = ap.parse_args()
-    paths = sorted(POSTS.glob("2026-*.md"))
+    paths = sorted(POSTS.glob("2026-*.md")) + sorted(POSTS.glob("2027-*.md"))
     if args.dates:
         allow = set(args.dates)
         paths = [p for p in paths if p.name[:10] in allow]
