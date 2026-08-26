@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कृतीक आयुः पूर्वं पश्येत् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">संस्कृतीक सांख्यं सत्यतया पालयेत् ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।
-मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥४॥
+संस्कृतीक आयुः पूर्वं पश्येत् हि नित्यम् ।
+संस्कृतीक सांख्यं सत्यतया पालयेत् ॥४॥
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">सूचीं धर प्रमाणपत्रकेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">आयुः पश्य पूर्वं नूतनं कुरु ।</span><br />
-  <span data-line="3" data-start="" data-end="">दूरमिटं रक्ष प्रतिमां सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">अभ्यासं कुरु प्रत्यानयने हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कृतीक सत्रं रक्ष नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">संस्कृतीक भारं विभज सदा ।</span><br />
+  <span data-line="3" data-start="" data-end="">संस्कृतीक सीमां पालय सदा ।</span><br />
+  <span data-line="4" data-start="" data-end="">संस्कृतीक जागरय नित्यम् ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूचीं धर प्रमाणपत्रकेषु ।
-आयुः पश्य पूर्वं नूतनं कुरु ।
-दूरमिटं रक्ष प्रतिमां सदा ।
-अभ्यासं कुरु प्रत्यानयने हि ॥५॥
+संस्कृतीक सत्रं रक्ष नित्यम् ।
+संस्कृतीक भारं विभज सदा ।
+संस्कृतीक सीमां पालय सदा ।
+संस्कृतीक जागरय नित्यम् ॥५॥
 
 **Word-for-word**
 
@@ -318,7 +318,7 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।</span><br />
+  <span data-line="1" data-start="" data-end="">संस्कृतीक परीक्ष्य पश्चात् कुर्यात् नित्यम् ।</span><br />
   <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥६॥</span>
 </div>
 <details>
@@ -326,7 +326,7 @@ Topic: method 5.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।
+संस्कृतीक परीक्ष्य पश्चात् कुर्यात् नित्यम् ।
 प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥६॥
 
 **Word-for-word**
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।</span><br />
-  <span data-line="2" data-start="" data-end="">अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">संस्कृतीक गोप्येषु ह्रस्वं धरेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">संस्कृतीक बीजं शुद्धं रक्षेत् हि नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।
-अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥८॥
+संस्कृतीक गोप्येषु ह्रस्वं धरेत् नित्यम् ।
+संस्कृतीक बीजं शुद्धं रक्षेत् हि नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -438,7 +438,7 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।</span><br />
+  <span data-line="1" data-start="" data-end="">संस्कृतीक फलं शीघ्रं विजानीयात् सदा ।</span><br />
   <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥९॥</span>
 </div>
 <details>
@@ -446,7 +446,7 @@ Topic: limb 8.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।
+संस्कृतीक फलं शीघ्रं विजानीयात् सदा ।
 मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥९॥
 
 **Word-for-word**

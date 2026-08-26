@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">मन्दपाठे कोशं बध्नीहि सीमां रक्ष स्थिरतया ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्थानं विद्धि यत्र सूत्रं तिष्ठति नित्यशः ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति नूतनं प्रमाणं कुर्यात् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति आधारं पथेषु रक्षेत् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मन्दपाठे कोशं बध्नीहि सीमां रक्ष स्थिरतया ।
-स्थानं विद्धि यत्र सूत्रं तिष्ठति नित्यशः ॥३॥
+प्रतिभूति नूतनं प्रमाणं कुर्यात् सदा ।
+मितं प्रतिभूति आधारं पथेषु रक्षेत् ॥३॥
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् क्वचित् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रतीकं योजयेदन्वयकार्ये ।</span><br />
-  <span data-line="3" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।</span><br />
-  <span data-line="4" data-start="" data-end="">मूले छादनं सदा प्रशस्तम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति प्रवाहं मितं कुरु ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति फलं चिन्तय ।</span><br />
+  <span data-line="3" data-start="" data-end="">प्रतिभूति धर्मं सेवेत सदा ।</span><br />
+  <span data-line="4" data-start="" data-end="">प्रतिभूति वृत्तिं रक्ष नित्यम् ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गोप्यं लोकेषु मा लिखेत् क्वचित् ।
-प्रतीकं योजयेदन्वयकार्ये ।
-वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।
-मूले छादनं सदा प्रशस्तम् ॥५॥
+प्रतिभूति प्रवाहं मितं कुरु ।
+मितं प्रतिभूति फलं चिन्तय ।
+प्रतिभूति धर्मं सेवेत सदा ।
+प्रतिभूति वृत्तिं रक्ष नित्यम् ॥५॥
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">कर्तारं कर्म लेख्यां धारयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">अमिटां पङ्क्तिं पृथक् रक्षयेत् ।</span><br />
-  <span data-line="3" data-start="" data-end="">निषेधं चापि लिखेन्नित्यं सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">विलंबे जागर्ति कुरु शीघ्रम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">प्रतिभूति सूचीं लिख नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं प्रतिभूति सत्यं लिख हि ।</span><br />
+  <span data-line="3" data-start="" data-end="">मितं प्रतिभूति सूचीं लिख हि ।</span><br />
+  <span data-line="4" data-start="" data-end="">प्रतिभूति शीघ्रं पश्य नित्यम् ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कर्तारं कर्म लेख्यां धारयेत् ।
-अमिटां पङ्क्तिं पृथक् रक्षयेत् ।
-निषेधं चापि लिखेन्नित्यं सदा ।
-विलंबे जागर्ति कुरु शीघ्रम् ॥१०॥
+प्रतिभूति सूचीं लिख नित्यम् ।
+मितं प्रतिभूति सत्यं लिख हि ।
+मितं प्रतिभूति सूचीं लिख हि ।
+प्रतिभूति शीघ्रं पश्य नित्यम् ॥१०॥
 
 **Word-for-word**
 

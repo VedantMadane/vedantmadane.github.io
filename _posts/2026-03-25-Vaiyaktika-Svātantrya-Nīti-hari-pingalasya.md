@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">आधारं रक्ष योजनापथेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">सांख्यं पालय नित्यं सत्यतया ।</span><br />
-  <span data-line="3" data-start="" data-end="">भ्रंशं विद्धि शीघ्रं जागरणे हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">स्वामिनं देहि प्रश्ने महति हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र फलं चिन्तय हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शास्त्र जागरय सदा नित्यम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">शास्त्र पथं रक्ष सदा नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">शास्त्र सारं धारय हि नित्यम् ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आधारं रक्ष योजनापथेषु ।
-सांख्यं पालय नित्यं सत्यतया ।
-भ्रंशं विद्धि शीघ्रं जागरणे हि ।
-स्वामिनं देहि प्रश्ने महति हि ॥५॥
+शास्त्र फलं चिन्तय हि नित्यम् ।
+शास्त्र जागरय सदा नित्यम् ।
+शास्त्र पथं रक्ष सदा नित्यम् ।
+शास्त्र सारं धारय हि नित्यम् ॥५॥
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र फलं शीघ्रं विजानीयात् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र फलं शीघ्रं विजानीयात् सदा ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।
-मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥८॥
+शास्त्र फलं शीघ्रं विजानीयात् हि नित्यम् ।
+मितं शास्त्र फलं शीघ्रं विजानीयात् सदा ॥८॥
 
 **Word-for-word**
 
@@ -438,7 +438,7 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।</span><br />
+  <span data-line="1" data-start="" data-end="">शास्त्र गुह्यं लोके मा लिखेत् सदा नित्यम् ।</span><br />
   <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥९॥</span>
 </div>
 <details>
@@ -446,7 +446,7 @@ Topic: limb 8.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।
+शास्त्र गुह्यं लोके मा लिखेत् सदा नित्यम् ।
 प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥९॥
 
 **Word-for-word**
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">सूचीं धर प्रमाणपत्रकेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">आयुः पश्य पूर्वं नूतनं कुरु ।</span><br />
-  <span data-line="3" data-start="" data-end="">दूरमिटं रक्ष प्रतिमां सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">अभ्यासं कुरु प्रत्यानयने हि ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र सूचीं लिख सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं शास्त्र फलं चिन्तय सदा ।</span><br />
+  <span data-line="3" data-start="" data-end="">शास्त्र प्रतीकं योजय नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">शास्त्र धर्मं सेवेत हि नित्यम् ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूचीं धर प्रमाणपत्रकेषु ।
-आयुः पश्य पूर्वं नूतनं कुरु ।
-दूरमिटं रक्ष प्रतिमां सदा ।
-अभ्यासं कुरु प्रत्यानयने हि ॥१०॥
+शास्त्र सूचीं लिख सदा नित्यम् ।
+मितं शास्त्र फलं चिन्तय सदा ।
+शास्त्र प्रतीकं योजय नित्यम् ।
+शास्त्र धर्मं सेवेत हि नित्यम् ॥१०॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।</span><br />
-  <span data-line="2" data-start="" data-end="">अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">शास्त्र भ्रंशं जागरे विद्यात् सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शास्त्र स्थिरं यत्र जयो भवेत् हि नित्यम् ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।
-अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥१२॥
+शास्त्र भ्रंशं जागरे विद्यात् सदा नित्यम् ।
+शास्त्र स्थिरं यत्र जयो भवेत् हि नित्यम् ॥१२॥
 
 **Word-for-word**
 

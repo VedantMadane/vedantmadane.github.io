@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">तत्क्षणं घर्षणमायुः सूक्ष्मं शब्दं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिरापातिकद्वारस्य धर्मः सम्यक् प्रवर्तते ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं कृष्ण सारो मितक्रियायुक्तः सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">इति कृष्ण सत्ये सूचीं लिखेत् हि नित्यम् ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-तत्क्षणं घर्षणमायुः सूक्ष्मं शब्दं पञ्चकम् ।
-एभिरापातिकद्वारस्य धर्मः सम्यक् प्रवर्तते ॥१॥
+नित्यं कृष्ण सारो मितक्रियायुक्तः सदा ।
+इति कृष्ण सत्ये सूचीं लिखेत् हि नित्यम् ॥१॥
 
 **Word-for-word**
 
@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण द्वारे शब्दं कुर्यात् सर्वदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं कृष्ण द्वारे शब्दं कुर्यात् हि नित्यम् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।
-मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥२॥
+कृष्ण द्वारे शब्दं कुर्यात् सर्वदा नित्यम् ।
+मितं कृष्ण द्वारे शब्दं कुर्यात् हि नित्यम् ॥२॥
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">नित्यं मा ईश्वरं कुरु काले द्वारं तु देहि हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">शब्दं कृत्वा पश्चात्सत्यं परीक्षस्व विचक्षणः ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">मितं कृष्ण सत्ये सूचीं लिखेत् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं कृष्ण गोप्येषु ह्रस्वं धरेत् नित्यम् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं मा ईश्वरं कुरु काले द्वारं तु देहि हि ।
-शब्दं कृत्वा पश्चात्सत्यं परीक्षस्व विचक्षणः ॥३॥
+मितं कृष्ण सत्ये सूचीं लिखेत् हि नित्यम् ।
+नित्यं कृष्ण गोप्येषु ह्रस्वं धरेत् नित्यम् ॥३॥
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">योजना मार्गमाचष्टे भ्रष्टे शीघ्रं विनिश्चितम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">आधारं रक्ष सांख्यं च वास्तविके परीक्षस्व ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण मितं क्रियायोग्यं स्यात् सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण निषेधमपि स्मरेत् सदा नित्यम् ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-योजना मार्गमाचष्टे भ्रष्टे शीघ्रं विनिश्चितम् ।
-आधारं रक्ष सांख्यं च वास्तविके परीक्षस्व ॥४॥
+कृष्ण मितं क्रियायोग्यं स्यात् सदा नित्यम् ।
+कृष्ण निषेधमपि स्मरेत् सदा नित्यम् ॥४॥
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">सूचीं धर प्रमाणपत्रकेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">आयुः पश्य पूर्वं नूतनं कुरु ।</span><br />
-  <span data-line="3" data-start="" data-end="">दूरमिटं रक्ष प्रतिमां सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">अभ्यासं कुरु प्रत्यानयने हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण जागरय सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण पथं रक्ष सदा नित्यम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">कृष्ण बीजं रक्ष सदा नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">कृष्ण लघु गृह्ण सदा नित्यम् ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूचीं धर प्रमाणपत्रकेषु ।
-आयुः पश्य पूर्वं नूतनं कुरु ।
-दूरमिटं रक्ष प्रतिमां सदा ।
-अभ्यासं कुरु प्रत्यानयने हि ॥५॥
+कृष्ण जागरय सदा नित्यम् ।
+कृष्ण पथं रक्ष सदा नित्यम् ।
+कृष्ण बीजं रक्ष सदा नित्यम् ।
+कृष्ण लघु गृह्ण सदा नित्यम् ॥५॥
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">भ्रंशं विद्धि पङ्क्तिषु परीक्षितासु जागरे ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्वामिनं देहि प्रत्येकं प्रश्ने महति कर्मणि ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">मितं कृष्ण गुह्यं लोके मा लिखेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण धर्मः सम्यक् प्रवर्तते हि नित्यम् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-भ्रंशं विद्धि पङ्क्तिषु परीक्षितासु जागरे ।
-स्वामिनं देहि प्रत्येकं प्रश्ने महति कर्मणि ॥६॥
+मितं कृष्ण गुह्यं लोके मा लिखेत् नित्यम् ।
+कृष्ण धर्मः सम्यक् प्रवर्तते हि नित्यम् ॥६॥
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">अनुक्रमः पथं ददाति योजना तु वृणोति तम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">अंशः स्थानं विभनक्ति त्रयं विभज्य चिन्तय ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण दोषस्थाने विजानीयात् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण सांख्यं सत्यतया पालयेत् नित्यम् ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-अनुक्रमः पथं ददाति योजना तु वृणोति तम् ।
-अंशः स्थानं विभनक्ति त्रयं विभज्य चिन्तय ॥७॥
+कृष्ण दोषस्थाने विजानीयात् हि नित्यम् ।
+कृष्ण सांख्यं सत्यतया पालयेत् नित्यम् ॥७॥
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">आधारं सांख्यं परीक्षा संकेतं स्वामिनं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिः प्रश्नयोजनाया धर्मः सम्यक् प्रवर्तते ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं कृष्ण सत्ये सूचीं लिखेत् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण दीर्घेषु स्पन्दं दद्यात् सदा नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आधारं सांख्यं परीक्षा संकेतं स्वामिनं पञ्चकम् ।
-एभिः प्रश्नयोजनाया धर्मः सम्यक् प्रवर्तते ॥८॥
+नित्यं कृष्ण सत्ये सूचीं लिखेत् हि नित्यम् ।
+कृष्ण दीर्घेषु स्पन्दं दद्यात् सदा नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मार्गं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण भ्रंशं जागरे विद्यात् सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं कृष्ण प्रतिमां दूरं रक्षेत् नित्यम् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।
-मितं मार्गं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥९॥
+कृष्ण भ्रंशं जागरे विद्यात् सदा नित्यम् ।
+मितं कृष्ण प्रतिमां दूरं रक्षेत् नित्यम् ॥९॥
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">प्रवासने योजनां पश्य सूचिं मा पातय क्षणात् ।</span><br />
-  <span data-line="2" data-start="" data-end="">शून्ये कोशे मा विश्वसिहि सत्ये रूपे परीक्षस्व ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण अनुमतिपथे तिष्ठेत् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण स्थिरं यत्र जयो भवेत् हि नित्यम् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रवासने योजनां पश्य सूचिं मा पातय क्षणात् ।
-शून्ये कोशे मा विश्वसिहि सत्ये रूपे परीक्षस्व ॥११॥
+कृष्ण अनुमतिपथे तिष्ठेत् हि नित्यम् ।
+कृष्ण स्थिरं यत्र जयो भवेत् हि नित्यम् ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।</span><br />
-  <span data-line="2" data-start="" data-end="">पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">मितं कृष्ण अनुमतिपथे तिष्ठेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं कृष्ण अनुमतिपथे तिष्ठेत् सदा ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।
-पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥१२॥
+मितं कृष्ण अनुमतिपथे तिष्ठेत् सदा ।
+नित्यं कृष्ण अनुमतिपथे तिष्ठेत् सदा ॥१२॥
 
 **Word-for-word**
 

@@ -106,16 +106,16 @@ Minimizable.
 
 <p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।</span><br />
-  <span data-line="2" data-start="" data-end="">अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥१॥</span>
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत नूतनं प्रमाणं कुर्यात् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत धर्मः सम्यक् प्रवर्तते सदा ॥१॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।
-अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥१॥
+मुक्तस्रोत नूतनं प्रमाणं कुर्यात् सदा ।
+मुक्तस्रोत धर्मः सम्यक् प्रवर्तते सदा ॥१॥
 
 **Word-for-word**
 
@@ -144,7 +144,7 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।</span><br />
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत कर्मणि स्वामिनं धरेत् सदा ।</span><br />
   <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥२॥</span>
 </div>
 <details>
@@ -152,7 +152,7 @@ Topic: limb 1.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।
+मुक्तस्रोत कर्मणि स्वामिनं धरेत् सदा ।
 मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥२॥
 
 **Word-for-word**
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">धारणं ह्रस्वं गोप्येषु नानन्तं संचयं कुरु ।</span><br />
-  <span data-line="2" data-start="" data-end="">परीक्षाहारैः सत्यं ज्ञात्वा दोषान्निवारय ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत पथं सत्ये बध्नीयात् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत भ्रंशं जागरे विद्यात् नित्यम् ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-धारणं ह्रस्वं गोप्येषु नानन्तं संचयं कुरु ।
-परीक्षाहारैः सत्यं ज्ञात्वा दोषान्निवारय ॥६॥
+मुक्तस्रोत पथं सत्ये बध्नीयात् नित्यम् ।
+मुक्तस्रोत भ्रंशं जागरे विद्यात् नित्यम् ॥६॥
 
 **Word-for-word**
 
@@ -400,7 +400,7 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">निषेधं चापि लिखेन्नित्यं न केवलं जयमेव हि ।</span><br />
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत गर्भे धर्मं निवेशयेत् सदा ।</span><br />
   <span data-line="2" data-start="" data-end="">कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥८॥</span>
 </div>
 <details>
@@ -408,7 +408,7 @@ Topic: limb 7.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-निषेधं चापि लिखेन्नित्यं न केवलं जयमेव हि ।
+मुक्तस्रोत गर्भे धर्मं निवेशयेत् सदा ।
 कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥८॥
 
 **Word-for-word**
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">स्पन्दं देहि दीर्घसूत्रेषु सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रमाणं नूतनं कालक्रमेण ।</span><br />
-  <span data-line="3" data-start="" data-end="">कोशं बध्नीहि मन्दपाठकेषु ।</span><br />
-  <span data-line="4" data-start="" data-end="">छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">मुक्तस्रोत मूलं रक्ष नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">मुक्तस्रोत सीमां पालय सदा ।</span><br />
+  <span data-line="3" data-start="" data-end="">मुक्तस्रोत साक्ष्यं देहि नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">मुक्तस्रोत लघु गृह्ण नित्यम् ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्पन्दं देहि दीर्घसूत्रेषु सदा ।
-प्रमाणं नूतनं कालक्रमेण ।
-कोशं बध्नीहि मन्दपाठकेषु ।
-छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥१०॥
+मुक्तस्रोत मूलं रक्ष नित्यम् ।
+मुक्तस्रोत सीमां पालय सदा ।
+मुक्तस्रोत साक्ष्यं देहि नित्यम् ।
+मुक्तस्रोत लघु गृह्ण नित्यम् ॥१०॥
 
 **Word-for-word**
 

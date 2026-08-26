@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">धारणं ह्रस्वं गोप्येषु नानन्तं संचयं कुरु ।</span><br />
-  <span data-line="2" data-start="" data-end="">परीक्षाहारैः सत्यं ज्ञात्वा दोषान्निवारय ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">शब्दसञ्चा स्थिरं यत्र जयो भवेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा पथं सत्ये बध्नीयात् नित्यम् ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-धारणं ह्रस्वं गोप्येषु नानन्तं संचयं कुरु ।
-परीक्षाहारैः सत्यं ज्ञात्वा दोषान्निवारय ॥४॥
+शब्दसञ्चा स्थिरं यत्र जयो भवेत् सदा ।
+शब्दसञ्चा पथं सत्ये बध्नीयात् नित्यम् ॥४॥
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">आधारं रक्ष योजनापथेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">सांख्यं पालय नित्यं सत्यतया ।</span><br />
-  <span data-line="3" data-start="" data-end="">भ्रंशं विद्धि शीघ्रं जागरणे हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">स्वामिनं देहि प्रश्ने महति हि ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">शब्दसञ्चा बीजं रक्ष नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा प्रतीकं योजय हि ।</span><br />
+  <span data-line="3" data-start="" data-end="">शब्दसञ्चा तु प्रतीकं योजय ।</span><br />
+  <span data-line="4" data-start="" data-end="">शब्दसञ्चा हि प्रतीकं योजय ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आधारं रक्ष योजनापथेषु ।
-सांख्यं पालय नित्यं सत्यतया ।
-भ्रंशं विद्धि शीघ्रं जागरणे हि ।
-स्वामिनं देहि प्रश्ने महति हि ॥५॥
+शब्दसञ्चा बीजं रक्ष नित्यम् ।
+शब्दसञ्चा प्रतीकं योजय हि ।
+शब्दसञ्चा तु प्रतीकं योजय ।
+शब्दसञ्चा हि प्रतीकं योजय ॥५॥
 
 **Word-for-word**
 
@@ -356,7 +356,7 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">निषेधं चापि लिखेन्नित्यं न केवलं जयमेव हि ।</span><br />
+  <span data-line="1" data-start="" data-end="">मितं शब्दसञ्चा पथं सत्ये बध्नीयात् ।</span><br />
   <span data-line="2" data-start="" data-end="">कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥७॥</span>
 </div>
 <details>
@@ -364,7 +364,7 @@ Topic: limb 6.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-निषेधं चापि लिखेन्नित्यं न केवलं जयमेव हि ।
+मितं शब्दसञ्चा पथं सत्ये बध्नीयात् ।
 कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥७॥
 
 **Word-for-word**
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">सूचीं धर प्रमाणपत्रकेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">आयुः पश्य पूर्वं नूतनं कुरु ।</span><br />
-  <span data-line="3" data-start="" data-end="">दूरमिटं रक्ष प्रतिमां सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">अभ्यासं कुरु प्रत्यानयने हि ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">शब्दसञ्चा वृत्तिं रक्ष नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">शब्दसञ्चा क्रमं धारय सदा ।</span><br />
+  <span data-line="3" data-start="" data-end="">शब्दसञ्चा सारं धारय सदा ।</span><br />
+  <span data-line="4" data-start="" data-end="">शब्दसञ्चा पथं रक्ष नित्यम् ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सूचीं धर प्रमाणपत्रकेषु ।
-आयुः पश्य पूर्वं नूतनं कुरु ।
-दूरमिटं रक्ष प्रतिमां सदा ।
-अभ्यासं कुरु प्रत्यानयने हि ॥१०॥
+शब्दसञ्चा वृत्तिं रक्ष नित्यम् ।
+शब्दसञ्चा क्रमं धारय सदा ।
+शब्दसञ्चा सारं धारय सदा ।
+शब्दसञ्चा पथं रक्ष नित्यम् ॥१०॥
 
 **Word-for-word**
 

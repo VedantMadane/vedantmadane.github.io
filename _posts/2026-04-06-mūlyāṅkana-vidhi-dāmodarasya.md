@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">शीघ्रं शास्त्र परीक्ष्य पश्चात् कुर्यात् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">इति शास्त्र दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति प्रमाणपत्रसारो जीवन्चक्रसमन्वितः ।
-मितं विश्वासकालं तन्त्रधर्मः स उच्यते ॥९॥
+शीघ्रं शास्त्र परीक्ष्य पश्चात् कुर्यात् नित्यम् ।
+इति शास्त्र दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥९॥
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">स्पन्दं देहि दीर्घसूत्रेषु सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रमाणं नूतनं कालक्रमेण ।</span><br />
-  <span data-line="3" data-start="" data-end="">कोशं बध्नीहि मन्दपाठकेषु ।</span><br />
-  <span data-line="4" data-start="" data-end="">छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">नित्यं शास्त्र लघु गृह्ण नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं शास्त्र शीघ्रं पश्य नित्यम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">शास्त्र वृत्तिं रक्ष सदा नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">मितं शास्त्र वृत्तिं रक्ष नित्यम् ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्पन्दं देहि दीर्घसूत्रेषु सदा ।
-प्रमाणं नूतनं कालक्रमेण ।
-कोशं बध्नीहि मन्दपाठकेषु ।
-छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥१०॥
+नित्यं शास्त्र लघु गृह्ण नित्यम् ।
+नित्यं शास्त्र शीघ्रं पश्य नित्यम् ।
+शास्त्र वृत्तिं रक्ष सदा नित्यम् ।
+मितं शास्त्र वृत्तिं रक्ष नित्यम् ॥१०॥
 
 **Word-for-word**
 
@@ -530,7 +530,7 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।</span><br />
+  <span data-line="1" data-start="" data-end="">इति शास्त्र द्वारे शब्दं कुर्यात् हि नित्यम् ।</span><br />
   <span data-line="2" data-start="" data-end="">प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥११॥</span>
 </div>
 <details>
@@ -538,7 +538,7 @@ Topic: method 10.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-बहिः पश्यन्ति यत्सत्यं तत्सूच्यां न हि लभ्यते ।
+इति शास्त्र द्वारे शब्दं कुर्यात् हि नित्यम् ।
 प्रत्यक्षं जालमार्गेण आयुः परीक्ष्यतां सदा ॥११॥
 
 **Word-for-word**

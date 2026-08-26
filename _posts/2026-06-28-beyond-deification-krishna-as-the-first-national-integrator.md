@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">विक्रेतृद्वारमप्येवं सूचीं कुरु स्वामिना सह ।</span><br />
-  <span data-line="2" data-start="" data-end="">पश्चात्समीक्षां नित्यं कुरु न विस्मरेत् कदाचन ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण परीक्ष्य पश्चात् कुर्यात् सदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण गोप्येषु ह्रस्वं धरेत् सदा नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-विक्रेतृद्वारमप्येवं सूचीं कुरु स्वामिना सह ।
-पश्चात्समीक्षां नित्यं कुरु न विस्मरेत् कदाचन ॥८॥
+कृष्ण परीक्ष्य पश्चात् कुर्यात् सदा नित्यम् ।
+कृष्ण गोप्येषु ह्रस्वं धरेत् सदा नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">तत्क्षणं घर्षणमायुः सूक्ष्मं शब्दं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिरापातिकद्वारस्य धर्मः सम्यक् प्रवर्तते ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">मितं कृष्ण गोप्येषु ह्रस्वं धरेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण क्रमं पश्यन् धारयेत् सदा नित्यम् ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-तत्क्षणं घर्षणमायुः सूक्ष्मं शब्दं पञ्चकम् ।
-एभिरापातिकद्वारस्य धर्मः सम्यक् प्रवर्तते ॥९॥
+मितं कृष्ण गोप्येषु ह्रस्वं धरेत् नित्यम् ।
+कृष्ण क्रमं पश्यन् धारयेत् सदा नित्यम् ॥९॥
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण सत्ये सूचीं लिखेत् सर्वदा नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण प्रतिमां दूरं रक्षेत् सदा नित्यम् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इत्यापातिकप्रवेशसारो मितद्वारसमन्वितः ।
-मितं द्वारं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥११॥
+कृष्ण सत्ये सूचीं लिखेत् सर्वदा नित्यम् ।
+कृष्ण प्रतिमां दूरं रक्षेत् सदा नित्यम् ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">नित्यं मा ईश्वरं कुरु काले द्वारं तु देहि हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">शब्दं कृत्वा पश्चात्सत्यं परीक्षस्व विचक्षणः ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">कृष्ण सारो मितक्रियायुक्तः हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">कृष्ण गुह्यं लोके मा लिखेत् सदा नित्यम् ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं मा ईश्वरं कुरु काले द्वारं तु देहि हि ।
-शब्दं कृत्वा पश्चात्सत्यं परीक्षस्व विचक्षणः ॥१२॥
+कृष्ण सारो मितक्रियायुक्तः हि नित्यम् ।
+कृष्ण गुह्यं लोके मा लिखेत् सदा नित्यम् ॥१२॥
 
 **Word-for-word**
 

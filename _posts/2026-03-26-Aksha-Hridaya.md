@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।</span><br />
-  <span data-line="2" data-start="" data-end="">अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">अक्षहृद गुह्यं लोके मा लिखेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">अक्षहृद दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-अनुमतिसूच्यां तिष्ठेत् न निषेधमात्रके पथे ।
-अन्वये प्रतीकं देहि पत्रं मा कुञ्चिकां कुरु ॥३॥
+अक्षहृद गुह्यं लोके मा लिखेत् नित्यम् ।
+अक्षहृद दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥३॥
 
 **Word-for-word**
 
@@ -226,7 +226,7 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।</span><br />
+  <span data-line="1" data-start="" data-end="">अक्षहृद निषेधमपि स्मरेत् नित्यम् ।</span><br />
   <span data-line="2" data-start="" data-end="">मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥४॥</span>
 </div>
 <details>
@@ -234,7 +234,7 @@ Topic: limb 3.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-मूले छादनं श्रेष्ठं पश्चात्शोधं तु मन्दकम् ।
+अक्षहृद निषेधमपि स्मरेत् नित्यम् ।
 मनुष्यमार्गेऽपि रक्षां कुरु गोप्यविसर्जने ॥४॥
 
 **Word-for-word**
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">आपद्द्वारं काले देहि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">नित्यमीशं तु मा कुरु क्वचित् ।</span><br />
-  <span data-line="3" data-start="" data-end="">शब्दं कुरु द्वारोद्घाटने सदा ।</span><br />
-  <span data-line="4" data-start="" data-end="">पश्चात्समीक्षां स्थिरं कुरु त्वम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">अक्षहृद पथं रक्ष नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">अक्षहृद सीमां पालय सदा ।</span><br />
+  <span data-line="3" data-start="" data-end="">अक्षहृद मूलं रक्ष नित्यम् ।</span><br />
+  <span data-line="4" data-start="" data-end="">अक्षहृद लघु गृह्ण नित्यम् ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आपद्द्वारं काले देहि नित्यम् ।
-नित्यमीशं तु मा कुरु क्वचित् ।
-शब्दं कुरु द्वारोद्घाटने सदा ।
-पश्चात्समीक्षां स्थिरं कुरु त्वम् ॥५॥
+अक्षहृद पथं रक्ष नित्यम् ।
+अक्षहृद सीमां पालय सदा ।
+अक्षहृद मूलं रक्ष नित्यम् ।
+अक्षहृद लघु गृह्ण नित्यम् ॥५॥
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">धारणं ह्रस्वं गोप्येषु नानन्तं संचयं कुरु ।</span><br />
-  <span data-line="2" data-start="" data-end="">परीक्षाहारैः सत्यं ज्ञात्वा दोषान्निवारय ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">अक्षहृद सांख्यं सत्यतया पालयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">अक्षहृद क्रमं पश्यन् धारयेत् नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-धारणं ह्रस्वं गोप्येषु नानन्तं संचयं कुरु ।
-परीक्षाहारैः सत्यं ज्ञात्वा दोषान्निवारय ॥८॥
+अक्षहृद सांख्यं सत्यतया पालयेत् ।
+अक्षहृद क्रमं पश्यन् धारयेत् नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">आधारं रक्ष योजनापथेषु ।</span><br />
-  <span data-line="2" data-start="" data-end="">सांख्यं पालय नित्यं सत्यतया ।</span><br />
-  <span data-line="3" data-start="" data-end="">भ्रंशं विद्धि शीघ्रं जागरणे हि ।</span><br />
-  <span data-line="4" data-start="" data-end="">स्वामिनं देहि प्रश्ने महति हि ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">मितं अक्षहृद मूलं रक्ष हि ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं अक्षहृद लघु गृह्ण हि ।</span><br />
+  <span data-line="3" data-start="" data-end="">अक्षहृद प्रवाहं मितं कुरु ।</span><br />
+  <span data-line="4" data-start="" data-end="">अक्षहृद दोषं विद्धि नित्यम् ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आधारं रक्ष योजनापथेषु ।
-सांख्यं पालय नित्यं सत्यतया ।
-भ्रंशं विद्धि शीघ्रं जागरणे हि ।
-स्वामिनं देहि प्रश्ने महति हि ॥१०॥
+मितं अक्षहृद मूलं रक्ष हि ।
+मितं अक्षहृद लघु गृह्ण हि ।
+अक्षहृद प्रवाहं मितं कुरु ।
+अक्षहृद दोषं विद्धि नित्यम् ॥१०॥
 
 **Word-for-word**
 
@@ -530,7 +530,7 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">निषेधं चापि लिखेन्नित्यं न केवलं जयमेव हि ।</span><br />
+  <span data-line="1" data-start="" data-end="">अक्षहृद अनुमतिपथे तिष्ठेत् सदा ।</span><br />
   <span data-line="2" data-start="" data-end="">कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥११॥</span>
 </div>
 <details>
@@ -538,7 +538,7 @@ Topic: method 10.
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-निषेधं चापि लिखेन्नित्यं न केवलं जयमेव हि ।
+अक्षहृद अनुमतिपथे तिष्ठेत् सदा ।
 कालं चिह्नं च संगृह्य क्रमं सत्यं विधत्तताम् ॥११॥
 
 **Word-for-word**

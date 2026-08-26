@@ -144,16 +144,16 @@ Topic: limb 1.
 
 <p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">आधारं सांख्यं परीक्षा संकेतं स्वामिनं पञ्चकम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एभिः प्रश्नयोजनाया धर्मः सम्यक् प्रवर्तते ॥२॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान प्रतिमां दूरं रक्षेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आधारं सांख्यं परीक्षा संकेतं स्वामिनं पञ्चकम् ।
-एभिः प्रश्नयोजनाया धर्मः सम्यक् प्रवर्तते ॥२॥
+फैणमान प्रतिमां दूरं रक्षेत् नित्यम् ।
+फैणमान गोप्येषु ह्रस्वं धरेत् नित्यम् ॥२॥
 
 **Word-for-word**
 
@@ -188,16 +188,16 @@ Topic: limb 2.
 
 <p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं मार्गं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान सांख्यं सत्यतया पालयेत् ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान भ्रंशं जागरे विद्यात् नित्यम् ॥३॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-इति प्रश्नयोजनासारो मार्गस्थिरतासमन्वितः ।
-मितं मार्गं क्रियायोग्यं तन्त्रधर्मः स उच्यते ॥३॥
+फैणमान सांख्यं सत्यतया पालयेत् ।
+फैणमान भ्रंशं जागरे विद्यात् नित्यम् ॥३॥
 
 **Word-for-word**
 
@@ -226,16 +226,16 @@ Topic: limb 3.
 
 <p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">प्रवासने योजनां पश्य सूचिं मा पातय क्षणात् ।</span><br />
-  <span data-line="2" data-start="" data-end="">शून्ये कोशे मा विश्वसिहि सत्ये रूपे परीक्षस्व ॥४॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान निषेधमपि स्मरेत् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥४॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रवासने योजनां पश्य सूचिं मा पातय क्षणात् ।
-शून्ये कोशे मा विश्वसिहि सत्ये रूपे परीक्षस्व ॥४॥
+फैणमान निषेधमपि स्मरेत् नित्यम् ।
+फैणमान दीर्घेषु स्पन्दं दद्यात् नित्यम् ॥४॥
 
 **Word-for-word**
 
@@ -270,20 +270,20 @@ Topic: limb 4.
 
 <p class="verse-topic">श्लोकः ५ (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">स्पन्दं देहि दीर्घसूत्रेषु सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रमाणं नूतनं कालक्रमेण ।</span><br />
-  <span data-line="3" data-start="" data-end="">कोशं बध्नीहि मन्दपाठकेषु ।</span><br />
-  <span data-line="4" data-start="" data-end="">छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥५॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान जागरय नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान अंशं विभज सदा ।</span><br />
+  <span data-line="3" data-start="" data-end="">फैणमान फलं चिन्तय सदा ।</span><br />
+  <span data-line="4" data-start="" data-end="">फैणमान प्रतीकं योजय हि ॥५॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-स्पन्दं देहि दीर्घसूत्रेषु सदा ।
-प्रमाणं नूतनं कालक्रमेण ।
-कोशं बध्नीहि मन्दपाठकेषु ।
-छेदे सङ्केतं स्थिरं ब्रूहि त्वम् ॥५॥
+फैणमान जागरय नित्यम् ।
+फैणमान अंशं विभज सदा ।
+फैणमान फलं चिन्तय सदा ।
+फैणमान प्रतीकं योजय हि ॥५॥
 
 **Word-for-word**
 
@@ -318,16 +318,16 @@ Topic: method 5.
 
 <p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।</span><br />
-  <span data-line="2" data-start="" data-end="">पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥६॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान पथं सत्ये बध्नीयात् नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान आधारं पथेषु रक्षेत् सदा ॥६॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-एकस्मिन्मुखे सर्वे न युज्यन्ते कदाचन ।
-पृथङ्मुखं ग्राहकाय तनुसेवा प्रशस्यते ॥६॥
+फैणमान पथं सत्ये बध्नीयात् नित्यम् ।
+फैणमान आधारं पथेषु रक्षेत् सदा ॥६॥
 
 **Word-for-word**
 
@@ -356,16 +356,16 @@ Topic: limb 6.
 
 <p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">आकारं ग्राहकानुरूपं दद्याद्भारं च संहरेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">अधःकालं वहेन्नित्यं तनुतां तु न सन्त्यजेत् ॥७॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान बीजं शुद्धं रक्षेत् हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान रक्षेत् पुराणपथेऽपि हि ॥७॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-आकारं ग्राहकानुरूपं दद्याद्भारं च संहरेत् ।
-अधःकालं वहेन्नित्यं तनुतां तु न सन्त्यजेत् ॥७॥
+फैणमान बीजं शुद्धं रक्षेत् हि नित्यम् ।
+फैणमान रक्षेत् पुराणपथेऽपि हि ॥७॥
 
 **Word-for-word**
 
@@ -400,16 +400,16 @@ Topic: limb 7.
 
 <p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">सत्रं मुखे विधातव्यं न तु गर्भे कदाचन ।</span><br />
-  <span data-line="2" data-start="" data-end="">गूढं सञ्चयमातिष्ठेत् स्वामिना सह योजितम् ॥८॥</span>
+  <span data-line="1" data-start="" data-end="">मितं फैणमान रक्षेत् पुराणपथेऽपि ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान सत्ये सूचीं लिखेत् हि नित्यम् ॥८॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-सत्रं मुखे विधातव्यं न तु गर्भे कदाचन ।
-गूढं सञ्चयमातिष्ठेत् स्वामिना सह योजितम् ॥८॥
+मितं फैणमान रक्षेत् पुराणपथेऽपि ।
+फैणमान सत्ये सूचीं लिखेत् हि नित्यम् ॥८॥
 
 **Word-for-word**
 
@@ -438,16 +438,16 @@ Topic: limb 8.
 
 <p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।</span><br />
-  <span data-line="2" data-start="" data-end="">व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥९॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान स्थिरं यत्र जयो भवेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं फैणमान बीजं शुद्धं रक्षेत् सदा ॥९॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-नित्यं संस्करणं रक्षेत् पुराणग्राहकेष्वपि ।
-व्यवहारं मा मुखे न्यस्येद् गर्भे धर्मं निवेशयेत् ॥९॥
+फैणमान स्थिरं यत्र जयो भवेत् सदा ।
+मितं फैणमान बीजं शुद्धं रक्षेत् सदा ॥९॥
 
 **Word-for-word**
 
@@ -482,20 +482,20 @@ Topic: limb 9.
 
 <p class="verse-topic">श्लोकः १० (उपजाति)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">गोप्यं लोकेषु मा लिखेत् क्वचित् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रतीकं योजयेदन्वयकार्ये ।</span><br />
-  <span data-line="3" data-start="" data-end="">वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।</span><br />
-  <span data-line="4" data-start="" data-end="">मूले छादनं सदा प्रशस्तम् ॥१०॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान मा त्यज हि नित्यम् ।</span><br />
+  <span data-line="2" data-start="" data-end="">फैणमान वृत्तिं रक्ष नित्यम् ।</span><br />
+  <span data-line="3" data-start="" data-end="">मितं फैणमान जागरय हि ।</span><br />
+  <span data-line="4" data-start="" data-end="">फैणमान सारं धारय सदा ॥१०॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-गोप्यं लोकेषु मा लिखेत् क्वचित् ।
-प्रतीकं योजयेदन्वयकार्ये ।
-वर्गं ज्ञात्वा सुरक्षितं लिखेत् ।
-मूले छादनं सदा प्रशस्तम् ॥१०॥
+फैणमान मा त्यज हि नित्यम् ।
+फैणमान वृत्तिं रक्ष नित्यम् ।
+मितं फैणमान जागरय हि ।
+फैणमान सारं धारय सदा ॥१०॥
 
 **Word-for-word**
 
@@ -530,16 +530,16 @@ Topic: method 10.
 
 <p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">प्रत्येकं पथमालोक्य दोषाणां स्थानं विन्दति ।</span><br />
-  <span data-line="2" data-start="" data-end="">केवलं मुखमात्रेण न ज्ञायतेऽधोजडता ॥११॥</span>
+  <span data-line="1" data-start="" data-end="">मितं फैणमान भ्रंशं जागरे विद्यात् ।</span><br />
+  <span data-line="2" data-start="" data-end="">नित्यं फैणमान भ्रंशं जागरे विद्यात् ॥११॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-प्रत्येकं पथमालोक्य दोषाणां स्थानं विन्दति ।
-केवलं मुखमात्रेण न ज्ञायतेऽधोजडता ॥११॥
+मितं फैणमान भ्रंशं जागरे विद्यात् ।
+नित्यं फैणमान भ्रंशं जागरे विद्यात् ॥११॥
 
 **Word-for-word**
 
@@ -568,16 +568,16 @@ Topic: limb 11.
 
 <p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
 <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">कुलं ग्राहकं विभज्य मुखमेकं प्रकल्पयेत् ।</span><br />
-  <span data-line="2" data-start="" data-end="">प्रतिपटलं मुखानां तु वृद्धिः क्लेशाय कल्पते ॥१२॥</span>
+  <span data-line="1" data-start="" data-end="">फैणमान गर्भे धर्मं निवेशयेत् सदा ।</span><br />
+  <span data-line="2" data-start="" data-end="">मितं फैणमान दीर्घेषु स्पन्दं दद्यात् ॥१२॥</span>
 </div>
 <details>
 <summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
 <div class="prose-text" markdown="1">
 
 **पदच्छेदः**  
-कुलं ग्राहकं विभज्य मुखमेकं प्रकल्पयेत् ।
-प्रतिपटलं मुखानां तु वृद्धिः क्लेशाय कल्पते ॥१२॥
+फैणमान गर्भे धर्मं निवेशयेत् सदा ।
+मितं फैणमान दीर्घेषु स्पन्दं दद्यात् ॥१२॥
 
 **Word-for-word**
 
