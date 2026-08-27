@@ -54,15 +54,6 @@ def det(summ, body):
 def fin(t):
     return t.rstrip() + '\n\n</div>\n\n<script src="%s"></script>\n' % JS
 
-def save(name, t):
-    t = fin(t)
-    check(t)
-    assert t.count("verse-topic") == 12 and "Word-for-word" in t and "minimizable" in t
-    path = Path("_posts") / name
-    assert len(path.name.encode("utf-8")) < 200
-    path.write_text(t, encoding="utf-8", newline="\n")
-    print("W", name, len(t))
-
 def prior(rows):
     h = "| पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |\n| :---- | :---- | :---- |\n"
     return h + "\n".join("| %s | %s | %s |" % r for r in rows)
@@ -85,44 +76,62 @@ def keep_drop(keep, drop):
     return "### ग्राह्यम् / Keep\n%s\n\n### त्याज्यम् / Avoid\n%s" % (k, d)
 
 def R(a, b): return (a, b)
+def G(pada, analysis, role): return (pada, analysis, role)
 
 def wfw_table(pairs):
     h = "| संस्कृतपदम् | Word-for-word English |\n| :---- | :---- |\n"
     return h + "\n".join("| %s | %s |" % (a, b) for a, b in pairs)
 
-def v_anu(n, s1, s2, pad, rows, wfw, sense, ctx="", note=""):
-    rows_md = "\n".join("| %s | %s |" % (a, b) for a, b in rows)
+def grammar_table(rows):
+    """rows: (pada, morphological analysis, English syntactic role)"""
+    h = "| पदम् | रूपम् / analysis | English role |\n| :---- | :---- | :---- |\n"
+    return h + "\n".join("| %s | %s | %s |" % (a, b, c) for a, b, c in rows)
+
+def _verse_details(pad, wfw, rows_md, grammar_md, sense, ctx, note, vrtta):
     extra = "\n\n%s\n" % note if note else "\n"
     ctx_b = "\n\n**Context / topic**  \n%s\n" % ox(ctx) if ctx else "\n"
     return (
+        '<details>\n<summary>पदच्छेदः · व्याकरणम् · Word-for-word · English (minimizable)</summary>\n'
+        '<div class="prose-text" markdown="1">\n\n'
+        '**पदच्छेदः**  \n%s\n\n'
+        '**व्याकरणम् / Grammar map**\n\n%s\n\n'
+        '**Word-for-word**\n\n%s\n\n'
+        '**Gloss table**\n\n| पदम् | अर्थः / sense |\n| :---- | :---- |\n%s\n\n'
+        '**English sense**  \n%s\n%s%s'
+        '**वृत्तमिति**: %s\n\n</div>\n</details>\n\n'
+    ) % (pad, grammar_md, wfw_table(wfw), rows_md, ox(sense), ctx_b, extra, vrtta)
+
+def v_anu(n, s1, s2, pad, rows, wfw, sense, grammar, ctx="", note=""):
+    rows_md = "\n".join("| %s | %s |" % (a, b) for a, b in rows)
+    g_md = grammar_table(grammar)
+    body = (
         '<p class="verse-topic">श्लोकः %s (अनुष्टुभ्)</p>\n'
         '<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v%d">\n'
         '  <span data-line="1" data-start="" data-end="">%s</span><br />\n'
         '  <span data-line="2" data-start="" data-end="">%s</span>\n</div>\n'
-        '<details>\n<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>\n'
-        '<div class="prose-text" markdown="1">\n\n**पदच्छेदः**  \n%s\n\n**Word-for-word**\n\n%s\n\n'
-        '**Gloss table**\n\n| पदम् | अर्थः / sense |\n| :---- | :---- |\n%s\n\n'
-        '**English sense**  \n%s\n%s%s\n**वृत्तमिति**: ८-८-८-८।\n\n</div>\n</details>\n\n'
-    ) % (dev(n), n, s1, s2, pad, wfw_table(wfw), rows_md, ox(sense), ctx_b, extra)
+    ) % (dev(n), n, s1, s2)
+    return body + _verse_details(pad, wfw, rows_md, g_md, sense, ctx, note, "८-८-८-८।")
 
-def v_upa(n, lines, pad, rows, wfw, sense, ctx="", note=""):
-    spans = "<br />\n  ".join('<span data-line="%d" data-start="" data-end="">%s</span>' % (i+1, lines[i]) for i in range(4))
+def v_upa(n, lines, pad, rows, wfw, sense, grammar, ctx="", note=""):
+    spans = "<br />\n  ".join(
+        '<span data-line="%d" data-start="" data-end="">%s</span>' % (i + 1, lines[i])
+        for i in range(4)
+    )
     rows_md = "\n".join("| %s | %s |" % (a, b) for a, b in rows)
-    extra = "\n\n%s\n" % note if note else "\n"
-    ctx_b = "\n\n**Context / topic**  \n%s\n" % ox(ctx) if ctx else "\n"
-    return (
+    g_md = grammar_table(grammar)
+    body = (
         '<p class="verse-topic">श्लोकः %s (उपजाति)</p>\n'
         '<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v%d">\n  %s\n</div>\n'
-        '<details>\n<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>\n'
-        '<div class="prose-text" markdown="1">\n\n**पदच्छेदः**  \n%s\n\n**Word-for-word**\n\n%s\n\n'
-        '**Gloss table**\n\n| पदम् | अर्थः / sense |\n| :---- | :---- |\n%s\n\n'
-        '**English sense**  \n%s\n%s%s\n**वृत्तमिति**: एकादशाक्षराः पादाः।\n\n</div>\n</details>\n\n'
-    ) % (dev(n), n, spans, pad, wfw_table(wfw), rows_md, ox(sense), ctx_b, extra)
+    ) % (dev(n), n, spans)
+    return body + _verse_details(
+        pad, wfw, rows_md, g_md, sense, ctx, note, "एकादशाक्षराः पादाः।"
+    )
 
-def An(n,s1,s2,pad,rows,wfw,sense,ctx="",note=""):
-    return v_anu(n,s1,s2,pad,rows,wfw,sense,ctx,note)
-def Up(n,lines,pad,rows,wfw,sense,ctx="",note=""):
-    return v_upa(n,lines,pad,rows,wfw,sense,ctx,note)
+def An(n, s1, s2, pad, rows, wfw, sense, grammar, ctx="", note=""):
+    return v_anu(n, s1, s2, pad, rows, wfw, sense, grammar, ctx, note)
+
+def Up(n, lines, pad, rows, wfw, sense, grammar, ctx="", note=""):
+    return v_upa(n, lines, pad, rows, wfw, sense, grammar, ctx, note)
 
 def chs(n2,n3,n4,n5,n6,th1,th2,th3,th4,th5,th6,th7="सारधर्मः / Close."):
     return [("प्रथमं प्रकरणम्: मङ्गलं बीजं च","अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्",th1),
@@ -153,28 +162,100 @@ def emit(meta, chapter_list, verses):
     t += det("सन्दर्भाः / References", "\n".join("%d. %s  " % (i, ox(s)) for i,s in enumerate(meta["refs"],1)))
     save("%s-%s.md" % (meta["date"], title), t)
 
+def _require_grammar(sp, where):
+    g = sp.get("g") or sp.get("grammar") or []
+    if len(g) < 3:
+        raise AssertionError(
+            "%s: need grammar map g=[(pada, analysis, role), ...] with >=3 rows" % where
+        )
+    for j, row in enumerate(g):
+        if len(row) != 3:
+            raise AssertionError("%s.g[%d]: want 3-tuple (pada, analysis, role)" % (where, j))
+        if len(str(row[1])) < 4:
+            raise AssertionError("%s.g[%d]: analysis too thin: %r" % (where, j, row[1]))
+    w = sp.get("w") or []
+    if len(w) < 3:
+        raise AssertionError("%s: need wfw pairs w=[(sa, en), ...] >=3" % where)
+    echo = sum(1 for a, b in w if a.strip() == b.strip())
+    if w and echo / len(w) >= 0.6:
+        raise AssertionError("%s: wfw must be English glosses not Sanskrit echo" % where)
+    return g
+
 def pack12(specs):
-    out=[]
-    for i,sp in enumerate(specs,1):
-        if sp["k"]=="a":
-            assert_anu_pair(sp["s1"], sp["s2"], "v%d" % i)
-            out.append(An(i,sp["s1"],sp["s2"],sp.get("pad",sp["s1"]+"\n"+sp["s2"]),sp["r"],sp["w"],sp["en"],sp.get("cx",""),sp.get("n","")))
+    out = []
+    for i, sp in enumerate(specs, 1):
+        where = "v%d" % i
+        g = _require_grammar(sp, where)
+        pad = sp.get("pad")
+        if sp["k"] == "a":
+            assert_anu_pair(sp["s1"], sp["s2"], where)
+            if not pad:
+                pad = sp["s1"] + "\n" + sp["s2"]
+            out.append(
+                An(i, sp["s1"], sp["s2"], pad, sp["r"], sp["w"], sp["en"], g, sp.get("cx", ""), sp.get("n", ""))
+            )
         else:
-            assert_upa_quatrain(sp["l"], "v%d" % i)
-            out.append(Up(i,sp["l"],sp.get("pad","\n".join(sp["l"])),sp["r"],sp["w"],sp["en"],sp.get("cx",""),sp.get("n","")))
+            assert_upa_quatrain(sp["l"], where)
+            if not pad:
+                pad = "\n".join(sp["l"])
+            out.append(
+                Up(i, sp["l"], pad, sp["r"], sp["w"], sp["en"], g, sp.get("cx", ""), sp.get("n", ""))
+            )
     return out
 
-def P(k,**kw):
-    d={"k":k}; d.update(kw); return d
+def P(k, **kw):
+    d = {"k": k}
+    d.update(kw)
+    return d
 
-def base_meta(date,title,en_short,full,tags,intro_sa,intro_en,overview,prior,keep,drop,gloss,shlist,refs,extra=None):
-    return dict(date=date,title=title,
-        sub="द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: %s. English in minimizable details."%en_short,
-        tags=list(tags)+["english","panini"], intro_sa=intro_sa, intro_en=intro_en, full=full,
-        overview=overview, prior=prior, keep=keep, drop=drop, gloss=gloss, shlist=shlist, refs=refs, extra=extra)
+def base_meta(date, title, en_short, full, tags, intro_sa, intro_en, overview, prior, keep, drop, gloss, shlist, refs, extra=None):
+    return dict(
+        date=date,
+        title=title,
+        sub="द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: %s. English grammar maps in minimizable details." % en_short,
+        tags=list(tags) + ["english", "panini", "quality"],
+        intro_sa=intro_sa,
+        intro_en=intro_en,
+        full=full,
+        overview=overview,
+        prior=prior,
+        keep=keep,
+        drop=drop,
+        gloss=gloss,
+        shlist=shlist,
+        refs=refs,
+        extra=extra,
+    )
 
 def emit_post(date, title, en_short, full, tags, intro_sa, intro_en, overview, prior, keep, drop, gloss, shlist, refs, ch_args, specs):
-    emit(base_meta(date, title, en_short, full, tags, intro_sa, intro_en, overview, prior, keep, drop, gloss, shlist, refs),
-         chs(*ch_args), pack12(specs))
+    emit(
+        base_meta(date, title, en_short, full, tags, intro_sa, intro_en, overview, prior, keep, drop, gloss, shlist, refs),
+        chs(*ch_args),
+        pack12(specs),
+    )
+
+def save(name, t):
+    """Override save to run quality gate after write checks."""
+    t = fin(t)
+    check(t)
+    assert t.count("verse-topic") == 12 and "Word-for-word" in t and "minimizable" in t
+    assert "व्याकरणम्" in t or "Grammar map" in t
+    path = Path("_posts") / name
+    assert len(path.name.encode("utf-8")) < 200
+    path.write_text(t, encoding="utf-8", newline="\n")
+    # quality gate on the written file
+    import subprocess
+    gate = Path(__file__).resolve().parent / ".grok" / "skills" / "sanskrit-verse-blog" / "scripts" / "gate_posts.py"
+    r = subprocess.run(
+        [sys.executable, str(gate), "--quality", "--paths", str(path)],
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+    )
+    if r.returncode != 0:
+        path.unlink(missing_ok=True)
+        raise AssertionError("quality gate failed for %s\n%s\n%s" % (name, r.stdout, r.stderr))
+    print("W", name, len(t), "quality=OK")
 
 print("lib ok")
