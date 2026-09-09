@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "yantra-shikshana-sutram"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-03-30-yantra-shikshana-sutram/"
 slug: "yantra-shikshana-sutram"
 tags: [sanskrit, panini, chandas, english, english, panini]

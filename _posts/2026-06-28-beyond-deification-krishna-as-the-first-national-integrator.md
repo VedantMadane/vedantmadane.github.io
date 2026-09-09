@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "beyond-deification-krishna-as-the-first-national-integrator"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-06-28-beyond-deification-krishna-as-the-first-national-integrator/"
 slug: "beyond-deification-krishna-as-the-first-national-integrator"
 tags: [sanskrit, panini, chandas, english, english, panini]

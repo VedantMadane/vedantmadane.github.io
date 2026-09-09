@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vaiyaktika-Svātantrya-Nīti-hari-pingalasya"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-03-25-Vaiyaktika-Svātantrya-Nīti-hari-pingalasya/"
 slug: "Vaiyaktika-Svātantrya-Nīti-hari-pingalasya"
 tags: [sanskrit, panini, chandas, english, english, panini]

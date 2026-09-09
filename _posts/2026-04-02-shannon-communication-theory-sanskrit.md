@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "shannon-communication-theory-sanskrit"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-04-02-shannon-communication-theory-sanskrit/"
 slug: "shannon-communication-theory-sanskrit"
 tags: [sanskrit, panini, chandas, english, english, panini]

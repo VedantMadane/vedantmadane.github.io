@@ -212,7 +212,7 @@ def base_meta(date, title, en_short, full, tags, intro_sa, intro_en, overview, p
     return dict(
         date=date,
         title=title,
-        sub="द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: %s. English grammar maps in minimizable details." % en_short,
+        sub="द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: %s." % en_short,
         tags=list(tags) + ["english", "panini", "quality"],
         intro_sa=intro_sa,
         intro_en=intro_en,

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ml-bigdata-panini-verse-sangraha"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: large mass pattern and split exam. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: large mass pattern and split exam."
 permalink: "/2026-05-04-ml-bigdata-panini-verse-sangraha/"
 slug: "ml-bigdata-panini-verse-sangraha"
 tags: [sanskrit, ml, bigdata, panini, chandas, english, panini]

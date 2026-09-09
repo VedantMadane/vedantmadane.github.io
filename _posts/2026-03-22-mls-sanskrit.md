@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mls-sanskrit"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: multi-agent speech system and orchestrator. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: multi-agent speech system and orchestrator."
 permalink: "/2026-03-22-mls-sanskrit/"
 slug: "mls-sanskrit"
 tags: [sanskrit, multi-agent, panini, chandas, english, panini]

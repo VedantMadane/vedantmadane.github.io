@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "graham-dodd-security-analysis-sanskrit"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-05-02-graham-dodd-security-analysis-sanskrit/"
 slug: "graham-dodd-security-analysis-sanskrit"
 tags: [sanskrit, panini, chandas, english, english, panini]

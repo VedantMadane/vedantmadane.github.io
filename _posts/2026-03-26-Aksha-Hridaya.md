@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aksha-Hridaya"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-03-26-Aksha-Hridaya/"
 slug: "Aksha-Hridaya"
 tags: [sanskrit, panini, chandas, english, english, panini]

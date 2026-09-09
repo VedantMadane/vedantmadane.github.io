@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mānavamati-bhramaḥ"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-04-05-mānavamati-bhramaḥ/"
 slug: "mānavamati-bhramaḥ"
 tags: [sanskrit, panini, chandas, english, english, panini]

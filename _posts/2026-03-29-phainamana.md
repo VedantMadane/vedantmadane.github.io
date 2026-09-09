@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "phainamana"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-03-29-phainamana/"
 slug: "phainamana"
 tags: [sanskrit, panini, chandas, english, english, panini]

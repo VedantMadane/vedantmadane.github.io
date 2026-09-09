@@ -93,8 +93,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 
 # When false (Jekyll default), posts dated after build time (UTC) are omitted from the site.
-# Set true so dated filenames like 2026-03-26-... appear on the blog before that calendar day.
-future: true
+# Keep false so the blog only lists posts up through today; future-dated padya stay in _posts until their day.
+future: false
 
 # Select which social network share links to show in posts
 #share-links-active:

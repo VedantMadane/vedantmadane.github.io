@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "devikaranatitam-krishna-sanghatakah"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-06-29-devikaranatitam-krishna-sanghatakah/"
 slug: "devikaranatitam-krishna-sanghatakah"
 tags: [sanskrit, panini, chandas, english, english, panini]

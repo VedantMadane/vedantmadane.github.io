@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mūlyāṅkana-vidhi-dāmodarasya"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-04-06-mūlyāṅkana-vidhi-dāmodarasya/"
 slug: "mūlyāṅkana-vidhi-dāmodarasya"
 tags: [sanskrit, panini, chandas, english, english, panini]

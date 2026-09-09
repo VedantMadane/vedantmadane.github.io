@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sanskritizing-scientific-knowledge-hierarchy"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya. English in minimizable details."
+subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
 permalink: "/2026-04-01-sanskritizing-scientific-knowledge-hierarchy/"
 slug: "sanskritizing-scientific-knowledge-hierarchy"
 tags: [sanskrit, panini, chandas, english, english, panini]
