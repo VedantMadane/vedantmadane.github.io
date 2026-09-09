@@ -902,24 +902,29 @@ full-width: true
         <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">NLP</span><span class="merged-tag">Sanskrit</span></div>
         <a href="https://github.com/kmadathil/sanskrit_parser/pull/189" class="merged-card-link" target="_blank">View PR #189 →</a>
       </div>
+
+      <div class="merged-card">
+        <div class="merged-card-icon">🐍</div>
+        <div class="repo-name"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> conda/conda</div>
+        <h4>Type Hints for common/io</h4>
+        <p>Add type hints to conda/common/io module for enhanced type safety.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">CLI</span></div>
+        <a href="https://github.com/conda/conda/pull/15773" class="merged-card-link" target="_blank">View PR #15773 →</a>
+      </div>
     </div>
   </div>
   
   <div class="merged-stats">
     <div class="stat-item">
-      <div class="stat-number">42</div>
+      <div class="stat-number">297+</div>
       <div class="stat-label">PRs Merged</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">50</div>
+      <div class="stat-number">652+</div>
       <div class="stat-label">Ongoing PRs</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">5</div>
-      <div class="stat-label">Languages</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-number">80+</div>
+      <div class="stat-number">907+</div>
       <div class="stat-label">Repos Contributed</div>
     </div>
   </div>
@@ -931,78 +936,22 @@ full-width: true
   </div>
   
   <div class="carousel-container">
-    <div class="carousel-track" style="animation-duration: 50s;">
+    <div class="carousel-track" style="animation-duration: 55s;">
       <div class="ongoing-card">
-        <div class="merged-card-icon">🧠</div>
-        <div class="repo-name">stanfordnlp/dspy</div>
-        <h4>Cost Tracking</h4>
-        <p>Add cost tracking with budget constraints for LLM calls.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
-        <a href="https://github.com/stanfordnlp/dspy/pull/9207" class="merged-card-link">View PR #9207 →</a>
+        <div class="merged-card-icon">🦙</div>
+        <div class="repo-name">ollama/ollama</div>
+        <h4>Sidebar Animation Fix</h4>
+        <p>Skip sidebar animation on initial load for faster app startup.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">AI</span></div>
+        <a href="https://github.com/ollama/ollama/pull/13743" class="merged-card-link" target="_blank">View PR #13743 →</a>
       </div>
       <div class="ongoing-card">
-        <div class="merged-card-icon">🔗</div>
-        <div class="repo-name">langchain-ai/langchain</div>
-        <h4>vLLM Fix</h4>
-        <p>Handle null choices from model_dump() for vLLM compatibility.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">LLM</span></div>
-        <a href="https://github.com/langchain-ai/langchain/pull/34791" class="merged-card-link">View PR #34791 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">⚡</div>
-        <div class="repo-name">vitejs/vite</div>
-        <h4>HTML Path Fix</h4>
-        <p>Handle trailing slash in htmlPath for relative URL pre-transform.</p>
-        <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Build</span></div>
-        <a href="https://github.com/vitejs/vite/pull/21429" class="merged-card-link">View PR #21429 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🍱</div>
-        <div class="repo-name">bentoml/BentoML</div>
-        <h4>src-layout Support</h4>
-        <p>Native support for src-layout projects during bentoml build.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">ML</span></div>
-        <a href="https://github.com/bentoml/BentoML/pull/5555" class="merged-card-link">View PR #5555 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🔧</div>
-        <div class="repo-name">conda/conda</div>
-        <h4>Type Hints for common/io</h4>
-        <p>Add type hints to conda/common/io module.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">CLI</span></div>
-        <a href="https://github.com/conda/conda/pull/15773" class="merged-card-link">View PR #15773 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🐘</div>
-        <div class="repo-name">grafana/grafana</div>
-        <h4>Validation Error Details</h4>
-        <p>Include validation error details in 4xx API responses.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Observability</span></div>
-        <a href="https://github.com/grafana/grafana/pull/118681" class="merged-card-link">View PR #118681 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">📦</div>
-        <div class="repo-name">moby/buildkit</div>
-        <h4>Platform-Suffixed Config Keys</h4>
-        <p>Support platform-suffixed config keys in container image exporter.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Docker</span></div>
-        <a href="https://github.com/moby/buildkit/pull/6544" class="merged-card-link">View PR #6544 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🦕</div>
-        <div class="repo-name">denoland/deno</div>
-        <h4>DENO_INSTALL_ROOT Fix</h4>
-        <p>Use DENO_INSTALL_ROOT directly without appending bin.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Rust</span><span class="merged-tag">Runtime</span></div>
-        <a href="https://github.com/denoland/deno/pull/32280" class="merged-card-link">View PR #32280 →</a>
-      </div>
-      <div class="ongoing-card">
-        <div class="merged-card-icon">🔎</div>
-        <div class="repo-name">meilisearch/meilisearch</div>
-        <h4>Streaming Document Retrieval</h4>
-        <p>Implement streaming for document retrieval to avoid OOM crashes.</p>
-        <div class="merged-card-tags"><span class="merged-tag">Rust</span><span class="merged-tag">Search</span></div>
-        <a href="https://github.com/meilisearch/meilisearch/pull/6171" class="merged-card-link">View PR #6171 →</a>
+        <div class="merged-card-icon">🎨</div>
+        <div class="repo-name">excalidraw/excalidraw</div>
+        <h4>Search Results Stability</h4>
+        <p>Stabilize search results ordering during whiteboard element drag.</p>
+        <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Canvas</span></div>
+        <a href="https://github.com/excalidraw/excalidraw/pull/10654" class="merged-card-link" target="_blank">View PR #10654 →</a>
       </div>
       <div class="ongoing-card">
         <div class="merged-card-icon">🔬</div>
@@ -1010,7 +959,79 @@ full-width: true
         <h4>JSON.rawJSON Lib Types</h4>
         <p>Add lib types for JSON.rawJSON, JSON.isRawJSON, and reviver context.</p>
         <div class="merged-card-tags"><span class="merged-tag">TypeScript</span><span class="merged-tag">Stdlib</span></div>
-        <a href="https://github.com/microsoft/TypeScript/pull/63248" class="merged-card-link">View PR #63248 →</a>
+        <a href="https://github.com/microsoft/TypeScript/pull/63248" class="merged-card-link" target="_blank">View PR #63248 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">⚡</div>
+        <div class="repo-name">astral-sh/uv</div>
+        <h4>System Python Options</h4>
+        <p>Parse UV_SYSTEM_PYTHON environment options for custom interpreter paths.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Rust</span><span class="merged-tag">CLI</span></div>
+        <a href="https://github.com/astral-sh/uv/pull/21175" class="merged-card-link" target="_blank">View PR #21175 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🔒</div>
+        <div class="repo-name">caddyserver/caddy</div>
+        <h4>RFC 9530 Content-Digest</h4>
+        <p>Add Content-Digest header support to file server for integrity verification.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">HTTP</span></div>
+        <a href="https://github.com/caddyserver/caddy/pull/7937" class="merged-card-link" target="_blank">View PR #7937 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">📊</div>
+        <div class="repo-name">prometheus/prometheus</div>
+        <h4>HTTP 429 Retry to GA</h4>
+        <p>Promote retry_on_http_429 configuration to General Availability.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Metrics</span></div>
+        <a href="https://github.com/prometheus/prometheus/pull/19390" class="merged-card-link" target="_blank">View PR #19390 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🤖</div>
+        <div class="repo-name">microsoft/autogen</div>
+        <h4>Streaming Tool Calls</h4>
+        <p>Handle null values in streaming tool_calls for Azure OpenAI integration.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
+        <a href="https://github.com/microsoft/autogen/pull/7178" class="merged-card-link" target="_blank">View PR #7178 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🌐</div>
+        <div class="repo-name">BerriAI/litellm</div>
+        <h4>vLLM GET Passthrough</h4>
+        <p>Allow vLLM GET passthrough by checking model param in query arguments.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">Gateway</span></div>
+        <a href="https://github.com/BerriAI/litellm/pull/36772" class="merged-card-link" target="_blank">View PR #36772 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">👥</div>
+        <div class="repo-name">crewAIInc/crewAI</div>
+        <h4>Callback Isolation</h4>
+        <p>Fix LLM callback isolation without serializing parallel agent requests.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">Agents</span></div>
+        <a href="https://github.com/crewAIInc/crewAI/pull/4252" class="merged-card-link" target="_blank">View PR #4252 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🦀</div>
+        <div class="repo-name">astral-sh/ruff</div>
+        <h4>SIM117 Async With Rule</h4>
+        <p>Detect nested async with blocks under sync parent for flake8-simplify.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Rust</span><span class="merged-tag">Linter</span></div>
+        <a href="https://github.com/astral-sh/ruff/pull/27821" class="merged-card-link" target="_blank">View PR #27821 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">🧠</div>
+        <div class="repo-name">stanfordnlp/dspy</div>
+        <h4>Cost Tracking</h4>
+        <p>Add cost tracking with budget constraints for LLM pipeline calls.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Python</span><span class="merged-tag">AI</span></div>
+        <a href="https://github.com/stanfordnlp/dspy/pull/9207" class="merged-card-link" target="_blank">View PR #9207 →</a>
+      </div>
+      <div class="ongoing-card">
+        <div class="merged-card-icon">📦</div>
+        <div class="repo-name">moby/buildkit</div>
+        <h4>Platform-Suffixed Config Keys</h4>
+        <p>Support platform-suffixed config keys in container image exporter.</p>
+        <div class="merged-card-tags"><span class="merged-tag">Go</span><span class="merged-tag">Docker</span></div>
+        <a href="https://github.com/moby/buildkit/pull/6544" class="merged-card-link" target="_blank">View PR #6544 →</a>
       </div>
     </div>
   </div>
