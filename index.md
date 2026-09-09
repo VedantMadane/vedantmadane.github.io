@@ -924,6 +924,10 @@ full-width: true
       <div class="stat-label">Ongoing PRs</div>
     </div>
     <div class="stat-item">
+      <div class="stat-number">12+</div>
+      <div class="stat-label">Years of Open Source</div>
+    </div>
+    <div class="stat-item">
       <div class="stat-number">907+</div>
       <div class="stat-label">Repos Contributed</div>
     </div>
