@@ -1,640 +1,125 @@
 ---
 layout: post
-title: "phainamana"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
-permalink: "/2026-03-29-phainamana/"
-slug: "phainamana"
-tags: [sanskrit, panini, chandas, english, english, panini]
-audio_sync: false
-# audio_file: /assets/audio/FILENAME.mp3
+title: Feynman's Algebra in Kārikā Form
+subtitle: Eight equal listening intervals from the March 29 recitation
+tags: [sanskrit]
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
 <div class="reader-container audio-sync-root">
-
-<p class="prose-text"><strong>phainamana।</strong> शुद्धपद्यपुनर्लेखः। <strong>phainamana</strong>।</p>
-
-<details>
-<summary>English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-Pure padya rewrite for gate pass.
-
-</div>
-</details>
-
-<details>
-<summary>पूर्ण-शीर्षकम् / Full title</summary>
-<div class="prose-text" markdown="1">
-
-# **phainamana**: Metrical pure padya rewrite
-
-</div>
-</details>
-
-<details>
-<summary>English · overview and topics (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-### About
-Pure padya rewrite.
-
-### English
-Minimizable.
-
-</div>
-</details>
-
-<details>
-<summary>परम्परा-सन्धिः / Series links</summary>
-<div class="prose-text" markdown="1">
-
-| पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
-| :---- | :---- | :---- |
-| **इदम्** | **rewrite** | - |
-
-</div>
-</details>
-
-<details>
-<summary>ग्राह्य-त्याज्य-विवेकः / Keep and avoid</summary>
-<div class="prose-text" markdown="1">
-
-### ग्राह्यम् / Keep
-१. **pure padya**: gate pass  
-
-### त्याज्यम् / Avoid
-- latin verse  
-
-</div>
-</details>
-
-<details>
-<summary>अध्याय-योजना / Chapter plan</summary>
-<div class="prose-text" markdown="1">
-
-| प्रकरणम् | विषयः | छन्दः | श्लोकाः |
-| :---- | :---- | :---- | :---: |
-| १ | मङ्गलं बीजं च / Opening | अनुष्टुभ् | २ |
-| २ | मूलतत्त्वानि / Core | अनुष्टुभ् | २ |
-| ३ | मुख्यविधिः / Method | उपजाति | १ |
-| ४ | रक्षा · विधिः / Guards | अनुष्टुभ् | २ |
-| ५ | विवेक · सीमा / Judgment | अनुष्टुभ् | २ |
-| ६ | पूर्वसन्धिः / Series links | उपजाति | १ |
-| ७ | उपसंहारः / Close | अनुष्टुभ् | २ |
-
-</div>
-</details>
-
-<details>
-<summary>पारिभाषिक-कोशः / Glossary</summary>
-<div class="prose-text" markdown="1">
-
-| Modern English | संस्कृतम् | Note |
-| :---- | :---- | :---- |
-| dharma | धर्मः |  |
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
-  <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
-  <p class="chapter-theme">बीजम्।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">शास्त्र द्वार सीमां लिख बहिः हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र क्रम धारयेत् हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र द्वार सीमां लिख बहिः हि नित्यम् ।
-स्वामिनं शास्त्र क्रम धारयेत् हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 1.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">शास्त्र मार्ग सेवेत बहिः सदा नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र क्रम कुरु दीर्घ हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र मार्ग सेवेत बहिः सदा नित्यम् ।
-मितं शास्त्र क्रम कुरु दीर्घ हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 2.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">मूलम्।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">शास्त्र सेवेत जागरणं कुरु अन्तः हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">दीर्घ शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र सेवेत जागरणं कुरु अन्तः हि ।
-दीर्घ शास्त्र फलं कुरु सदा हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 3.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">एकतः शास्त्र द्वारं काले देहि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">क्रम दीर्घ शास्त्र बीजं रक्षेत् हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-एकतः शास्त्र द्वारं काले देहि नित्यम् ।
-क्रम दीर्घ शास्त्र बीजं रक्षेत् हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 4.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
-  <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">विधिः।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ५ (उपजाति)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">शास्त्र भार सेवेत हि सम्यक् ।</span><br />
-  <span data-line="2" data-start="" data-end="">एकतः क्रम कुरु हि सम्यक् ।</span><br />
-  <span data-line="3" data-start="" data-end="">द्वार सम्यक् विद्धि सदा सम्यक् ।</span><br />
-  <span data-line="4" data-start="" data-end="">बीज सम्यक् धारय हि सम्यक् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र भार सेवेत हि सम्यक् ।
-एकतः क्रम कुरु हि सम्यक् ।
-द्वार सम्यक् विद्धि सदा सम्यक् ।
-बीज सम्यक् धारय हि सम्यक् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**English sense**  
-Method quatrain.
-
-
-**Context / topic**  
-Topic: method 5.
-
-
-**वृत्तमिति**: एकादशाक्षराः पादाः।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">रक्षा।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">शास्त्र सीमा सेवेत एकतः हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र क्रम कुरु पूर्व हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र सीमा सेवेत एकतः हि नित्यम् ।
-मितं शास्त्र क्रम कुरु पूर्व हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 6.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">शास्त्र सेवेत जागरणं कुरु द्वितः हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">पूर्व शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र सेवेत जागरणं कुरु द्वितः हि ।
-पूर्व शास्त्र फलं कुरु सदा हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 7.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">विवेकः।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">शास्त्र सेवा सीमां लिख पथे हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र भार धारयेत् हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र सेवा सीमां लिख पथे हि नित्यम् ।
-स्वामिनं शास्त्र भार धारयेत् हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 8.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">शास्त्र धर्म रक्ष नित्यम् एव नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार कुरु पूर्व हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र धर्म रक्ष नित्यम् एव नित्यम् ।
-मितं शास्त्र भार कुरु पूर्व हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 9.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
-  <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">सन्धिः।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः १० (उपजाति)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">शास्त्र नित्यम् सेवेत हि सम्यक् ।</span><br />
-  <span data-line="2" data-start="" data-end="">कर्म पथं रक्ष सदा सम्यक् ।</span><br />
-  <span data-line="3" data-start="" data-end="">सत्यं भार कुरु सदा सम्यक् ।</span><br />
-  <span data-line="4" data-start="" data-end="">पूर्व सारं धारय हि सम्यक् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र नित्यम् सेवेत हि सम्यक् ।
-कर्म पथं रक्ष सदा सम्यक् ।
-सत्यं भार कुरु सदा सम्यक् ।
-पूर्व सारं धारय हि सम्यक् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**English sense**  
-Method quatrain.
-
-
-**Context / topic**  
-Topic: method 10.
-
-
-**वृत्तमिति**: एकादशाक्षराः पादाः।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">सप्तमं प्रकरणम्: उपसंहारः</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">सारधर्मः / Close.</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">शास्त्र क्रम धारय लघु सदा नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र भार कुरु पर हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र क्रम धारय लघु सदा नित्यम् ।
-मितं शास्त्र भार कुरु पर हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 11.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">शास्त्र धारय जागरणं कुरु लघु हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">पर शास्त्र फलं कुरु सदा हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र धारय जागरणं कुरु लघु हि ।
-पर शास्त्र फलं कुरु सदा हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 12.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<details>
-<summary>श्लोकसूची / Verse index</summary>
-<div class="prose-text" markdown="1">
-
-१. 1  
-२. 2  
-३. 3  
-४. 4  
-५. 5  
-६. 6  
-७. 7  
-८. 8  
-९. 9  
-१०. 10  
-११. 11  
-१२. 12  
-
-</div>
-</details>
-
-<details>
-<summary>सन्दर्भाः / References</summary>
-<div class="prose-text" markdown="1">
-
-1. Pure rewrite.  
-2. No em dash.  
-3. No Oxford comma.  
-
-</div>
-</details>
-
+  <div class="audio-panel">
+    <audio controls preload="metadata" data-audio-sync-player>
+      <source src="{{ '/assets/audio/phainamana-2026-03-29.mp3' | relative_url }}" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+
+  <p class="section-head-en">This recitation runs for about 61.5 seconds. The segments below divide it into eight equal listening intervals so the page can auto-scroll in sync with the audio.</p>
+
+  <section class="verse-card audio-sync-target" data-start="0.000" data-end="7.691">
+    <h3 class="verse-number">Interval 1</h3>
+    <p class="verse-topic">Verse 1</p>
+    <div class="sanskrit-text">
+      <div>गणनं प्रथमं तत्त्वं ततः योगः प्रजायते।</div>
+      <div>एकस्य खलु संवृद्ध्या सङ्ख्या-विस्तार उच्यते॥ १॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Gaṇanaṃ prathamaṃ tattvaṃ, tataḥ yogaḥ prajāyate |<br>Ekasya khalu saṃvṛddhyā, saṅkhyā-vistāra ucyate || 1 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Counting is the first principle; from it, addition is born. By the continuous increment of one, the expansion of numbers is declared.</div>
+    </div>
+  </section>
+
+  <section class="verse-card audio-sync-target" data-start="7.691" data-end="15.383">
+    <h3 class="verse-number">Interval 2</h3>
+    <p class="verse-topic">Verse 2</p>
+    <div class="sanskrit-text">
+      <div>पुनरावर्तिताद् योगात् गुणाकारो विधीयते।</div>
+      <div>गुणनस्य चावृत्त्या घातकर्म प्रदृश्यते॥ २॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Punarāvartitād yogāt, guṇākāro vidhīyate |<br>Guṇanasya cāvṛttyā, ghātakarma pradṛśyate || 2 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> From repeated addition, multiplication is defined. And by the repetition of multiplication, the operation of exponentiation is seen.</div>
+    </div>
+  </section>
+
+  <section class="verse-card audio-sync-target" data-start="15.383" data-end="23.074">
+    <h3 class="verse-number">Interval 3</h3>
+    <p class="verse-topic">Verse 3</p>
+    <div class="sanskrit-text">
+      <div>विलोम-कर्म-जिज्ञासा ऋणं शून्यं प्रसूयते।</div>
+      <div>भागो मूलं च घाताङ्को विपरीतेन सिद्ध्यति॥ ३॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Viloma-karma-jijñāsā, ṛṇaṃ śūnyaṃ prasūyate |<br>Bhāgo mūlaṃ ca ghātāṅko, viparītena siddhyati || 3 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> The inquiry into inverse operations gives birth to negative numbers and zero. Division, roots and logarithms are established by this reversal.</div>
+    </div>
+  </section>
+
+  <section class="verse-card audio-sync-target" data-start="23.074" data-end="30.766">
+    <h3 class="verse-number">Interval 4</h3>
+    <p class="verse-topic">Verse 4</p>
+    <div class="sanskrit-text">
+      <div>विस्तार्यन्ते च नियमा अज्ञातेऽपि पदे तथा।</div>
+      <div>काल्पनिक-पदैर्युक्ता निष्पत्तिः परमाद्भुता॥ ४॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Vistāryante ca niyamā, ajñāte'pi pade tathā |<br>Kālpanika-padairyuktā, niṣpattiḥ paramādbhutā || 4 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> These rules are generalized, even into unknown domains. Joined with imaginary terms, the resulting derivation is supremely astounding.</div>
+    </div>
+  </section>
+
+  <section class="verse-card audio-sync-target" data-start="30.766" data-end="38.457">
+    <h3 class="verse-number">Interval 5</h3>
+    <p class="verse-topic">Verse 5</p>
+    <div class="sanskrit-text">
+      <div>ऋणमेकस्य यन्मूलं न शक्यं दृष्टभूमिषु।</div>
+      <div>कल्पितं तत्पदं नव्यं तिर्यग्रेखां प्रदर्शयेत्॥ ५॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Ṛṇamekasya yanmūlaṃ, na śakyaṃ dṛṣṭabhūmiṣu |<br>Kalpitaṃ tatpadaṃ navyaṃ, tiryagrekhāṃ pradarśayet || 5 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> The root of negative one is not possible in the visible grounds (the real number line). That newly imagined term reveals the transverse (perpendicular) line.</div>
+    </div>
+  </section>
+
+  <section class="verse-card audio-sync-target" data-start="38.457" data-end="46.149">
+    <h3 class="verse-number">Interval 6</h3>
+    <p class="verse-topic">Verse 6</p>
+    <div class="sanskrit-text">
+      <div>बीजाङ्कानां हि घातेन वृत्तमानं प्रजायते।</div>
+      <div>ज्याकोटिज्यास्वरूपेण घातो भ्रमति मण्डले॥ ६॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Bījāṅkānāṃ hi ghātena, vṛttamānaṃ prajāyate |<br>Jyākoṭijyāsvarūpeṇa, ghāto bhramati maṇḍale || 6 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Indeed, by the exponentiation of algebraic numbers, the measure of the circle is born. In the form of sine (jyā) and cosine (koṭijyā), the exponent rotates in a circle.</div>
+    </div>
+  </section>
+
+  <section class="verse-card audio-sync-target" data-start="46.149" data-end="53.840">
+    <h3 class="verse-number">Interval 7</h3>
+    <p class="verse-topic">Verse 7</p>
+    <div class="sanskrit-text">
+      <div>सर्वं स्पन्दनरूपं यत् प्रकृत्या नटनं तथा।</div>
+      <div>अनेन सूत्रबन्धेन स्पष्टं भवति सर्वथा॥ ७॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Sarvaṃ spandanarūpaṃ yat, prakṛtyā naṭanaṃ tathā |<br>Anena sūtrabandhena, spaṣṭaṃ bhavati sarvathā || 7 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Everything that is in the form of vibration and the very dance of nature - by this binding mathematical formula, it becomes entirely clear.</div>
+    </div>
+  </section>
+
+  <section class="verse-card audio-sync-target" data-start="53.840" data-end="61.531">
+    <h3 class="verse-number">Interval 8</h3>
+    <p class="verse-topic">Verse 8</p>
+    <div class="sanskrit-text">
+      <div>शून्यमेकं तथा वृत्तं मूलघातोऽपि कल्पितः।</div>
+      <div>पञ्चतत्त्वसमायोगात् पूर्णं ज्ञानं प्रकाशते॥ ८॥</div>
+    </div>
+    <div class="translation-block">
+      <div class="poetic-text">Śūnyamekaṃ tathā vṛttaṃ, mūlaghāto'pi kalpitaḥ |<br>Pañcatattvasamāyogāt, pūrṇaṃ jñānaṃ prakāśate || 8 ||</div>
+      <div class="prose-text" markdown="1"><strong>Translation:</strong> Zero, one, the circle (π), the base of growth (e) and the imagined unit (i) - from the union of these five elements, complete knowledge shines forth.</div>
+    </div>
+  </section>
 </div>
 
 <script src="{{ '/assets/js/audio-sync.js' | relative_url }}"></script>

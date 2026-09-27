@@ -1,638 +1,87 @@
 ---
 layout: post
-title: "mānasa-vikāra"
-subtitle: "द्वादश पद्यानि अनुष्टुभ्-उपजातिषु: pure padya."
-permalink: "/2026-04-04-mānasa-vikāra/"
-slug: "mānasa-vikāra"
-tags: [sanskrit, panini, chandas, english, english, panini]
+title: मानस-विकाराः
+subtitle: Mahābhārata and Rāmāyaṇa through cognitive psychology and behavioral economics
+tags: [sanskrit, mahābhārata, rāmāyaṇa, psychology]
 audio_sync: false
 # audio_file: /assets/audio/FILENAME.mp3
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
 
-<div class="reader-container audio-sync-root">
+{% assign book = site.data['manasa-vikara'] %}
+{% capture verse_nl %}
+{% endcapture %}
+{% comment %}
+  _data/manasa-vikara.yml – source: C:\Projects\shatakam\mānasa-vikāra.txt
+{% endcomment %}
 
-<p class="prose-text"><strong>mānasa-vikāra।</strong> शुद्धपद्यपुनर्लेखः। <strong>mānasa-vikāra</strong>।</p>
+<div class="reader-container audio-sync-root markdown-body">
+
+{% if page.audio_sync %}
+<div class="audio-panel">
+  <audio controls preload="metadata" data-audio-sync-player>
+    <source src="{{ page.audio_file | relative_url }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+{% endif %}
+
+<h2 class="work-title-iast">{{ book.title_sa }}</h2>
+<p class="section-head-en">{{ book.title_en }}{% if book.subtitle_en %} – {{ book.subtitle_en }}{% endif %}</p>
+<div class="prose-text" markdown="1">{{ book.intro_visible | markdownify }}</div>
+
+{% for sec in book.sections %}
+<section class="khandam" id="{{ sec.slug }}">
+  <h3 class="section-head-iast">{{ sec.title_sa }}</h3>
+  {% if sec.title_en %}<p class="section-head-en">{{ sec.title_en }}</p>{% endif %}
+
+  {% if sec.plan_after_verses != true %}
+    {% if sec.slug == 'yojana' %}
+    <div class="prose-text" markdown="1">{{ book.plan_commentary | markdownify }}</div>
+    {% endif %}
+  {% endif %}
+
+{% for verse in sec.verses %}
+  <div class="verse-block-manasa">
+    <p class="verse-topic">{% if verse.topic_en %}{{ verse.topic_en }}{% endif %} <small class="text-muted">({{ verse.meter_en }})</small>{% if verse.id %} – śloka {{ verse.id }}{% endif %}</p>
+    <div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v-{{ sec.slug }}-{{ verse.id }}">
+      {% assign _raw = verse.text_sa | strip %}
+      {% assign _lines = _raw | split: verse_nl %}
+      {% assign _line_num = 0 %}
+      {%- for _piece in _lines -%}
+        {% assign _ln = _piece | strip %}
+        {% if _ln != '' %}
+          {% assign _line_num = _line_num | plus: 1 %}
+          <span data-line="{{ _line_num }}" data-start="" data-end="">{{ _ln }}</span><br />
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% if verse.meaning and verse.meaning != '' %}
+    <div class="prose-text translation-block-manasa">
+      <p class="translation-label"><strong>Gloss:</strong></p>
+      {{ verse.meaning | markdownify }}
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}
+
+  {% if sec.plan_after_verses == true %}
+  <div class="prose-text" markdown="1">{{ book.plan_commentary | markdownify }}</div>
+  {% endif %}
+
+  {% unless forloop.last %}<hr class="section-rule" />{% endunless %}
+</section>
+{% endfor %}
 
 <details>
-<summary>English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-Pure padya rewrite for gate pass.
-
-</div>
+<summary>पदच्छेदः, अन्वयः, शब्दार्थः च (word analysis)</summary>
+<div class="prose-text" markdown="1">{{ book.appendix_word_analysis | markdownify }}</div>
 </details>
 
 <details>
-<summary>पूर्ण-शीर्षकम् / Full title</summary>
-<div class="prose-text" markdown="1">
-
-# **mānasa-vikāra**: Metrical pure padya rewrite
-
-</div>
-</details>
-
-<details>
-<summary>English · overview and topics (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-### About
-Pure padya rewrite.
-
-### English
-Minimizable.
-
-</div>
-</details>
-
-<details>
-<summary>परम्परा-सन्धिः / Series links</summary>
-<div class="prose-text" markdown="1">
-
-| पूर्वं / Prior | अत्र / Adds | न पुनः / Does not repeat |
-| :---- | :---- | :---- |
-| **इदम्** | **rewrite** | - |
-
-</div>
-</details>
-
-<details>
-<summary>ग्राह्य-त्याज्य-विवेकः / Keep and avoid</summary>
-<div class="prose-text" markdown="1">
-
-### ग्राह्यम् / Keep
-१. **pure padya**: gate pass  
-
-### त्याज्यम् / Avoid
-- latin verse  
-
-</div>
-</details>
-
-<details>
-<summary>अध्याय-योजना / Chapter plan</summary>
-<div class="prose-text" markdown="1">
-
-| प्रकरणम् | विषयः | छन्दः | श्लोकाः |
-| :---- | :---- | :---- | :---: |
-| १ | मङ्गलं बीजं च / Opening | अनुष्टुभ् | २ |
-| २ | मूलतत्त्वानि / Core | अनुष्टुभ् | २ |
-| ३ | मुख्यविधिः / Method | उपजाति | १ |
-| ४ | रक्षा · विधिः / Guards | अनुष्टुभ् | २ |
-| ५ | विवेक · सीमा / Judgment | अनुष्टुभ् | २ |
-| ६ | पूर्वसन्धिः / Series links | उपजाति | १ |
-| ७ | उपसंहारः / Close | अनुष्टुभ् | २ |
-
-</div>
-</details>
-
-<details>
-<summary>पारिभाषिक-कोशः / Glossary</summary>
-<div class="prose-text" markdown="1">
-
-| Modern English | संस्कृतम् | Note |
-| :---- | :---- | :---- |
-| dharma | धर्मः |  |
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">प्रथमं प्रकरणम्: मङ्गलं बीजं च</h2>
-  <p class="chapter-keyword">अनुष्टुभ्: अष्टावक्षराणि प्रतिपादम्</p>
-  <p class="chapter-theme">बीजम्।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः १ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v1">
-  <span data-line="1" data-start="" data-end="">शास्त्र पङ्क्ति धारय द्वितः सदा नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र नेतृ पालय पथे नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र पङ्क्ति धारय द्वितः सदा नित्यम् ।
-मितं शास्त्र नेतृ पालय पथे नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 1.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः २ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v2">
-  <span data-line="1" data-start="" data-end="">शास्त्र धारय जागरणं कुरु त्रितः हि ।</span><br />
-  <span data-line="2" data-start="" data-end="">पथे शास्त्र फलं पालय सदा नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र धारय जागरणं कुरु त्रितः हि ।
-पथे शास्त्र फलं पालय सदा नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 2.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">द्वितीयं प्रकरणम्: मूलम्</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">मूलम्।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ३ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v3">
-  <span data-line="1" data-start="" data-end="">शास्त्र क्रम सीमां लिख त्रितः हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र नेतृ धारयेत् हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र क्रम सीमां लिख त्रितः हि नित्यम् ।
-स्वामिनं शास्त्र नेतृ धारयेत् हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 3.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः ४ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v4">
-  <span data-line="1" data-start="" data-end="">शास्त्र नाम धारय नित्यम् सदा नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र सेवा पालय पथे नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र नाम धारय नित्यम् सदा नित्यम् ।
-मितं शास्त्र सेवा पालय पथे नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 4.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">तृतीयं प्रकरणम्: विधिः</h2>
-  <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">विधिः।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ५ (उपजाति)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v5">
-  <span data-line="1" data-start="" data-end="">शास्त्र मित लिख सदा सम्यक् ।</span><br />
-  <span data-line="2" data-start="" data-end="">त्रितः कर्म जानीयात् हि सम्यक् ।</span><br />
-  <span data-line="3" data-start="" data-end="">भार बहिः बध्नीहि हि सम्यक् ।</span><br />
-  <span data-line="4" data-start="" data-end="">गुह्य पूर्व लिख सदा सम्यक् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र मित लिख सदा सम्यक् ।
-त्रितः कर्म जानीयात् हि सम्यक् ।
-भार बहिः बध्नीहि हि सम्यक् ।
-गुह्य पूर्व लिख सदा सम्यक् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**English sense**  
-Method quatrain.
-
-
-**Context / topic**  
-Topic: method 5.
-
-
-**वृत्तमिति**: एकादशाक्षराः पादाः।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">चतुर्थं प्रकरणम्: रक्षा</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">रक्षा।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ६ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v6">
-  <span data-line="1" data-start="" data-end="">शास्त्र मूल सीमां लिख त्रितः हि नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">स्वामिनं शास्त्र कर्म धारयेत् हि नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र मूल सीमां लिख त्रितः हि नित्यम् ।
-स्वामिनं शास्त्र कर्म धारयेत् हि नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 6.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः ७ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v7">
-  <span data-line="1" data-start="" data-end="">शास्त्र लिख जागरणं कुरु पथे सदा ।</span><br />
-  <span data-line="2" data-start="" data-end="">सदा शास्त्र फलं जानीयात् सदा नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र लिख जागरणं कुरु पथे सदा ।
-सदा शास्त्र फलं जानीयात् सदा नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 7.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">पञ्चमं प्रकरणम्: विवेकः</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">विवेकः।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ८ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v8">
-  <span data-line="1" data-start="" data-end="">शास्त्र सूची लिख नित्यम् एव नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र कर्म जानीयात् सदा नित्यम् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र सूची लिख नित्यम् एव नित्यम् ।
-मितं शास्त्र कर्म जानीयात् सदा नित्यम् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 8.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः ९ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v9">
-  <span data-line="1" data-start="" data-end="">शास्त्र पत्र देहि शीघ्रम् एव नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र रक्ष जानीयात् सम्यक् एव ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र पत्र देहि शीघ्रम् एव नित्यम् ।
-मितं शास्त्र रक्ष जानीयात् सम्यक् एव ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 9.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">षष्ठं प्रकरणम्: सन्धिः</h2>
-  <p class="chapter-keyword">उपजातिः</p>
-  <p class="chapter-theme">सन्धिः।</p>
-</aside>
-
-<p class="verse-topic">श्लोकः १० (उपजाति)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v10">
-  <span data-line="1" data-start="" data-end="">शास्त्र रक्ष पालय हि सम्यक् ।</span><br />
-  <span data-line="2" data-start="" data-end="">नित्यम् जाग्रत् वर्धय हि सम्यक् ।</span><br />
-  <span data-line="3" data-start="" data-end="">सीमा अन्तः स्मरेत् सदा सम्यक् ।</span><br />
-  <span data-line="4" data-start="" data-end="">क्रम पूर्व देहि सदा सम्यक् ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र रक्ष पालय हि सम्यक् ।
-नित्यम् जाग्रत् वर्धय हि सम्यक् ।
-सीमा अन्तः स्मरेत् सदा सम्यक् ।
-क्रम पूर्व देहि सदा सम्यक् ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| पद्धतिः | method |
-
-**English sense**  
-Method quatrain.
-
-
-**Context / topic**  
-Topic: method 10.
-
-
-**वृत्तमिति**: एकादशाक्षराः पादाः।
-
-</div>
-</details>
-
-<aside class="chapter-header" aria-label="Section">
-  <h2 class="chapter-title">सप्तमं प्रकरणम्: उपसंहारः</h2>
-  <p class="chapter-keyword">अनुष्टुभ्</p>
-  <p class="chapter-theme">सारधर्मः / Close.</p>
-</aside>
-
-<p class="verse-topic">श्लोकः ११ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v11">
-  <span data-line="1" data-start="" data-end="">शास्त्र जाग्रत् पालय नित्यम् सदा नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र जाग्रत् वर्धय शीघ्रम् एव ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र जाग्रत् पालय नित्यम् सदा नित्यम् ।
-मितं शास्त्र जाग्रत् वर्धय शीघ्रम् एव ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 11.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<p class="verse-topic">श्लोकः १२ (अनुष्टुभ्)</p>
-<div class="sanskrit-text sanskrit-verse-lines" data-verse-id="v12">
-  <span data-line="1" data-start="" data-end="">शास्त्र सत्य पालय नित्यम् सदा नित्यम् ।</span><br />
-  <span data-line="2" data-start="" data-end="">मितं शास्त्र सत्य वर्धय शीघ्रम् एव ।</span>
-</div>
-<details>
-<summary>पदच्छेदः · Word-for-word · English (minimizable)</summary>
-<div class="prose-text" markdown="1">
-
-**पदच्छेदः**  
-शास्त्र सत्य पालय नित्यम् सदा नित्यम् ।
-मितं शास्त्र सत्य वर्धय शीघ्रम् एव ।
-
-**Word-for-word**
-
-| संस्कृतपदम् | Word-for-word English |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**Gloss table**
-
-| पदम् | अर्थः / sense |
-| :---- | :---- |
-| धर्मः | dharma |
-
-**English sense**  
-Measured dharma limb.
-
-
-**Context / topic**  
-Topic: limb 12.
-
-
-**वृत्तमिति**: ८-८-८-८।
-
-</div>
-</details>
-
-<details>
-<summary>श्लोकसूची / Verse index</summary>
-<div class="prose-text" markdown="1">
-
-१. 1  
-२. 2  
-३. 3  
-४. 4  
-५. 5  
-६. 6  
-७. 7  
-८. 8  
-९. 9  
-१०. 10  
-११. 11  
-१२. 12  
-
-</div>
-</details>
-
-<details>
-<summary>सन्दर्भाः / References</summary>
-<div class="prose-text" markdown="1">
-
-1. Pure rewrite.  
-2. No em dash.  
-3. No Oxford comma.  
-
-</div>
+<summary>नूतन-शब्द-व्युत्पत्तिः (glossary of coined terms)</summary>
+<div class="prose-text" markdown="1">{{ book.appendix_glossary | markdownify }}</div>
 </details>
 
 </div>
