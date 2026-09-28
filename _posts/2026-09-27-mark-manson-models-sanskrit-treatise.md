@@ -8,6 +8,10 @@ slug: "mark-manson-models-sanskrit-treatise"
 tags: [sanskrit, mark-manson, models, honest-attraction, vulnerability, non-neediness, polarization, psychology, shatakam]
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="reader-container">
+
 # सत्यसंरागपञ्चाशिका : आर्जवविधिः
 ## *The Fifty Verses of Honest Attraction: Mark Manson's Models in Classical Sanskrit Verse*
 
@@ -40,6 +44,7 @@ This treatise: **सत्यसंरागपञ्चाशिका** codifi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अकाम्यता एव नारीणाम् चित्त-आकर्षण-कारणम् । पर-प्रत्याशया हीनः वीर्यवान् पुरुषः भवेत् ॥१॥`  
 
@@ -56,6 +61,8 @@ This treatise: **सत्यसंरागपञ्चाशिका** codifi
 
 **Models Field Commentary:**  
 Manson's core definition: Attraction is driven by non-neediness. A needy man invests more perception and emotional energy into what others think of him than what he thinks of himself. A non-needy man derives his identity internally, making him intrinsically attractive.
+
+</div>
 </details>
 
 #### श्लोकः 2 (अनुष्टुभ्)
@@ -64,6 +71,7 @@ Manson's core definition: Attraction is driven by non-neediness. A needy man inv
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा पर-मत-अपेक्षः निज-मूल्यम् विमुञ्चति । तदा हीनत्वम् आपन्नः न नारीभ्यः प्ररोचते ॥२॥`  
 
@@ -79,6 +87,8 @@ Manson's core definition: Attraction is driven by non-neediness. A needy man inv
 
 **Models Field Commentary:**  
 Neediness is communicable: When you calibrate your words, posture and actions to manipulate a woman into liking you, she senses the underlying insecurity immediately. Neediness repels because it signals an emotional deficit that demands external replenishment.
+
+</div>
 </details>
 
 #### श्लोकः 3 (अनुष्टुभ्)
@@ -87,6 +97,7 @@ Neediness is communicable: When you calibrate your words, posture and actions to
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्व-आत्म-निष्ठा हि सामर्थ्यम् स्वातन्त्र्यम् परमम् सुखम् । अयाचकस्य भावः हि श्रेष्ठत्वम् प्रतिपद्यते ॥३॥`  
 
@@ -103,6 +114,8 @@ Neediness is communicable: When you calibrate your words, posture and actions to
 
 **Models Field Commentary:**  
 The Non-Supplicating Mindset: A man who wants nothing from a woman other than to share authentic presence cannot be manipulated, intimidated, or diminished by rejection. His happiness is anchored in his personal mission and self-respect.
+
+</div>
 </details>
 
 #### श्लोकः 4 (अनुष्टुभ्)
@@ -111,6 +124,7 @@ The Non-Supplicating Mindset: A man who wants nothing from a woman other than to
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `उपचारैः च युक्तिभिः न कामः जायते दृढः । हृदयस्य आर्जवेन एव सत्य-सम्बन्धः इष्यते ॥४॥`  
 
@@ -126,6 +140,8 @@ The Non-Supplicating Mindset: A man who wants nothing from a woman other than to
 
 **Models Field Commentary:**  
 Tactics versus Honesty: Canned pickup routines and fake personas may trigger temporary curiosity, but they crumble under real scrutiny. Authentic attraction requires radical honesty: expressing what you actually think, want and feel without emotional filters.
+
+</div>
 </details>
 
 #### श्लोकः 5 (अनुष्टुभ्)
@@ -134,6 +150,7 @@ Tactics versus Honesty: Canned pickup routines and fake personas may trigger tem
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सत्य-भाषण-शीलः यः स्व-आत्मानम् न प्रगूहत । तस्य वीर्येण सम्पूर्णा नारी प्रीतिम् प्रयच्छति ॥५॥`  
 
@@ -150,6 +167,8 @@ Tactics versus Honesty: Canned pickup routines and fake personas may trigger tem
 
 **Models Field Commentary:**  
 Vocal Congruence: When your words match your internal reality perfectly, your voice carries a resonance that women feel viscerally. Congruence creates an atmosphere of emotional safety where attraction flourishes naturally.
+
+</div>
 </details>
 
 ## द्वितीयः सर्गः : ध्रुवीकरणन्यायः
@@ -162,6 +181,7 @@ Vocal Congruence: When your words match your internal reality perfectly, your vo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `ध्रुवीकरण-मार्गेण सत्यम् शीघ्रेण ज्ञायते । अनुकूला प्रकम्पेत प्रतिकूला विमुञ्चति ॥६॥`  
 
@@ -177,6 +197,8 @@ Vocal Congruence: When your words match your internal reality perfectly, your vo
 
 **Models Field Commentary:**  
 The Law of Polarization: True attractiveness polarizes. By expressing strong opinions, clear intent and unapologetic desire, you force a binary reaction: women who align with you become intensely attracted, while women who do not screen themselves out immediately.
+
+</div>
 </details>
 
 #### श्लोकः 7 (अनुष्टुभ्)
@@ -185,6 +207,7 @@ The Law of Polarization: True attractiveness polarizes. By expressing strong opi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `त्रिविधाः स्युः स्त्रियः लोके विमुखाः मधु-पिङ्गलाः । अनुकूलाः च याः तूर्णम् उदाराः सम्भवन्ति ताः ॥७॥`  
 
@@ -201,6 +224,8 @@ The Law of Polarization: True attractiveness polarizes. By expressing strong opi
 
 **Models Field Commentary:**  
 Manson's Three Categories of Women: 1. Unreceptive (in a relationship, radically incompatible, or not attracted: nothing you say will change this). 2. Neutral (mildly curious, waiting to see who you are). 3. Receptive (already attracted to your archetype). Polarization moves Neutrals to Receptives.
+
+</div>
 </details>
 
 #### श्लोकः 8 (अनुष्टुभ्)
@@ -209,6 +234,7 @@ Manson's Three Categories of Women: 1. Unreceptive (in a relationship, radically
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `उपेक्षकासु नारीषु मध्यस्थासु च यत्नतः । प्रगल्भेन निज-इच्छा-उक्त्या ध्रुवत्वम् जनयेत् नरः ॥८॥`  
 
@@ -226,6 +252,8 @@ Manson's Three Categories of Women: 1. Unreceptive (in a relationship, radically
 
 **Models Field Commentary:**  
 Polarizing the Neutrals: The goal of flirting is not to convince everyone to like you; it is to polarize the neutral middle ground. Acting timidly keeps you in the friendzone. Stating your masculine desire forces her to decide: is she in or out?
+
+</div>
 </details>
 
 #### श्लोकः 9 (अनुष्टुभ्)
@@ -234,6 +262,7 @@ Polarizing the Neutrals: The goal of flirting is not to convince everyone to lik
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मन्द-मध्यम-भावः तु सर्वथा विफलः भवेत् । प्रीतिः वा स्यात् विरागः वा न एव शैथिल्यम् आचरेत् ॥९॥`  
 
@@ -250,6 +279,8 @@ Polarizing the Neutrals: The goal of flirting is not to convince everyone to lik
 
 **Models Field Commentary:**  
 The Death of Niceness: Trying to avoid offending anyone ensures nobody ever desires you. Being pleasant and polite without sexual polarity leads directly to the platonic wasteland. Strive for bold clarity: an enthusiastic 'Yes' or a clean 'No'.
+
+</div>
 </details>
 
 #### श्लोकः 10 (अनुष्टुभ्)
@@ -258,6 +289,7 @@ The Death of Niceness: Trying to avoid offending anyone ensures nobody ever desi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रकटायाम् तु निष्ठायाम् त्यागः भवति निर्मलः । समयस्य विनाशः न सु-स्पष्टे ध्रुव-कारणे ॥१०॥`  
 
@@ -273,6 +305,8 @@ The Death of Niceness: Trying to avoid offending anyone ensures nobody ever desi
 
 **Models Field Commentary:**  
 Time Conservation via Polarization: A woman who rejects you in the first 2 minutes has saved you weeks of fruitless texting, awkward coffee dates and emotional agony. Polarization is the ultimate filter that protects your precious time.
+
+</div>
 </details>
 
 ## तृतीयः सर्गः : त्रिविधमूलधर्माः
@@ -285,6 +319,7 @@ Time Conservation via Polarization: A woman who rejects you in the first 2 minut
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `जीवनम् चिन्तनम् वाक् च त्रिविधम् मूल-लक्षणम् । यत्र अर्जनम् कृतम् सम्यक् तत्र सिद्धिः प्रजायते ॥११॥`  
 
@@ -300,6 +335,8 @@ Time Conservation via Polarization: A woman who rejects you in the first 2 minut
 
 **Models Field Commentary:**  
 The Three Fundamentals: Manson divides genuine attractiveness into three interdependent pillars: 1. Living Honestly (lifestyle, health, hobbies, career, dress). 2. Thinking Honestly (emotional independence, resolving trauma, self-worth). 3. Communicating Honestly (bold expression, flirting, asserting boundaries).
+
+</div>
 </details>
 
 #### श्लोकः 12 (अनुष्टुभ्)
@@ -308,6 +345,7 @@ The Three Fundamentals: Manson divides genuine attractiveness into three interde
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `शरीर-बल-योगेन कर्म-निष्ठा-गुणेन च । स्व-जीवनस्य निर्माणम् कुर्यात् आदौ मनस्वी यः ॥१२॥`  
 
@@ -324,6 +362,8 @@ The Three Fundamentals: Manson divides genuine attractiveness into three interde
 
 **Models Field Commentary:**  
 Pillar 1 - Living Honestly: You cannot compensate for an empty, unfulfilling life with pickup techniques. Build an enriching existence first: hit the gym, groom impeccably, pursue ambitious vocational goals and fill your calendar with genuine passions.
+
+</div>
 </details>
 
 #### श्लोकः 13 (अनुष्टुभ्)
@@ -332,6 +372,7 @@ Pillar 1 - Living Honestly: You cannot compensate for an empty, unfulfilling lif
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मनसि स्थिर-चित्तत्वम् भय-रहित-भावना । स्व-दोष-स्वीकृती यस्य तस्य धैर्यम् विजृम्भते ॥१३॥`  
 
@@ -348,6 +389,8 @@ Pillar 1 - Living Honestly: You cannot compensate for an empty, unfulfilling lif
 
 **Models Field Commentary:**  
 Pillar 2 - Thinking Honestly: Radical self-acceptance. A confident man is not someone who believes he is flawless; he is someone who is completely comfortable with his imperfections. When you stop hiding your insecurities, nobody can weaponize them against you.
+
+</div>
 </details>
 
 #### श्लोकः 14 (अनुष्टुभ्)
@@ -356,6 +399,7 @@ Pillar 2 - Thinking Honestly: Radical self-acceptance. A confident man is not so
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सत्य-वाक्य-प्रयोगेण सीमा-स्थापनम् उत्तमम् । न रोषम् न च सङ्कोचम् वचसा धारयेत् सुधीः ॥१४॥`  
 
@@ -372,6 +416,8 @@ Pillar 2 - Thinking Honestly: Radical self-acceptance. A confident man is not so
 
 **Models Field Commentary:**  
 Pillar 3 - Communicating Honestly: Speaking your truth without passive-aggressive anger or submissive appeasement. When someone crosses your boundaries, state it calmly: 'I don't appreciate that.' Boundaries communicate high self-worth effortlessly.
+
+</div>
 </details>
 
 #### श्लोकः 15 (अनुष्टुभ्)
@@ -380,6 +426,7 @@ Pillar 3 - Communicating Honestly: Speaking your truth without passive-aggressiv
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `त्रयाणाम् समवायेन पुरुषः जायते महान् । आर्जवम् सर्व-भावेषु तस्य सौन्दर्यम् उच्यते ॥१५॥`  
 
@@ -395,6 +442,8 @@ Pillar 3 - Communicating Honestly: Speaking your truth without passive-aggressiv
 
 **Models Field Commentary:**  
 The Integrated Man: When your lifestyle, thoughts and speech align in perfect congruence, you achieve an integrated masculine presence. This state of effortless truth is what women perceive as supreme charisma.
+
+</div>
 </details>
 
 ## चतुर्थः सर्गः : विवृतभावः निर्भीकता च
@@ -407,6 +456,7 @@ The Integrated Man: When your lifestyle, thoughts and speech align in perfect co
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `विवृतम् हृदयम् यस्य भयेन न निषिद्ध्यते । सः एव वीरः कथितः काम-मार्गे विचक्षणैः ॥१६॥`  
 
@@ -423,6 +473,8 @@ The Integrated Man: When your lifestyle, thoughts and speech align in perfect co
 
 **Models Field Commentary:**  
 Vulnerability as Strength: Society equates vulnerability with weakness, weeping, or trauma-dumping. In courtship, true vulnerability is the willingness to expose your genuine desire, intent and emotions to the possibility of rejection without emotional armor.
+
+</div>
 </details>
 
 #### श्लोकः 17 (अनुष्टुभ्)
@@ -431,6 +483,7 @@ Vulnerability as Strength: Society equates vulnerability with weakness, weeping,
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अहङ्कारस्य रक्षायाम् कवचैः न फलम् भवेत् । त्याग-सम्भोग-सत्येषु विवृतः जयति ध्रुवम् ॥१७॥`  
 
@@ -446,6 +499,8 @@ Vulnerability as Strength: Society equates vulnerability with weakness, weeping,
 
 **Models Field Commentary:**  
 The Trap of Ego Armor: Men wear armor (aloofness, sarcastic detachment, feigned disinterest) to protect themselves from feeling rejected. But emotional armor blocks love and attraction just as effectively as it blocks pain. Discarding the armor makes you invulnerable.
+
+</div>
 </details>
 
 #### श्लोकः 18 (अनुष्टुभ्)
@@ -454,6 +509,7 @@ The Trap of Ego Armor: Men wear armor (aloofness, sarcastic detachment, feigned 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्व-भावम् न निगूह्य एव यथा-भूतम् प्रकाशयेत् । न दास्यम् न च गर्वम् वा धारयेत् यः सः राजते ॥१८॥`  
 
@@ -470,6 +526,8 @@ The Trap of Ego Armor: Men wear armor (aloofness, sarcastic detachment, feigned 
 
 **Models Field Commentary:**  
 Neither Beta Supplication nor Fake Alpha Posturing: A vulnerable man is neither a supplicating 'Nice Guy' who apologizes for his existence, nor an arrogant peacock compensating for deep shame. He exists comfortably in his skin, unapologetic and respectful.
+
+</div>
 </details>
 
 #### श्लोकः 19 (अनुष्टुभ्)
@@ -478,6 +536,7 @@ Neither Beta Supplication nor Fake Alpha Posturing: A vulnerable man is neither 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रथमः यः वदेत् इच्छाम् साक्षात् प्रीति-समन्विताम् । अनावृत-स्वभावस्य तस्य वीर्यम् प्रकाशते ॥१९॥`  
 
@@ -493,6 +552,8 @@ Neither Beta Supplication nor Fake Alpha Posturing: A vulnerable man is neither 
 
 **Models Field Commentary:**  
 Leading With Desire: The masculine role is to take emotional risk first. Waiting for the woman to give you 100% guarantee before making a move is cowardly and uninspiring. By stepping forward and declaring interest, you demonstrate masculine leadership.
+
+</div>
 </details>
 
 #### श्लोकः 20 (अनुष्टुभ्)
@@ -501,6 +562,7 @@ Leading With Desire: The masculine role is to take emotional risk first. Waiting
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भये सति यदा कार्यम् धैर्येण क्रियते नरैः । तदा विवृत-भावः तु बलवत्त्वम् ददाति अलम् ॥२०॥`  
 
@@ -517,6 +579,8 @@ Leading With Desire: The masculine role is to take emotional risk first. Waiting
 
 **Models Field Commentary:**  
 Courage in the Presence of Fear: Courage is not the absence of approach anxiety; it is taking action in the direct presence of anxiety. Expressing vulnerability when your heart is pounding demonstrates undeniable emotional power.
+
+</div>
 </details>
 
 ## पञ्चमः सर्गः : त्यागवरप्रदानम्
@@ -529,6 +593,7 @@ Courage in the Presence of Fear: Courage is not the absence of approach anxiety;
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अस्वीकारः न हीनत्वम् न च अपमान-कारणम् । अयोग्य-त्याग-मात्रम् तत् वर-दानम् इव स्मृतम् ॥२१॥`  
 
@@ -544,6 +609,8 @@ Courage in the Presence of Fear: Courage is not the absence of approach anxiety;
 
 **Models Field Commentary:**  
 Rejection Is a Gift: A rejection merely means that her personality, life values, current situation, or preferences do not align with yours. It says nothing about your fundamental worth as a human being. Reframe rejection as an efficient compatibility filter.
+
+</div>
 </details>
 
 #### श्लोकः 22 (अनुष्टुभ्)
@@ -552,6 +619,7 @@ Rejection Is a Gift: A rejection merely means that her personality, life values,
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सर्वासाम् एव नारीणाम् न स्यात् योग्यः नरः क्वचित् । स्वभाव-भेदम् आश्रित्य विरक्ता संप्रजायते ॥२२॥`  
 
@@ -567,6 +635,8 @@ Rejection Is a Gift: A rejection merely means that her personality, life values,
 
 **Models Field Commentary:**  
 Universal Appeal Is a Myth: Even the most charismatic, handsome and wealthy men on earth are completely unappealing to vast demographics of women. Accepting this universal demographic reality liberates you from taking rejection personally.
+
+</div>
 </details>
 
 #### श्लोकः 23 (अनुष्टुभ्)
@@ -575,6 +645,7 @@ Universal Appeal Is a Myth: Even the most charismatic, handsome and wealthy men 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अस्वीकृते सति प्राज्ञः न दैन्यम् मनसा वहेत् । क्षणेन मुच्यते मोहात् अन्याम् गच्छेत् कृतज्ञ-धीः ॥२३॥`  
 
@@ -591,6 +662,8 @@ Universal Appeal Is a Myth: Even the most charismatic, handsome and wealthy men 
 
 **Models Field Commentary:**  
 Abundance Mindset: There are billions of women on this planet. Getting hung up on one woman who rejected you is scarcity delusion (Oneitis). Thank her inwardly for saving your time, wish her well and channel your energy toward women who will appreciate your presence.
+
+</div>
 </details>
 
 #### श्लोकः 24 (अनुष्टुभ्)
@@ -599,6 +672,7 @@ Abundance Mindset: There are billions of women on this planet. Getting hung up o
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यत्न-पूर्वम् यदा नारी प्रतिषेधम् समाचरेत् । तदा एव शोधनम् जातम् काल-हानिः न वर्तते ॥२४॥`  
 
@@ -614,6 +688,8 @@ Abundance Mindset: There are billions of women on this planet. Getting hung up o
 
 **Models Field Commentary:**  
 Fast Disqualification: Ambiguity is the killer of men's time. A woman who strings you along with lukewarm interest while using you for emotional support is a massive drain. A clean, direct rejection is a triumph of operational efficiency.
+
+</div>
 </details>
 
 #### श्लोकः 25 (अनुष्टुभ्)
@@ -622,6 +698,7 @@ Fast Disqualification: Ambiguity is the killer of men's time. A woman who string
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अस्वीकार-भयात् मुक्तः पुरुषः जायते प्रभुः । यस्य चेतः न बद्धम् स्यात् सः अभयम् पदम् ऋच्छति ॥२५॥`  
 
@@ -637,6 +714,8 @@ Fast Disqualification: Ambiguity is the killer of men's time. A woman who string
 
 **Models Field Commentary:**  
 The Sovereignty of Outcome Independence: When you truly do not care whether she says yes or no, you become socially invincible. Paradoxically, the less you need her validation, the more magnetic and irresistible you become.
+
+</div>
 </details>
 
 ## षष्ठः सर्गः : स्थानगुणयोग्यता
@@ -649,6 +728,7 @@ The Sovereignty of Outcome Independence: When you truly do not care whether she 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यत्र यान्ति स्वभावेन समानाः काम-वृत्तयः । तस्मिन् स्थाने नरः कान्ताम् अन्विष्यन् सुखम् एधते ॥२६॥`  
 
@@ -665,6 +745,8 @@ The Sovereignty of Outcome Independence: When you truly do not care whether she 
 
 **Models Field Commentary:**  
 Demographic Alignment: Fish where your species swims. If you love underground techno, don't hunt at commercial salsa bars. If you are an intellectual who reads philosophy, spend time in university cafes, art galleries and literary circles. Natural compatibility reduces friction.
+
+</div>
 </details>
 
 #### श्लोकः 27 (अनुष्टुभ्)
@@ -673,6 +755,7 @@ Demographic Alignment: Fish where your species swims. If you love underground te
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कला-गृहम् व्यायाम-शाला पुस्तकालय-सङ्ग्रहः । यत् स्वस्मै रोचते नित्यम् तत्र गच्छेत् प्रसन्न-धीः ॥२७॥`  
 
@@ -689,6 +772,8 @@ Demographic Alignment: Fish where your species swims. If you love underground te
 
 **Models Field Commentary:**  
 Integrating Dating into Passion: Do not make 'picking up women' your sole hobby. Engage deeply in activities you love. When you encounter women in spaces aligned with your authentic lifestyle, shared context and common ground are pre-established.
+
+</div>
 </details>
 
 #### श्लोकः 28 (अनुष्टुभ्)
@@ -697,6 +782,7 @@ Integrating Dating into Passion: Do not make 'picking up women' your sole hobby.
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `विपरीत-स्वभावासु वृथा कालः न नीयते । समान-रुचि-चित्तासु सुगमः वर्तते रसः ॥२८॥`  
 
@@ -712,6 +798,8 @@ Integrating Dating into Passion: Do not make 'picking up women' your sole hobby.
 
 **Models Field Commentary:**  
 Stop Trying to Win Incompatible Women: Trying to convince a hardcore party girl to love quiet nights of reading, or trying to convince a homebody to backpack across continents, is an exercise in futility. Attract women who already love what you love.
+
+</div>
 </details>
 
 #### श्लोकः 29 (अनुष्टुभ्)
@@ -720,6 +808,7 @@ Stop Trying to Win Incompatible Women: Trying to convince a hardcore party girl 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्व-आत्मानम् न विक्रीय एव नारीम् अनु नयेत् क्वचित् । समान-मूल्य-योगेन सङ्गमः शोभते चिरम् ॥२९॥`  
 
@@ -735,6 +824,8 @@ Stop Trying to Win Incompatible Women: Trying to convince a hardcore party girl 
 
 **Models Field Commentary:**  
 Never Sell Out Your Soul: Changing your opinions, hiding your passions, or pretending to be someone else just to sleep with a woman is the ultimate act of self-betrayal. Long-term passion demands uncompromising congruence.
+
+</div>
 </details>
 
 #### श्लोकः 30 (अनुष्टुभ्)
@@ -743,6 +834,7 @@ Never Sell Out Your Soul: Changing your opinions, hiding your passions, or prete
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यत्र प्रीतिः स्वभाव-स्था यत्र न एव प्रपञ्चता । तत् एव स्थानम् आश्रित्य काम-सम्पत्तिम् आप्नुयात् ॥३०॥`  
 
@@ -758,6 +850,8 @@ Never Sell Out Your Soul: Changing your opinions, hiding your passions, or prete
 
 **Models Field Commentary:**  
 Effortless Compatibility: When you are in the right demographic, attraction feels effortless. You don't have to calculate texts, worry about negs, or maintain artificial mystery. She appreciates you precisely because of who you are.
+
+</div>
 </details>
 
 ## सप्तमः सर्गः : साक्षात्सङ्कल्पकथनम्
@@ -770,6 +864,7 @@ Effortless Compatibility: When you are in the right demographic, attraction feel
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सख्य-च्छद्म परित्यज्य साक्षात् इच्छाम् प्रकाशयेत् । काम-भावस्य सङ्गोपे कपटः जायते महान् ॥३१॥`  
 
@@ -785,6 +880,8 @@ Effortless Compatibility: When you are in the right demographic, attraction feel
 
 **Models Field Commentary:**  
 The Dishonesty of the 'Nice Guy': Pretending you just want to be her platonic buddy while secretly fantasizing about sleeping with her is manipulative and cowardly. Express romantic intent early and directly. It respects both her autonomy and your own masculine integrity.
+
+</div>
 </details>
 
 #### श्लोकः 32 (अनुष्टुभ्)
@@ -793,6 +890,7 @@ The Dishonesty of the 'Nice Guy': Pretending you just want to be her platonic bu
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आदौ नेत्र-अभिसन्धानम् स्थिरम् कुर्यात् निराकुलम् । वचनम् मन्द-नादेन साभिलाषम् वदेत् बुधः ॥३२॥`  
 
@@ -808,6 +906,8 @@ The Dishonesty of the 'Nice Guy': Pretending you just want to be her platonic bu
 
 **Models Field Commentary:**  
 Direct Vocal & Visual Presence: Unapologetic eye contact conveys that you are comfortable with your sexual desire. If you look down or dart your eyes when expressing attraction, you signal shame. Hold her gaze warmly and speak with grounded stillness.
+
+</div>
 </details>
 
 #### श्लोकः 33 (अनुष्टुभ्)
@@ -816,6 +916,7 @@ Direct Vocal & Visual Presence: Unapologetic eye contact conveys that you are co
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्पष्टम् वदति यः कान्तम् न नारी तम् जुगुप्सते । धैर्य-युक्तस्य भावस्य माननम् जायते हृदि ॥३३॥`  
 
@@ -832,6 +933,8 @@ Direct Vocal & Visual Presence: Unapologetic eye contact conveys that you are co
 
 **Models Field Commentary:**  
 Respect for Courage: Even when a woman does not reciprocate your attraction, she respects a man who has the courage to look her in the eyes and tell her directly that he finds her gorgeous. Courage is always honored, while creeping dishonesty is despised.
+
+</div>
 </details>
 
 #### श्लोकः 34 (अनुष्टुभ्)
@@ -840,6 +943,7 @@ Respect for Courage: Even when a woman does not reciprocate your attraction, she
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हास्यम् विनोद-युक्ता वाक् तथा साक्षात्-प्रशंसनम् । उभयोः मिश्रणेन एव ध्रुवत्वम् प्रकटीभवेत् ॥३४॥`  
 
@@ -855,6 +959,8 @@ Respect for Courage: Even when a woman does not reciprocate your attraction, she
 
 **Models Field Commentary:**  
 Flirting as Tension: Flirting is the balance of playfulness and sincere intent. If you only tease, you become a harmless jester. If you only flatter, you become a boring supplicant. Mixing bold directness with playful laughter creates magnetic tension.
+
+</div>
 </details>
 
 #### श्लोकः 35 (अनुष्टुभ्)
@@ -863,6 +969,7 @@ Flirting as Tension: Flirting is the balance of playfulness and sincere intent. 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `इच्छाम् अप्रकटयन् यः तु स्नेह-मार्गेण सर्पति । सः मित्र-भावे पतितः पश्चात्-तापेन दह्यते ॥३५॥`  
 
@@ -878,6 +985,8 @@ Flirting as Tension: Flirting is the balance of playfulness and sincere intent. 
 
 **Models Field Commentary:**  
 The Genesis of the Friendzone: The friendzone is not something women do to men; it is a cage men build for themselves through fear. By hiding your desire out of terror of rejection, you train her to perceive you as asexual. Express intent immediately.
+
+</div>
 </details>
 
 ## अष्टमः सर्गः : लज्जाविमुक्तिः कामस्वीकारश्च
@@ -890,6 +999,7 @@ The Genesis of the Friendzone: The friendzone is not something women do to men; 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `काम-इच्छा पाप-हन्त्री वा कुत्सिता न कदाचन । प्रकृतेः सहजः सर्गः जीवनस्य च कारणम् ॥३६॥`  
 
@@ -906,6 +1016,8 @@ The Genesis of the Friendzone: The friendzone is not something women do to men; 
 
 **Models Field Commentary:**  
 Shedding Sexual Shame: Many men suffer from unconscious sexual shame, believing that wanting a woman sexually makes them a 'pervert' or bad person. Recognize that healthy masculine desire is holy, natural and life-giving. Own your desire without guilt.
+
+</div>
 </details>
 
 #### श्लोकः 37 (अनुष्टुभ्)
@@ -914,6 +1026,7 @@ Shedding Sexual Shame: Many men suffer from unconscious sexual shame, believing 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `लज्जाम् त्यक्त्वा मनोधर्मम् कामम् सम्पूजयेत् बुधः । स्वाभाविकस्य भावस्य गौरव-अर्थम् समाचरेत् ॥३७॥`  
 
@@ -930,6 +1043,8 @@ Shedding Sexual Shame: Many men suffer from unconscious sexual shame, believing 
 
 **Models Field Commentary:**  
 Honoring Eros: When you honor your sexuality, your desire feels clean, grounded and flattering to a woman. A man ashamed of his desire creeps around sideways; a man proud of his desire expresses it directly with deep respect for the feminine.
+
+</div>
 </details>
 
 #### श्लोकः 38 (अनुष्टुभ्)
@@ -938,6 +1053,7 @@ Honoring Eros: When you honor your sexuality, your desire feels clean, grounded 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नारीणाम् अपि कामः अस्ति काम-इच्छा च प्रवर्तते । प्रगल्भेन यदा स्पृष्टा तदा सा प्रविमुच्यते ॥३८॥`  
 
@@ -953,6 +1069,8 @@ Honoring Eros: When you honor your sexuality, your desire feels clean, grounded 
 
 **Models Field Commentary:**  
 Women Love Sex: Modern culture shames women for being sexual. When an unashamed man expresses desire with calibration and respect, he creates a safe space where the woman can drop her social defense shields and embrace her sexuality without fear of judgment.
+
+</div>
 </details>
 
 #### श्लोकः 39 (अनुष्टुभ्)
@@ -961,6 +1079,7 @@ Women Love Sex: Modern culture shames women for being sexual. When an unashamed 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `संस्कार-दोषम् उत्सृज्य मुदितः रागम् उद्वहेत् । अशङ्कितेन कामेन नारी प्रीतिम् अवाप्नुयात् ॥३९॥`  
 
@@ -976,6 +1095,8 @@ Women Love Sex: Modern culture shames women for being sexual. When an unashamed 
 
 **Models Field Commentary:**  
 Liberation From Guilt: Puritanical social programming teaches men to apologize for being men and women to apologize for being women. Dropping this programming restores the primal, joyful polarity between masculine and feminine energy.
+
+</div>
 </details>
 
 #### श्लोकः 40 (अनुष्टुभ्)
@@ -984,6 +1105,7 @@ Liberation From Guilt: Puritanical social programming teaches men to apologize f
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `पवित्रः पुरुषार्थः अयम् काम-शास्त्रे प्रतिष्ठितः । आर्जवेन प्रयुक्तः चेत् आनन्दाय प्रकल्पते ॥४०॥`  
 
@@ -999,6 +1121,8 @@ Liberation From Guilt: Puritanical social programming teaches men to apologize f
 
 **Models Field Commentary:**  
 Kāma as a Sacred Pursuit: Classical Indian thought categorizes Kāma (desire and aesthetic pleasure) as one of the four legitimate Puruṣārthas. When pursued with Ārjava (radical honesty) and mutual respect, it enriches both individuals spiritually and emotionally.
+
+</div>
 </details>
 
 ## नवमः सर्गः : स्पर्शस्य सङ्गतिः
@@ -1011,6 +1135,7 @@ Kāma as a Sacred Pursuit: Classical Indian thought categorizes Kāma (desire an
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यन्त्र-वत् न च कर्तव्यम् स्पर्श-सङ्क्रमणम् क्वचित् । भाव-योगेन सञ्जातम् स्पर्शनम् शोभते भृशम् ॥४१॥`  
 
@@ -1027,6 +1152,8 @@ Kāma as a Sacred Pursuit: Classical Indian thought categorizes Kāma (desire an
 
 **Models Field Commentary:**  
 Organic Touch vs. Robotic Ladders: PUA literature often presents physical escalation as a mechanical checklist (touch shoulder $\to$ touch arm $\to$ touch neck). Manson emphasizes that touch must be an organic overflow of genuine emotional connection and mutual chemistry, not a mechanical routine.
+
+</div>
 </details>
 
 #### श्लोकः 42 (अनुष्टुभ्)
@@ -1035,6 +1162,7 @@ Organic Touch vs. Robotic Ladders: PUA literature often presents physical escala
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा नेत्र-अभिसन्धानम् मधुरम् सा प्रयच्छति । तदा सान्निध्यम् आनीय स्पृशेत् हस्तम् शनैः शनैः ॥४२॥`  
 
@@ -1051,6 +1179,8 @@ Organic Touch vs. Robotic Ladders: PUA literature often presents physical escala
 
 **Models Field Commentary:**  
 Reading Physical Green Lights: Look for involuntary physical indicators: lingering eye contact, leaning forward, playing with hair, laughing at minor jokes and reciprocating touch. When these appear, take the masculine initiative to escalate proximity.
+
+</div>
 </details>
 
 #### श्लोकः 43 (अनुष्टुभ्)
@@ -1059,6 +1189,7 @@ Reading Physical Green Lights: Look for involuntary physical indicators: lingeri
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सङ्कोचे दृश्यमाने तु हस्तम् पश्चात् अपाहरेत् । सीमा-ज्ञान-समृद्धः तु न नारीम् पीडयेत् बलात् ॥४३॥`  
 
@@ -1074,6 +1205,8 @@ Reading Physical Green Lights: Look for involuntary physical indicators: lingeri
 
 **Models Field Commentary:**  
 Two Steps Forward, One Step Back: If you reach for her hand or lean in and she flinches or pulls away, do not panic, apologize profusely, or get angry. Withdraw your hand smoothly, smile warmly and continue the conversation. Respecting her boundaries builds safety.
+
+</div>
 </details>
 
 #### श्लोकः 44 (अनुष्टुभ्)
@@ -1082,6 +1215,7 @@ Two Steps Forward, One Step Back: If you reach for her hand or lean in and she f
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्षणे यदा जाते सङ्गमे सति निर्वृते । स्पर्शस्य सहजम् रूपम् चुम्बनाय प्रवर्तते ॥४४॥`  
 
@@ -1097,6 +1231,8 @@ Two Steps Forward, One Step Back: If you reach for her hand or lean in and she f
 
 **Models Field Commentary:**  
 The Kiss as Natural Culmination: Going for the kiss should not feel like an Olympic diving jump from a 50-foot board. When physical proximity, eye contact and touch have been escalating naturally throughout the evening, kissing is simply the obvious next step.
+
+</div>
 </details>
 
 #### श्लोकः 45 (अनुष्टुभ्)
@@ -1105,6 +1241,7 @@ The Kiss as Natural Culmination: Going for the kiss should not feel like an Olym
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `धैर्येण सह संवादे चरणेन च वर्धते । अनुरागे स्थिरे जाते सङ्गमः अन्ते विधीयते ॥४५॥`  
 
@@ -1120,6 +1257,8 @@ The Kiss as Natural Culmination: Going for the kiss should not feel like an Olym
 
 **Models Field Commentary:**  
 Patience and Calibration: Seduction is not a race against the clock. When a man operates with unhurried masculine calm, honoring her comfort while maintaining clear physical leadership, sexual intimacy unfolds as a mutual celebration.
+
+</div>
 </details>
 
 ## दशमः सर्गः : स्वात्मप्रतिष्ठा जीवनसारश्च
@@ -1132,6 +1271,7 @@ Patience and Calibration: Seduction is not a race against the clock. When a man 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नारी-रूप-अभिलाषेण स्व-आत्मानम् न समर्पयेत् । मर्यादाम् स्वयम् आस्थाय तिष्ठेत् पुरुष-पुङ्गवः ॥४६॥`  
 
@@ -1147,6 +1287,8 @@ Patience and Calibration: Seduction is not a race against the clock. When a man 
 
 **Models Field Commentary:**  
 Never Compromise Self-Respect: Physical beauty is cheap; character is rare. A man who tolerates disrespect, flakiness, or cruelty just because a woman is physically gorgeous has zero self-esteem. Your self-respect must always be greater than your desire for sex.
+
+</div>
 </details>
 
 #### श्लोकः 47 (अनुष्टुभ्)
@@ -1155,6 +1297,7 @@ Never Compromise Self-Respect: Physical beauty is cheap; character is rare. A ma
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `दुष्ट-स्वभावा नारी चेत् रूपवती अपि सन्त्यजेत् । स्व-आत्म-गौरव-रक्षा हि परमः धर्मः उच्यते ॥४७॥`  
 
@@ -1170,6 +1313,8 @@ Never Compromise Self-Respect: Physical beauty is cheap; character is rare. A ma
 
 **Models Field Commentary:**  
 The Power to Walk Away: The ultimate test of non-neediness is your willingness to walk away from a beautiful woman who treats you poorly. When a woman sees that you will instantly leave if she disrespects you, your perceived value multiplies infinitely.
+
+</div>
 </details>
 
 #### श्लोकः 48 (अनुष्टुभ्)
@@ -1178,6 +1323,7 @@ The Power to Walk Away: The ultimate test of non-neediness is your willingness t
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यस्य वृत्तिः स्व-धर्म-स्था सत्य-निष्ठा-समन्विता । तम् नारी स्वयम् एव इत्य वृणुते काम-मोहिता ॥४८॥`  
 
@@ -1194,6 +1340,8 @@ The Power to Walk Away: The ultimate test of non-neediness is your willingness t
 
 **Models Field Commentary:**  
 Attraction as Byproduct of Mission: When you dedicate your life to a meaningful craft, maintain strong health, speak truth and treat people with honor, you do not need to chase women. Women naturally gravitate toward a grounded, mission-driven man.
+
+</div>
 </details>
 
 #### श्लोकः 49 (अनुष्टुभ्)
@@ -1202,6 +1350,7 @@ Attraction as Byproduct of Mission: When you dedicate your life to a meaningful 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सत्यम् एव परम् वीर्यम् सत्यम् एव वशी-करम् । आर्जवात् परमः न अस्ति काम-मार्गे विधिः क्वचित् ॥४९॥`  
 
@@ -1217,6 +1366,8 @@ Attraction as Byproduct of Mission: When you dedicate your life to a meaningful 
 
 **Models Field Commentary:**  
 The Supremacy of Honesty: Manson's ultimate thesis: All successful dating advice reduces to honesty. Attraction is not a magic trick, a puzzle, or an adversarial game. It is two human beings sharing authentic reality with courage, passion and mutual respect.
+
+</div>
 </details>
 
 #### श्लोकः 50 (अनुष्टुभ्)
@@ -1225,6 +1376,7 @@ The Supremacy of Honesty: Manson's ultimate thesis: All successful dating advice
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `इति मन्सन-तन्त्रस्य मन्त्रितेन पथा कृतम् । पञ्चाशिका समाप्ता एषा काम-सिद्धि-प्रदायिनी ॥५०॥`  
 
@@ -1240,4 +1392,8 @@ The Supremacy of Honesty: Manson's ultimate thesis: All successful dating advice
 
 **Models Field Commentary:**  
 Conclusion of Satya-Saṁrāga-Pañcāśikā: By embodying non-neediness, embracing polarization and cultivating radical vulnerability, a man transforms not only his romantic relationships, but his entire existence into an integrated, fearless expression of truth.
+
+</div>
 </details>
+
+</div>

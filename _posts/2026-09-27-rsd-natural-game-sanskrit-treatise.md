@@ -8,6 +8,10 @@ slug: "rsd-natural-game-sanskrit-treatise"
 tags: [sanskrit, rsd, owen-cook, natural-game, state-control, social-momentum, frame-control, psychology, shatakam]
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="reader-container">
+
 # सहजभावपञ्चाशिका : आत्मसंयमक्रमः
 ## *The Fifty Verses of Natural State Mastery: Owen Cook's RSD Natural Game in Classical Sanskrit Verse*
 
@@ -41,6 +45,7 @@ This treatise: **सहजभावपञ्चाशिका** codifies the co
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सामाजिकेन पाशेन बद्धः चेतः न मुच्यते । अनुज्ञा-याचनाम् त्यक्त्वा सहजः पुरुषः भवेत् ॥१॥`  
 
@@ -56,6 +61,8 @@ This treatise: **सहजभावपञ्चाशिका** codifies the co
 
 **RSD Natural Game Field Commentary:**  
 Social Conditioning as Mental Prison: Owen Cook's foundational premise: We are conditioned from childhood to suppress our impulses, seek authority permission and walk on eggshells. Natural Game is the systematic unlearning of this conditioning to reclaim sovereign spontaneity.
+
+</div>
 </details>
 
 #### श्लोकः 2 (अनुष्टुभ्)
@@ -64,6 +71,7 @@ Social Conditioning as Mental Prison: Owen Cook's foundational premise: We are c
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा बालः यथा क्रीडेत् निःशङ्कः हर्ष-पूरितः । तथा भूत्वा विचारेभ्यः मुच्यते धीर-मानसः ॥२॥`  
 
@@ -80,6 +88,8 @@ Social Conditioning as Mental Prison: Owen Cook's foundational premise: We are c
 
 **RSD Natural Game Field Commentary:**  
 Reclaiming the Childlike State: Children do not ask themselves if their joke is cool or if people will judge them; they operate in pure self-amusement. Reconnecting with that pre-conditioned joyous state removes the suffocating filter of adult social paranoia.
+
+</div>
 </details>
 
 #### श्लोकः 3 (अनुष्टुभ्)
@@ -88,6 +98,7 @@ Reclaiming the Childlike State: Children do not ask themselves if their joke is 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `उपदेशैः च नियमैः मनः क्लिष्टम् प्रजायते । स्वाभाविके स्थिते भावे सौन्दर्यम् प्रकटीभवेत् ॥३॥`  
 
@@ -103,6 +114,8 @@ Reclaiming the Childlike State: Children do not ask themselves if their joke is 
 
 **RSD Natural Game Field Commentary:**  
 The Disease of Too Many Rules: Memorizing 50 opener routines, escalation ladders and micro-calibrations traps a man inside his logical left-brain. He becomes robotic. Natural charisma manifests when you drop technique and ground yourself in authentic feeling.
+
+</div>
 </details>
 
 #### श्लोकः 4 (अनुष्टुभ्)
@@ -111,6 +124,7 @@ The Disease of Too Many Rules: Memorizing 50 opener routines, escalation ladders
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न भयम् जन-हास्यस्य न भीतिः लोक-निन्दने । आत्मनि एव स्थितः शूरः स्वातन्त्र्यम् प्रतिपद्यते ॥४॥`  
 
@@ -127,6 +141,8 @@ The Disease of Too Many Rules: Memorizing 50 opener routines, escalation ladders
 
 **RSD Natural Game Field Commentary:**  
 Immunity to Social Ridicule: The greatest fear of modern man is not death; it is social ostracization. The Natural has confronted this fear and realized that laughter or disapproval from strangers cannot harm his internal reality. This invulnerability is deeply magnetic.
+
+</div>
 </details>
 
 #### श्लोकः 5 (अनुष्टुभ्)
@@ -135,6 +151,7 @@ Immunity to Social Ridicule: The greatest fear of modern man is not death; it is
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कृत्रिमम् रूपम् उत्सृज्य स्व-प्रभावेण दीप्यते । सहजस्य प्रभावः हि नारीणाम् वश-कारकः ॥५॥`  
 
@@ -150,6 +167,8 @@ Immunity to Social Ridicule: The greatest fear of modern man is not death; it is
 
 **RSD Natural Game Field Commentary:**  
 The Uninhibited Masculine: Women have an innate evolutionary detector for incongruence. When you pretend to be an aloof bad boy while trembling inside, she feels the discord. When you are genuinely comfortable with who you are, attraction ignites without resistance.
+
+</div>
 </details>
 
 ## द्वितीयः सर्गः : मूल्यदानं मूल्यहरणनिषेधश्च
@@ -162,6 +181,7 @@ The Uninhibited Masculine: Women have an innate evolutionary detector for incong
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मूल्यम् यच्छति यः नित्यम् न च याचति किञ्चन । तस्य सान्निध्य-मात्रेण जन-चित्तम् प्रहृष्यति ॥६॥`  
 
@@ -177,6 +197,8 @@ The Uninhibited Masculine: Women have an innate evolutionary detector for incong
 
 **RSD Natural Game Field Commentary:**  
 The Value Ledger: The foundational Tyler Durden concept: Most people enter social venues as 'value-takers' (seeking attention, approval, or validation). The master enters as a 'value-giver' (bringing energy, laughter and high vibes). People naturally gravitate toward value sources.
+
+</div>
 </details>
 
 #### श्लोकः 7 (अनुष्टुभ्)
@@ -185,6 +207,7 @@ The Value Ledger: The foundational Tyler Durden concept: Most people enter socia
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रविश्य मण्डपम् धीरः न यायात् भिक्षुकः यथा । आनन्दस्य विधाता सन् स्व-प्रभाम् अभितः नयेत् ॥७॥`  
 
@@ -201,6 +224,8 @@ The Value Ledger: The foundational Tyler Durden concept: Most people enter socia
 
 **RSD Natural Game Field Commentary:**  
 Stop Being a Social Beggar: Standing around the edges of a club clutching a drink while scanning for women to validate you is the archetype of the social beggar. Enter the venue as if it is your living room and you are hosting the party. You are the entertainment.
+
+</div>
 </details>
 
 #### श्लोकः 8 (अनुष्टुभ्)
@@ -209,6 +234,7 @@ Stop Being a Social Beggar: Standing around the edges of a club clutching a drin
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यः तु गृह्णाति लोभात् वा नारीणाम् च प्रतारणात् । सः हीन-मूल्य-संयुक्तः जनैः अपि तिरस्कृतः ॥८॥`  
 
@@ -224,6 +250,8 @@ Stop Being a Social Beggar: Standing around the edges of a club clutching a drin
 
 **RSD Natural Game Field Commentary:**  
 The Curse of Value Taking: When you need a girl to react well for you to feel good, you are taking value from her. She feels the energetic drain and repels you. When your internal energy is self-sufficient, you have an abundance of value to share.
+
+</div>
 </details>
 
 #### श्लोकः 9 (अनुष्टुभ्)
@@ -232,6 +260,7 @@ The Curse of Value Taking: When you need a girl to react well for you to feel go
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हास्यम् प्रीतिम् च सङ्गीतम् ददाति अक्लेश-संयुतः । यत्र यत्र व्रजेत् धीरः तत्र वृद्धिः प्रजायते ॥९॥`  
 
@@ -247,6 +276,8 @@ The Curse of Value Taking: When you need a girl to react well for you to feel go
 
 **RSD Natural Game Field Commentary:**  
 The Party Follows the Value Giver: When you bring high vibes, make friends with bartenders, cheer with groups and laugh freely, the energy of the entire room shifts around you. You become the epicenter of the party rather than an observer.
+
+</div>
 </details>
 
 #### श्लोकः 10 (अनुष्टुभ्)
@@ -255,6 +286,7 @@ The Party Follows the Value Giver: When you bring high vibes, make friends with 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `दातृ-भावेन सम्पन्नः काम-मार्गे न हीयते । अयाचकस्य तेजः तु स्वयम् एव प्रकाशते ॥१०॥`  
 
@@ -270,6 +302,8 @@ The Party Follows the Value Giver: When you bring high vibes, make friends with 
 
 **RSD Natural Game Field Commentary:**  
 Effortless Magnetism of the Giver: You cannot be rejected if you were offering a good time with zero expectations. When a woman sees that your happiness does not depend on her reaction, she relaxes and wants to participate in your joy.
+
+</div>
 </details>
 
 ## तृतीयः सर्गः : सामाजिकप्रवेगविधिः
@@ -282,6 +316,7 @@ Effortless Magnetism of the Giver: You cannot be rejected if you were offering a
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रवेगेन विना चेतः स्तब्धम् भवति दारु-वत् । सर्वैः सह वदन् आदौ प्रवेगम् जनयेत् नरः ॥११॥`  
 
@@ -297,6 +332,8 @@ Effortless Magnetism of the Giver: You cannot be rejected if you were offering a
 
 **RSD Natural Game Field Commentary:**  
 Social Momentum: Socializing is an athletic skill that requires a warm-up. If you sit in silence for two hours and then try to approach the most beautiful woman in the room, you will freeze. Warm up your vocal cords and social brain immediately upon leaving your house.
+
+</div>
 </details>
 
 #### श्लोकः 12 (अनुष्टुभ्)
@@ -305,6 +342,7 @@ Social Momentum: Socializing is an athletic skill that requires a warm-up. If yo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `द्वारपालेन संवाद्य कर्म-कृद्भिः जनैः अपि । वाचः वेगम् समारभ्य जडत्वम् विनिहन्ति सः ॥१२॥`  
 
@@ -320,6 +358,8 @@ Social Momentum: Socializing is an athletic skill that requires a warm-up. If yo
 
 **RSD Natural Game Field Commentary:**  
 The Universal Warm-Up: Talk to the cab driver, high-five the bouncer, joke with the coat check girl, tease the bartender. When you treat the entire venue as your friendly living room, talking to attractive women becomes just another natural sentence in your ongoing social flow.
+
+</div>
 </details>
 
 #### श्लोकः 13 (अनुष्टुभ्)
@@ -328,6 +368,7 @@ The Universal Warm-Up: Talk to the cab driver, high-five the bouncer, joke with 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यावत् यावत् प्रवृद्धः स्यात् प्रवेगः जन-सङ्गमे । तावत् तावत् भयम् नश्येत् सूर्य-उदये तमः यथा ॥१३॥`  
 
@@ -343,6 +384,8 @@ The Universal Warm-Up: Talk to the cab driver, high-five the bouncer, joke with 
 
 **RSD Natural Game Field Commentary:**  
 Momentum Dissolves Anxiety: Approach anxiety is a static state. The moment you are in continuous social motion, the adrenaline that caused anxiety transforms into euphoric social enthusiasm. Motion is the antidote to hesitation.
+
+</div>
 </details>
 
 #### श्लोकः 14 (अनुष्टुभ्)
@@ -351,6 +394,7 @@ Momentum Dissolves Anxiety: Approach anxiety is a static state. The moment you a
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रवेगे शिखर-आपन्ने यत् ब्रूयात् तत् प्रशस्यते । ईश्वरस्य इव भावेन चित्तम् तृप्यति सर्वथा ॥१४॥`  
 
@@ -366,6 +410,8 @@ Momentum Dissolves Anxiety: Approach anxiety is a static state. The moment you a
 
 **RSD Natural Game Field Commentary:**  
 The God-State: When momentum snowballs, you enter what Tyler Durden termed 'God-State': a state of supreme, unreactive bliss where you are completely out of your head and in the moment. Words flow without thinking and your vibe becomes infectious.
+
+</div>
 </details>
 
 #### श्लोकः 15 (अनुष्टुभ्)
@@ -374,6 +420,7 @@ The God-State: When momentum snowballs, you enter what Tyler Durden termed 'God-
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रवेगेन चलन् मर्त्यः कान्ताम् दृष्ट्वा न मन्दते । अपि चक्रम् इव आवर्त्य तूर्णम् एव प्रधावति ॥१५॥`  
 
@@ -389,6 +436,8 @@ The God-State: When momentum snowballs, you enter what Tyler Durden termed 'God-
 
 **RSD Natural Game Field Commentary:**  
 The Unstoppable Freight Train: A man with momentum does not stop to analyze or gather courage; he is already in motion. Meeting a gorgeous woman is simply the next step in his ongoing celebration of life.
+
+</div>
 </details>
 
 ## चतुर्थः सर्गः : पक्षप्रभुत्वं धारणास्थैर्यम्
@@ -401,6 +450,7 @@ The Unstoppable Freight Train: A man with momentum does not stop to analyze or g
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `द्वयोः सम्मुखयोः यस्य दृढा धारणा वर्तते । सः एव जयति क्षेत्रे दुर्बलः तम् अनुव्रजेत् ॥१६॥`  
 
@@ -416,6 +466,8 @@ The Unstoppable Freight Train: A man with momentum does not stop to analyze or g
 
 **RSD Natural Game Field Commentary:**  
 The Law of Frame Control: In any human interaction, the person with the most unshakeable certainty dictates the emotional reality. If her frame is that you are an annoying pest and you accept it by apologizing, you lose. If your frame is that you are two fun people sharing a moment, she will step into your world.
+
+</div>
 </details>
 
 #### श्लोकः 17 (अनुष्टुभ्)
@@ -424,6 +476,7 @@ The Law of Frame Control: In any human interaction, the person with the most uns
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `परीक्षाम् कुरुते नारी तस्य धैर्यम् विलोड्य च । अविचलित-चित्तः तु हास्येन प्रतिमुञ्चति ॥१७॥`  
 
@@ -439,6 +492,8 @@ The Law of Frame Control: In any human interaction, the person with the most uns
 
 **RSD Natural Game Field Commentary:**  
 Passing Shit Tests: When an attractive woman asks: 'Do you say this to every girl?' or 'Why are you talking to me?', she is testing whether you are a real man or a fragile performer. Never explain yourself, argue, or panic. Smile with amused indulgence, agree and amplify, or playfully dismiss it.
+
+</div>
 </details>
 
 #### श्लोकः 18 (अनुष्टुभ्)
@@ -447,6 +502,7 @@ Passing Shit Tests: When an attractive woman asks: 'Do you say this to every gir
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `तस्याः भावे न मग्नः स्यात् न च तत्-प्रार्थनाम् चरेत् । स्व-सृष्टौ ताम् समावाह्य धारयेत् स्व-पदम् दृढम् ॥१८॥`  
 
@@ -462,6 +518,8 @@ Passing Shit Tests: When an attractive woman asks: 'Do you say this to every gir
 
 **RSD Natural Game Field Commentary:**  
 Inviting Her Into Your Reality: Do not become an actor auditioning for a role in her movie. You are the director of your own cinematic life and you are offering her a cameo appearance. Hold your frame and let her qualify herself to stay.
+
+</div>
 </details>
 
 #### श्लोकः 19 (अनुष्टुभ्)
@@ -470,6 +528,7 @@ Inviting Her Into Your Reality: Do not become an actor auditioning for a role in
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सा कुपिता भाति विनोदम् तत्र दर्शयेत् । सङ्कटेषु स्थिरः भूत्वा पक्षम् रक्षेत् मनोहरम् ॥१९॥`  
 
@@ -485,6 +544,8 @@ Inviting Her Into Your Reality: Do not become an actor auditioning for a role in
 
 **RSD Natural Game Field Commentary:**  
 Amused Mastery: Treat her feisty resistance like the tantrum of an adorable four-year-old niece wearing a Batman costume. When you meet her fiery challenges with calm, amused affection rather than defensive anger, she recognizes your masculine superiority and relaxes.
+
+</div>
 </details>
 
 #### श्लोकः 20 (अनुष्टुभ्)
@@ -493,6 +554,7 @@ Amused Mastery: Treat her feisty resistance like the tantrum of an adorable four
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `पक्षस्य धारणे सिद्धे नारी शान्तिम् उपागता । समर्पयति स्व-आत्मानम् दृढ-मूल्ये मनस्विनि ॥२०॥`  
 
@@ -508,6 +570,8 @@ Amused Mastery: Treat her feisty resistance like the tantrum of an adorable four
 
 **RSD Natural Game Field Commentary:**  
 The Gift of Frame Dominance: Women do not test men out of cruelty; they test men to find out if the man can protect her. When a woman discovers that nothing she says can break your composure, she feels profoundly safe. Surrender follows safety.
+
+</div>
 </details>
 
 ## पञ्चमः सर्गः : सामाजिकरज्जुच्छेदनम्
@@ -520,6 +584,7 @@ The Gift of Frame Dominance: Women do not test men out of cruelty; they test men
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कथम् माम् पश्यति इति एतत् चिन्तनम् पाशः उच्यते । लोक-रज्जुम् समुत्कृत्य मुक्त-आत्मा विचरेत् सुधीः ॥२१॥`  
 
@@ -535,6 +600,8 @@ The Gift of Frame Dominance: Women do not test men out of cruelty; they test men
 
 **RSD Natural Game Field Commentary:**  
 Cutting the Social Tether: The Social Tether is the invisible psychological cord that ties your self-awareness to the peripheral judgment of the room. When you enter a party, you feel eyes on your back. Severing the tether means unhooking your awareness from the audience.
+
+</div>
 </details>
 
 #### श्लोकः 22 (अनुष्टुभ्)
@@ -543,6 +610,7 @@ Cutting the Social Tether: The Social Tether is the invisible psychological cord
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `दृष्ट्या बद्धः जनः भीतः पदम् अपि अतिशङ्कते । बहिः-दृष्टिम् विमुच्य एव आभ्यन्तरम् सुखम् अश्नुते ॥२२॥`  
 
@@ -558,6 +626,8 @@ Cutting the Social Tether: The Social Tether is the invisible psychological cord
 
 **RSD Natural Game Field Commentary:**  
 The Spotlight Fallacy: Evolutionary psychology makes us believe that if we do something awkward in public, the tribe will banish us to die in the wilderness. In modern cities, nobody is watching you; everyone is obsessed with their own insecurities. You are completely free.
+
+</div>
 </details>
 
 #### श्लोकः 23 (अनुष्टुभ्)
@@ -566,6 +636,7 @@ The Spotlight Fallacy: Evolutionary psychology makes us believe that if we do so
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सर्वे पश्यन्ति माम् च इति भ्रान्तिः एषा मनोगता । स्व-कार्य-रस-लीनस्य न अन्यैः बाधा प्रजायते ॥२३॥`  
 
@@ -581,6 +652,8 @@ The Spotlight Fallacy: Evolutionary psychology makes us believe that if we do so
 
 **RSD Natural Game Field Commentary:**  
 Self-Absorption of the Crowd: In any club or street, 99 percent of people are lost in their phones, their alcohol, or their personal problems. Once you realize you are invisible to the crowd, the fear of public judgment evaporates.
+
+</div>
 </details>
 
 #### श्लोकः 24 (अनुष्टुभ्)
@@ -589,6 +662,7 @@ Self-Absorption of the Crowd: In any club or street, 99 percent of people are lo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `रज्जु-च्छेदे कृते तूर्णम् आकाशः इव भासते । न रोषः न च सङ्कोचः स्वच्छन्दम् विहरति अलम् ॥२४॥`  
 
@@ -604,6 +678,8 @@ Self-Absorption of the Crowd: In any club or street, 99 percent of people are lo
 
 **RSD Natural Game Field Commentary:**  
 The Expansive Self: Cutting the tether releases immense physical and vocal freedom. You can dance without rhythm anxiety, talk loudly without whispering and laugh from your belly. You become an uncontainable force of nature.
+
+</div>
 </details>
 
 #### श्लोकः 25 (अनुष्टुभ्)
@@ -612,6 +688,7 @@ The Expansive Self: Cutting the tether releases immense physical and vocal freed
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यस्य चेतः न पाशेन संवद्धम् जन-चेतसा । तम् एव कामिनी नूनम् इच्छति अविमनाः सदा ॥२५॥`  
 
@@ -627,6 +704,8 @@ The Expansive Self: Cutting the tether releases immense physical and vocal freed
 
 **RSD Natural Game Field Commentary:**  
 Freedom Is Irresistible: Women are surrounded by men who are terrified of what their friends think. When a woman encounters a man who is completely free of social tethers, she is fascinated. His freedom grants her permission to be free.
+
+</div>
 </details>
 
 ## षष्ठः सर्गः : अहङ्कारलयः शून्यभावश्च
@@ -639,6 +718,7 @@ Freedom Is Irresistible: Women are surrounded by men who are terrified of what t
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अहङ्कारस्य भङ्गेन पुरुषः बलवान् भवेत् । दोषेभ्यः न भयम् यस्य सः सिद्धः लोक-मण्डले ॥२६॥`  
 
@@ -654,6 +734,8 @@ Freedom Is Irresistible: Women are surrounded by men who are terrified of what t
 
 **RSD Natural Game Field Commentary:**  
 Ego Death as Liberation: The ego wants to protect an imaginary reputation. It whispers: 'Don't approach, you might look stupid!' When you deliberately let your ego get shattered by stepping into awkward situations, you realize your true self remains undamaged. Invulnerability is born.
+
+</div>
 </details>
 
 #### श्लोकः 27 (अनुष्टुभ्)
@@ -662,6 +744,7 @@ Ego Death as Liberation: The ego wants to protect an imaginary reputation. It wh
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आदौ स्खलति यः शूरः सः एव उन्नतिम् आप्नुयात् । लज्जाम् त्यक्त्वा प्रकम्पेन शून्य-भावम् विभावयेत् ॥२७॥`  
 
@@ -678,6 +761,8 @@ Ego Death as Liberation: The ego wants to protect an imaginary reputation. It wh
 
 **RSD Natural Game Field Commentary:**  
 Willingness to Look Foolish: You cannot become good at anything without being willing to look like an amateur. The Natural embraces awkwardness and rejection as badges of honor. Having nothing to prove and nothing to protect is supreme confidence.
+
+</div>
 </details>
 
 #### श्लोकः 28 (अनुष्टुभ्)
@@ -686,6 +771,7 @@ Willingness to Look Foolish: You cannot become good at anything without being wi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अहङ्कारे स्थिते रक्षेत् कवचम् भय-सम्प्लुतम् । अहङ्कार-क्षये जाते निर्भयः संप्रवर्तते ॥२८॥`  
 
@@ -702,6 +788,8 @@ Willingness to Look Foolish: You cannot become good at anything without being wi
 
 **RSD Natural Game Field Commentary:**  
 Armor Is Heavy: Maintaining a facade of being a cool, aloof, wealthy alpha male is exhausting work. When you drop all posturing and admit who you are, the armor falls away, leaving you light, fast and unburdened.
+
+</div>
 </details>
 
 #### श्लोकः 29 (अनुष्टुभ्)
@@ -710,6 +798,7 @@ Armor Is Heavy: Maintaining a facade of being a cool, aloof, wealthy alpha male 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `फलस्य इच्छाम् अनाधाय कर्म-मात्रे रतः भवेत् । स्वीकारे वा विरागे वा सम-चित्तः न कम्पते ॥२९॥`  
 
@@ -725,6 +814,8 @@ Armor Is Heavy: Maintaining a facade of being a cool, aloof, wealthy alpha male 
 
 **RSD Natural Game Field Commentary:**  
 Gītā & Outcome Independence: 'Karmaṇy evādhikāras te mā phaleṣu kadācana.' Approach because connecting with another human being is fun in this exact second, not because you need her phone number. When you enjoy the process for its own sake, results follow effortlessly.
+
+</div>
 </details>
 
 #### श्लोकः 30 (अनुष्टुभ्)
@@ -733,6 +824,7 @@ Gītā & Outcome Independence: 'Karmaṇy evādhikāras te mā phaleṣu kadāca
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `शून्यत्वम् परमम् वीर्यम् यत्र न अस्ति परिग्रहः । रिक्त-कुम्भे यथा अम्भः स्यात् तथा शक्त्या प्रपूर्यते ॥३०॥`  
 
@@ -748,6 +840,8 @@ Gītā & Outcome Independence: 'Karmaṇy evādhikāras te mā phaleṣu kadāca
 
 **RSD Natural Game Field Commentary:**  
 The Empty Vessel: When you are full of yourself (full of thoughts, anxieties, self-importance), no new energy can enter. When you empty yourself of ego, you become a hollow flute through which universal social energy plays effortlessly.
+
+</div>
 </details>
 
 ## सप्तमः सर्गः : कोलाहले प्रशान्तिः
@@ -760,6 +854,7 @@ The Empty Vessel: When you are full of yourself (full of thoughts, anxieties, se
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मद्य-शाले ध्वनौ तीव्रे जन-सम्मर्द-सङ्कटे । अविह्वलेन कायेन तिष्ठेत् मेरुः इव अचलः ॥३१॥`  
 
@@ -775,6 +870,8 @@ The Empty Vessel: When you are full of yourself (full of thoughts, anxieties, se
 
 **RSD Natural Game Field Commentary:**  
 The Unreactive Eye of the Storm: In high-stimulus club environments, everyone is bobbing their heads, nervously drinking, looking around and fidgeting. A man who stands perfectly still, relaxed, breathing deeply from his diaphragm, immediately draws all eyes. Stillness is status.
+
+</div>
 </details>
 
 #### श्लोकः 32 (अनुष्टुभ्)
@@ -783,6 +880,7 @@ The Unreactive Eye of the Storm: In high-stimulus club environments, everyone is
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यत्र सर्वे प्रकम्पन्ते मत्ताः नृत्यन्ति वा आकुलाः । तत्र शान्तः नरः साक्षात् कर्षति अखिल-चेतनम् ॥३२॥`  
 
@@ -799,6 +897,8 @@ The Unreactive Eye of the Storm: In high-stimulus club environments, everyone is
 
 **RSD Natural Game Field Commentary:**  
 Polarity Against Chaos: In a library, the loud man stands out. In a chaotic, deafening club, the calm, grounded man stands out. Be the gravitational center that doesn't need to yell to be heard.
+
+</div>
 </details>
 
 #### श्लोकः 33 (अनुष्टुभ्)
@@ -807,6 +907,7 @@ Polarity Against Chaos: In a library, the loud man stands out. In a chaotic, dea
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न चूर्णयति यम् मोहः न च क्षोभयते ध्वनिः । तस्य गम्भीर-नेत्रेषु नारी शान्तिम् प्रपद्यते ॥३३॥`  
 
@@ -822,6 +923,8 @@ Polarity Against Chaos: In a library, the loud man stands out. In a chaotic, dea
 
 **RSD Natural Game Field Commentary:**  
 Masculine Sanctuary: Women are exhausted by chaotic, needy men clawing for their attention. When she encounters a man who is grounded like an ancient oak tree, she can finally stop performing and rest in her feminine essence.
+
+</div>
 </details>
 
 #### श्लोकः 34 (अनुष्टुभ्)
@@ -830,6 +933,7 @@ Masculine Sanctuary: Women are exhausted by chaotic, needy men clawing for their
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मन्दम् पदम् प्रकुर्वीत मन्दम् वचः उदाहरेत् । वेगवत्सु तरङ्गेषु स्थिर-नौका इव वर्तते ॥३४॥`  
 
@@ -845,6 +949,8 @@ Masculine Sanctuary: Women are exhausted by chaotic, needy men clawing for their
 
 **RSD Natural Game Field Commentary:**  
 Slowing Down Under Pressure: When adrenaline spikes, weak men move twice as fast and talk in high-pitched bursts. The master does the opposite: he slows down his movements by 30 percent, drops his pitch and breathes deeply. Slow is smooth, smooth is fast.
+
+</div>
 </details>
 
 #### श्लोकः 35 (अनुष्टुभ्)
@@ -853,6 +959,7 @@ Slowing Down Under Pressure: When adrenaline spikes, weak men move twice as fast
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `शान्तिः एव परम् रूपम् काम-शास्त्रे विधीयते । कोलाहले यदा शान्तिः तदा सिद्धः अभिधीयते ॥३५॥`  
 
@@ -868,6 +975,8 @@ Slowing Down Under Pressure: When adrenaline spikes, weak men move twice as fast
 
 **RSD Natural Game Field Commentary:**  
 Peace in the Storm: Anyone can feel confident meditating in a quiet room. The true test of spiritual and masculine mastery is maintaining that absolute stillness inside a packed nightclub at 2 AM with drinks spilling and bass rattling the walls.
+
+</div>
 </details>
 
 ## अष्टमः सर्गः : सूक्ष्मसंवेदनं मर्यादाज्ञानम्
@@ -880,6 +989,7 @@ Peace in the Storm: Anyone can feel confident meditating in a quiet room. The tr
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `उद्धतः न भवेत् क्वापि न अपि मन्दः जडः भवेत् । देश-काल-बलम् ज्ञात्वा व्यवहारम् समाचरेत् ॥३६॥`  
 
@@ -895,6 +1005,8 @@ Peace in the Storm: Anyone can feel confident meditating in a quiet room. The tr
 
 **RSD Natural Game Field Commentary:**  
 Social Calibration: Being uninhibited does not mean being socially oblivious. Tyler emphasizes that high energy without calibration is merely creepy. High-status natural game is the marriage of raw uninhibited expression with razor-sharp social awareness.
+
+</div>
 </details>
 
 #### श्लोकः 37 (अनुष्टुभ्)
@@ -903,6 +1015,7 @@ Social Calibration: Being uninhibited does not mean being socially oblivious. Ty
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा नारी भयम् यायात् सान्निध्यम् शिथिलम् नयेत् । यदा मुक्ता प्रहृष्टा स्यात् तदा संलपते दृढम् ॥३७॥`  
 
@@ -918,6 +1031,8 @@ Social Calibration: Being uninhibited does not mean being socially oblivious. Ty
 
 **RSD Natural Game Field Commentary:**  
 Reading Social Micro-Signals: If she leans back, checks her phone, or crosses her arms, do not plow through blindly. Take a half-step back, give her breathing room and re-establish comfort. When she leans in and laughs, reward her with closeness.
+
+</div>
 </details>
 
 #### श्लोकः 38 (अनुष्टुभ्)
@@ -926,6 +1041,7 @@ Reading Social Micro-Signals: If she leans back, checks her phone, or crosses he
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सूक्ष्मेण चेष्टित-आलोकात् विजानाति मनोगतम् । उचितम् चरणम् न्यस्य सौम्यम् संवर्धयेत् रसम् ॥३८॥`  
 
@@ -941,6 +1057,8 @@ Reading Social Micro-Signals: If she leans back, checks her phone, or crosses he
 
 **RSD Natural Game Field Commentary:**  
 Empathy as Power: Great natural seducers possess deep emotional empathy. They can tell within a quarter of a second whether a joke landed, whether touch was welcome, or whether a boundary was approached. Calibration keeps your boldness tasteful.
+
+</div>
 </details>
 
 #### श्लोकः 39 (अनुष्टुभ्)
@@ -949,6 +1067,7 @@ Empathy as Power: Great natural seducers possess deep emotional empathy. They ca
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अन्ध-वत् न प्रवर्तेत स्व-उन्मादेन विमोहितः । संवेदना हि वीर्यस्य शोभनम् कटकम् स्मृतम् ॥३९॥`  
 
@@ -965,6 +1084,8 @@ Empathy as Power: Great natural seducers possess deep emotional empathy. They ca
 
 **RSD Natural Game Field Commentary:**  
 Strength Tempered by Awareness: Masculine drive without social sensitivity is aggressive and terrifying. Drive combined with exquisite emotional awareness is irresistible. Be bold enough to take risks, but sensitive enough to read every nuance.
+
+</div>
 </details>
 
 #### श्लोकः 40 (अनुष्टुभ्)
@@ -973,6 +1094,7 @@ Strength Tempered by Awareness: Masculine drive without social sensitivity is ag
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `संवेदी च प्रगल्भः च पुरुषः दुर्लभः क्षितौ । उभयोः योग-संविद्धः सः कामम् वशम् आनयेत् ॥४०॥`  
 
@@ -989,6 +1111,8 @@ Strength Tempered by Awareness: Masculine drive without social sensitivity is ag
 
 **RSD Natural Game Field Commentary:**  
 The Ultimate Synthesis: Most men are either nice and calibrated but cowardly (the 'Nice Guy'), or bold and aggressive but socially blind (the 'Creep'). The man who integrates audacious masculine boldness with exquisite social calibration is unstoppable.
+
+</div>
 </details>
 
 ## नवमः सर्गः : आत्मविश्रामः प्रवाहस्थितिः
@@ -1001,6 +1125,7 @@ The Ultimate Synthesis: Most men are either nice and calibrated but cowardly (th
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मनः-ध्वनिम् समुत्सृज्य शरीरेण अनुभूयते । तर्क-जालम् विमुच्य एव प्रवृत्तौ रमते नरः ॥४१॥`  
 
@@ -1016,6 +1141,8 @@ The Ultimate Synthesis: Most men are either nice and calibrated but cowardly (th
 
 **RSD Natural Game Field Commentary:**  
 Getting Out of the Head: Overthinking is the kryptonite of social dynamics. When you are analyzing 'What should I say next?', you have left the present moment. Drop down into your body: feel your feet on the floor, feel your breath and respond from pure instinct.
+
+</div>
 </details>
 
 #### श्लोकः 42 (अनुष्टुभ्)
@@ -1024,6 +1151,7 @@ Getting Out of the Head: Overthinking is the kryptonite of social dynamics. When
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न चिन्तयति यत् ब्रूयात् स्वयम् एव प्रवर्तते । वाक्-विलासः यदा मुक्तः तदा सम्मोहनम् भवेत् ॥४२॥`  
 
@@ -1039,6 +1167,8 @@ Getting Out of the Head: Overthinking is the kryptonite of social dynamics. When
 
 **RSD Natural Game Field Commentary:**  
 Unfiltered Self-Expression: Natural Game teaches you to trust your subconscious. You have had decades of language experience; you do not need to pre-screen every sentence. When you speak without a censor, your speech becomes witty, unpredictable and hypnotic.
+
+</div>
 </details>
 
 #### श्लोकः 43 (अनुष्टुभ्)
@@ -1047,6 +1177,7 @@ Unfiltered Self-Expression: Natural Game teaches you to trust your subconscious.
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रवाह-पतितः धीरः न रोद्धुम् यतते जलम् । वर्तमान-क्षणे स्थित्वा रसम् आनन्दम् अश्नुते ॥४३॥`  
 
@@ -1062,6 +1193,8 @@ Unfiltered Self-Expression: Natural Game teaches you to trust your subconscious.
 
 **RSD Natural Game Field Commentary:**  
 Riding the Social Wave: In the flow state, you stop trying to control the conversation like a chess master. You ride the conversation like a surfer riding a wave. You take whatever she says and playfully amplify it.
+
+</div>
 </details>
 
 #### श्लोकः 44 (अनुष्टुभ्)
@@ -1070,6 +1203,7 @@ Riding the Social Wave: In the flow state, you stop trying to control the conver
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रवाहे वर्तमाने तु काल-ज्ञानम् विनश्यति । क्षण-मात्रम् भवेत् दीर्घम् युगम् अपि अल्प-वत् भवेत् ॥४४॥`  
 
@@ -1085,6 +1219,8 @@ Riding the Social Wave: In the flow state, you stop trying to control the conver
 
 **RSD Natural Game Field Commentary:**  
 Time Distortion in Connection: When you and a woman enter the flow state together, 2 hours feel like 20 minutes, yet she feels as if she has known you her entire life. This subjective time dilation is the hallmark of profound social rapport.
+
+</div>
 </details>
 
 #### श्लोकः 45 (अनुष्टुभ्)
@@ -1093,6 +1229,7 @@ Time Distortion in Connection: When you and a woman enter the flow state togethe
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अचिन्त्य-कर्मणा सिद्धः नारीम् मन्त्रयते क्षणात् । प्रवाह-स्थस्य कामिन्यः हस्ते तिष्ठन्ति सर्वदा ॥४५॥`  
 
@@ -1108,6 +1245,8 @@ Time Distortion in Connection: When you and a woman enter the flow state togethe
 
 **RSD Natural Game Field Commentary:**  
 Action Without Effort (Wu Wei): The highest tier of social dynamics looks like doing nothing at all. You are not running routines or pacing your steps; you are simply an infectious ball of joy and grounded masculinity that women cannot pull themselves away from.
+
+</div>
 </details>
 
 ## दशमः सर्गः : सहजसिद्धिः आत्मसारश्च
@@ -1120,6 +1259,7 @@ Action Without Effort (Wu Wei): The highest tier of social dynamics looks like d
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `युक्ति-जालम् अशेषम् तु सोपानम् इव संस्मृतम् । प्रासाद-अग्रे स्थिते पुंसि न सोपानस्य याचना ॥४६॥`  
 
@@ -1135,6 +1275,8 @@ Action Without Effort (Wu Wei): The highest tier of social dynamics looks like d
 
 **RSD Natural Game Field Commentary:**  
 Discarding the Ladder: The Zen of Natural Game: You study techniques, calibration and psychology to deconstruct your bad habits. But once you realize that confidence is your natural birthright, you throw all systems in the trash and live in pure presence.
+
+</div>
 </details>
 
 #### श्लोकः 47 (अनुष्टुभ्)
@@ -1143,6 +1285,7 @@ Discarding the Ladder: The Zen of Natural Game: You study techniques, calibratio
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सहजः पुरुषः यः तु न विधौ बद्ध-चेतनः । यत् यत् वदति यत् कुर्यात् तत् सर्वम् शोभते भृशम् ॥४७॥`  
 
@@ -1159,6 +1302,8 @@ Discarding the Ladder: The Zen of Natural Game: You study techniques, calibratio
 
 **RSD Natural Game Field Commentary:**  
 Everything Works When the State Is Right: When your internal state is magnetic, grounded and joyful, you can say almost anything ('I really love cheese', 'Your shoes are ridiculous') and it will work brilliantly. Subtext always overrules text.
+
+</div>
 </details>
 
 #### श्लोकः 48 (अनुष्टुभ्)
@@ -1167,6 +1312,7 @@ Everything Works When the State Is Right: When your internal state is magnetic, 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आत्मनि एव सुखम् यस्य यस्य प्रीतिः तथा आत्मनि । तम् दृष्ट्वा कामिनी तूर्णम् आत्म-दानम् समाचरेत् ॥४८॥`  
 
@@ -1183,6 +1329,8 @@ Everything Works When the State Is Right: When your internal state is magnetic, 
 
 **RSD Natural Game Field Commentary:**  
 The Self-Contained Sovereign: 'Ātmany evātmanā tuṣṭaḥ.' When you are genuinely fulfilled within yourself and do not need a woman to complete you, you possess the ultimate aphrodisiac: true emotional self-sufficiency.
+
+</div>
 </details>
 
 #### श्लोकः 49 (अनुष्टुभ्)
@@ -1191,6 +1339,7 @@ The Self-Contained Sovereign: 'Ātmany evātmanā tuṣṭaḥ.' When you are ge
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न तन्त्रम् न च वाक्-जालम् सहजत्वम् परम् पदम् । स्वस्थः निर्भय-चित्तः च काम-सिद्धिम् अवाप्नुयात् ॥४९॥`  
 
@@ -1206,6 +1355,8 @@ The Self-Contained Sovereign: 'Ātmany evātmanā tuṣṭaḥ.' When you are ge
 
 **RSD Natural Game Field Commentary:**  
 The Climax of Natural Game: The end of the journey is not an encyclopedia of routines. The end of the journey is a man who can walk into any room on earth, completely comfortable in his own skin, speak to anyone without fear and love without apology.
+
+</div>
 </details>
 
 #### श्लोकः 50 (अनुष्टुभ्)
@@ -1214,6 +1365,7 @@ The Climax of Natural Game: The end of the journey is not an encyclopedia of rou
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `इति ओवेन्-कुक-सिद्धान्त-सार-सङ्ग्रह-निर्मिता । पञ्चाशिका हि सिद्धानाम् मुदे संपरिकल्पिता ॥५०॥`  
 
@@ -1229,4 +1381,8 @@ The Climax of Natural Game: The end of the journey is not an encyclopedia of rou
 
 **RSD Natural Game Field Commentary:**  
 Conclusion of Sahaja-Bhāva-Pañcāśikā: Codifying the groundbreaking work of RSD Tyler (Owen Cook). Natural Game is ultimately a spiritual path of radical presence, ego transcendence and celebrating the glorious dance of masculine and feminine energy.
+
+</div>
 </details>
+
+</div>

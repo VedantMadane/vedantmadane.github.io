@@ -8,6 +8,10 @@ slug: "raft-consensus-sanskrit-treatise"
 tags: [sanskrit, raft, distributed-systems, consensus, leader-election, log-replication, sre, engineering, shatakam]
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="reader-container">
+
 # समतिपञ्चाशिका : राफ्ट्-तन्त्रम्
 ## *The Fifty Verses of Distributed Consensus: Ongaro & Ousterhout's Raft Algorithm in Classical Sanskrit Verse*
 
@@ -39,6 +43,7 @@ This treatise: **समतिपञ्चाशिका** codifies the complete
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वितरितेषु यन्त्रेषु सञ्चारः वर्तते यदा । दोषे सति अपि सङ्घाते सर्व-सम्मतम् इष्यते ॥१॥`  
 
@@ -55,6 +60,8 @@ This treatise: **समतिपञ्चाशिका** codifies the complete
 
 **Distributed Systems Engineering Commentary:**  
 The Consensus Problem: In distributed computing, multiple independent servers must agree on shared state (e.g. database transactions, configuration values) despite network latency, packet loss and node crashes. The system must operate as a unified, coherent state machine.
+
+</div>
 </details>
 
 #### श्लोकः 2 (अनुष्टुभ्)
@@ -63,6 +70,7 @@ The Consensus Problem: In distributed computing, multiple independent servers mu
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `केवलम् न एक-यन्त्रेण विश्वास्यः गणना-मयः । पृथक्-भूतेषु मर्म-ज्ञैः समता स्थाप्यते दृढम् ॥२॥`  
 
@@ -79,6 +87,8 @@ The Consensus Problem: In distributed computing, multiple independent servers mu
 
 **Distributed Systems Engineering Commentary:**  
 Eradicating Single Points of Failure: Relying on a single primary database creates catastrophic downtime when hardware burns. Distributing state across 3 or 5 nodes provides fault tolerance, ensuring survival if 1 or 2 nodes fail.
+
+</div>
 </details>
 
 #### श्लोकः 3 (अनुष्टुभ्)
@@ -87,6 +97,7 @@ Eradicating Single Points of Failure: Relying on a single primary database creat
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सञ्जाले विहते च अपि विलम्बे संविदे स्थिते । एकम् सत्यम् प्रपद्यन्ते यन्त्राणि नियते पथि ॥३॥`  
 
@@ -102,6 +113,8 @@ Eradicating Single Points of Failure: Relying on a single primary database creat
 
 **Distributed Systems Engineering Commentary:**  
 Safety Under Asynchrony: A correct consensus algorithm must guarantee Safety under all asynchronous network conditions (delays, re-ordering, packet duplication and partitions). It must never return contradictory state to clients.
+
+</div>
 </details>
 
 #### श्लोकः 4 (अनुष्टुभ्)
@@ -110,6 +123,7 @@ Safety Under Asynchrony: A correct consensus algorithm must guarantee Safety und
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `पाक्सोस्-शास्त्रम् सु-दुर्बोधम् जटिलम् प्रतिभाति यत् । राफ्ट्-तन्त्रम् सु-विस्पष्टम् बोध-अर्थम् परिकल्पितम् ॥४॥`  
 
@@ -126,6 +140,8 @@ Safety Under Asynchrony: A correct consensus algorithm must guarantee Safety und
 
 **Distributed Systems Engineering Commentary:**  
 The Understandability Imperative: In 2014, Diego Ongaro and John Ousterhout introduced Raft at Stanford. Paxos was so intellectually dense that production implementations routinely introduced subtle safety bugs. Raft decomposed consensus into discrete, understandable sub-problems.
+
+</div>
 </details>
 
 #### श्लोकः 5 (अनुष्टुभ्)
@@ -134,6 +150,7 @@ The Understandability Imperative: In 2014, Diego Ongaro and John Ousterhout intr
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अवस्थायाः समत्व-अर्थम् वृत्त-लेखस्य रक्षणे । पञ्चाशद्भिः सु-वृत्ताभिः समतिः तन्त्र्यते अनिशम् ॥५॥`  
 
@@ -149,6 +166,8 @@ The Understandability Imperative: In 2014, Diego Ongaro and John Ousterhout intr
 
 **Distributed Systems Engineering Commentary:**  
 Samati-Pañcāśikā: Codifying the complete operational lifecycle of Raft into fifty verses: Leader Election, Heartbeats, Log Replication, Safety Invariants, Joint Consensus and Partition Recovery.
+
+</div>
 </details>
 
 ## द्वितीयः सर्गः : त्रिविधपदानि कार्यकालक्रमश्च
@@ -161,6 +180,7 @@ Samati-Pañcāśikā: Codifying the complete operational lifecycle of Raft into 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अनुचरः अथ प्रार्थी च नेता च इति त्रिधा स्मृताः । यन्त्राणाम् पद-भेदाः तु समतौ परिकीर्तिताः ॥६॥`  
 
@@ -176,6 +196,8 @@ Samati-Pañcāśikā: Codifying the complete operational lifecycle of Raft into 
 
 **Distributed Systems Engineering Commentary:**  
 The Three Server States: At any given moment, a Raft server node exists in exactly one of three states: Follower (passive, responds to RPCs), Candidate (seeks votes to become leader), or Leader (handles client requests and manages log replication).
+
+</div>
 </details>
 
 #### श्लोकः 7 (अनुष्टुभ्)
@@ -184,6 +206,7 @@ The Three Server States: At any given moment, a Raft server node exists in exact
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `काल-खण्डेषु मानेन कार्य-कालः विवर्धते । एक-एक-वृद्धि-योगेन वर्धते सः निरन्तरम् ॥७॥`  
 
@@ -199,6 +222,8 @@ The Three Server States: At any given moment, a Raft server node exists in exact
 
 **Distributed Systems Engineering Commentary:**  
 Monotonic Terms: Physical wall-clock time is unreliable in distributed systems due to clock drift and NTP synchronization jumps. Raft uses arbitrary logical time divided into Terms (consecutive integers: 1, 2, 3...). Each term begins with an election.
+
+</div>
 </details>
 
 #### श्लोकः 8 (अनुष्टुभ्)
@@ -207,6 +232,7 @@ Monotonic Terms: Physical wall-clock time is unreliable in distributed systems d
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा नेता न दृश्येत कार्य-कालः प्रवर्तते । अनुचरः अपि प्रार्थी स्यात् पदम् प्राप्तुम् समुत्सुकः ॥८॥`  
 
@@ -222,6 +248,8 @@ Monotonic Terms: Physical wall-clock time is unreliable in distributed systems d
 
 **Distributed Systems Engineering Commentary:**  
 Transition to Candidate: If a follower hears no heartbeat from a leader within its election timeout, it assumes the leader is dead. It increments its current term, votes for itself, transitions to Candidate and broadcasts RequestVote RPCs to all peers.
+
+</div>
 </details>
 
 #### श्लोकः 9 (अनुष्टुभ्)
@@ -230,6 +258,7 @@ Transition to Candidate: If a follower hears no heartbeat from a leader within i
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हीन-कालः यदा पश्येत् ज्येष्ठ-कालम् पुरोगतम् । त्यक्त्वा प्रभुत्वम् तूर्णम् एव अनुचरः जायते क्षणात् ॥९॥`  
 
@@ -246,6 +275,8 @@ Transition to Candidate: If a follower hears no heartbeat from a leader within i
 
 **Distributed Systems Engineering Commentary:**  
 Term Supremacy Rule: If a server receives a request with Term $T > 	ext{currentTerm}$, it updates its term to $T$ and reverts immediately to Follower. If a partition heals and an isolated old leader tries to send commands with term 2 when term 4 exists, it is instantly dethroned.
+
+</div>
 </details>
 
 #### श्लोकः 10 (अनुष्टुभ्)
@@ -254,6 +285,7 @@ Term Supremacy Rule: If a server receives a request with Term $T > 	ext{currentT
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `काले काले भवेत् एकः नेता न अन्यः कदाचन । एवम् क्रम-व्यवस्थाने समता संप्रतिष्ठिता ॥१०॥`  
 
@@ -270,6 +302,8 @@ Term Supremacy Rule: If a server receives a request with Term $T > 	ext{currentT
 
 **Distributed Systems Engineering Commentary:**  
 Election Safety Invariant: At most one leader can be elected in a given term. A candidate must receive votes from a strict majority ($N/2 + 1$) of nodes and each node can vote at most once per term on a first-come, first-served basis. Two majorities cannot exist simultaneously.
+
+</div>
 </details>
 
 ## तृतीयः सर्गः : यादृच्छिककालावधिः नायकनिर्वाचनम्
@@ -282,6 +316,7 @@ Election Safety Invariant: At most one leader can be elected in a given term. A 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रतिरोधे प्रवृद्धे तु मत-भेदः विनश्यति । काल-अवधिः प्रकर्तव्यः यादृच्छिक-समन्वितः ॥११॥`  
 
@@ -297,6 +332,8 @@ Election Safety Invariant: At most one leader can be elected in a given term. A 
 
 **Distributed Systems Engineering Commentary:**  
 Randomized Election Timeouts: If all nodes had identical timeouts (e.g. 150ms), they would all time out simultaneously, vote for themselves, split the vote equally and repeat forever. Raft randomizes timeouts (e.g. 150ms to 300ms) so one node times out first and claims victory.
+
+</div>
 </details>
 
 #### श्लोकः 12 (अनुष्टुभ्)
@@ -305,6 +342,7 @@ Randomized Election Timeouts: If all nodes had identical timeouts (e.g. 150ms), 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रार्थनाम् प्रेरयेत् प्राज्ञः यन्त्रेभ्यः मत-सङ्ग्रहे । स्व-काल-वृत्त-लेखाभ्याम् स्व-योग्यताम् प्रकाशयेत् ॥१२॥`  
 
@@ -320,6 +358,8 @@ Randomized Election Timeouts: If all nodes had identical timeouts (e.g. 150ms), 
 
 **Distributed Systems Engineering Commentary:**  
 RequestVote RPC Arguments: A candidate sends its `term`, `candidateId`, `lastLogIndex` and `lastLogTerm`. A voter denies its vote if the candidate's log is less up-to-date than its own log (Election Restriction).
+
+</div>
 </details>
 
 #### श्लोकः 13 (अनुष्टुभ्)
@@ -328,6 +368,7 @@ RequestVote RPC Arguments: A candidate sends its `term`, `candidateId`, `lastLog
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा बहुमतेन अयम् लभते सम्मतिम् दृढाम् । तदा एव नायकः सिद्धः प्रभुत्वम् प्रतिपद्यते ॥१३॥`  
 
@@ -344,6 +385,8 @@ RequestVote RPC Arguments: A candidate sends its `term`, `candidateId`, `lastLog
 
 **Distributed Systems Engineering Commentary:**  
 Quorum Rule: In a cluster of $2F + 1$ servers, a candidate must gather votes from at least $F + 1$ servers. Because any two majorities must overlap by at least one server, it is mathematically impossible for two candidates to win the same term.
+
+</div>
 </details>
 
 #### श्लोकः 14 (अनुष्टुभ्)
@@ -352,6 +395,7 @@ Quorum Rule: In a cluster of $2F + 1$ servers, a candidate must gather votes fro
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `विभक्ते तु मते क्वापि काल-उत्तीर्णे पराजयः । पुनः नवेन कालेन निर्वाचनम् प्रवर्तते ॥१४॥`  
 
@@ -367,6 +411,8 @@ Quorum Rule: In a cluster of $2F + 1$ servers, a candidate must gather votes fro
 
 **Distributed Systems Engineering Commentary:**  
 Split-Vote Recovery: If multiple candidates emerge simultaneously and split the votes, the election timer expires without a winner. Each candidate times out, chooses a new randomized timeout, increments the term and restarts the election.
+
+</div>
 </details>
 
 #### श्लोकः 15 (अनुष्टुभ्)
@@ -375,6 +421,7 @@ Split-Vote Recovery: If multiple candidates emerge simultaneously and split the 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यादृच्छिकेन भेदेन सिद्धम् नायक-निश्चयम् । एकस्मिन् एव काले हि जायते नायकः परः ॥१५॥`  
 
@@ -390,6 +437,8 @@ Split-Vote Recovery: If multiple candidates emerge simultaneously and split the 
 
 **Distributed Systems Engineering Commentary:**  
 Liveness Guarantee: Thanks to randomized election timeouts, split-vote ties are resolved rapidly, usually within a single election cycle (typically 150-300ms). Raft ensures cluster availability without indefinite livelock.
+
+</div>
 </details>
 
 ## चतुर्थः सर्गः : स्पन्दसन्देशः अधिकारसंरक्षणम्
@@ -402,6 +451,7 @@ Liveness Guarantee: Thanks to randomized election timeouts, split-vote ties are 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अधिकारम् परिरक्ष्य स्पन्द-लेखम् प्रसारयेत् । रिक्त-सन्देश-योगेन नायकः स्व-पदम् नयेत् ॥१६॥`  
 
@@ -417,6 +467,8 @@ Liveness Guarantee: Thanks to randomized election timeouts, split-vote ties are 
 
 **Distributed Systems Engineering Commentary:**  
 Heartbeat Mechanics: Once elected, the leader immediately sends periodic empty `AppendEntries` RPCs to all followers. These heartbeats carry no log entries; their sole purpose is to assert authority and prevent peers from starting new elections.
+
+</div>
 </details>
 
 #### श्लोकः 17 (अनुष्टुभ्)
@@ -425,6 +477,7 @@ Heartbeat Mechanics: Once elected, the leader immediately sends periodic empty `
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्पन्देन सङ्गमम् प्राप्य शान्तिम् यान्ति अनुचारिणः । निर्वाचनस्य कालः अपि पुनः-वारम् निरुद्ध्यते ॥१७॥`  
 
@@ -440,6 +493,8 @@ Heartbeat Mechanics: Once elected, the leader immediately sends periodic empty `
 
 **Distributed Systems Engineering Commentary:**  
 Timer Reset on Heartbeat: As long as a follower receives heartbeats within its election timeout, it remains a follower and resets its election countdown. The heartbeat period (e.g. 50ms) is substantially shorter than the election timeout (e.g. 150-300ms).
+
+</div>
 </details>
 
 #### श्लोकः 18 (अनुष्टुभ्)
@@ -448,6 +503,7 @@ Timer Reset on Heartbeat: As long as a follower receives heartbeats within its e
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यावत् स्पन्दः समायाति तावत् ते न विचुक्रुशुः । नायकस्य वशे तिष्ठेत् गणः सर्वः समाहितः ॥१८॥`  
 
@@ -463,6 +519,8 @@ Timer Reset on Heartbeat: As long as a follower receives heartbeats within its e
 
 **Distributed Systems Engineering Commentary:**  
 Steady-State Cluster Harmony: In steady-state operation, the leader rules undisputed. Followers only process incoming heartbeats and write log updates without generating extraneous network chatter.
+
+</div>
 </details>
 
 #### श्लोकः 19 (अनुष्टुभ्)
@@ -471,6 +529,7 @@ Steady-State Cluster Harmony: In steady-state operation, the leader rules undisp
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा स्पन्दः विनष्टः स्यात् सम्भ्रमः जायते तदा । अन्यः कश्चित् विमुक्तः सन् नायकत्वाय धावति ॥१९॥`  
 
@@ -486,6 +545,8 @@ Steady-State Cluster Harmony: In steady-state operation, the leader rules undisp
 
 **Distributed Systems Engineering Commentary:**  
 Automatic Failover: If the leader crashes, heartbeats stop. The follower whose randomized timeout expires first steps up, increments the term and starts an election. Failover is completely automated without human operator intervention.
+
+</div>
 </details>
 
 #### श्लोकः 20 (अनुष्टुभ्)
@@ -494,6 +555,7 @@ Automatic Failover: If the leader crashes, heartbeats stop. The follower whose r
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `एवम् स्पन्द-प्रभावेन राज्यम् तिष्ठति अकम्पकम् । वितरितेषु यन्त्रेषु शान्ति-रक्षणम् उत्तमम् ॥२०॥`  
 
@@ -509,6 +571,8 @@ Automatic Failover: If the leader crashes, heartbeats stop. The follower whose r
 
 **Distributed Systems Engineering Commentary:**  
 High Availability: The heartbeat loop is the heartbeat of the distributed database. It keeps the topology stable, maintains state machine consensus and guarantees zero split-brain during normal operations.
+
+</div>
 </details>
 
 ## पञ्चमः सर्गः : वृत्तलेखप्रसारणम्
@@ -521,6 +585,7 @@ High Availability: The heartbeat loop is the heartbeat of the distributed databa
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा ग्राह्य-आज्ञया युक्तः सन्देशः आगमिष्यति । नायकः स्वीय-वृत्ते तु पूर्वम् तम् विनिवेशयेत् ॥२१॥`  
 
@@ -536,6 +601,8 @@ High Availability: The heartbeat loop is the heartbeat of the distributed databa
 
 **Distributed Systems Engineering Commentary:**  
 Client Interaction: Clients send all commands to the Leader (followers redirect clients to the current leader). The leader accepts the command, appends it to its own log as a new entry and assigns it a monotonically increasing `index` and the current `term`.
+
+</div>
 </details>
 
 #### श्लोकः 22 (अनुष्टुभ्)
@@ -544,6 +611,7 @@ Client Interaction: Clients send all commands to the Leader (followers redirect 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `ततः प्रेषयते सम्यक् सर्व-यन्त्रेषु सादरम् । वृत्त-लेख-प्रसारेण समत्वम् कुरुते दृढम् ॥२२॥`  
 
@@ -559,6 +627,8 @@ Client Interaction: Clients send all commands to the Leader (followers redirect 
 
 **Distributed Systems Engineering Commentary:**  
 Parallel Dissemination: The leader issues `AppendEntries` RPCs in parallel to each follower. If a follower is slow or network packets are dropped, the leader retries indefinitely until the follower appends the entry.
+
+</div>
 </details>
 
 #### श्लोकः 23 (अनुष्टुभ्)
@@ -567,6 +637,7 @@ Parallel Dissemination: The leader issues `AppendEntries` RPCs in parallel to ea
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अङ्केन काल-खण्डेन युक्तः लेखः प्रतिष्ठितः । आदेशेन समन्वेति राज्य-यन्त्र-प्रसाधकः ॥२३॥`  
 
@@ -582,6 +653,8 @@ Parallel Dissemination: The leader issues `AppendEntries` RPCs in parallel to ea
 
 **Distributed Systems Engineering Commentary:**  
 Log Entry Schema: Each log entry contains three fields: 1. `index` (its integer position in the log, 1-indexed), 2. `term` (the term in which it was received by the leader) and 3. `command` (the state machine instruction, e.g. `SET x = 5`).
+
+</div>
 </details>
 
 #### श्लोकः 24 (अनुष्टुभ्)
@@ -590,6 +663,7 @@ Log Entry Schema: Each log entry contains three fields: 1. `index` (its integer 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सर्वेषु तत्-अनुरूपेषु यन्त्र-आगारेषु लिप्यते । एकः एव क्रमः शुद्धः वर्तते सर्व-मण्डले ॥२४॥`  
 
@@ -605,6 +679,8 @@ Log Entry Schema: Each log entry contains three fields: 1. `index` (its integer 
 
 **Distributed Systems Engineering Commentary:**  
 Sequential Determinism: Distributed state machine replication relies on determinism: If two identical state machines start with the same initial state and apply the identical sequence of inputs in the exact same order, they will produce identical outputs and final states.
+
+</div>
 </details>
 
 #### श्लोकः 25 (अनुष्टुभ्)
@@ -613,6 +689,7 @@ Sequential Determinism: Distributed state machine replication relies on determin
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वृत्त-लेख-प्रसारेण सत्यम् न च विशीर्यते । अविनाशी भवेत् धर्मः यन्त्राणाम् गणना-पथे ॥२५॥`  
 
@@ -628,6 +705,8 @@ Sequential Determinism: Distributed state machine replication relies on determin
 
 **Distributed Systems Engineering Commentary:**  
 Append-Only Invariant: The leader's log is append-only. The leader never overwrites or truncates its own log entries; it only appends new entries. This monotonic growth guarantees auditability and linear progress.
+
+</div>
 </details>
 
 ## षष्ठः सर्गः : वृत्तलेखसङ्गतिनियमः
@@ -640,6 +719,7 @@ Append-Only Invariant: The leader's log is append-only. The leader never overwri
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `पूर्व-लेखस्य च अङ्केन कालेन अपि समन्वितम् । परीक्षणम् प्रकर्तव्यम् सन्देशस्य प्रवेशने ॥२६॥`  
 
@@ -655,6 +735,8 @@ Append-Only Invariant: The leader's log is append-only. The leader never overwri
 
 **Distributed Systems Engineering Commentary:**  
 The Log Consistency Check: When sending an `AppendEntries` RPC, the leader includes the `index` and `term` of the entry immediately preceding the new ones (`prevLogIndex`, `prevLogTerm`). If the follower does not find a matching entry in its log, it rejects the new entries.
+
+</div>
 </details>
 
 #### श्लोकः 27 (अनुष्टुभ्)
@@ -663,6 +745,7 @@ The Log Consistency Check: When sending an `AppendEntries` RPC, the leader inclu
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदि पूर्वः भवेत् भिन्नः तदा लेखः न गृह्यते । पश्चात् गत्वा तु संशोध्य समत्वम् क्रियते पुनः ॥२७॥`  
 
@@ -678,6 +761,8 @@ The Log Consistency Check: When sending an `AppendEntries` RPC, the leader inclu
 
 **Distributed Systems Engineering Commentary:**  
 Repairing Divergence: If a follower rejects the RPC, the leader decrements `nextIndex` for that follower and retries. Once `prevLogIndex` matches, the follower accepts the entries and overwrites any conflicting uncommitted entries in its log.
+
+</div>
 </details>
 
 #### श्लोकः 28 (अनुष्टुभ्)
@@ -686,6 +771,7 @@ Repairing Divergence: If a follower rejects the RPC, the leader decrements `next
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा एकस्मिन् पदे तुल्यौ कालः च एव अङ्कः एव च । तदा ततः पुरा सर्वे तुल्याः एव इति निश्चयः ॥२८॥`  
 
@@ -701,6 +787,8 @@ Repairing Divergence: If a follower rejects the RPC, the leader decrements `next
 
 **Distributed Systems Engineering Commentary:**  
 The Log Matching Property: Inductive proof: 1. If two entries in different logs have the same index and term, they store the same command (because a leader creates at most one entry per index in a term). 2. If two entries in different logs have the same index and term, their logs are identical in all preceding entries.
+
+</div>
 </details>
 
 #### श्लोकः 29 (अनुष्टुभ्)
@@ -709,6 +797,7 @@ The Log Matching Property: Inductive proof: 1. If two entries in different logs 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नायकः स्वीय-लेखम् तु न छिन्द्यात् न च लोपयेत् । नूतनानाम् तु संवृद्ध्या पूर्व-रक्षा विधीयते ॥२९॥`  
 
@@ -724,6 +813,8 @@ The Log Matching Property: Inductive proof: 1. If two entries in different logs 
 
 **Distributed Systems Engineering Commentary:**  
 Leader Append-Only: A leader never overwrites or truncates its own log entries; it only appends new entries. Conflicting entries in follower logs are overwritten to match the leader, but the leader's own entries are immutable.
+
+</div>
 </details>
 
 #### श्लोकः 30 (अनुष्टुभ्)
@@ -732,6 +823,7 @@ Leader Append-Only: A leader never overwrites or truncates its own log entries; 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सङ्गतिः नियता हि एषा राफ्ट्-शास्त्रे सु-शिक्षिता । सत्यम् एकम् दृढम् तिष्ठेत् भ्रान्ति-लेशः न वर्तते ॥३०॥`  
 
@@ -747,6 +839,8 @@ Leader Append-Only: A leader never overwrites or truncates its own log entries; 
 
 **Distributed Systems Engineering Commentary:**  
 Convergence: Over time, the consistency check forces all follower logs to converge perfectly with the leader's log. Network partitions may cause transient discrepancies, but upon reconnection, Raft enforces total convergence.
+
+</div>
 </details>
 
 ## सप्तमः सर्गः : सङ्कल्पसिद्धिः राज्ययन्त्रप्रयोगः
@@ -759,6 +853,7 @@ Convergence: Over time, the consistency check forces all follower logs to conver
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा बहुमतम् प्राप्य वृत्त-लेखः प्रतिष्ठितः । तदा एव सङ्कल्पितः नाम न लोप्यः सः कदाचन ॥३१॥`  
 
@@ -774,6 +869,8 @@ Convergence: Over time, the consistency check forces all follower logs to conver
 
 **Distributed Systems Engineering Commentary:**  
 The Commitment Rule: A log entry is committed once it is replicated on a majority of servers by the leader of the current term. Once committed, Raft guarantees it will be present in the logs of all future leaders (Leader Completeness).
+
+</div>
 </details>
 
 #### श्लोकः 32 (अनुष्टुभ्)
@@ -782,6 +879,7 @@ The Commitment Rule: A log entry is committed once it is replicated on a majorit
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सङ्कल्पिते सति प्राज्ञः राज्य-यन्त्रे नियोजयेत् । आदेशस्य फलम् दत्त्वा ग्राहकम् तोषयेत् तदा ॥३२॥`  
 
@@ -797,6 +895,8 @@ The Commitment Rule: A log entry is committed once it is replicated on a majorit
 
 **Distributed Systems Engineering Commentary:**  
 Applying to State Machine: `commitIndex` is updated monotonically. Once an entry is committed, the server applies it in index order to its state machine (`lastApplied`). The leader then returns the execution result to the client, guaranteeing linearizability.
+
+</div>
 </details>
 
 #### श्लोकः 33 (अनुष्टुभ्)
@@ -805,6 +905,7 @@ Applying to State Machine: `commitIndex` is updated monotonically. Once an entry
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यन्त्रेषु गण-भूतेषु क्रमेण एव प्रयुज्यते । नाना-यन्त्रेषु सम्भूतम् फलम् तुल्यम् प्रजायते ॥३३॥`  
 
@@ -820,6 +921,8 @@ Applying to State Machine: `commitIndex` is updated monotonically. Once an entry
 
 **Distributed Systems Engineering Commentary:**  
 State Machine Safety: If a server has applied a log entry at a given index to its state machine, no other server will ever apply a different log entry for the same index. All replicas transition through the exact same state trajectory.
+
+</div>
 </details>
 
 #### श्लोकः 34 (अनुष्टुभ्)
@@ -828,6 +931,7 @@ State Machine Safety: If a server has applied a log entry at a given index to it
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सङ्कल्पिते कृते कार्ये न पश्चात्-ताप-सम्भवः । अचलः सङ्ग्रहः जातः सर्व-मान्यः विधीयते ॥३४॥`  
 
@@ -843,6 +947,8 @@ State Machine Safety: If a server has applied a log entry at a given index to it
 
 **Distributed Systems Engineering Commentary:**  
 Leader Completeness: If a log entry is committed in a given term, then that entry will be present in the logs of the leaders for all higher-numbered terms. A candidate cannot be elected unless its log contains all committed entries.
+
+</div>
 </details>
 
 #### श्लोकः 35 (अनुष्टुभ्)
@@ -851,6 +957,7 @@ Leader Completeness: If a log entry is committed in a given term, then that entr
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `राज्य-यन्त्र-प्रयोगेण गणना सिद्धिम् आप्नुयात् । अविचल-प्रभावेण समतिः संप्रजायते ॥३५॥`  
 
@@ -866,6 +973,8 @@ Leader Completeness: If a log entry is committed in a given term, then that entr
 
 **Distributed Systems Engineering Commentary:**  
 Consensus Realized: Raft bridges the gap between chaotic network hardware and deterministic application software. To the client, the distributed cluster appears as a single indestructible, highly available computer.
+
+</div>
 </details>
 
 ## अष्टमः सर्गः : संविद्विच्छेदः द्विधाविभागरक्षा
@@ -878,6 +987,7 @@ Consensus Realized: Raft bridges the gap between chaotic network hardware and de
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा जालम् द्विधा छिन्नम् विच्छेदः जायते पथि । अल्प-सङ्ख्या न शक्नोति बहुमतम् प्रसाधितुम् ॥३६॥`  
 
@@ -893,6 +1003,8 @@ Consensus Realized: Raft bridges the gap between chaotic network hardware and de
 
 **Distributed Systems Engineering Commentary:**  
 The Minority Partition: Imagine a 5-node cluster split into $\{A, B\}$ and $\{C, D, E\}$. If $A$ was the leader, $A$ and $B$ can still talk to each other, but they can only muster 2 votes out of 5. They cannot form a majority ($3$ needed).
+
+</div>
 </details>
 
 #### श्लोकः 37 (अनुष्टुभ्)
@@ -901,6 +1013,7 @@ The Minority Partition: Imagine a 5-node cluster split into $\{A, B\}$ and $\{C,
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `बहु-सङ्ख्या-युतः भागः स्व-नायकम् वृणोति अलम् । अल्प-भाग-स्थितः नेता न कञ्चित् कर्म कल्पयेत् ॥३७॥`  
 
@@ -916,6 +1029,8 @@ The Minority Partition: Imagine a 5-node cluster split into $\{A, B\}$ and $\{C,
 
 **Distributed Systems Engineering Commentary:**  
 Preventing Split-Brain: $\{C, D, E\}$ times out and elects $C$ as leader for term 2. When clients send writes to $A$ (in the minority), $A$ cannot replicate to a majority, so those entries remain uncommitted. Split-brain is prevented.
+
+</div>
 </details>
 
 #### श्लोकः 38 (अनुष्टुभ्)
@@ -924,6 +1039,7 @@ Preventing Split-Brain: $\{C, D, E\}$ times out and elects $C$ as leader for ter
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सन्धान-सम्पत्तिः पुनः जालस्य जायते । बहु-भागस्य सत्येन लघुः एव अवधीर्यते ॥३८॥`  
 
@@ -939,6 +1055,8 @@ Preventing Split-Brain: $\{C, D, E\}$ times out and elects $C$ as leader for ter
 
 **Distributed Systems Engineering Commentary:**  
 Reconciliation on Partition Healing: When the network heals, $A$ receives a heartbeat from $C$ carrying term 2. Node $A$ sees a higher term, steps down to follower and accepts $C$'s authority.
+
+</div>
 </details>
 
 #### श्लोकः 39 (अनुष्टुभ्)
@@ -947,6 +1065,7 @@ Reconciliation on Partition Healing: When the network heals, $A$ receives a hear
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `असङ्कल्पित-लेखाः तु हीनान् यन्त्रात् विनाशयेत् । नायकस्य एव लेखेन सर्वेषाम् शोधनम् भवेत् ॥३९॥`  
 
@@ -962,6 +1081,8 @@ Reconciliation on Partition Healing: When the network heals, $A$ receives a hear
 
 **Distributed Systems Engineering Commentary:**  
 Overwriting Uncommitted Entries: The uncommitted writes sent to $A$ during the partition are overwritten by $C$'s log entries. Because those writes were never committed or acknowledged to clients as successful, Safety is preserved.
+
+</div>
 </details>
 
 #### श्लोकः 40 (अनुष्टुभ्)
@@ -970,6 +1091,7 @@ Overwriting Uncommitted Entries: The uncommitted writes sent to $A$ during the p
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `द्विधा-विभाग-रक्षायाम् राफ्ट्-तन्त्रम् प्रतिष्ठितम् । भङ्गे सति अपि जालस्य सत्यम् न एव प्रणश्यति ॥४०॥`  
 
@@ -985,6 +1107,8 @@ Overwriting Uncommitted Entries: The uncommitted writes sent to $A$ during the p
 
 **Distributed Systems Engineering Commentary:**  
 CAP Theorem Balance: Under the CAP theorem, Raft chooses Consistency and Partition Tolerance ($CP$). When a network partition occurs, the majority partition stays available, while the minority partition rejects writes to guarantee Consistency.
+
+</div>
 </details>
 
 ## नवमः सर्गः : संयुक्तसमतिः मण्डलविस्तारः
@@ -997,6 +1121,7 @@ CAP Theorem Balance: Under the CAP theorem, Raft chooses Consistency and Partiti
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यन्त्राणाम् परिवर्त-अर्थम् संयुक्त-समतिः मता । पूर्वैः च नूतनैः च अपि बहुमतम् प्रसाध्यते ॥४१॥`  
 
@@ -1012,6 +1137,8 @@ CAP Theorem Balance: Under the CAP theorem, Raft chooses Consistency and Partiti
 
 **Distributed Systems Engineering Commentary:**  
 Cluster Membership Changes: Adding or removing servers cannot be done atomically across all nodes at once. A naive switch could allow two disjoint majorities: an old 3-node cluster and a new 5-node cluster electing separate leaders simultaneously. Joint Consensus prevents this.
+
+</div>
 </details>
 
 #### श्लोकः 42 (अनुष्टुभ्)
@@ -1020,6 +1147,7 @@ Cluster Membership Changes: Adding or removing servers cannot be done atomically
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `उभयोः मण्डलयोः योगे द्वौ भागौ सम्मतौ सदा । एकदा न एव निष्पत्तिः पृथक्-नायक-सम्भवा ॥४२॥`  
 
@@ -1035,6 +1163,8 @@ Cluster Membership Changes: Adding or removing servers cannot be done atomically
 
 **Distributed Systems Engineering Commentary:**  
 Joint Consensus Safety: During Joint Consensus, any decision (including commitment and elections) requires separate majorities from both $C_{\text{old}}$ and $C_{\text{new}}$. Because $C_{\text{old}}$ cannot elect a leader without a majority of its nodes, split decisions are physically impossible.
+
+</div>
 </details>
 
 #### श्लोकः 43 (अनुष्टुभ्)
@@ -1043,6 +1173,7 @@ Joint Consensus Safety: During Joint Consensus, any decision (including commitme
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आदौ संयुक्त-कालेन सन्देशाः विनिवेशिताः । पश्चात् एव नूतनेन एव राज्यम् सर्वम् प्रपाल्यते ॥४३॥`  
 
@@ -1058,6 +1189,8 @@ Joint Consensus Safety: During Joint Consensus, any decision (including commitme
 
 **Distributed Systems Engineering Commentary:**  
 The Two-Phase Transition: 1. Leader writes and commits $C_{\text{old,new}}$. Once committed, neither $C_{\text{old}}$ nor $C_{\text{new}}$ can make decisions alone. 2. Leader writes and commits $C_{\text{new}}$. After $C_{\text{new}}$ is committed, decommissioned old nodes can be safely powered off.
+
+</div>
 </details>
 
 #### श्लोकः 44 (अनुष्टुभ्)
@@ -1066,6 +1199,7 @@ The Two-Phase Transition: 1. Leader writes and commits $C_{\text{old,new}}$. Onc
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अविरामेण कार्येण विस्तारः क्रियते दृढः । सेवायाः न भवेत् भङ्गः राफ्ट्-धर्मे सु-संस्थिते ॥४४॥`  
 
@@ -1081,6 +1215,8 @@ The Two-Phase Transition: 1. Leader writes and commits $C_{\text{old,new}}$. Onc
 
 **Distributed Systems Engineering Commentary:**  
 Zero-Downtime Reconfiguration: The cluster continues serving client requests during the membership change. Machines can be added or decommissioned dynamically in production without taking the database offline.
+
+</div>
 </details>
 
 #### श्लोकः 45 (अनुष्टुभ्)
@@ -1089,6 +1225,7 @@ Zero-Downtime Reconfiguration: The cluster continues serving client requests dur
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सङ्ख्या-वृद्धौ क्षये वा अपि समता न विशीर्यते । संयुक्त-समतेः ज्ञानात् यन्त्र-व्यूहः सु-शोभते ॥४५॥`  
 
@@ -1104,6 +1241,8 @@ Zero-Downtime Reconfiguration: The cluster continues serving client requests dur
 
 **Distributed Systems Engineering Commentary:**  
 Dynamic Elasticity: Modern cloud-native infrastructure (Kubernetes, etcd, CockroachDB) relies on Raft's membership change protocol to scale dynamically across cloud availability zones.
+
+</div>
 </details>
 
 ## दशमः सर्गः : सर्वसमतिसिद्धिः स्थिरतन्त्रम्
@@ -1116,6 +1255,7 @@ Dynamic Elasticity: Modern cloud-native infrastructure (Kubernetes, etcd, Cockro
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `निर्वाचने तथा एव अङ्के वृत्त-लेखे च रक्षणे । पञ्च एते मूल-नियमाः राफ्ट्-तन्त्रे प्रतिष्ठिताः ॥४६॥`  
 
@@ -1131,6 +1271,8 @@ Dynamic Elasticity: Modern cloud-native infrastructure (Kubernetes, etcd, Cockro
 
 **Distributed Systems Engineering Commentary:**  
 Raft's Five Safety Invariants: 1. Election Safety (at most one leader per term). 2. Leader Append-Only (leader never overwrites its log). 3. Log Matching (matching index & term implies identical prefix). 4. Leader Completeness (committed entries persist in all future leaders). 5. State Machine Safety (no different entries applied at same index).
+
+</div>
 </details>
 
 #### श्लोकः 47 (अनुष्टुभ्)
@@ -1139,6 +1281,7 @@ Raft's Five Safety Invariants: 1. Election Safety (at most one leader per term).
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नायकस्य अविनाशी स्यात् वृत्त-लेखः निरन्तरम् । राज्य-यन्त्रे प्रयुक्तम् यत् तत् सदा सर्व-सम्मतम् ॥४७॥`  
 
@@ -1154,6 +1297,8 @@ Raft's Five Safety Invariants: 1. Election Safety (at most one leader per term).
 
 **Distributed Systems Engineering Commentary:**  
 Immutability of Committed Data: Once a write is committed, no server failure, network partition, or election change can ever alter that data. This guarantee underpins the financial integrity of modern distributed ledgers and transactional databases.
+
+</div>
 </details>
 
 #### श्लोकः 48 (अनुष्टुभ्)
@@ -1162,6 +1307,7 @@ Immutability of Committed Data: Once a write is committed, no server failure, ne
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सहस्रेषु अपि दोषेषु सत्यम् तिष्ठति शाश्वतम् । वितरितेषु यन्त्रेषु स्थैर्यम् येन प्रजायते ॥४८॥`  
 
@@ -1177,6 +1323,8 @@ Immutability of Committed Data: Once a write is committed, no server failure, ne
 
 **Distributed Systems Engineering Commentary:**  
 Resilience in Chaos: Chaos engineering experiments (killing random nodes, simulating partition storms) prove Raft's resilience. It guarantees safety under all conditions and liveness whenever a majority can communicate.
+
+</div>
 </details>
 
 #### श्लोकः 49 (अनुष्टुभ्)
@@ -1185,6 +1333,7 @@ Resilience in Chaos: Chaos engineering experiments (killing random nodes, simula
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सरलत्वात् च शुद्धत्वात् राफ्ट्-तन्त्रम् विराजते । गणना-शास्त्र-तत्त्व-ज्ञैः पूजितम् सर्व-मण्डले ॥४९॥`  
 
@@ -1200,6 +1349,8 @@ Resilience in Chaos: Chaos engineering experiments (killing random nodes, simula
 
 **Distributed Systems Engineering Commentary:**  
 The Victory of Understandability: Raft proved that understandability is a first-class engineering goal. Today, etcd, Consul, TiKV, Kafka (KRaft) and MongoDB all rely on Raft or Raft-derived protocols to power global cloud infrastructure.
+
+</div>
 </details>
 
 #### श्लोकः 50 (अनुष्टुभ्)
@@ -1208,6 +1359,7 @@ The Victory of Understandability: Raft proved that understandability is a first-
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `इति राफ्ट्-महा-शास्त्रम् पञ्चाशद्भिः सु-भाषितम् । सर्व-सम्मत-सिद्ध्यर्थम् प्रणीतम् लोक-भूतये ॥५०॥`  
 
@@ -1223,4 +1375,8 @@ The Victory of Understandability: Raft proved that understandability is a first-
 
 **Distributed Systems Engineering Commentary:**  
 Conclusion of Samati-Pañcāśikā: Codifying the Raft consensus algorithm into fifty classical Sanskrit verses. From leader election to state machine safety, Raft ensures that digital civilization rests upon an indestructible foundation of mathematical consensus.
+
+</div>
 </details>
+
+</div>

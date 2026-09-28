@@ -8,6 +8,10 @@ slug: "todd-valentine-game-sanskrit-treatise"
 tags: [sanskrit, todd-valentine, daygame, game, attraction, seduction, psychology, shatakam]
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+
+<div class="reader-container">
+
 # कामशास्त्रपञ्चाशिका : तॉडवेलेन्टाइन्-सिद्धान्तः
 ## *The Fifty Verses of Modern Game & Courtship: The Complete System of Todd Valentine*
 
@@ -33,6 +37,7 @@ Every verse is composed according to strict Pāṇinian metric rules (*Anuṣṭ
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रवेशः च आकर्षणम् च साधनम् च इति काम-धीः । गुणितेषु त्रिषु श्रेयः एक-लोपे न सिध्यति ॥१॥`  
 
@@ -50,6 +55,8 @@ Every verse is composed according to strict Pāṇinian metric rules (*Anuṣṭ
 
 **Todd Valentine Axiom / Field Commentary:**  
 Todd Valentine's fundamental formula: Game = Access x Attraction x Follow-Through. It is a multiplicative equation, not additive. Being world-class at attraction yields zero results if access or follow-through is zero.
+
+</div>
 </details>
 
 #### श्लोकः 2 (अनुष्टुभ्)
@@ -58,6 +65,7 @@ Todd Valentine's fundamental formula: Game = Access x Attraction x Follow-Throug
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्षणम् विना दूतः केवलम् सुहृत् भवेत् । प्रवेशम् च विना धीरः निर्जने दीप-वत् स्थितः ॥२॥`  
 
@@ -73,6 +81,8 @@ Todd Valentine's fundamental formula: Game = Access x Attraction x Follow-Throug
 
 **Todd Valentine Axiom / Field Commentary:**  
 Highlights the peril of single-pillar competence. The man who lacks attraction enters the friendzone; the man with great game but no access pipeline remains completely invisible.
+
+</div>
 </details>
 
 #### श्लोकः 3 (अनुष्टुभ्)
@@ -81,6 +91,7 @@ Highlights the peril of single-pillar competence. The man who lacks attraction e
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `साधनेन विना कामः स्वप्न-मात्रे विलीयते । तस्मात् त्रयाणाम् योगेन सिद्धिः भवति निर्मला ॥३॥`  
 
@@ -96,6 +107,8 @@ Highlights the peril of single-pillar competence. The man who lacks attraction e
 
 **Todd Valentine Axiom / Field Commentary:**  
 Follow-through represents execution: getting phone numbers, planning dates, moving venues, isolation and bedroom logistics. Great banter without logistics leaves you with only phone numbers that never convert.
+
+</div>
 </details>
 
 #### श्लोकः 4 (अनुष्टुभ्)
@@ -104,6 +117,7 @@ Follow-through represents execution: getting phone numbers, planning dates, movi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `तर्केण न एव नारीणाम् काम-वह्निः प्रज्वल्यते । भावेन चाल्यते चित्तम् पुंधर्मेण दृढेन च ॥४॥`  
 
@@ -119,6 +133,8 @@ Follow-through represents execution: getting phone numbers, planning dates, movi
 
 **Todd Valentine Axiom / Field Commentary:**  
 Attraction is emotional and visceral, never logical. Men fail when they treat women like job interviewers or debate opponents. Polarity—the friction between masculine presence and feminine emotion—sparks attraction.
+
+</div>
 </details>
 
 #### श्लोकः 5 (अनुष्टुभ्)
@@ -127,6 +143,7 @@ Attraction is emotional and visceral, never logical. Men fail when they treat wo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न दीनः न हठी भूत्वा मध्यस्थः वीर्यवान् पुमान् । आत्म-संस्थः सुधीः लोके काम-मार्गे विराजते ॥५॥`  
 
@@ -142,6 +159,8 @@ Attraction is emotional and visceral, never logical. Men fail when they treat wo
 
 **Todd Valentine Axiom / Field Commentary:**  
 The attractive archetype. Todd rejects the supplicating 'Nice Guy' who trades his dignity for approval, as well as the bitter, hostile man. True power lies in relaxed, centered masculine dominance.
+
+</div>
 </details>
 
 ---
@@ -155,6 +174,7 @@ The attractive archetype. Todd rejects the supplicating 'Nice Guy' who trades hi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अदृष्टम् न एव गृह्णन्ति नारीणाम् चक्षुषी क्वचित् । प्रवेश-मार्गान् पञ्च एव विवृणुयात् प्रयत्नतः ॥६॥`  
 
@@ -170,6 +190,8 @@ The attractive archetype. Todd rejects the supplicating 'Nice Guy' who trades hi
 
 **Todd Valentine Axiom / Field Commentary:**  
 Access is the top of the funnel. You cannot attract women you never meet. A man must intentionally engineer multiple streams of inbound and outbound female contact.
+
+</div>
 </details>
 
 #### श्लोकः 7 (अनुष्टुभ्)
@@ -178,6 +200,7 @@ Access is the top of the funnel. You cannot attract women you never meet. A man 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मार्गः गणे सह-कर्म ख्यातिः यन्त्रम् च पञ्चमम् । पञ्च द्वाराणि कामस्य कीर्तितानि मनीषिभिः ॥७॥`  
 
@@ -192,6 +215,8 @@ Access is the top of the funnel. You cannot attract women you never meet. A man 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Todd's five access channels: 1. Cold approach (street/nightlife), 2. Social circle, 3. Shared activities/passions, 4. Fame/status/visibility, 5. Online/apps. Diversifying across them creates true abundance.
+
+</div>
 </details>
 
 #### श्लोकः 8 (अनुष्टुभ्)
@@ -200,6 +225,7 @@ Todd's five access channels: 1. Cold approach (street/nightlife), 2. Social circ
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अपरिचित-मार्गेषु गमनम् स्वातन्त्र्यम् उत्तमम् । न कस्यचित् अपेक्षा इह स्व-वीर्येण प्रवर्तते ॥८॥`  
 
@@ -215,6 +241,8 @@ Todd's five access channels: 1. Cold approach (street/nightlife), 2. Social circ
 
 **Todd Valentine Axiom / Field Commentary:**  
 Cold approach is the ultimate sovereign skill. You do not need to wait for a party invitation or a mutual friend. Any avenue, cafe, or bookstore becomes an instant field of opportunity.
+
+</div>
 </details>
 
 #### श्लोकः 9 (अनुष्टुभ्)
@@ -223,6 +251,7 @@ Cold approach is the ultimate sovereign skill. You do not need to wait for a par
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सुहृद्-गणे स्थिता नारी विश्वस्ता सुखम् आचरेत् । सह-कर्मणि सङ्गे च सहजम् मेलनम् भवेत् ॥९॥`  
 
@@ -238,6 +267,8 @@ Cold approach is the ultimate sovereign skill. You do not need to wait for a par
 
 **Todd Valentine Axiom / Field Commentary:**  
 Social circle and shared activities offer pre-built comfort and social proof. When women see you vetted by peers or passionate about an activity, defense shields are already lowered.
+
+</div>
 </details>
 
 #### श्लोकः 10 (अनुष्टुभ्)
@@ -246,6 +277,7 @@ Social circle and shared activities offer pre-built comfort and social proof. Wh
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यन्त्र-मार्गे सु-चित्रेण वचसा च प्रलोभयेत् । ख्यात्या तु लभते पूर्वम् गौरव-प्रवणम् मनः ॥१०॥`  
 
@@ -261,6 +293,8 @@ Social circle and shared activities offer pre-built comfort and social proof. Wh
 
 **Todd Valentine Axiom / Field Commentary:**  
 Online dating requires high visual presentation and witty banter. Status and social fame act as passive pre-selection multipliers, making attraction almost instantaneous.
+
+</div>
 </details>
 
 ---
@@ -274,6 +308,7 @@ Online dating requires high visual presentation and witty banter. Status and soc
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भीतिः भवति सम्प्रेक्ष्य जनानाम् दर्शने सति । न सा भीतिः प्रमाणा स्यात् पूर्व-संस्कार-सम्भवा ॥११॥`  
 
@@ -289,6 +324,8 @@ Online dating requires high visual presentation and witty banter. Status and soc
 
 **Todd Valentine Axiom / Field Commentary:**  
 Approach anxiety is primal: in hunter-gatherer tribes, approaching an unknown woman could lead to exile or tribal execution. Today, there is no physical danger; the fear is an illusion.
+
+</div>
 </details>
 
 #### श्लोकः 12 (अनुष्टुभ्)
@@ -297,6 +334,7 @@ Approach anxiety is primal: in hunter-gatherer tribes, approaching an unknown wo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `क्षण-त्रयेण गन्तव्यम् यावत् चेतः न शङ्कते । विलम्बे जायते मोहः स्तम्भः बुद्धेः प्रजायते ॥१२॥`  
 
@@ -312,6 +350,8 @@ Approach anxiety is primal: in hunter-gatherer tribes, approaching an unknown wo
 
 **Todd Valentine Axiom / Field Commentary:**  
 The 3-Second Rule: when you spot an attractive woman, move within three seconds. If you wait longer, your logical brain invents excuses ('she looks busy', 'she has a boyfriend') to protect your ego.
+
+</div>
 </details>
 
 #### श्लोकः 13 (उपजाति)
@@ -322,6 +362,7 @@ The 3-Second Rule: when you spot an attractive woman, move within three seconds.
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मार्गे चलन्तीम् प्रमदाम् समीक्ष्य । धैर्येण तिष्ठेत् पुरतः सः धीरः । न पृष्ठतः धावति वीर्य-युक्तः । साक्षात् वचः वक्ति निसृष्ट-भावः ॥१३॥`  
 
@@ -337,6 +378,8 @@ The 3-Second Rule: when you spot an attractive woman, move within three seconds.
 
 **Todd Valentine Axiom / Field Commentary:**  
 The Daygame stop: cut across at a 45-degree angle, plant your feet squarely in front, and deliver your opener directly. Never shout from behind or walk awkwardly alongside her.
+
+</div>
 </details>
 
 #### श्लोकः 14 (अनुष्टुभ्)
@@ -345,6 +388,7 @@ The Daygame stop: cut across at a 45-degree angle, plant your feet squarely in f
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `विनयेन पुरः स्थित्वा साक्षात् रागम् प्रकाशयेत् । मन्द-हासेन युक्तेन नेत्रे नेत्रम् नियोजयेत् ॥१४॥`  
 
@@ -360,6 +404,8 @@ The Daygame stop: cut across at a 45-degree angle, plant your feet squarely in f
 
 **Todd Valentine Axiom / Field Commentary:**  
 Direct approach mechanics: state why you stopped her ('I saw you walking and had to tell you you look stunning'). Directness eliminates ambiguity and sets a romantic frame from second one.
+
+</div>
 </details>
 
 #### श्लोकः 15 (अनुष्टुभ्)
@@ -368,6 +414,7 @@ Direct approach mechanics: state why you stopped her ('I saw you walking and had
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अंसौ शिथिलताम् यातौ पाद-मूले स्थिरः भवेत् । चञ्चलताम् परित्यज्य धीरः तिष्ठति मल्ल-वत् ॥१५॥`  
 
@@ -383,6 +430,8 @@ Direct approach mechanics: state why you stopped her ('I saw you walking and had
 
 **Todd Valentine Axiom / Field Commentary:**  
 Physical stillness is status. Weak men lean in, shift their weight, fidget with their phones, and bounce on their toes. High-value men plant their heels and hold physical ground.
+
+</div>
 </details>
 
 ---
@@ -396,6 +445,7 @@ Physical stillness is status. Weak men lean in, shift their weight, fidget with 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `इच्छामि त्वाम् न मे दैन्यम् न च मे जीवितम् त्वया । अनासक्तः भवेत् धीमान् काम-मार्गे प्रतिष्ठितः ॥१६॥`  
 
@@ -411,6 +461,8 @@ Physical stillness is status. Weak men lean in, shift their weight, fidget with 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Todd's core frame: 'I want you, but I don't need you.' Desire without neediness creates attraction. Desire with neediness repulses. Neediness communicates low mate value.
+
+</div>
 </details>
 
 #### श्लोकः 17 (अनुष्टुभ्)
@@ -419,6 +471,7 @@ Todd's core frame: 'I want you, but I don't need you.' Desire without neediness 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अभाव-बुद्धिनाम् लोके याच्ञा सर्वत्र दृश्यते । प्रचुरता तु धीरस्य हृदये संविराजते ॥१७॥`  
 
@@ -434,6 +487,8 @@ Todd's core frame: 'I want you, but I don't need you.' Desire without neediness 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Abundance vs Scarcity. When you believe women are scarce, every interaction feels high-stakes. When you know you have access to infinite attractive women, you are naturally relaxed and playful.
+
+</div>
 </details>
 
 #### श्लोकः 18 (अनुष्टुभ्)
@@ -442,6 +497,7 @@ Abundance vs Scarcity. When you believe women are scarce, every interaction feel
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्व-आत्मानम् रञ्जयेत् पूर्वम् वचोभिः चेष्टितेन च । न अन्यतः याचते मुग्धः स्वस्मिन् एव सु-तृप्त-धीः ॥१८॥`  
 
@@ -457,6 +513,8 @@ Abundance vs Scarcity. When you believe women are scarce, every interaction feel
 
 **Todd Valentine Axiom / Field Commentary:**  
 Self-amusement: talk to entertain yourself, not to audition for her approval. When you find yourself funny, your genuine charisma becomes infectious.
+
+</div>
 </details>
 
 #### श्लोकः 19 (अनुष्टुभ्)
@@ -465,6 +523,7 @@ Self-amusement: talk to entertain yourself, not to audition for her approval. Wh
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `परीक्षकः पुमान् एव न परीक्षाम् प्रपद्यते । कामिनीम् परीक्षेत एव गुणान् शीलम् विमृश्य च ॥१९॥`  
 
@@ -480,6 +539,8 @@ Self-amusement: talk to entertain yourself, not to audition for her approval. Wh
 
 **Todd Valentine Axiom / Field Commentary:**  
 Frame control: 'Are you cool? What do you bring to the table besides being pretty?' Flip the script so she works for your validation.
+
+</div>
 </details>
 
 #### श्लोकः 20 (अनुष्टुभ्)
@@ -488,6 +549,7 @@ Frame control: 'Are you cool? What do you bring to the table besides being prett
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रत्याख्याने समुत्पन्ने न खेदम् कुरुते सुधीः । अयोग्य-समयः ज्ञेयः स्व-आत्मनः तु न न्यूनता ॥२०॥`  
 
@@ -503,6 +565,8 @@ Frame control: 'Are you cool? What do you bring to the table besides being prett
 
 **Todd Valentine Axiom / Field Commentary:**  
 Immunity to rejection: A rejection is simply logistical misalignment (she has a boyfriend, she is rushing to a funeral, or she has a different type). A champion takes the rep and moves on unbothered.
+
+</div>
 </details>
 
 ---
@@ -516,6 +580,7 @@ Immunity to rejection: A rejection is simply logistical misalignment (she has a 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `शब्दात् अधिकम् गम्भीरम् देह-नादेन गम्यते । अन्तर्-भावः हि नारीणाम् हृदयेषु प्ररोहति ॥२१॥`  
 
@@ -531,6 +596,8 @@ Immunity to rejection: A rejection is simply logistical misalignment (she has a 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Subcommunication is 90% of game. What you say matters far less than how you say it, where your eyes look, and the stillness in your nervous system.
+
+</div>
 </details>
 
 #### श्लोकः 22 (अनुष्टुभ्)
@@ -539,6 +606,7 @@ Subcommunication is 90% of game. What you say matters far less than how you say 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `दृष्टिम् न चालयेत् धीरः कान्ता-नेत्रे दृढम् दधौ । न नम्रम् नयनम् कुर्यात् भीत-वत् धरणी-तले ॥२२॥`  
 
@@ -554,6 +622,8 @@ Subcommunication is 90% of game. What you say matters far less than how you say 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Focus in F.R.E.D.: Locking eye contact. When you break eye contact downward, you signal social submission and insecurity. If you must break, break horizontally or up.
+
+</div>
 </details>
 
 #### श्लोकः 23 (अनुष्टुभ्)
@@ -562,6 +632,7 @@ Focus in F.R.E.D.: Locking eye contact. When you break eye contact downward, you
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `एकाग्र-चित्त-सम्पन्नः मग्नाम् पश्यति ताम् सदा । अन्यम् जनम् न गृह्णाति तस्मिन् काले हि चेतसा ॥२३॥`  
 
@@ -577,6 +648,8 @@ Focus in F.R.E.D.: Locking eye contact. When you break eye contact downward, you
 
 **Todd Valentine Axiom / Field Commentary:**  
 Presence creates intimacy. When you talk to her as if the bustling venue around you doesn't exist, she feels a profound cocoon of shared intimacy.
+
+</div>
 </details>
 
 #### श्लोकः 24 (अनुष्टुभ्)
@@ -585,6 +658,7 @@ Presence creates intimacy. When you talk to her as if the bustling venue around 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कण्ठे मन्दम् शमम् धृत्वा नाभि-देशात् वदेत् वचः । शीघ्रता न प्रयोक्तव्या स्थैर्येण एव गतिः भवेत् ॥२४॥`  
 
@@ -600,6 +674,8 @@ Presence creates intimacy. When you talk to her as if the bustling venue around 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Rhythm in F.R.E.D.: Speaking slowly from the belly. Anxious men speak from the upper chest at 200 words a minute to avoid being interrupted. Grounded men own the time.
+
+</div>
 </details>
 
 #### श्लोकः 25 (अनुष्टुभ्)
@@ -608,6 +684,7 @@ Rhythm in F.R.E.D.: Speaking slowly from the belly. Anxious men speak from the u
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वाक्यस्य अन्ते स्वरः मन्दः गम्भीरः भवति इह हि । न प्रश्न-वत् स्वरम् नीयात् दास-वत् तत्-मुख-अग्रतः ॥२५॥`  
 
@@ -623,6 +700,8 @@ Rhythm in F.R.E.D.: Speaking slowly from the belly. Anxious men speak from the u
 
 **Todd Valentine Axiom / Field Commentary:**  
 Downward vocal inflection: Statements over questions. When your tone pitches up at the end of every sentence ('My name is John? I like sushi?'), you sound like you are begging for permission.
+
+</div>
 </details>
 
 ---
@@ -636,6 +715,7 @@ Downward vocal inflection: Statements over questions. When your tone pitches up 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भावम् पूर्वम् स्वयं स्पृष्ट्वा पश्चात् ताम् भावयेत् सुधीः । अस्पृष्टे हृदये पूर्वम् न परा संप्रहृष्यति ॥२६॥`  
 
@@ -651,6 +731,8 @@ Downward vocal inflection: Statements over questions. When your tone pitches up 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Emotion in F.R.E.D.: Emotional Contagion. You cannot convey excitement, danger, or desire through intellectual memorization. You must inhabit the state yourself first.
+
+</div>
 </details>
 
 #### श्लोकः 27 (अनुष्टुभ्)
@@ -659,6 +741,7 @@ Emotion in F.R.E.D.: Emotional Contagion. You cannot convey excitement, danger, 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `गूढम् काम-रसम् नित्यम् संलापे योजयेत् बुधः । मित्र-भावम् विमुच्य एव पुं-धर्मेण प्रवर्धयेत् ॥२७॥`  
 
@@ -674,6 +757,8 @@ Emotion in F.R.E.D.: Emotional Contagion. You cannot convey excitement, danger, 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Sexual subtext: It's not about being crude; it's about holding non-platonic eye contact, loaded pauses, and double entendres that make the air crackle with sexual chemistry.
+
+</div>
 </details>
 
 #### श्लोकः 28 (अनुष्टुभ्)
@@ -682,6 +767,7 @@ Sexual subtext: It's not about being crude; it's about holding non-platonic eye 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नाट्यम् विना न सौन्दर्यम् रस-भावः विमुह्यति । तनावस्य प्रमोक्षः च क्षोभः नित्यम् सुख-प्रदः ॥२८॥`  
 
@@ -697,6 +783,8 @@ Sexual subtext: It's not about being crude; it's about holding non-platonic eye 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Drama in F.R.E.D.: Tension and release. Women crave an emotional rollercoaster, not a flat, polite resume interview. Safe predictability kills desire.
+
+</div>
 </details>
 
 #### श्लोकः 29 (अनुष्टुभ्)
@@ -705,6 +793,7 @@ Drama in F.R.E.D.: Tension and release. Women crave an emotional rollercoaster, 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्ष-विकर्षाभ्याम् चेतः मुग्धाम् विचालयेत् । प्रशस्य च क्षणात् पश्चात् विनोदम् कुरुते शुभम् ॥२९॥`  
 
@@ -720,6 +809,8 @@ Drama in F.R.E.D.: Tension and release. Women crave an emotional rollercoaster, 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Push-Pull: 'You have great taste in books, but honestly you seem like trouble.' The push prevents the compliment from seeming needy; the pull prevents the tease from seeming mean.
+
+</div>
 </details>
 
 #### श्लोकः 30 (अनुष्टुभ्)
@@ -728,6 +819,7 @@ Push-Pull: 'You have great taste in books, but honestly you seem like trouble.' 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अति-योग्या न मे त्वम् हि चपला वर्तसे सदा । इति हास्येन निर्दिश्य राग-वह्निम् प्रदी नयेत् ॥३०॥`  
 
@@ -743,6 +835,8 @@ Push-Pull: 'You have great taste in books, but honestly you seem like trouble.' 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Disqualification: By playfully declaring that she doesn't qualify for you ('we would never get along, we're both too stubborn'), you place yourself in the prize position.
+
+</div>
 </details>
 
 ---
@@ -756,6 +850,7 @@ Disqualification: By playfully declaring that she doesn't qualify for you ('we w
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भाव-तनाव-धर्मः अयम् काम-शास्त्रे प्रधानकः । तन्तुः इव दृढम् बध्वा रक्षितव्यः प्रयत्नतः ॥३१॥`  
 
@@ -771,6 +866,8 @@ Disqualification: By playfully declaring that she doesn't qualify for you ('we w
 
 **Todd Valentine Axiom / Field Commentary:**  
 Sexual tension is an electric circuit between two people. Most men get nervous and short-circuit it by talking too much, laughing nervously, or breaking eye contact.
+
+</div>
 </details>
 
 #### श्लोकः 32 (अनुष्टुभ्)
@@ -779,6 +876,7 @@ Sexual tension is an electric circuit between two people. Most men get nervous a
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अधीराः भीत-भावेन हसन्ति व्यर्थ-वाक्यतः । तनावम् नाशयन्ति एते भीताः संलाप-गर्हिताः ॥३२॥`  
 
@@ -794,6 +892,8 @@ Sexual tension is an electric circuit between two people. Most men get nervous a
 
 **Todd Valentine Axiom / Field Commentary:**  
 The nervous laughter trap: When silence falls, the average man feels uncomfortable and blurts out a goofy joke or asks an interview question, instantly dropping the romantic charge to zero.
+
+</div>
 </details>
 
 #### श्लोकः 33 (अनुष्टुभ्)
@@ -802,6 +902,7 @@ The nervous laughter trap: When silence falls, the average man feels uncomfortab
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मौनेन नयनेन एव तनावम् धारयेत् सुधीः । तूष्णीम् तिष्ठति यः काले सः स्त्री-हृदयम् ईश्वरः ॥३३॥`  
 
@@ -817,6 +918,8 @@ The nervous laughter trap: When silence falls, the average man feels uncomfortab
 
 **Todd Valentine Axiom / Field Commentary:**  
 Pregnant silence: When a quiet moment occurs, look into her eyes, smile slightly, and don't say a single word. Let her feel the physical attraction. She will usually blush, giggle, or look down.
+
+</div>
 </details>
 
 #### श्लोकः 34 (अनुष्टुभ्)
@@ -825,6 +928,7 @@ Pregnant silence: When a quiet moment occurs, look into her eyes, smile slightly
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्षणे दृढे जाते विश्रम्भम् कुरुते ततः । सत्यम् प्रकाशयेत् गूढम् आत्मनः जीवनम् प्रति ॥३४॥`  
 
@@ -840,6 +944,8 @@ Pregnant silence: When a quiet moment occurs, look into her eyes, smile slightly
 
 **Todd Valentine Axiom / Field Commentary:**  
 Pivoting from Attraction to Comfort: You cannot banter forever. Once she is attracted and qualifying, switch to authentic comfort: share your passions, vulnerabilities, and real values.
+
+</div>
 </details>
 
 #### श्लोकः 35 (अनुष्टुभ्)
@@ -848,6 +954,7 @@ Pivoting from Attraction to Comfort: You cannot banter forever. Once she is attr
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `क्रीडा-भावे स्थिते पूर्वे पश्चात् गाढम् प्रवर्तते । एषः सन्धिः विचित्र-आत्मा काम-मार्गे प्रशस्यते ॥३५॥`  
 
@@ -863,6 +970,8 @@ Pivoting from Attraction to Comfort: You cannot banter forever. Once she is attr
 
 **Todd Valentine Axiom / Field Commentary:**  
 Attraction makes her want you; comfort makes her trust you enough to go home with you. Comfort without attraction leads to the friendzone; attraction without comfort leads to flaking.
+
+</div>
 </details>
 
 ---
@@ -876,6 +985,7 @@ Attraction makes her want you; comfort makes her trust you enough to go home wit
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `इङ्गितम् नयने दृष्ट्वा गतिम् जानाति बुद्धिमान् । रोधे सति निवर्तेत संमते तु अग्रतः व्रजेत् ॥३६॥`  
 
@@ -891,6 +1001,8 @@ Attraction makes her want you; comfort makes her trust you enough to go home wit
 
 **Todd Valentine Axiom / Field Commentary:**  
 Calibration: The traffic light system. Green light = lean in, touch, escalate. Yellow light = slow down, hold frame. Red light = step back, freeze out, re-calibrate.
+
+</div>
 </details>
 
 #### श्लोकः 37 (अनुष्टुभ्)
@@ -899,6 +1011,7 @@ Calibration: The traffic light system. Green light = lean in, touch, escalate. Y
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `पद-द्वयम् पुरः गत्वा पश्चात् एकम् निवर्तयेत् । न हठम् कारयेत् क्वापि गते रोधे प्रवर्तते ॥३७॥`  
 
@@ -914,6 +1027,8 @@ Calibration: The traffic light system. Green light = lean in, touch, escalate. Y
 
 **Todd Valentine Axiom / Field Commentary:**  
 Two steps forward, one step back. When escalating touch or moving logistics, make an advance, then pull back yourself before she asks you to. This proves you are not thirsty or desperate.
+
+</div>
 </details>
 
 #### श्लोकः 38 (अनुष्टुभ्)
@@ -922,6 +1037,7 @@ Two steps forward, one step back. When escalating touch or moving logistics, mak
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न सर्वाम् पूजयेत् कान्ताम् केवलम् रूप-सम्पदा । गुणम् पृच्छेत् स्वभावम् च बुद्धिम् चेतः विचारयेत् ॥३८॥`  
 
@@ -937,6 +1053,8 @@ Two steps forward, one step back. When escalating touch or moving logistics, mak
 
 **Todd Valentine Axiom / Field Commentary:**  
 Qualification: Beautiful women are flattered all day long. When you demand more than looks ('you're gorgeous, but are you actually interesting to talk to?'), she instantly views you as high status.
+
+</div>
 </details>
 
 #### श्लोकः 39 (अनुष्टुभ्)
@@ -945,6 +1063,7 @@ Qualification: Beautiful women are flattered all day long. When you demand more 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकृष्टा यदि सा वाक्यम् साधयेत् यत्न-संयुता । तदा एव दीयते दानम् प्रशंसनम् सुख-प्रदम् ॥३९॥`  
 
@@ -960,6 +1079,8 @@ Qualification: Beautiful women are flattered all day long. When you demand more 
 
 **Todd Valentine Axiom / Field Commentary:**  
 Bait-Hook-Reel-Release: Praise must be earned. When she qualifies ('I actually cook amazing Italian food'), you reward her with genuine warmth ('Okay, that is genuinely attractive').
+
+</div>
 </details>
 
 #### श्लोकः 40 (अनुष्टुभ्)
@@ -968,6 +1089,7 @@ Bait-Hook-Reel-Release: Praise must be earned. When she qualifies ('I actually c
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अप्रयत्ने कृते मौनम् यत्ने तु मधुरम् वचः । एवम् शिक्षण-भावेन सा भवेत् सङ्गमे स्थिरा ॥४०॥`  
 
@@ -983,6 +1105,8 @@ Bait-Hook-Reel-Release: Praise must be earned. When she qualifies ('I actually c
 
 **Todd Valentine Axiom / Field Commentary:**  
 Rewarding compliance: Never reward bad behavior or low effort with extra attention. Reward warmth with warmth, and respond to coldness with unbothered detachment.
+
+</div>
 </details>
 
 ---
@@ -996,6 +1120,7 @@ Rewarding compliance: Never reward bad behavior or low effort with extra attenti
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हस्तम् स्पृष्ट्वा पुरः बाहुम् पश्चात् पार्श्वम् समाश्रयेत् । स्पर्श-क्रमः भवेत् मन्दः संकोचे विरमेत् क्षणात् ॥४१॥`  
 
@@ -1011,6 +1136,8 @@ Rewarding compliance: Never reward bad behavior or low effort with extra attenti
 
 **Todd Valentine Axiom / Field Commentary:**  
 The Kino Escalation Ladder: Don't jump from zero touch to trying to kiss her. Start with incidental touch (high-five, shoulder nudge), move to social touch (holding hand, touching arm), then intimate touch.
+
+</div>
 </details>
 
 #### श्लोकः 42 (अनुष्टुभ्)
@@ -1019,6 +1146,7 @@ The Kino Escalation Ladder: Don't jump from zero touch to trying to kiss her. St
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `संकोचे विरते पश्चात् गाढम् स्पर्शम् समाचरेत् । सहमत्या विना स्पर्शः न कर्तव्यः कदाचन ॥४२॥`  
 
@@ -1034,6 +1162,8 @@ The Kino Escalation Ladder: Don't jump from zero touch to trying to kiss her. St
 
 **Todd Valentine Axiom / Field Commentary:**  
 Consensual escalation: Physical escalation must always be calibrated to her receptivity. When she leans into your touch, escalate. When she flinches, pause comfortably without apology.
+
+</div>
 </details>
 
 #### श्लोकः 43 (उपजाति)
@@ -1044,6 +1174,7 @@ Consensual escalation: Physical escalation must always be calibrated to her rece
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्थानान्तरम् प्रापयति इह धीरः । संलाप-बीजम् प्रथमम् निधाय । एकान्त-वासम् शनकैः प्रपन्ना । सङ्कोच-हीना सुखम् अभ्युपैति ॥४३॥`  
 
@@ -1059,6 +1190,8 @@ Consensual escalation: Physical escalation must always be calibrated to her rece
 
 **Todd Valentine Axiom / Field Commentary:**  
 Planting the seed: Mention early that you have an amazing tea collection or a rooftop view. Later, the invitation home is not a sudden high-pressure surprise, but the natural fulfillment of the seeded topic.
+
+</div>
 </details>
 
 #### श्लोकः 44 (अनुष्टुभ्)
@@ -1067,6 +1200,7 @@ Planting the seed: Mention early that you have an amazing tea collection or a ro
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मार्गात् तु पान-शालायाम् ततः च एकान्त-मन्दिरे । स्थान-त्रये प्रणीता सा मन्यते चिर-सङ्गतिम् ॥४४॥`  
 
@@ -1082,6 +1216,8 @@ Planting the seed: Mention early that you have an amazing tea collection or a ro
 
 **Todd Valentine Axiom / Field Commentary:**  
 Venue Bouncing: Human memory measures relationship duration not in hours, but in distinct environments shared. Moving across three venues in three hours feels like knowing each other for three weeks.
+
+</div>
 </details>
 
 #### श्लोकः 45 (अनुष्टुभ्)
@@ -1090,6 +1226,7 @@ Venue Bouncing: Human memory measures relationship duration not in hours, but in
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `गृहम् समागतायाः तु मन्दम् दीपम् प्रकाशयेत् । श्रावयेत् मधुरम् गीतम् न व्यग्रः न च कातरः ॥४५॥`  
 
@@ -1105,6 +1242,8 @@ Venue Bouncing: Human memory measures relationship duration not in hours, but in
 
 **Todd Valentine Axiom / Field Commentary:**  
 Bedroom environment: Keep lights low and music relaxing. Never pounce the moment the door closes. Offer a drink, sit beside her, relax, and let the sexual tension build naturally.
+
+</div>
 </details>
 
 ---
@@ -1118,6 +1257,7 @@ Bedroom environment: Keep lights low and music relaxing. Never pounce the moment
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अन्त्य-काले स्थिते रोधे न हठात् प्रवरेत् पुमान् । पश्चात् गत्वा विश्राम्यन् काम-तापम् प्रवर्धयेत् ॥४६॥`  
 
@@ -1133,6 +1273,8 @@ Bedroom environment: Keep lights low and music relaxing. Never pounce the moment
 
 **Todd Valentine Axiom / Field Commentary:**  
 Handling LMR: When she says 'we shouldn't do this', stop immediately. Don't argue, don't pout, don't plead. Step back, make yourself comfortable, and act 100% relaxed. The freeze-out flips the tension back onto her.
+
+</div>
 </details>
 
 #### श्लोकः 47 (अनुष्टुभ्)
@@ -1141,6 +1283,7 @@ Handling LMR: When she says 'we shouldn't do this', stop immediately. Don't argu
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भयम् लज्जा च लोकस्य स्त्री-हृदयम् प्रबाधते । अभयम् तत्र दातव्यम् रक्षणम् च आत्मनः वचः ॥४७॥`  
 
@@ -1156,6 +1299,8 @@ Handling LMR: When she says 'we shouldn't do this', stop immediately. Don't argu
 
 **Todd Valentine Axiom / Field Commentary:**  
 Anti-Slut Defense (ASD): Most LMR is not lack of desire; it is fear of feeling judged or feeling easy. Reassure her: 'I know, we're just hanging out, relax.' When the social pressure is removed, desire flows freely.
+
+</div>
 </details>
 
 #### श्लोकः 48 (उपजाति)
@@ -1166,6 +1311,7 @@ Anti-Slut Defense (ASD): Most LMR is not lack of desire; it is fear of feeling j
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `शान्ते भये मुग्धतया प्रपन्ना । तनाव-मुक्ते हृदये विलीना । काम-अनलस्य आहुतिम् अश्नुवाना । सङ्गम्यते सा विजयेन तृप्ता ॥४८॥`  
 
@@ -1181,6 +1327,8 @@ Anti-Slut Defense (ASD): Most LMR is not lack of desire; it is fear of feeling j
 
 **Todd Valentine Axiom / Field Commentary:**  
 Consensual consummation: When her emotional and physical resistance has melted, intimacy is profound, ecstatic, and deeply fulfilling for both partners.
+
+</div>
 </details>
 
 #### श्लोकः 49 (अनुष्टुभ्)
@@ -1189,6 +1337,7 @@ Consensual consummation: When her emotional and physical resistance has melted, 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `परस्पर-अनुरागेण यत् सौख्यम् जायते महत् । न तत् तुल्यम् भवेत् क्वापि स्वर्ग-लोके सुरैः अपि ॥४९॥`  
 
@@ -1204,6 +1353,8 @@ Consensual consummation: When her emotional and physical resistance has melted, 
 
 **Todd Valentine Axiom / Field Commentary:**  
 The spiritual and emotional culmination of courtship. Real game is not manipulation; it is the art of creating reciprocal, authentic passion between a grounded man and a receptive woman.
+
+</div>
 </details>
 
 #### श्लोकः 50 (अनुष्टुभ्)
@@ -1212,6 +1363,7 @@ The spiritual and emotional culmination of courtship. Real game is not manipulat
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `द्वारम् प्राप्य रसम् दत्त्वा नयेत् एकान्तम् उत्तमम् । एषः तॉडस्य सिद्धान्तः काम-शास्त्रे परम् पदम् ॥५०॥`  
 
@@ -1228,6 +1380,8 @@ The spiritual and emotional culmination of courtship. Real game is not manipulat
 
 **Todd Valentine Axiom / Field Commentary:**  
 The Grand Seal: Integrating all dimensions—Access x Attraction x Follow-Through, F.R.E.D., stillness, calibration, and outcome independence—into one seamless, effortless way of being.
+
+</div>
 </details>
 
 ---
@@ -1239,3 +1393,5 @@ The *Kāma-śāstra-pañcāśikā* demonstrates that true game is not deceit, tr
 3. **Follow-Through:** Calibrating touch, venue bouncing, isolating, and leading smoothly into consensual, ecstatic intimacy.
 
 When these three dimensions are mastered, courtship ceases to be an anxious ordeal and becomes a profound aesthetic art—a celebration of masculine grounding meeting feminine receptivity.
+
+</div>
