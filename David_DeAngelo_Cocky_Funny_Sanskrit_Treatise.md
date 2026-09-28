@@ -39,7 +39,6 @@ This treatise: **विनोदप्रौढिपञ्चाशिका** 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अति-सौम्येन भावेन कामिन्यः न वशीकृताः । दैन्यम् चाटु-प्रलापम् च काम-मार्गे विवर्जयेत् ॥१॥`  
 
@@ -55,8 +54,6 @@ This treatise: **विनोदप्रौढिपञ्चाशिका** 
 
 **Cocky & Funny Field Commentary:**  
 Deconstructing the Nice Guy: David DeAngelo's foundational discovery: Being a supplicating 'Nice Guy' who constantly flatters, agrees and seeks permission produces disgust rather than attraction. Women do not desire a doormat; they desire a playful challenge.
-
-</div>
 </details>
 
 #### श्लोकः 2 (अनुष्टुभ्)
@@ -65,7 +62,6 @@ Deconstructing the Nice Guy: David DeAngelo's foundational discovery: Being a su
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `केवलेन प्रगल्भेन नारीणाम् जायते भयम् । केवलैः च प्रहासैः तु विदूषकः इव इष्यते ॥२॥`  
 
@@ -81,8 +77,6 @@ Deconstructing the Nice Guy: David DeAngelo's foundational discovery: Being a su
 
 **Cocky & Funny Field Commentary:**  
 The Twin Pitfalls: If you are only cocky without humor, you come across as an obnoxious jerk. If you are only funny without masculine arrogance, you become an entertaining clown relegated to the friendzone. Neither creates sexual attraction on its own.
-
-</div>
 </details>
 
 #### श्लोकः 3 (अनुष्टुभ्)
@@ -91,7 +85,6 @@ The Twin Pitfalls: If you are only cocky without humor, you come across as an ob
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रौढस्य गर्व-भावस्य हास्यस्य च समन्वयात् । विनोद-प्रौढिः इति उक्ता काम-वृद्धि-करी स्मृता ॥३॥`  
 
@@ -107,8 +100,6 @@ The Twin Pitfalls: If you are only cocky without humor, you come across as an ob
 
 **Cocky & Funny Field Commentary:**  
 The Cocky & Funny Synthesis: By combining cocky body language and playful arrogance with a warm, laughing sense of humor, you communicate high status and emotional safety simultaneously. It is arrogant words delivered with a smiling twinkle in the eye.
-
-</div>
 </details>
 
 #### श्लोकः 4 (अनुष्टुभ्)
@@ -117,7 +108,6 @@ The Cocky & Funny Synthesis: By combining cocky body language and playful arroga
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अहङ्कार-विहीनेन हास्येन सह दीव्यति । अपि गर्वेण संयुक्तः रोषम् न एव जनः वहेत् ॥४॥`  
 
@@ -133,8 +123,6 @@ The Cocky & Funny Synthesis: By combining cocky body language and playful arroga
 
 **Cocky & Funny Field Commentary:**  
 Zero Malice: The secret of Cocky & Funny is that it is fundamentally good-natured. You are not putting her down to feel superior; you are playfully teasing her to invite her to step up and banter with you. The underlying warmth neutralizes any perceived bite.
-
-</div>
 </details>
 
 #### श्लोकः 5 (अनुष्टुभ्)
@@ -143,7 +131,6 @@ Zero Malice: The secret of Cocky & Funny is that it is fundamentally good-nature
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `उभयोः मीलनेन एव नारी मोहम् अवाप्नुयात् । चातुर्येण युतः धीरः काम-तन्त्रम् प्रसाधयेत् ॥५॥`  
 
@@ -159,8 +146,6 @@ Zero Malice: The secret of Cocky & Funny is that it is fundamentally good-nature
 
 **Cocky & Funny Field Commentary:**  
 Mastery of Wit: A man who masters Cocky & Funny is never at a loss for words. Whatever situation arises, he flips it into a playful, high-status frame that disarms her defenses and establishes romantic tension effortlessly.
-
-</div>
 </details>
 
 ## द्वितीयः सर्गः : अयाचकभावः स्वाभिमानश्च
@@ -173,7 +158,6 @@ Mastery of Wit: A man who masters Cocky & Funny is never at a loss for words. Wh
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नारीम् दृष्ट्वा न कर्तव्यम् पाद-पद्म-प्रवन्दनम् । रूप-मात्रेण सम्मुग्धाः हीन-मूल्याः भवन्ति ते ॥६॥`  
 
@@ -190,8 +174,6 @@ Mastery of Wit: A man who masters Cocky & Funny is never at a loss for words. Wh
 
 **Cocky & Funny Field Commentary:**  
 Knocking Her Off the Pedestal: DeAngelo's primary warning: Beautiful women are surrounded by men who worship them, buy them drinks, laugh at their unfunny jokes and treat them like goddesses. Putting a woman on a pedestal forces her to look down on you.
-
-</div>
 </details>
 
 #### श्लोकः 7 (अनुष्टुभ्)
@@ -200,7 +182,6 @@ Knocking Her Off the Pedestal: DeAngelo's primary warning: Beautiful women are s
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सर्व-सौन्दर्य-युक्ता अपि मानुषी सा न देवता । सम-भावेन वर्तन्ते विद्वांसः काम-मण्डले ॥७॥`  
 
@@ -216,8 +197,6 @@ Knocking Her Off the Pedestal: DeAngelo's primary warning: Beautiful women are s
 
 **Cocky & Funny Field Commentary:**  
 She Is Just a Person: A gorgeous woman wakes up with bad breath, has insecurities, pays taxes and gets lonely. The moment you treat her like an ordinary human being with quirks rather than a celestial deity, she feels understood and intrigued.
-
-</div>
 </details>
 
 #### श्लोकः 8 (अनुष्टुभ्)
@@ -226,7 +205,6 @@ She Is Just a Person: A gorgeous woman wakes up with bad breath, has insecuritie
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अयाचकः भवेत् मर्त्यः न याचेत वराङ्गनाम् । आत्मनि एव स्थितम् श्रेष्ठ्यम् दर्शयेत् मन्द-हास्यतः ॥८॥`  
 
@@ -242,8 +220,6 @@ She Is Just a Person: A gorgeous woman wakes up with bad breath, has insecuritie
 
 **Cocky & Funny Field Commentary:**  
 The Non-Beggar Stance: The needy man begs for attention, smiles, numbers and dates. The Cocky & Funny man assumes he is the prize. His half-smile communicates: 'You are cute, but let's see if your personality can match your face.'
-
-</div>
 </details>
 
 #### श्लोकः 9 (अनुष्टुभ्)
@@ -252,7 +228,6 @@ The Non-Beggar Stance: The needy man begs for attention, smiles, numbers and dat
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न दास्येन प्रसाद्यन्ते कान्ताः लोके कदाचन । आत्म-गौरव-युक्तस्य नारी प्रीतिम् प्रयच्छति ॥९॥`  
 
@@ -268,8 +243,6 @@ The Non-Beggar Stance: The needy man begs for attention, smiles, numbers and dat
 
 **Cocky & Funny Field Commentary:**  
 Servitude Repels: Men think that buying expensive gifts, doing favors and running errands will make a woman fall in love. In reality, it signals that you have nothing of personal value to offer and are attempting to buy her affection. Self-respect is the only true currency.
-
-</div>
 </details>
 
 #### श्लोकः 10 (अनुष्टुभ्)
@@ -278,7 +251,6 @@ Servitude Repels: Men think that buying expensive gifts, doing favors and runnin
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा न याचते किञ्चित् पुरुषः स्वाभिमानवान् । तदा नारी स्वयम् एत्य काम-मूल्यम् प्रपद्यते ॥१०॥`  
 
@@ -294,8 +266,6 @@ Servitude Repels: Men think that buying expensive gifts, doing favors and runnin
 
 **Cocky & Funny Field Commentary:**  
 Assuming Value: When you don't ask for her approval, her evolutionary psychology assumes you must already have high status and abundance with other women. Your non-supplicating calm is the strongest proof of pre-selection.
-
-</div>
 </details>
 
 ## तृतीयः सर्गः : विनोदव्याजेन दोषोद्भावनम्
@@ -308,7 +278,6 @@ Assuming Value: When you don't ask for her approval, her evolutionary psychology
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कनिष्ठाम् इव संवीक्ष्य भ्राता यद्वत् प्रहस्यति । तथा नारीम् विनोदेन बाधेत कुशलः नरः ॥११॥`  
 
@@ -324,8 +293,6 @@ Assuming Value: When you don't ask for her approval, her evolutionary psychology
 
 **Cocky & Funny Field Commentary:**  
 The Little Sister Frame: DeAngelo's classic heuristic: Treat an attractive woman like your bratty twelve-year-old sister. You love her, but you don't take her tantrums seriously, you tease her outfit and you poke fun at her dramatic statements. This instantly dissolves social nervousness.
-
-</div>
 </details>
 
 #### श्लोकः 12 (अनुष्टुभ्)
@@ -334,7 +301,6 @@ The Little Sister Frame: DeAngelo's classic heuristic: Treat an attractive woman
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `दोषम् लघुतया दर्शयेत् न तु निन्दाम् अथ आचरेत् । हास्येन अवेष्टितः दोषः प्रीति-कृत् जायते भृशम् ॥१२॥`  
 
@@ -350,8 +316,6 @@ The Little Sister Frame: DeAngelo's classic heuristic: Treat an attractive woman
 
 **Cocky & Funny Field Commentary:**  
 Teasing vs. Insulting: An insult attacks her genuine insecurities (e.g. weight, deep trauma); that is cruel and displays low value. A tease targets absurd, trivial details: the dramatic way she holds her drink, her mismatched socks, or her enthusiastic hand gestures.
-
-</div>
 </details>
 
 #### श्लोकः 13 (अनुष्टुभ्)
@@ -360,7 +324,6 @@ Teasing vs. Insulting: An insult attacks her genuine insecurities (e.g. weight, 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वस्त्रे गति-विशेषे वा वाचि च अपि विशेषतः । दोषम् उद्भावयन् धीरः वक्रेण हसति स्मितम् ॥१३॥`  
 
@@ -376,8 +339,6 @@ Teasing vs. Insulting: An insult attacks her genuine insecurities (e.g. weight, 
 
 **Cocky & Funny Field Commentary:**  
 Observational Banter: 'Are you always this dramatic, or did you rehearse that entrance in the mirror before coming out?' Pointing out her eccentricities with a confident smirk shows you are not intimidated by her beauty.
-
-</div>
 </details>
 
 #### श्लोकः 14 (अनुष्टुभ्)
@@ -386,7 +347,6 @@ Observational Banter: 'Are you always this dramatic, or did you rehearse that en
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न द्वेषेण वदेत् वाक्यम् न रोषेण विलोडितः । स्नेह-मिश्रेण हास्येन तस्याः चित्तम् प्रलोभयेत् ॥१४॥`  
 
@@ -402,8 +362,6 @@ Observational Banter: 'Are you always this dramatic, or did you rehearse that en
 
 **Cocky & Funny Field Commentary:**  
 Subtext Overrides Words: If your internal state is bitter or resentful, Cocky & Funny will fail miserably and sound hostile. When your internal state is generous, warm and playful, even the most outrageous tease lands with charm.
-
-</div>
 </details>
 
 #### श्लोकः 15 (अनुष्टुभ्)
@@ -412,7 +370,6 @@ Subtext Overrides Words: If your internal state is bitter or resentful, Cocky & 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सा प्रतिहस्य अथ स्वयम् एव विनोदयेत् । तदा सिद्धः समायोगः रस-उत्कर्षः तदा उच्यते ॥१५॥`  
 
@@ -428,8 +385,6 @@ Subtext Overrides Words: If your internal state is bitter or resentful, Cocky & 
 
 **Cocky & Funny Field Commentary:**  
 Mutual Sparring: The moment she starts teasing you back ('Oh please, like your shoes are any better!'), you have won the initial dynamic. You have transformed a polite, boring social interaction into a lively game of verbal tennis.
-
-</div>
 </details>
 
 ## चतुर्थः सर्गः : अयोग्यतारोपणम्
@@ -442,7 +397,6 @@ Mutual Sparring: The moment she starts teasing you back ('Oh please, like your s
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आवाम् न सङ्गतौ एव स्वभावः भिन्न-लक्षणः । इति वाक्य-प्रयोगेण स्वयम् एव निरस्यति ॥१६॥`  
 
@@ -458,8 +412,6 @@ Mutual Sparring: The moment she starts teasing you back ('Oh please, like your s
 
 **Cocky & Funny Field Commentary:**  
 The Disqualification Technique: DeAngelo's signature move: Tell the attractive woman why you two would never work out. 'You are trouble; my mother warned me about girls like you.' This completely flips the conventional script where the man is auditioning for the woman.
-
-</div>
 </details>
 
 #### श्लोकः 17 (अनुष्टुभ्)
@@ -468,7 +420,6 @@ The Disqualification Technique: DeAngelo's signature move: Tell the attractive w
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `माम् न स्पृश इति सम्भाष्य मिथ्या-दोषम् प्रकल्पयेत् । अति-चञ्चल-चित्ता इति ब्रूयात् ताम् स-स्मितम् नरः ॥१७॥`  
 
@@ -484,8 +435,6 @@ The Disqualification Technique: DeAngelo's signature move: Tell the attractive w
 
 **Cocky & Funny Field Commentary:**  
 Accusing Her of Hitting on You: When she touches your arm or leans in, playfully step back and say: 'Whoa, please restrain yourself! I'm not that kind of guy.' Reframing her as the aggressor chasing your purity is comedy gold that creates intense sexual charge.
-
-</div>
 </details>
 
 #### श्लोकः 18 (अनुष्टुभ्)
@@ -494,7 +443,6 @@ Accusing Her of Hitting on You: When she touches your arm or leans in, playfully
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अयोग्यत्वे प्रकटीते नारी यत्नम् करोति अलम् । कथम् योग्या भवामि इति स्व-योग्यताम् विवृण्वते ॥१८॥`  
 
@@ -510,8 +458,6 @@ Accusing Her of Hitting on You: When she touches your arm or leans in, playfully
 
 **Cocky & Funny Field Commentary:**  
 The Psychology of Disqualification: Beautiful women are accustomed to men trying desperately to qualify for them. When a man disqualifies her, it triggers her competitive nature. She instinctively begins trying to prove that she is actually cool, smart and fun.
-
-</div>
 </details>
 
 #### श्लोकः 19 (अनुष्टुभ्)
@@ -520,7 +466,6 @@ The Psychology of Disqualification: Beautiful women are accustomed to men trying
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यः त्यजति अभिलाषेण सः एव कर्षति स्त्रियः । निराकुलः भवेत् यः तु सः प्रियत्वम् अवाप्नुयात् ॥१९॥`  
 
@@ -537,8 +482,6 @@ The Psychology of Disqualification: Beautiful women are accustomed to men trying
 
 **Cocky & Funny Field Commentary:**  
 Pushing Away Creates Pull: Human beings want what they cannot easily have. When you demonstrate that you are willing to walk away, disqualify her and poke fun at her, she perceives you as a rare, scarce commodity.
-
-</div>
 </details>
 
 #### श्लोकः 20 (अनुष्टुभ्)
@@ -547,7 +490,6 @@ Pushing Away Creates Pull: Human beings want what they cannot easily have. When 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अनभीष्टः इव आभाति तथापि सह मोदते । तस्याः विस्मयम् उत्पाद्य काम-वृद्धिम् समाचरेत् ॥२०॥`  
 
@@ -563,8 +505,6 @@ Pushing Away Creates Pull: Human beings want what they cannot easily have. When 
 
 **Cocky & Funny Field Commentary:**  
 The Paradox of Indifference and Warmth: You are not cold or rude; you are enjoying her company immensely, but you don't need anything from her. This paradox drives women wild with curiosity: 'Why isn't he throwing himself at my feet like all the others?'
-
-</div>
 </details>
 
 ## पञ्चमः सर्गः : आकर्षणप्रतिकर्षणक्रमः
@@ -577,7 +517,6 @@ The Paradox of Indifference and Warmth: You are not cold or rude; you are enjoyi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रशंस्य प्रथमे भागे पश्चात् दोषम् विभावयेत् । कर्षण-प्रतिकर्षेण काम-तन्तुः प्रवर्धते ॥२१॥`  
 
@@ -593,8 +532,6 @@ The Paradox of Indifference and Warmth: You are not cold or rude; you are enjoyi
 
 **Cocky & Funny Field Commentary:**  
 The Push-Pull Principle: Continuous praise bores; continuous teasing annoys. True seduction is an emotional dance: step in close with warm appreciation, then playfully shove her away. The contrast creates emotional roller-coaster excitement.
-
-</div>
 </details>
 
 #### श्लोकः 22 (अनुष्टुभ्)
@@ -603,7 +540,6 @@ The Push-Pull Principle: Continuous praise bores; continuous teasing annoys. Tru
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `समीपम् आनयेत् पूर्वम् पश्चात् दूरीकरोति ताम् । तरङ्गाः इव संवृद्धाः कम्पयन्ति मनः स्त्रियाः ॥२२॥`  
 
@@ -619,8 +555,6 @@ The Push-Pull Principle: Continuous praise bores; continuous teasing annoys. Tru
 
 **Cocky & Funny Field Commentary:**  
 Physical & Verbal Push-Pull: Deliver a line while looking deep into her eyes, then turn away to take a sip of your drink. Or pull her in by the hand on a dance floor, spin her out and let go. Predictability kills attraction; calibrated variance ignites it.
-
-</div>
 </details>
 
 #### श्लोकः 23 (अनुष्टुभ्)
@@ -629,7 +563,6 @@ Physical & Verbal Push-Pull: Deliver a line while looking deep into her eyes, th
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `रूपम् शोभनम् इति उक्त्वा बुद्धिः मन्दा भवेत् इति । स-स्मितम् कथयन् प्राज्ञः कर्षति आकर्षयति अलम् ॥२३॥`  
 
@@ -645,8 +578,6 @@ Physical & Verbal Push-Pull: Deliver a line while looking deep into her eyes, th
 
 **Cocky & Funny Field Commentary:**  
 Classic DeAngelo Push-Pull Example: 'You have the most beautiful eyes... too bad they are full of mischief and trouble.' The compliment validates her, while the tease prevents her ego from inflating, keeping the power dynamic completely balanced.
-
-</div>
 </details>
 
 #### श्लोकः 24 (अनुष्टुभ्)
@@ -655,7 +586,6 @@ Classic DeAngelo Push-Pull Example: 'You have the most beautiful eyes... too bad
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `एकान्त-स्तुतिः अश्रद्धा संशयम् जनयेत् ध्रुवम् । मिश्रितेन तु भावेन सत्यत्वम् प्रतिपद्यते ॥२४॥`  
 
@@ -671,8 +601,6 @@ Classic DeAngelo Push-Pull Example: 'You have the most beautiful eyes... too bad
 
 **Cocky & Funny Field Commentary:**  
 Flattery Triggers Defense Shields: When a man says: 'You are the most gorgeous woman I have ever seen', she thinks: 'What does this creep want from me?' When you tease her, your subsequent genuine compliments hit with ten times the emotional impact.
-
-</div>
 </details>
 
 #### श्लोकः 25 (अनुष्टुभ्)
@@ -681,7 +609,6 @@ Flattery Triggers Defense Shields: When a man says: 'You are the most gorgeous w
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्षण-अपकर्षौ यौ सम्यक् योजयते नरः । सः कामिन्याः मनः बद्ध्वा वशित्वम् अधिगच्छति ॥२५॥`  
 
@@ -697,8 +624,6 @@ Flattery Triggers Defense Shields: When a man says: 'You are the most gorgeous w
 
 **Cocky & Funny Field Commentary:**  
 Dynamic Emotional Balance: Courtship is music. A song played on one single note (endless compliments) puts the listener to sleep. Push-pull provides melody, rhythm, crescendo and release.
-
-</div>
 </details>
 
 ## षष्ठः सर्गः : अनुवर्तनपरीक्षा
@@ -711,7 +636,6 @@ Dynamic Emotional Balance: Courtship is music. A song played on one single note 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `लघूनि प्रेरयेत् पूर्वम् कार्याणि वश-सिद्धये । पात्रम् धारय मत्-हस्ते पदम् एकम् परिक्रम ॥२६॥`  
 
@@ -727,8 +651,6 @@ Dynamic Emotional Balance: Courtship is music. A song played on one single note 
 
 **Cocky & Funny Field Commentary:**  
 Micro-Compliance Testing: High-status men lead; low-status men follow. DeAngelo teaches that attraction is deepened through small compliance tests: 'Hold my jacket', 'Step over here out of the way', 'Give me your hand for a second'. Compliance creates subconscious investment.
-
-</div>
 </details>
 
 #### श्लोकः 27 (अनुष्टुभ्)
@@ -737,7 +659,6 @@ Micro-Compliance Testing: High-status men lead; low-status men follow. DeAngelo 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सा कुरुते वाक्यम् प्रसन्न-वदना मुदा । तदा ज्ञात्वा वशम् धीरः प्रशंसाम् कुरुते मृदुम् ॥२७॥`  
 
@@ -753,8 +674,6 @@ Micro-Compliance Testing: High-status men lead; low-status men follow. DeAngelo 
 
 **Cocky & Funny Field Commentary:**  
 Rewarding Compliance: When she follows your lead, reward her immediately with warmth: 'Good girl; you are surprisingly cooperative.' This conditions her subconscious to enjoy following your masculine leadership.
-
-</div>
 </details>
 
 #### श्लोकः 28 (अनुष्टुभ्)
@@ -763,7 +682,6 @@ Rewarding Compliance: When she follows your lead, reward her immediately with wa
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अकुर्वत्याम् तु नारीयाम् न रोषम् मनसा वहेत् । विनोदेन परित्यज्य स्व-पदम् धारयेत् दृढम् ॥२८॥`  
 
@@ -779,8 +697,6 @@ Rewarding Compliance: When she follows your lead, reward her immediately with wa
 
 **Cocky & Funny Field Commentary:**  
 Never Get Butt-Hurt: If she says 'No, hold your own drink', never scowl or get defensive. Smile with amused indulgence: 'Fair enough; I see you have trust issues with beverages.' An unshakeable reaction to non-compliance demonstrates immense strength.
-
-</div>
 </details>
 
 #### श्लोकः 29 (अनुष्टुभ्)
@@ -789,7 +705,6 @@ Never Get Butt-Hurt: If she says 'No, hold your own drink', never scowl or get d
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `क्रमशः वर्धयेत् मानम् यदा सा सम्प्रपद्यते । अनुवर्तन-योगेन स्व-अधिकारः प्रजायते ॥२९॥`  
 
@@ -805,8 +720,6 @@ Never Get Butt-Hurt: If she says 'No, hold your own drink', never scowl or get d
 
 **Cocky & Funny Field Commentary:**  
 Escalating Compliance: Moving from small physical or verbal compliance (holding an object, answering a question) to larger logistical compliance (moving to a quieter table, walking to another bar, coming over to your apartment) must follow a smooth, continuous progression.
-
-</div>
 </details>
 
 #### श्लोकः 30 (अनुष्टुभ्)
@@ -815,7 +728,6 @@ Escalating Compliance: Moving from small physical or verbal compliance (holding 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `उच्च-मानम् समास्थाय यः तिष्ठति सदा नरः । तस्मै नारी प्रयच्छेत् स्वम् चेतः वश्या भवेत् च सा ॥३०॥`  
 
@@ -831,8 +743,6 @@ Escalating Compliance: Moving from small physical or verbal compliance (holding 
 
 **Cocky & Funny Field Commentary:**  
 High Standards Are Attractive: Men with zero standards will sleep with anyone who smiles at them. A man who has high standards and screens for intelligence, fun and respect communicates that he is a rare, elite partner.
-
-</div>
 </details>
 
 ## सप्तमः सर्गः : उच्चासनमुद्रा शरीरभाषा च
@@ -845,7 +755,6 @@ High Standards Are Attractive: Men with zero standards will sleep with anyone wh
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अङ्गेषु शिथिलम् भावम् न्यसेत् पृष्ठे विशाम्य च । अव्याकुलम् स्थिर-आसनम् श्रेष्ठ-भावम् प्रकाशयेत् ॥३१॥`  
 
@@ -861,8 +770,6 @@ High Standards Are Attractive: Men with zero standards will sleep with anyone wh
 
 **Cocky & Funny Field Commentary:**  
 Leaning Back vs. Leaning In: Low-status men lean forward eagerly, nodding excessively like bobbleheads to show interest. High-status men lean back comfortably, relaxed in their spine, taking up space and forcing others to lean into their orbit.
-
-</div>
 </details>
 
 #### श्लोकः 32 (अनुष्टुभ्)
@@ -871,7 +778,6 @@ Leaning Back vs. Leaning In: Low-status men lean forward eagerly, nodding excess
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मन्दम् भ्रमति नेत्रे तु मन्दम् वदति च आदरम् । सर्वम् स्थानम् मम एव इति मुद्रया दर्शयेत् बुधः ॥३२॥`  
 
@@ -887,8 +793,6 @@ Leaning Back vs. Leaning In: Low-status men lean forward eagerly, nodding excess
 
 **Cocky & Funny Field Commentary:**  
 Owning the Space: A king does not rush his words, dart his eyes nervously, or apologize for occupying physical space. Walk, sit and gesture as if you own the entire building. Unhurried physical movement communicates absolute security.
-
-</div>
 </details>
 
 #### श्लोकः 33 (अनुष्टुभ्)
@@ -897,7 +801,6 @@ Owning the Space: A king does not rush his words, dart his eyes nervously, or ap
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वक्रम् मन्दम् प्रहासः तु कपोले यस्य राजते । तस्य वीर्येण सम्पूर्णा नारी नम्रीभवेत् क्षणात् ॥३३॥`  
 
@@ -913,8 +816,6 @@ Owning the Space: A king does not rush his words, dart his eyes nervously, or ap
 
 **Cocky & Funny Field Commentary:**  
 The DeAngelo Smirk: The quintessential Cocky & Funny facial expression is the slow, knowing half-smirk. It says: 'I see right through your game, you are adorable and I am not impressed by your beauty, but I find you delightful.'
-
-</div>
 </details>
 
 #### श्लोकः 34 (अनुष्टुभ्)
@@ -923,7 +824,6 @@ The DeAngelo Smirk: The quintessential Cocky & Funny facial expression is the sl
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न चञ्चलम् वपुः कुर्यात् न कण्डूयनम् आचरेत् । गम्भीर-स्वर-संवादे नादेन आकर्षति स्त्रियः ॥३४॥`  
 
@@ -939,8 +839,6 @@ The DeAngelo Smirk: The quintessential Cocky & Funny facial expression is the sl
 
 **Cocky & Funny Field Commentary:**  
 Eliminating Low-Status Tells: Touching your neck, fidgeting with your phone, rocking on your heels, or clearing your throat repeatedly are subconscious micro-tells of high anxiety. Eradicate all useless movement. Stillness commands the room.
-
-</div>
 </details>
 
 #### श्लोकः 35 (अनुष्टुभ्)
@@ -949,7 +847,6 @@ Eliminating Low-Status Tells: Touching your neck, fidgeting with your phone, roc
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आसनम् राज-तुल्यम् स्यात् दृष्टिः शान्ता मनोरमा । शरीरस्य प्रभावेण काम-सिद्धिः प्रजायते ॥३५॥`  
 
@@ -965,8 +862,6 @@ Eliminating Low-Status Tells: Touching your neck, fidgeting with your phone, roc
 
 **Cocky & Funny Field Commentary:**  
 Non-Verbal Dominance: 93 percent of communication is non-verbal. If your posture says 'I am royalty' and your words say 'You are a silly girl', Cocky & Funny works magic. Posture establishes the subtext that validates the humor.
-
-</div>
 </details>
 
 ## अष्टमः सर्गः : कामतनावोत्पादनम्
@@ -979,7 +874,6 @@ Non-Verbal Dominance: 93 percent of communication is non-verbal. If your posture
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सामान्य-वचने अपि अन्तः काम-भावम् नियोजयेत् । अर्थान्तर-विनोदेन जनयेत् मन्मथ-व्यथाम् ॥३६॥`  
 
@@ -995,8 +889,6 @@ Non-Verbal Dominance: 93 percent of communication is non-verbal. If your posture
 
 **Cocky & Funny Field Commentary:**  
 Sexual Innuendo & Double Entendre: DeAngelo teaches that innocent topics (ordering dessert, hot coffee, yoga, driving) can be playfully reframed with a raised eyebrow and innuendo: 'Careful now, that sounds dangerous.' It pulls the interaction into a sexual frame.
-
-</div>
 </details>
 
 #### श्लोकः 37 (अनुष्टुभ्)
@@ -1005,7 +897,6 @@ Sexual Innuendo & Double Entendre: DeAngelo teaches that innocent topics (orderi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नेत्रे नेत्रे दृढम् बद्ध्वा क्षण-मात्रम् विरंस्यति । मौनम् तत्र प्रगल्भम् स्यात् काम-तन्तुम् प्रवर्धयेत् ॥३७॥`  
 
@@ -1021,8 +912,6 @@ Sexual Innuendo & Double Entendre: DeAngelo teaches that innocent topics (orderi
 
 **Cocky & Funny Field Commentary:**  
 The Sexual Pause: When a witty exchange peaks, stop talking. Look directly into her eyes, let your smirk soften into an intimate gaze and hold the silence for 3 seconds. The sudden silence makes her heart flutter and makes the sexual tension palpable.
-
-</div>
 </details>
 
 #### श्लोकः 38 (अनुष्टुभ्)
@@ -1031,7 +920,6 @@ The Sexual Pause: When a witty exchange peaks, stop talking. Look directly into 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `त्वम् माम् मोहयितुम् यत्ता मयि दृष्टिः न युज्यते । इति आरोप्य मृषा दोषम् कामम् सम्प्रकटम् नयेत् ॥३८॥`  
 
@@ -1047,8 +935,6 @@ The Sexual Pause: When a witty exchange peaks, stop talking. Look directly into 
 
 **Cocky & Funny Field Commentary:**  
 Accusing Her of Seduction: Saying playfully: 'Stop undressing me with your eyes; I feel like a piece of meat!' acknowledges the physical tension while disguising it as a joke. It permits both of you to think about intimacy without social awkwardness.
-
-</div>
 </details>
 
 #### श्लोकः 39 (अनुष्टुभ्)
@@ -1057,7 +943,6 @@ Accusing Her of Seduction: Saying playfully: 'Stop undressing me with your eyes;
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न हास्येन विनाश्या सा काम-तन्त्र-अभिसंहिता । तनावम् धारयेत् धीरः सहसा न शिथिलम् नयेत् ॥३९॥`  
 
@@ -1073,8 +958,6 @@ Accusing Her of Seduction: Saying playfully: 'Stop undressing me with your eyes;
 
 **Cocky & Funny Field Commentary:**  
 Holding Tension Without Cracking: Beginners get so nervous when sexual tension builds that they crack a self-deprecating joke or laugh nervously to break it. Resist the urge to diffuse it! Bathe in the tension; let her be the one who blushes and breaks.
-
-</div>
 </details>
 
 #### श्लोकः 40 (अनुष्टुभ्)
@@ -1083,7 +966,6 @@ Holding Tension Without Cracking: Beginners get so nervous when sexual tension b
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `तनावस्य विवृद्धौ तु श्वासाः शीघ्रम् भवन्ति च । नारी कम्पति कामेन सङ्गम-अर्थम् प्रहृष्यति ॥४०॥`  
 
@@ -1099,8 +981,6 @@ Holding Tension Without Cracking: Beginners get so nervous when sexual tension b
 
 **Cocky & Funny Field Commentary:**  
 Physical Signs of Chemistry: When sexual tension peaks, observe her physiology: pupils dilate, breathing quickens, she wets her lips and leans into your space. Cocky & Funny has done its work; the time has arrived for physical escalation.
-
-</div>
 </details>
 
 ## नवमः सर्गः : सङ्गमोपक्रमः सहजस्पर्शनम्
@@ -1113,7 +993,6 @@ Physical Signs of Chemistry: When sexual tension peaks, observe her physiology: 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हास्य-काले कटिम् स्पृष्ट्वा प्रेरयेत् कुशलः नरः । कङ्कणम् मुद्रिकाम् वा अपि क्रीडया संप्रगृह्य च ॥४१॥`  
 
@@ -1130,8 +1009,6 @@ Physical Signs of Chemistry: When sexual tension peaks, observe her physiology: 
 
 **Cocky & Funny Field Commentary:**  
 Playful Touch Escalation: Touch under the Cocky & Funny frame feels completely natural because it is anchored in humor. Gently nudging her waist on a punchline or taking her hand to inspect an 'ugly ring' breaks the physical barrier without heaviness.
-
-</div>
 </details>
 
 #### श्लोकः 42 (अनुष्टुभ्)
@@ -1140,7 +1017,6 @@ Playful Touch Escalation: Touch under the Cocky & Funny frame feels completely n
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `विनोद-व्याज-रूपेण स्पर्शम् कुर्यात् यथा-सुखम् । न दास्येन न भीत्या वा प्रगल्भः स्पृशति स्त्रियाम् ॥४२॥`  
 
@@ -1156,8 +1032,6 @@ Playful Touch Escalation: Touch under the Cocky & Funny frame feels completely n
 
 **Cocky & Funny Field Commentary:**  
 Entitlement to Touch: A needy man asks 'May I hold your hand?' which kills the mood. The Cocky & Funny man playfully grabs her hand to lead her through a crowd, or lightly taps her shoulder to point something out. High status touches naturally.
-
-</div>
 </details>
 
 #### श्लोकः 43 (अनुष्टुभ्)
@@ -1166,7 +1040,6 @@ Entitlement to Touch: A needy man asks 'May I hold your hand?' which kills the m
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्कन्धे स्कन्धम् समाघृष्य स-स्मितम् परिवर्तते । कूर्परेण मृदुम् घातम् दत्त्वा हासम् प्रवर्धयेत् ॥४३॥`  
 
@@ -1182,8 +1055,6 @@ Entitlement to Touch: A needy man asks 'May I hold your hand?' which kills the m
 
 **Cocky & Funny Field Commentary:**  
 The Bump and Nudge: Walking together, bump hips playfully on a street corner: 'Hey, watch the lane discipline!' Physical playfulness communicates that you are comfortable with physical intimacy and not intimidated by her presence.
-
-</div>
 </details>
 
 #### श्लोकः 44 (अनुष्टुभ्)
@@ -1192,7 +1063,6 @@ The Bump and Nudge: Walking together, bump hips playfully on a street corner: 'H
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा स्पर्शम् सहाते सा मुदिता न निवर्तते । तदा सान्निध्यम् आनीय चुम्बनम् कुरुते क्षणात् ॥४४॥`  
 
@@ -1208,8 +1078,6 @@ The Bump and Nudge: Walking together, bump hips playfully on a street corner: 'H
 
 **Cocky & Funny Field Commentary:**  
 The Kiss Close under Cocky & Funny: When she is leaning in, laughing and holding your gaze, tease her one last time: 'Are you going to kiss me or keep talking all night?' When she hesitates or blushes, pull her in gently and kiss her.
-
-</div>
 </details>
 
 #### श्लोकः 45 (अनुष्टुभ्)
@@ -1218,7 +1086,6 @@ The Kiss Close under Cocky & Funny: When she is leaning in, laughing and holding
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `विनोदस्य प्रभावेण स्पर्शः भीतिम् विमुञ्चति । हास्येन आक्रान्त-चित्ता सा कामे लीना प्रजायते ॥४५॥`  
 
@@ -1234,8 +1101,6 @@ The Kiss Close under Cocky & Funny: When she is leaning in, laughing and holding
 
 **Cocky & Funny Field Commentary:**  
 Humor Dissolves Defense Shields: Laughter physically relaxes muscles, releases dopamine and lowers cortisol. When physical touch is woven into humor, it feels joyful and effortless rather than heavy or predatory.
-
-</div>
 </details>
 
 ## दशमः सर्गः : चातुर्यसिद्धिः एकात्मभावश्च
@@ -1248,7 +1113,6 @@ Humor Dissolves Defense Shields: Laughter physically relaxes muscles, releases d
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `गर्व-हास्य-मयम् रूपम् यस्य सिद्धम् मनस्विनः । सः काम-लोके राज-इन्द्रः विहरति अविशङ्कितः ॥४६॥`  
 
@@ -1264,8 +1128,6 @@ Humor Dissolves Defense Shields: Laughter physically relaxes muscles, releases d
 
 **Cocky & Funny Field Commentary:**  
 The Sovereign Rogue: DeAngelo's ideal archetype: The charming rogue. He is not a cruel villain, nor a groveling peasant. He is a noble, witty gentleman who speaks his mind, teases beauty and enjoys life to the absolute fullest.
-
-</div>
 </details>
 
 #### श्लोकः 47 (अनुष्टुभ्)
@@ -1274,7 +1136,6 @@ The Sovereign Rogue: DeAngelo's ideal archetype: The charming rogue. He is not a
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न तस्य याचना क्वापि न च दैन्यम् प्रजायते । स्वेन एव तुष्ट-चित्तः यः सः नारीभिः समिष्यते ॥४७॥`  
 
@@ -1290,8 +1151,6 @@ The Sovereign Rogue: DeAngelo's ideal archetype: The charming rogue. He is not a
 
 **Cocky & Funny Field Commentary:**  
 Self-Amusement Is Supreme: The true master of Cocky & Funny uses humor primarily to amuse himself, not to perform for others. When women see that you are having the time of your life regardless of what anyone thinks, they desperately want to join your party.
-
-</div>
 </details>
 
 #### श्लोकः 48 (अनुष्टुभ्)
@@ -1300,7 +1159,6 @@ Self-Amusement Is Supreme: The true master of Cocky & Funny uses humor primarily
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `चातुर्येण जिताः लोके रूपवत्यः वर-अङ्गनाः । विनोद-प्रौढि-शक्त्या हि कामिनी वश्यताम् इयात् ॥४८॥`  
 
@@ -1316,8 +1174,6 @@ Self-Amusement Is Supreme: The true master of Cocky & Funny uses humor primarily
 
 **Cocky & Funny Field Commentary:**  
 Winning the Top Tier: Super-attractive women are completely immune to compliments and money, which they receive daily. What they almost never encounter is a man who can tease them playfully, challenge their frame and make them laugh with genuine wit.
-
-</div>
 </details>
 
 #### श्लोकः 49 (अनुष्टुभ्)
@@ -1326,7 +1182,6 @@ Winning the Top Tier: Super-attractive women are completely immune to compliment
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सत्यम् वीर्यम् तथा हास्यम् त्रितयम् यस्य वर्तते । सः एव रसिकः श्रेष्ठः काम-शास्त्र-विशारदः ॥४९॥`  
 
@@ -1342,8 +1197,6 @@ Winning the Top Tier: Super-attractive women are completely immune to compliment
 
 **Cocky & Funny Field Commentary:**  
 The Sacred Triad: DeAngelo's philosophy distilled: Masculine strength (having boundaries and leadership), truth (being authentic and congruent) and humor (staying playful and unbothered). This combination makes a man completely irresistible.
-
-</div>
 </details>
 
 #### श्लोकः 50 (अनुष्टुभ्)
@@ -1352,7 +1205,6 @@ The Sacred Triad: DeAngelo's philosophy distilled: Masculine strength (having bo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `डेयाञ्जेलो-तन्त्र-सार-पञ्चाशिका समर्पिता । विनोद-प्रौढि-सिद्ध्यर्थम् विदुषाम् मुद-हेतवे ॥५०॥`  
 
@@ -1368,6 +1220,4 @@ The Sacred Triad: DeAngelo's philosophy distilled: Masculine strength (having bo
 
 **Cocky & Funny Field Commentary:**  
 Conclusion of Vinoda-Prauḍhi-Pañcāśikā: Codifying David DeAngelo's *Double Your Dating* and Cocky & Funny doctrine. Master the art of playful arrogance, never bow to beauty, laugh at the drama of life and enjoy the magical dance of attraction.
-
-</div>
 </details>

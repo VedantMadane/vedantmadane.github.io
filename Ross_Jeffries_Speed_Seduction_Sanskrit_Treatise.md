@@ -41,7 +41,6 @@ This treatise: **सम्मोहनकामपञ्चाशिका** cod
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वाचा एव बध्यते नारी वाचा एव परिमुच्यते । शब्दानाम् सूक्ष्म-योगेन सम्मोहनम् प्रवर्तते ॥१॥`  
 
@@ -57,8 +56,6 @@ This treatise: **सम्मोहनकामपञ्चाशिका** cod
 
 **Speed Seduction Field Commentary:**  
 The Primacy of Language: Ross Jeffries pioneered Speed Seduction in the late 1980s by applying Neuro-Linguistic Programming (NLP) and Milton Erickson's hypnosis to courtship. Seduction does not happen in physical reality; it happens inside the neural pathways of her imagination through language.
-
-</div>
 </details>
 
 #### श्लोकः 2 (अनुष्टुभ्)
@@ -67,7 +64,6 @@ The Primacy of Language: Ross Jeffries pioneered Speed Seduction in the late 198
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न केवलम् शरीरेण काम-तन्त्रम् प्रसाध्यते । मनसः कल्पना-आवेशे कामः सञ्जायते परः ॥२॥`  
 
@@ -83,8 +79,6 @@ The Primacy of Language: Ross Jeffries pioneered Speed Seduction in the late 198
 
 **Speed Seduction Field Commentary:**  
 The Mind Is the Sexual Organ: Physical appearance opens the door, but the female brain is wired for auditory and emotional processing. Words that evoke rich somatic sensations, vivid imagery and emotional trance states create profound romantic arousal.
-
-</div>
 </details>
 
 #### श्लोकः 3 (अनुष्टुभ्)
@@ -93,7 +87,6 @@ The Mind Is the Sexual Organ: Physical appearance opens the door, but the female
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यथा स्वप्नेषु मग्न-आत्मा सत्यम् पश्यति चेतसा । तथा संलाप-वेगेन सम्मोहम् उपगच्छति ॥३॥`  
 
@@ -109,8 +102,6 @@ The Mind Is the Sexual Organ: Physical appearance opens the door, but the female
 
 **Speed Seduction Field Commentary:**  
 Conversational Trance: Trance is not swinging a pocket watch. Trance is a focused state of heightened internal awareness. When a woman is absorbed in imagining a story, feeling an emotional memory, or anticipating a touch, she is in an everyday waking trance.
-
-</div>
 </details>
 
 #### श्लोकः 4 (अनुष्टुभ्)
@@ -119,7 +110,6 @@ Conversational Trance: Trance is not swinging a pocket watch. Trance is a focuse
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `एरिकसनस्य मार्गेण भाषा-तन्त्रम् समाश्रितम् । जेफ्रीस्-शास्त्र-सिद्धान्तः वाक्-प्रभावेण दीप्यते ॥४॥`  
 
@@ -135,8 +125,6 @@ Conversational Trance: Trance is not swinging a pocket watch. Trance is a focuse
 
 **Speed Seduction Field Commentary:**  
 The Ericksonian Lineage: Milton Erickson proved that direct commands ('Fall asleep!') trigger conscious resistance, whereas indirect language patterns ('You may notice how comfortable your breathing is becoming...') bypass conscious gatekeepers entirely.
-
-</div>
 </details>
 
 #### श्लोकः 5 (अनुष्टुभ्)
@@ -145,7 +133,6 @@ The Ericksonian Lineage: Milton Erickson proved that direct commands ('Fall asle
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अन्तः-चेतसि सुप्तानाम् भावानाम् प्रकटी-कृतिः । कथ्यते वाङ्मयी दीक्षा काम-शास्त्र-विशारदैः ॥५॥`  
 
@@ -162,8 +149,6 @@ The Ericksonian Lineage: Milton Erickson proved that direct commands ('Fall asle
 
 **Speed Seduction Field Commentary:**  
 Awakening Latent Emotion: You do not need to create attraction from scratch; every woman already has dormant memories of intense love, passion, curiosity and sexual surrender. The master uses language to elicit those latent states and attach them to his presence.
-
-</div>
 </details>
 
 ## द्वितीयः सर्गः : अनुगमनं नयनं च
@@ -176,7 +161,6 @@ Awakening Latent Emotion: You do not need to create attraction from scratch; eve
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यथा सा वर्तते काले तथा वाक्यम् प्रयोजयेत् । अनुगच्छेत् ततः धीरः सा यत् पश्यति मन्यते ॥६॥`  
 
@@ -192,8 +176,6 @@ Awakening Latent Emotion: You do not need to create attraction from scratch; eve
 
 **Speed Seduction Field Commentary:**  
 Pacing Current Reality: The foundation of hypnosis. Describe three undeniable, verifiable sensory facts of her present moment: 'As you sit here in this booth... listening to the hum of the music... feeling the cold glass in your hand...' Because these are 100% true, her critical mind nods in subconscious agreement.
-
-</div>
 </details>
 
 #### श्लोकः 7 (अनुष्टुभ्)
@@ -202,7 +184,6 @@ Pacing Current Reality: The foundation of hypnosis. Describe three undeniable, v
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `श्वास-वेगेन संवाद्य गतिम् कायेन तोलयन् । तस्याः क्षेत्रे स्थितः भूत्वा समत्वम् प्रतिपद्यते ॥७॥`  
 
@@ -218,8 +199,6 @@ Pacing Current Reality: The foundation of hypnosis. Describe three undeniable, v
 
 **Speed Seduction Field Commentary:**  
 Physiological Mirroring: Match your vocal tempo to her breathing exhalations. Mirror her posture subtly (if she crosses her legs, cross yours a few seconds later). This triggers mirror neurons in her brain, producing instant subconscious trust and comfort.
-
-</div>
 </details>
 
 #### श्लोकः 8 (अनुष्टुभ्)
@@ -228,7 +207,6 @@ Physiological Mirroring: Match your vocal tempo to her breathing exhalations. Mi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सा संविद्-आनुकूल्यम् गता विश्वास-सङ्गता । तदा ताम् नयते धीरः स्व-काम-पदवीम् प्रति ॥८॥`  
 
@@ -244,8 +222,6 @@ Physiological Mirroring: Match your vocal tempo to her breathing exhalations. Mi
 
 **Speed Seduction Field Commentary:**  
 The Lead: After establishing rapport through pacing (3 paces), you introduce the lead: '...and as you hear that music, you might begin to wonder what it would feel like to connect with someone on a level you have never felt before.' Having accepted the paces, she follows the lead.
-
-</div>
 </details>
 
 #### श्लोकः 9 (अनुष्टुभ्)
@@ -254,7 +230,6 @@ The Lead: After establishing rapport through pacing (3 paces), you introduce the
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `दृष्टेः भावेन शब्दैः च मनः नयति कामिनीम् । अनुगम्य पुरः नीत्वा वशित्वम् सम्प्रसाधयेत् ॥९॥`  
 
@@ -270,8 +245,6 @@ The Lead: After establishing rapport through pacing (3 paces), you introduce the
 
 **Speed Seduction Field Commentary:**  
 Pace, Pace, Pace, Lead: The universal rhythm of Speed Seduction. You pace her external reality until her critical factor relaxes, then lead her internal imagination toward deep intimacy, mystery and desire.
-
-</div>
 </details>
 
 #### श्लोकः 10 (अनुष्टुभ्)
@@ -280,7 +253,6 @@ Pace, Pace, Pace, Lead: The universal rhythm of Speed Seduction. You pace her ex
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यथा नदी जलैः युक्ता समुद्रम् याति वेगतः । तथा चित्तम् स्त्रियाः नीतम् काम-सिन्धौ विलीयते ॥१०॥`  
 
@@ -296,8 +268,6 @@ Pace, Pace, Pace, Lead: The universal rhythm of Speed Seduction. You pace her ex
 
 **Speed Seduction Field Commentary:**  
 The Inevitability of Flow: When pacing and leading are calibrated correctly, the woman does not feel pressured, coerced, or argued into attraction. She feels as though she is naturally drifting downstream into an exciting, irresistible adventure.
-
-</div>
 </details>
 
 ## तृतीयः सर्गः : भावोद्भावनक्रमः
@@ -310,7 +280,6 @@ The Inevitability of Flow: When pacing and leading are calibrated correctly, the
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कथम् त्वम् प्रेम जानासि कथम् वा काम-विह्वला । इति-आदि-प्रश्न-योगेन भावम् उत्पादयेत् नरः ॥११॥`  
 
@@ -326,8 +295,6 @@ The Inevitability of Flow: When pacing and leading are calibrated correctly, the
 
 **Speed Seduction Field Commentary:**  
 Elicitation Questions: The human brain cannot answer a question about an emotional state without re-experiencing that state. Asking 'What does it feel like when you meet someone and feel an instant, electric spark?' forces her to access that exact emotional memory.
-
-</div>
 </details>
 
 #### श्लोकः 12 (अनुष्टुभ्)
@@ -336,7 +303,6 @@ Elicitation Questions: The human brain cannot answer a question about an emotion
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सा कथयति एव पूर्वम् यत् वर्तितम् सुखम् । तदा एव तत्-क्षणे चित्ते सः एव रसः उच्यते ॥१२॥`  
 
@@ -352,8 +318,6 @@ Elicitation Questions: The human brain cannot answer a question about an emotion
 
 **Speed Seduction Field Commentary:**  
 Reliving the Memory: The brain does not distinguish vividly imagined memories from current reality. As she describes past romantic excitement, her brain floods with dopamine and oxytocin in the present moment, right in front of you.
-
-</div>
 </details>
 
 #### श्लोकः 13 (अनुष्टुभ्)
@@ -362,7 +326,6 @@ Reliving the Memory: The brain does not distinguish vividly imagined memories fr
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नेत्रैः च श्रवणेन एव स्पर्शेन च त्रिधा स्मृतम् । ज्ञानम् यत् रोचते तस्याः तत्-मार्गेण एव सञ्चरेत् ॥१३॥`  
 
@@ -378,8 +341,6 @@ Reliving the Memory: The brain does not distinguish vividly imagined memories fr
 
 **Speed Seduction Field Commentary:**  
 Sensory Predicates (VAK): Pay attention to her vocabulary. If she says 'I see what you mean' (Visual), use visual words ('Imagine, picture, clear'). If she says 'That sounds amazing' (Auditory), use sound words ('Resonate, tone, tune'). If she says 'It feels right' (Kinesthetic), use touch words ('Warm, grasp, flow').
-
-</div>
 </details>
 
 #### श्लोकः 14 (अनुष्टुभ्)
@@ -388,7 +349,6 @@ Sensory Predicates (VAK): Pay attention to her vocabulary. If she says 'I see wh
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भावस्य प्रकटे काले तस्याः वपुषि जायते । कम्पः वा रक्त-भावः वा श्वास-वेगः विवर्धते ॥१४॥`  
 
@@ -404,8 +364,6 @@ Sensory Predicates (VAK): Pay attention to her vocabulary. If she says 'I see wh
 
 **Speed Seduction Field Commentary:**  
 Sensory Acuity & State Indicators: Watch for physical confirmation that the state has been accessed: pupil dilation, skin flush on her neck, changes in breathing depth and postural softening. These physical indicators verify that she is in state.
-
-</div>
 </details>
 
 #### श्लोकः 15 (अनुष्टुभ्)
@@ -414,7 +372,6 @@ Sensory Acuity & State Indicators: Watch for physical confirmation that the stat
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सा विस्मृता बाह्यम् तदा कामे प्रतिष्ठिता । भाव-उद्भावन-सिद्धः हि चित्तस्य हरणे क्षमः ॥१५॥`  
 
@@ -430,8 +387,6 @@ Sensory Acuity & State Indicators: Watch for physical confirmation that the stat
 
 **Speed Seduction Field Commentary:**  
 Internal Absorption: When external distractions fade away and she is staring into your eyes, fully absorbed in feeling her own romantic desire, the state elicitation is complete. She is ready for anchor installation and escalation.
-
-</div>
 </details>
 
 ## चतुर्थः सर्गः : अन्तर्निहितशासनम्
@@ -444,7 +399,6 @@ Internal Absorption: When external distractions fade away and she is staring int
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कथायाः अन्तरे धीरः काम-शासनम् अर्पयेत् । यदा त्वम् मयि सक्ता स्याः इति आज्ञाम् विनिवेशयेत् ॥१६॥`  
 
@@ -460,8 +414,6 @@ Internal Absorption: When external distractions fade away and she is staring int
 
 **Speed Seduction Field Commentary:**  
 Embedded Commands: An embedded command is a directive delivered inside a larger grammatical structure: 'A friend was telling me how, when you *feel totally comfortable*, you just *let yourself surrender* to the moment.' The conscious mind hears a story; the subconscious executes the command.
-
-</div>
 </details>
 
 #### श्लोकः 17 (अनुष्टुभ्)
@@ -470,7 +422,6 @@ Embedded Commands: An embedded command is a directive delivered inside a larger 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्वरस्य मन्दता-योगैः हस्तस्य चालनेन च । अङ्केन एव विशिष्यन्ते शब्दाः सङ्गोपिताः परे ॥१७॥`  
 
@@ -486,8 +437,6 @@ Embedded Commands: An embedded command is a directive delivered inside a larger 
 
 **Speed Seduction Field Commentary:**  
 Analog Marking: How the subconscious identifies the command. As you speak the words *feel intense passion* or *trust this connection*, subtly shift your vocal tonality deeper, pause micro-seconds before and after and casually gesture with your hand toward your own chest.
-
-</div>
 </details>
 
 #### श्लोकः 18 (अनुष्टुभ्)
@@ -496,7 +445,6 @@ Analog Marking: How the subconscious identifies the command. As you speak the wo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `बाह्य-बुद्ध्या न ज्ञायन्ते सुप्त-अन्तः-चेतनाम गताः । आज्ञाः काम-करीः कुर्वन्ति इच्छाम् सम्प्रकटयन्ति ताः ॥१८॥`  
 
@@ -513,8 +461,6 @@ Analog Marking: How the subconscious identifies the command. As you speak the wo
 
 **Speed Seduction Field Commentary:**  
 Subconscious Ownership: Because embedded commands bypass the critical faculty, the woman does not feel she was ordered to feel attracted. She believes the sudden wave of desire and comfort she feels was completely generated by her own heart.
-
-</div>
 </details>
 
 #### श्लोकः 19 (अनुष्टुभ्)
@@ -523,7 +469,6 @@ Subconscious Ownership: Because embedded commands bypass the critical faculty, t
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `विरामेण वचः-युक्ते मन्दम् दृष्टिम प्रसारयेत् । गम्भीरेण स्वरेण उक्तम् हृदये रोपितम् भवेत् ॥१९॥`  
 
@@ -539,8 +484,6 @@ Subconscious Ownership: Because embedded commands bypass the critical faculty, t
 
 **Speed Seduction Field Commentary:**  
 The Hypnotic Pause: Silence after an embedded command acts like an emotional magnifying glass. 'You might realize you want to... [pause, lock eye contact, lower voice] ...*kiss me right now*... [pause] ...or you might just wait until later.'
-
-</div>
 </details>
 
 #### श्लोकः 20 (अनुष्टुभ्)
@@ -549,7 +492,6 @@ The Hypnotic Pause: Silence after an embedded command acts like an emotional mag
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अन्तर्निहित-वाक्यैः तु नारी मोहम् अवाप्नुयात् । स्व-आत्मानम् कुरुते दासीम् विना सङ्घर्ष-चेष्टया ॥२०॥`  
 
@@ -565,8 +507,6 @@ The Hypnotic Pause: Silence after an embedded command acts like an emotional mag
 
 **Speed Seduction Field Commentary:**  
 Frictionless Persuasion: When you argue with someone, their defenses rise. When you use hypnotic storytelling and analog marking, there is nothing to argue against. The persuasion occurs beneath the surface of the social dance.
-
-</div>
 </details>
 
 ## पञ्चमः सर्गः : खण्डीकरणविधिः
@@ -579,7 +519,6 @@ Frictionless Persuasion: When you argue with someone, their defenses rise. When 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `समाधौ नयते पूर्वम् पश्चात् बाह्यम् विमुञ्चति । पुनः नयति गाम्भीर्ये खण्डीकरणम् उच्यते ॥२१॥`  
 
@@ -595,8 +534,6 @@ Frictionless Persuasion: When you argue with someone, their defenses rise. When 
 
 **Speed Seduction Field Commentary:**  
 Fractionation: The most powerful hypnotic phenomenon in Speed Seduction (borrowed from hypnotherapist Milton Erickson). If you put someone into a light trance, wake them up and put them back in, the second trance is twice as deep as the first. Repeating this creates deep emotional receptivity.
-
-</div>
 </details>
 
 #### श्लोकः 22 (अनुष्टुभ्)
@@ -605,7 +542,6 @@ Fractionation: The most powerful hypnotic phenomenon in Speed Seduction (borrowe
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यथा तरङ्गः उच्छिद्य पुनः सिन्धौ निमज्जति । तथा चित्तम् स्त्रियाः नीतम् गभीरत्वम् अवाप्नुयात् ॥२२॥`  
 
@@ -621,8 +557,6 @@ Fractionation: The most powerful hypnotic phenomenon in Speed Seduction (borrowe
 
 **Speed Seduction Field Commentary:**  
 Emotional Waveforms: Talk about an intense, passionate connection for two minutes. Then break the state completely: 'Anyway, did you try the nachos here? They are ridiculously spicy.' Once she laughs and relaxes, dive immediately back into deep emotional terrain. The contrast accelerates bonding.
-
-</div>
 </details>
 
 #### श्लोकः 23 (अनुष्टुभ्)
@@ -631,7 +565,6 @@ Emotional Waveforms: Talk about an intense, passionate connection for two minute
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रथमे मन्द-सम्मोहे द्वितीये गाढता भवेत् । तृतीये तु समापन्ना पूर्णम् वशत्वम् ऋच्छति ॥२३॥`  
 
@@ -647,8 +580,6 @@ Emotional Waveforms: Talk about an intense, passionate connection for two minute
 
 **Speed Seduction Field Commentary:**  
 Three Cycles to Surrender: Fractionating someone three times over a 45-minute interaction creates more emotional intensity than five weeks of polite dinner dates. The rapid oscillation between depth and levity builds deep emotional addiction.
-
-</div>
 </details>
 
 #### श्लोकः 24 (अनुष्टुभ्)
@@ -657,7 +588,6 @@ Three Cycles to Surrender: Fractionating someone three times over a 45-minute in
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सुख-दुःख-अनुभूतीनाम् वेगेन परिवर्तनात् । नारीणाम् चेतना नष्टा कामे संलीयते क्षणात् ॥२४॥`  
 
@@ -673,8 +603,6 @@ Three Cycles to Surrender: Fractionating someone three times over a 45-minute in
 
 **Speed Seduction Field Commentary:**  
 Bypassing the Analytical Guard: Monotonous conversation allows her conscious censor to stay awake and judge you. Rapidly shifting emotional states exhausts the conscious censor, allowing her subconscious emotional heart to take complete control.
-
-</div>
 </details>
 
 #### श्लोकः 25 (अनुष्टुभ्)
@@ -683,7 +611,6 @@ Bypassing the Analytical Guard: Monotonous conversation allows her conscious cen
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `खण्डीकरण-दक्षेण यत्-नारी वशिता भवेत् । सा मुक्त्वा सर्व-सङ्कोचम् तत्-पादे प्रणता भवेत् ॥२५॥`  
 
@@ -699,8 +626,6 @@ Bypassing the Analytical Guard: Monotonous conversation allows her conscious cen
 
 **Speed Seduction Field Commentary:**  
 Total Alignment: The result of successful fractionation is emotional liberation. She feels completely safe with you because she has experienced a full spectrum of human emotions in your presence in a compressed window of time.
-
-</div>
 </details>
 
 ## षष्ठः सर्गः : संस्कारस्थापनं लङ्गरविधानम्
@@ -713,7 +638,6 @@ Total Alignment: The result of successful fractionation is emotional liberation.
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा भावः पराम् काष्ठाम् प्राप्नोति मन्मथ-उद्भवः । तदा एव मन्द-योगेन स्पर्शम् कुर्यात् विचक्षणः ॥२६॥`  
 
@@ -730,8 +654,6 @@ Total Alignment: The result of successful fractionation is emotional liberation.
 
 **Speed Seduction Field Commentary:**  
 Installing an Anchor: Pavlovian conditioning applied to romance. When she is laughing uncontrollably or feeling a deep wave of romantic longing, touch her on a unique physical location (such as her wrist or shoulder) for 3 seconds, then release. That touch becomes an anchor.
-
-</div>
 </details>
 
 #### श्लोकः 27 (अनुष्टुभ्)
@@ -740,7 +662,6 @@ Installing an Anchor: Pavlovian conditioning applied to romance. When she is lau
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मणिबन्धे अथवा स्कन्धे अङ्गुलीम् विनिवेशयेत् । संस्कारः बद्ध्यते तत्र लङ्गरम् कथितम् बुधैः ॥२७॥`  
 
@@ -756,8 +677,6 @@ Installing an Anchor: Pavlovian conditioning applied to romance. When she is lau
 
 **Speed Seduction Field Commentary:**  
 Unique Kinesthetic Anchors: The touch must be unique and distinct. Do not use an ordinary handshake that everyone uses. Touch the side of her wrist bone with two fingers, or lightly tap the back of her tricep. The brain creates a permanent synaptic link between the touch and the emotion.
-
-</div>
 </details>
 
 #### श्लोकः 28 (अनुष्टुभ्)
@@ -766,7 +685,6 @@ Unique Kinesthetic Anchors: The touch must be unique and distinct. Do not use an
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा यदा सः संस्पर्शः पुनः तत्र प्रयुज्यते । तदा तदा एव सा वृत्तिः उत्पद्यते मनोमयी ॥२८॥`  
 
@@ -782,8 +700,6 @@ Unique Kinesthetic Anchors: The touch must be unique and distinct. Do not use an
 
 **Speed Seduction Field Commentary:**  
 Firing the Anchor: Later in the evening, when the conversation has drifted to mundane topics, touch her in that exact same spot on her wrist with the same pressure. Her nervous system fires the conditioned response, flooding her body with the romantic euphoria felt earlier.
-
-</div>
 </details>
 
 #### श्लोकः 29 (अनुष्टुभ्)
@@ -792,7 +708,6 @@ Firing the Anchor: Later in the evening, when the conversation has drifted to mu
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हर्षस्य काम-रागस्य स्पर्श-चिह्नम् कृतम् यदा । तदा एव वशताम् याति मन्त्र-बद्धः यथा फणी ॥२९॥`  
 
@@ -808,8 +723,6 @@ Firing the Anchor: Later in the evening, when the conversation has drifted to mu
 
 **Speed Seduction Field Commentary:**  
 Neural Conditioning: Classical conditioning bypasses analytical resistance. You are not begging her to feel romantic; her own neurological hardware is delivering the emotional state on cue.
-
-</div>
 </details>
 
 #### श्लोकः 30 (अनुष्टुभ्)
@@ -818,7 +731,6 @@ Neural Conditioning: Classical conditioning bypasses analytical resistance. You 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `संस्कारे स्थापिते सम्यक् काम-सम्बन्धः उत्तमः । स्पर्श-अङ्गुली-प्रयोगेन नारी काम-वशा भवेत् ॥३०॥`  
 
@@ -834,8 +746,6 @@ Neural Conditioning: Classical conditioning bypasses analytical resistance. You 
 
 **Speed Seduction Field Commentary:**  
 Stacking Anchors: The master stacks multiple anchors: a visual anchor (a specific smile), an auditory anchor (a specific low-pitched chuckle) and a kinesthetic anchor (the wrist touch). Firing all three simultaneously triggers total emotional receptivity.
-
-</div>
 </details>
 
 ## सप्तमः सर्गः : कालभ्रमः कालविस्तारश्च
@@ -848,7 +758,6 @@ Stacking Anchors: The master stacks multiple anchors: a visual anchor (a specifi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `घटिका-मात्र-संवादे युगानाम् भ्रमम् उद्वहेत् । मनसः मायया नारी बहु-कालम् विभावयेत् ॥३१॥`  
 
@@ -864,8 +773,6 @@ Stacking Anchors: The master stacks multiple anchors: a visual anchor (a specifi
 
 **Speed Seduction Field Commentary:**  
 Time Distortion: Time is subjective. Two hours of boring small talk feels like an eternity of pain; twenty minutes of deep emotional state-elicitation feels like you have known each other for lifetimes. Hypnotic language compresses the timeline of intimacy.
-
-</div>
 </details>
 
 #### श्लोकः 32 (अनुष्टुभ्)
@@ -874,7 +781,6 @@ Time Distortion: Time is subjective. Two hours of boring small talk feels like a
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भविष्यत्-काल-सङ्केतैः पूर्व-स्मरण-संयुतैः । कालम् विलोड्य सम्मोहे बन्धयेत् कामिनीम् नरः ॥३२॥`  
 
@@ -890,8 +796,6 @@ Time Distortion: Time is subjective. Two hours of boring small talk feels like a
 
 **Speed Seduction Field Commentary:**  
 Future Pacing & Past Nostalgia: Weave her past with your shared future: 'Remember when you were seven and completely carefree? Fast forward to next month when we are walking through that secluded garden in the rain...' Chronological reality blurs; she feels you have always been there.
-
-</div>
 </details>
 
 #### श्लोकः 33 (अनुष्टुभ्)
@@ -900,7 +804,6 @@ Future Pacing & Past Nostalgia: Weave her past with your shared future: 'Remembe
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यथा चिर-परिज्ञाता तथा सा प्रतिभाषते । क्षणे जाते अपि सम्बन्धे दृढता संप्रजायते ॥३३॥`  
 
@@ -916,8 +819,6 @@ Future Pacing & Past Nostalgia: Weave her past with your shared future: 'Remembe
 
 **Speed Seduction Field Commentary:**  
 Manufactured History: Society tells women not to go home with 'strangers'. Time distortion removes the stranger frame. When she feels: 'I don't know why, but I feel like I've known you for years', the social taboo against fast intimacy dissolves.
-
-</div>
 </details>
 
 #### श्लोकः 34 (अनुष्टुभ्)
@@ -926,7 +827,6 @@ Manufactured History: Society tells women not to go home with 'strangers'. Time 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `काल-भ्रान्त्या समापन्ना न भीतिम् मन्यते हृदि । आत्मीयः इव सञ्जातः सद्यः सम्पद्यते प्रियः ॥३४॥`  
 
@@ -942,8 +842,6 @@ Manufactured History: Society tells women not to go home with 'strangers'. Time 
 
 **Speed Seduction Field Commentary:**  
 Dissolving Stranger-Danger: Women reject fast moves when they feel unsafe. By using hypnotic language to induce deep comfort and time distortion, her nervous system perceives you as an established, trusted romantic partner.
-
-</div>
 </details>
 
 #### श्लोकः 35 (अनुष्टुभ्)
@@ -952,7 +850,6 @@ Dissolving Stranger-Danger: Women reject fast moves when they feel unsafe. By us
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `काल-नियन्त्रणे सिद्धे कामः भवति शाश्वतः । वाक्-विलासेन सम्भूतः न कालेन विशीर्यते ॥३५॥`  
 
@@ -968,8 +865,6 @@ Dissolving Stranger-Danger: Women reject fast moves when they feel unsafe. By us
 
 **Speed Seduction Field Commentary:**  
 Enduring Impact: Flake resistance of hypnotically anchored leads is extraordinarily high. Because her memory of the encounter is branded with emotional intensity and perceived depth, she eagerly responds to texts and anticipates the date.
-
-</div>
 </details>
 
 ## अष्टमः सर्गः : अवरोधभङ्गः शङ्कानिवारणम्
@@ -982,7 +877,6 @@ Enduring Impact: Flake resistance of hypnotically anchored leads is extraordinar
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `लोक-लाज-भयम् यत् च यत् च सङ्कोच-बन्धनम् । तर्क-च्छलेन धीरः तु क्षणात् एव विनाशयेत् ॥३६॥`  
 
@@ -998,8 +892,6 @@ Enduring Impact: Flake resistance of hypnotically anchored leads is extraordinar
 
 **Speed Seduction Field Commentary:**  
 Reframing Objections: When a woman says 'I don't do this with guys I just met', amateur men argue ('Come on, yes you do!'). Jeffries teaches the hypnotic reframe: 'Of course you don't; you are a woman of standards. And isn't it wonderful when a rare connection is so powerful that old rules just naturally melt away?'
-
-</div>
 </details>
 
 #### श्लोकः 37 (अनुष्टुभ्)
@@ -1008,7 +900,6 @@ Reframing Objections: When a woman says 'I don't do this with guys I just met', 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अयोग्यम् मन्यते यत् सा तत् एव गुणम् उच्यते । विपर्ययेण संवाद्य सीमाम् विद्रावयेत् सुधीः ॥३७॥`  
 
@@ -1024,8 +915,6 @@ Reframing Objections: When a woman says 'I don't do this with guys I just met', 
 
 **Speed Seduction Field Commentary:**  
 Redefining the Boundary: If she says 'This is happening too fast', reply: 'The fact that you are aware of how fast this is moving proves how deeply sensitive and in tune with your feelings you are. You can take your time... and just feel how natural it is.'
-
-</div>
 </details>
 
 #### श्लोकः 38 (अनुष्टुभ्)
@@ -1034,7 +923,6 @@ Redefining the Boundary: If she says 'This is happening too fast', reply: 'The f
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `क्षण-मात्रेण जीवनम् नश्यति इति विभावयेत् । आनन्दस्य परिभोगे पापः न अस्ति इति बोधयेत् ॥३८॥`  
 
@@ -1050,8 +938,6 @@ Redefining the Boundary: If she says 'This is happening too fast', reply: 'The f
 
 **Speed Seduction Field Commentary:**  
 Existential Permission: Guilt is a cultural construct. Reminding her of the brevity of human existence ('Ten years from now, you will remember the passionate adventures you took, not the safe nights you stayed home') gives her cognitive permission to seize the moment.
-
-</div>
 </details>
 
 #### श्लोकः 39 (अनुष्टुभ्)
@@ -1060,7 +946,6 @@ Existential Permission: Guilt is a cultural construct. Reminding her of the brev
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अवरोधे विमुक्ते तु न पश्चात्-ताप-संशयः । सा मुक्ता सर्व-पापेभ्यः कामे समर्पणम् चरेत् ॥३९॥`  
 
@@ -1076,8 +961,6 @@ Existential Permission: Guilt is a cultural construct. Reminding her of the brev
 
 **Speed Seduction Field Commentary:**  
 Preventing Buyer's Remorse: When resistance is dissolved through genuine reframing rather than pushy manipulation, she does not feel regret the next morning. She feels proud, liberated and joyful about her decision.
-
-</div>
 </details>
 
 #### श्लोकः 40 (अनुष्टुभ्)
@@ -1086,7 +969,6 @@ Preventing Buyer's Remorse: When resistance is dissolved through genuine reframi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वाचा विदारिता शङ्का वाचा इच्छाम् उद्बलयति । सम्मोहनेन सम्बुद्धा नारी काम-परायणा ॥४०॥`  
 
@@ -1102,8 +984,6 @@ Preventing Buyer's Remorse: When resistance is dissolved through genuine reframi
 
 **Speed Seduction Field Commentary:**  
 Language as Catalyst: Words are not merely descriptive; they are creative. By articulating what she is afraid to admit to herself, you become the catalyst that releases her repressed passions into ecstatic expression.
-
-</div>
 </details>
 
 ## नवमः सर्गः : सङ्गमसङ्कल्पः कामदीक्षा
@@ -1116,7 +996,6 @@ Language as Catalyst: Words are not merely descriptive; they are creative. By ar
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सम्मोहे संस्थिता नारी मन्द-नेत्रा प्रजायते । तस्याः श्वासैः समम् श्वासम् योजयेत् कुशलः नरः ॥४१॥`  
 
@@ -1132,8 +1011,6 @@ Language as Catalyst: Words are not merely descriptive; they are creative. By ar
 
 **Speed Seduction Field Commentary:**  
 Somatic Trance Alignment: In the final phase before intimacy, drop words and move into breath. Match your breathing to her chest movements. As you breathe together, mirror neurons induce deep somatic trance and shared physiological arousal.
-
-</div>
 </details>
 
 #### श्लोकः 42 (अनुष्टुभ्)
@@ -1142,7 +1019,6 @@ Somatic Trance Alignment: In the final phase before intimacy, drop words and mov
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वचनानि विरंस्यन्ति स्पर्शः तत्र प्रवर्तते । मन्दम् मन्दम् कपोलाभ्याम् चुम्बनम् क्रियते मुदा ॥४२॥`  
 
@@ -1158,8 +1034,6 @@ Somatic Trance Alignment: In the final phase before intimacy, drop words and mov
 
 **Speed Seduction Field Commentary:**  
 The Shift from Word to Touch: Language was the bridge to create the trance state; once she is in state, words must cease. Lingering eye contact, touching her cheek and leaning in for an unhurried kiss is the natural physical crystallization of the hypnotic rapport.
-
-</div>
 </details>
 
 #### श्लोकः 43 (अनुष्टुभ्)
@@ -1168,7 +1042,6 @@ The Shift from Word to Touch: Language was the bridge to create the trance state
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वाचा या कल्पिता सृष्टिः शरीरेण अनुभूयते । सम्मोहनस्य साम्राज्ये काम-सङ्गमः इष्यते ॥४३॥`  
 
@@ -1184,8 +1057,6 @@ The Shift from Word to Touch: Language was the bridge to create the trance state
 
 **Speed Seduction Field Commentary:**  
 Embodying the Words: What was previously described ('feeling electric sparks throughout your body') is now physically realized through tender caresses, kisses and intimacy. The fantasy becomes physical reality.
-
-</div>
 </details>
 
 #### श्लोकः 44 (अनुष्टुभ्)
@@ -1194,7 +1065,6 @@ Embodying the Words: What was previously described ('feeling electric sparks thr
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न तत्र कलहः न अपि न च सङ्घर्ष-चेष्टितम् । नदी इव सागरे शान्ता नारी तस्मिन् विलीयते ॥४४॥`  
 
@@ -1210,8 +1080,6 @@ Embodying the Words: What was previously described ('feeling electric sparks thr
 
 **Speed Seduction Field Commentary:**  
 Effortless Intimacy: In poorly calibrated seduction, bedroom escalation is fraught with awkward negotiations and resistance. Under Speed Seduction, the transition into the bedroom is smooth and harmonious; both partners are swept along by shared desire.
-
-</div>
 </details>
 
 #### श्लोकः 45 (अनुष्टुभ्)
@@ -1220,7 +1088,6 @@ Effortless Intimacy: In poorly calibrated seduction, bedroom escalation is fraug
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वाङ्मयेन प्रपञ्चेन सिद्धः योगः परन्तपः । सङ्गमस्य परम् सौख्यम् लभते विदुषाम् वरः ॥४५॥`  
 
@@ -1236,8 +1103,6 @@ Effortless Intimacy: In poorly calibrated seduction, bedroom escalation is fraug
 
 **Speed Seduction Field Commentary:**  
 The Triumph of the Spoken Word: Physical seduction is the natural destination of linguistic mastery. When heart, mind and words are aligned, physical intimacy is elevated into an art form of mutual ecstasy.
-
-</div>
 </details>
 
 ## दशमः सर्गः : धर्मसीमा वाक्सिद्धिश्च
@@ -1250,7 +1115,6 @@ The Triumph of the Spoken Word: Physical seduction is the natural destination of
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सम्मोहनस्य सामर्थ्यम् न एव दुष्टाय कल्पते । पर-पीडाम् विमुच्य एव प्रीति-अर्थम् विनियोजयेत् ॥४६॥`  
 
@@ -1266,8 +1130,6 @@ The Triumph of the Spoken Word: Physical seduction is the natural destination of
 
 **Speed Seduction Field Commentary:**  
 The Ethical Imperative: Ross Jeffries stresses that linguistic influence carries heavy ethical responsibility. Using language patterns to manipulate vulnerable women into doing things that harm them psychologically is dark and self-destructive. Seduction must always leave her better than you found her.
-
-</div>
 </details>
 
 #### श्लोकः 47 (अनुष्टुभ्)
@@ -1276,7 +1138,6 @@ The Ethical Imperative: Ross Jeffries stresses that linguistic influence carries
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यथा खड्गः हि वीराणाम् रक्षणाय विधीयते । तथा वाङ्मय-विद्या सा सौख्याय एव प्रयुज्यते ॥४७॥`  
 
@@ -1292,8 +1153,6 @@ The Ethical Imperative: Ross Jeffries stresses that linguistic influence carries
 
 **Speed Seduction Field Commentary:**  
 The Sword of Speech: Language is a weapon. In the hands of a villain, it is destructive manipulation. In the hands of an honorable, noble gentleman, it is the wand of an enchanter that dissolves loneliness, heals shame and sparks unforgettable passion.
-
-</div>
 </details>
 
 #### श्लोकः 48 (अनुष्टुभ्)
@@ -1302,7 +1161,6 @@ The Sword of Speech: Language is a weapon. In the hands of a villain, it is dest
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आर्जवम् च दया च एव मर्यादा च यदा भवेत् । तदा सम्मोहनम् नाम काम-शास्त्रस्य भूषणम् ॥४८॥`  
 
@@ -1318,8 +1176,6 @@ The Sword of Speech: Language is a weapon. In the hands of a villain, it is dest
 
 **Speed Seduction Field Commentary:**  
 Integration of Ārjava and Sammohana: When hypnotic language is paired with Mark Manson's radical honesty and authentic respect, it ceases to be a parlor trick. It becomes genuine, transcendent romantic communication.
-
-</div>
 </details>
 
 #### श्लोकः 49 (अनुष्टुभ्)
@@ -1328,7 +1184,6 @@ Integration of Ārjava and Sammohana: When hypnotic language is paired with Mark
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `वाक्-सिद्धः हि नरः श्रेष्ठः काम-लोके विराजते । यस्य शब्दाः प्रसर्पन्ति तस्य नारी वशीकृता ॥४९॥`  
 
@@ -1344,8 +1199,6 @@ Integration of Ārjava and Sammohana: When hypnotic language is paired with Mark
 
 **Speed Seduction Field Commentary:**  
 Vāk-Siddhi (Mastery of Speech): In classical Sanskrit tradition, Vāk-Siddhi is the siddhi where whatever you speak manifests in reality. In courtship, when your words are resonant, sensual, poetic and congruent, reality aligns to your vision.
-
-</div>
 </details>
 
 #### श्लोकः 50 (अनुष्टुभ्)
@@ -1354,7 +1207,6 @@ Vāk-Siddhi (Mastery of Speech): In classical Sanskrit tradition, Vāk-Siddhi is
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
-<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `इति सम्मोहन-उपास्तिः पञ्चाशद्भिः सु-शोभिता । जेफ्रीस्-तन्त्र-सार-ज्ञा काम-सिद्धिम् प्रयच्छति ॥५०॥`  
 
@@ -1370,6 +1222,4 @@ Vāk-Siddhi (Mastery of Speech): In classical Sanskrit tradition, Vāk-Siddhi is
 
 **Speed Seduction Field Commentary:**  
 Conclusion of Sammohana-Kāma-Pañcāśikā: Codifying the complete linguistic, hypnotic and state-elicitation framework of Ross Jeffries's Speed Seduction. Speak with intentionality, awaken emotion, honor boundaries and enchant reality.
-
-</div>
 </details>
