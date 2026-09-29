@@ -36,3 +36,28 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+{% if page.mermaid %}
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+
+  mermaid.initialize({
+    startOnLoad: false,
+    theme: "default",
+    securityLevel: "loose",
+    flowchart: { htmlLabels: true, curve: "basis" }
+  });
+
+  // Jekyll/Rouge emits <pre><code class="language-mermaid">...</code></pre>
+  document.querySelectorAll("pre code.language-mermaid").forEach((code) => {
+    const pre = code.parentElement;
+    if (!pre) return;
+    const div = document.createElement("div");
+    div.className = "mermaid";
+    div.textContent = code.textContent;
+    pre.replaceWith(div);
+  });
+
+  await mermaid.run({ querySelector: ".mermaid" });
+</script>
+{% endif %}
