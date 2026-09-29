@@ -37,6 +37,8 @@ This treatise—**मायाविधिपञ्चाशिका**—codifi
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
 
+<div class="prose-text" markdown="1">
+
 **पदच्छेदः:** `आकर्षणम् तथा शान्तिः सङ्गमः च इति कीर्तितः । क्रमशः वर्तते कामः त्रि-चरणः हि दृश्यते ॥१॥`  
 
 | पदम् / Phrase | रूपम् / Analysis | Syntactic & Strategic Role |
@@ -51,6 +53,8 @@ This treatise—**मायाविधिपञ्चाशिका**—codifi
 
 **Mystery Method Field Commentary:**  
 The foundational premise of the Mystery Method: Courtship is a linear process with three distinct stages: Attraction (A), Comfort (C) and Seduction (S). You cannot seduce a woman who is not comfortable with you; she cannot become comfortable if she is not attracted.
+
+</div>
 </details>
 
 #### श्लोकः 2 (अनुष्टुभ्)
@@ -59,6 +63,8 @@ The foundational premise of the Mystery Method: Courtship is a linear process wi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सन्ततेः जननम् च एव जीवनस्य च रक्षणम् । उभयोः मूल-हेतुभ्याम् नारी कर्षति चेतसा ॥२॥`  
 
@@ -74,6 +80,8 @@ The foundational premise of the Mystery Method: Courtship is a linear process wi
 
 **Mystery Method Field Commentary:**  
 Mystery's evolutionary biological model: Survival and Replication (S&R) Value. Female mating psychology is calibrated to identify men who demonstrate high preselection, leadership, social protection, and reproductive vitality.
+
+</div>
 </details>
 
 #### श्लोकः 3 (अनुष्टुभ्)
@@ -82,6 +90,8 @@ Mystery's evolutionary biological model: Survival and Replication (S&R) Value. F
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `क्रम-भङ्गे कृते क्वापि कार्यम् नश्यति सर्वथा । आकर्षणात् परम् शान्तिः पश्चात् सङ्गमः इष्यते ॥३॥`  
 
@@ -97,6 +107,8 @@ Mystery's evolutionary biological model: Survival and Replication (S&R) Value. F
 
 **Mystery Method Field Commentary:**  
 Phase jumping causes fatal errors. Seducing in the Attraction phase triggers the 'creep' shield and immediate rejection. Building Comfort before Attraction triggers the dreaded 'friendzone'.
+
+</div>
 </details>
 
 #### श्लोकः 4 (अनुष्टुभ्)
@@ -105,6 +117,8 @@ Phase jumping causes fatal errors. Seducing in the Attraction phase triggers the
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सप्त-होरा-क्रमम् धीरः पूरयेत् स्नेह-सङ्ग्रहे । तावत्-कालेन नारीणाम् विश्वासः जायते महान् ॥४॥`  
 
@@ -120,6 +134,8 @@ Phase jumping causes fatal errors. Seducing in the Attraction phase triggers the
 
 **Mystery Method Field Commentary:**  
 The 7-Hour Rule: Mystery observed that it takes on average 4 to 10 hours (averaging 7 hours) of cumulative comfort time before a normal woman feels safe and willing to enter physical intimacy.
+
+</div>
 </details>
 
 #### श्लोकः 5 (अनुष्टुभ्)
@@ -128,6 +144,8 @@ The 7-Hour Rule: Mystery observed that it takes on average 4 to 10 hours (averag
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `माया-कारः सः विज्ञेयः यः चेतः वशम् आनयेत् । नाट्येन कौतुकेन एव काम-तन्त्रम् प्रकाशयेत् ॥५॥`  
 
@@ -143,6 +161,8 @@ The 7-Hour Rule: Mystery observed that it takes on average 4 to 10 hours (averag
 
 **Mystery Method Field Commentary:**  
 The identity of the pickup artist in Mystery's framing: a social illusionist who leads reality, commands group attention, and sparks intrigue through storytelling, magic routines, and playful framing.
+
+</div>
 </details>
 
 ---
@@ -156,6 +176,8 @@ The identity of the pickup artist in Mystery's framing: a social illusionist who
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `गणे स्थिताम् पुरः दृष्ट्वा गणम् एव समाश्रयेत् । न साक्षात् भावयेत् कान्ताम् विवृतौ संशयः न हि ॥६॥`  
 
@@ -171,6 +193,8 @@ The identity of the pickup artist in Mystery's framing: a social illusionist who
 
 **Mystery Method Field Commentary:**  
 Phase A1: The Indirect Group Open. Attractive women rarely stand alone in nightlife; they are flanked by friends and protectors. Open the entire group with an opinion opener, not the target.
+
+</div>
 </details>
 
 #### श्लोकः 7 (अनुष्टुभ्)
@@ -179,6 +203,8 @@ Phase A1: The Indirect Group Open. Attractive women rarely stand alone in nightl
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `क्षण-त्रयेण गन्तव्यम् संशयः शाम्यते क्षणात् । विलम्बेन विहीनः सः गणे प्रविशति प्रभुः ॥७॥`  
 
@@ -194,6 +220,8 @@ Phase A1: The Indirect Group Open. Attractive women rarely stand alone in nightl
 
 **Mystery Method Field Commentary:**  
 The 3-Second Rule in Mystery Method: Waiting to approach allows social anxiety to build, and makes you look like a creepy lurker circling the venue. Move within three seconds of visual identification.
+
+</div>
 </details>
 
 #### श्लोकः 8 (अनुष्टुभ्)
@@ -202,6 +230,8 @@ The 3-Second Rule in Mystery Method: Waiting to approach allows social anxiety t
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अंसेन गच्छति पुरः न नम्रः न च कातरः । उपेक्षया तु गच्छन्त्याः स्तम्भयति एव मानसम् ॥८॥`  
 
@@ -217,6 +247,8 @@ The 3-Second Rule in Mystery Method: Waiting to approach allows social anxiety t
 
 **Mystery Method Field Commentary:**  
 Body language at the open: Roll into the set with your body angled slightly away, talking over your shoulder. By initially ignoring the prettiest girl in the group, you deny her the free validation she expects.
+
+</div>
 </details>
 
 #### श्लोकः 9 (अनुष्टुभ्)
@@ -225,6 +257,8 @@ Body language at the open: Roll into the set with your body angled slightly away
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `काल-सीमा-वचः दत्त्वा भयम् नाशयति ध्रुवम् । क्षण-मात्रम् स्थितः अस्मि इति वदन् चेतः प्रहर्षयेत् ॥९॥`  
 
@@ -240,6 +274,8 @@ Body language at the open: Roll into the set with your body angled slightly away
 
 **Mystery Method Field Commentary:**  
 The False Time Constraint (FTC): Strangers in clubs fear you will latch onto them forever. Telling them immediately, 'I only have a minute, my friends are waiting by the bar,' eliminates their defense barrier.
+
+</div>
 </details>
 
 #### श्लोकः 10 (अनुष्टुभ्)
@@ -248,6 +284,8 @@ The False Time Constraint (FTC): Strangers in clubs fear you will latch onto the
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मयूर-वेषम् आस्थाय भूषणम् धारयेत् मुदा । विचित्र-वस्तु-दर्शनेन नारी पृच्छति सादरम् ॥१०॥`  
 
@@ -263,6 +301,8 @@ The False Time Constraint (FTC): Strangers in clubs fear you will latch onto the
 
 **Mystery Method Field Commentary:**  
 Peacocking: Wearing eye-catching, unique accessories (a quirky ring, feathered hat, bold jacket, unusual watch) that stand out in a dark nightclub. It gives women an easy excuse to open you.
+
+</div>
 </details>
 
 ---
@@ -279,6 +319,8 @@ Peacocking: Wearing eye-catching, unique accessories (a quirky ring, feathered h
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
 
+<div class="prose-text" markdown="1">
+
 **पदच्छेदः:** `गर्वम् प्रमथ्नाति च चाटु-वर्जः । कथा-प्रसङ्गेन गुण-प्रकाशः । गणे प्रधानः विमलम् चकास्ति । तस्याः मनः हन्त वशीकरोति ॥११॥`  
 
 | पदम् / Phrase | रूपम् / Analysis | Syntactic & Strategic Role |
@@ -294,6 +336,8 @@ Peacocking: Wearing eye-catching, unique accessories (a quirky ring, feathered h
 
 **Mystery Method Field Commentary:**  
 Phase A2: Female-to-Male Interest. You must lower her perceived social value (via Negs) while raising your own (via DHV storytelling and leading the set), flipping the dynamic so she seeks your approval.
+
+</div>
 </details>
 
 #### श्लोकः 12 (अनुष्टुभ्)
@@ -302,6 +346,8 @@ Phase A2: Female-to-Male Interest. You must lower her perceived social value (vi
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सौन्दर्य-गर्विता नारी रक्षिता चर्मणा सदा । गर्व-भङ्गेन तत् चर्म छिद्यते पथि लीलया ॥१२॥`  
 
@@ -317,6 +363,8 @@ Phase A2: Female-to-Male Interest. You must lower her perceived social value (vi
 
 **Mystery Method Field Commentary:**  
 The Neg: A subtle backhanded observation ('Nice nails, are they real?', 'You have a piece of lint on your shoulder'). It is not an insult; it signals to an elite beauty that you are unaffected by her looks.
+
+</div>
 </details>
 
 #### श्लोकः 13 (अनुष्टुभ्)
@@ -325,6 +373,8 @@ The Neg: A subtle backhanded observation ('Nice nails, are they real?', 'You hav
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `गुण-प्रकाशने यत्नः कार्यः न स्तुति-भाषणे । सङ्गे नेतृत्व-भावेन वीर्यम् संलक्ष्यते परम् ॥१३॥`  
 
@@ -340,6 +390,8 @@ The Neg: A subtle backhanded observation ('Nice nails, are they real?', 'You hav
 
 **Mystery Method Field Commentary:**  
 Demonstrating Higher Value (DHV): Don't boast. Demonstrate status by how you treat the staff, lead the group's conversation, and display protection of loved ones.
+
+</div>
 </details>
 
 #### श्लोकः 14 (अनुष्टुभ्)
@@ -348,6 +400,8 @@ Demonstrating Higher Value (DHV): Don't boast. Demonstrate status by how you tre
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कथा-प्रसङ्गतः धीरः गुणान् प्रकाशयेत् परान् । आत्म-श्लाघाम् विना वक्ति श्रोतारः मोहिताः मुदा ॥१४॥`  
 
@@ -363,6 +417,8 @@ Demonstrating Higher Value (DHV): Don't boast. Demonstrate status by how you tre
 
 **Mystery Method Field Commentary:**  
 Storytelling routines: Embed social proof into personal anecdotes ('When I was in Tokyo with my best friend...'). The story conveys travel, adventure, and social competence without showing off.
+
+</div>
 </details>
 
 #### श्लोकः 15 (अनुष्टुभ्)
@@ -371,6 +427,8 @@ Storytelling routines: Embed social proof into personal anecdotes ('When I was i
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अनुरागस्य चिह्नानि नयनेषु प्रपश्यति । केश-चालनम् अङ्गम् च संमतेः सूचकम् भवेत् ॥१५॥`  
 
@@ -386,6 +444,8 @@ Storytelling routines: Embed social proof into personal anecdotes ('When I was i
 
 **Mystery Method Field Commentary:**  
 Reading IOIs: Once she starts touching her neck, twirling her hair, laughing at everything you say, and touching your arm, Phase A2 is complete. You must stop negging and advance to Phase A3.
+
+</div>
 </details>
 
 ---
@@ -399,6 +459,8 @@ Reading IOIs: Once she starts touching her neck, twirling her hair, laughing at 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `न केवलम् वपुः पश्येत् गुणम् पृच्छेत् प्रयत्नतः । यदा सा साधयेत् वाक्यम् तदा दानम् प्रशंसनम् ॥१६॥`  
 
@@ -414,6 +476,8 @@ Reading IOIs: Once she starts touching her neck, twirling her hair, laughing at 
 
 **Mystery Method Field Commentary:**  
 Phase A3: Male-to-Female Interest (Qualification). Beautiful women know you like their body. When you qualify her personality and reward her only when she passes, she feels chosen for who she is.
+
+</div>
 </details>
 
 #### श्लोकः 17 (अनुष्टुभ्)
@@ -422,6 +486,8 @@ Phase A3: Male-to-Female Interest (Qualification). Beautiful women know you like
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्षणात् परम् बन्धः कर्षणात् मोचनम् भवेत् । प्रलोभ्य च अपकृष्य एवम् काम-तन्त्रम् प्रसाधयेत् ॥१७॥`  
 
@@ -437,6 +503,8 @@ Phase A3: Male-to-Female Interest (Qualification). Beautiful women know you like
 
 **Mystery Method Field Commentary:**  
 Bait-Hook-Reel-Release (BHRR): Bait with an intriguing topic, hook her investment, reel her closer with interest, then release (turn away or tease) to create dynamic pursuit.
+
+</div>
 </details>
 
 #### श्लोकः 18 (अनुष्टुभ्)
@@ -445,6 +513,8 @@ Bait-Hook-Reel-Release (BHRR): Bait with an intriguing topic, hook her investmen
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मार्जार-रज्जु-वत् मार्गे काम्यम् दूर-तरम् दधौ । हस्त-प्राप्ये तु वैराग्यम् दूरे धावति सादरम् ॥१८॥`  
 
@@ -460,6 +530,8 @@ Bait-Hook-Reel-Release (BHRR): Bait with an intriguing topic, hook her investmen
 
 **Mystery Method Field Commentary:**  
 Catstring Theory: A cat will play endlessly with a string dangling just beyond its paws. If you drop the string on the floor, the cat gets bored and walks away. Never surrender 100% of your interest.
+
+</div>
 </details>
 
 #### श्लोकः 19 (अनुष्टुभ्)
@@ -468,6 +540,8 @@ Catstring Theory: A cat will play endlessly with a string dangling just beyond i
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `शीलवती असि किम् न त्वम् किम् वा रूपेण मोहिता । इति संप्रश्न-भावेन योग्यताम् तस्य मार्गति ॥१९॥`  
 
@@ -483,6 +557,8 @@ Catstring Theory: A cat will play endlessly with a string dangling just beyond i
 
 **Mystery Method Field Commentary:**  
 Screening: Challenge her self-image. 'Are you just a pretty party girl, or do you actually have an artistic soul?' It forces her to prove her depth to you.
+
+</div>
 </details>
 
 #### श्लोकः 20 (अनुष्टुभ्)
@@ -491,6 +567,8 @@ Screening: Challenge her self-image. 'Are you just a pretty party girl, or do yo
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यदा सा साधयेत् यत्नम् तदा स्तुतिः सुख-प्रदा । गुणे कृते प्रशंसनम् न केवल-कलेवरे ॥२०॥`  
 
@@ -506,6 +584,8 @@ Screening: Challenge her self-image. 'Are you just a pretty party girl, or do yo
 
 **Mystery Method Field Commentary:**  
 The Compliment Formula: Never compliment physical traits she did not choose (eyes, face, body). Compliment her energy, her creative accomplishments, or her sharp wit.
+
+</div>
 </details>
 
 ---
@@ -520,6 +600,8 @@ The Compliment Formula: Never compliment physical traits she did not choose (eye
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
 
+<div class="prose-text" markdown="1">
+
 **पदच्छेदः:** `गणे स्थिताः सह-चराः सखी-वर्गः नराः च ये । सर्वान् समाश्रयेत् पूर्वम् पश्चात् ताम् चालयेत् सुधीः ॥२१॥`  
 
 | पदम् / Phrase | रूपम् / Analysis | Syntactic & Strategic Role |
@@ -533,6 +615,8 @@ The Compliment Formula: Never compliment physical traits she did not choose (eye
 
 **Mystery Method Field Commentary:**  
 Group Theory: You don't pick up the girl; you pick up the group. If the group likes you, they will help you; if they feel ignored or disrespected, they will cockblock you immediately.
+
+</div>
 </details>
 
 #### श्लोकः 22 (अनुष्टुभ्)
@@ -541,6 +625,8 @@ Group Theory: You don't pick up the girl; you pick up the group. If the group li
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `गण-अधीशम् नरम् दृष्ट्वा न भीतः हस्तम् अर्पयेत् । तस्मै मानम् प्रदाय एव तस्य रक्षाम् जयति अलम् ॥२२॥`  
 
@@ -556,6 +642,8 @@ Group Theory: You don't pick up the girl; you pick up the group. If the group li
 
 **Mystery Method Field Commentary:**  
 Disarming the Alpha Male / Boyfriend / Brother: Acknowledge the alpha male immediately. Introduce yourself, shake his hand, ask his name. If you treat him like an ally, he won't block you.
+
+</div>
 </details>
 
 #### श्लोकः 23 (अनुष्टुभ्)
@@ -564,6 +652,8 @@ Disarming the Alpha Male / Boyfriend / Brother: Acknowledge the alpha male immed
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सखी-वर्गम् समासाद्य विश्रम्भम् जनयेत् सुधीः । विरोधिनाम् मुखे शान्तिः सु-गमः जायते पथि ॥२३॥`  
 
@@ -579,6 +669,8 @@ Disarming the Alpha Male / Boyfriend / Brother: Acknowledge the alpha male immed
 
 **Mystery Method Field Commentary:**  
 The protective girlfriend (Obstacle): The best friend has veto power over the night. Win her over by making her laugh and showing you are a safe, high-value gentleman. She will endorse you.
+
+</div>
 </details>
 
 #### श्लोकः 24 (अनुष्टुभ्)
@@ -587,6 +679,8 @@ The protective girlfriend (Obstacle): The best friend has veto power over the ni
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सहायकः महा-प्राज्ञः गणम् अन्यत्र कर्षति । एकाकिनी भवेत् सा तु धीरः ताम् उपगच्छति ॥२४॥`  
 
@@ -602,6 +696,8 @@ The protective girlfriend (Obstacle): The best friend has veto power over the ni
 
 **Mystery Method Field Commentary:**  
 The Wingman's Role: An essential Mystery Method tactic. A wingman's job is not to hit on your girl; his job is to entertain the obstacles (the best friend or group) so you can isolate the target.
+
+</div>
 </details>
 
 #### श्लोकः 25 (अनुष्टुभ्)
@@ -610,6 +706,8 @@ The Wingman's Role: An essential Mystery Method tactic. A wingman's job is not t
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्त्री-सहायिकया सार्धम् गमने गौरवम् महत् । अन्य-स्त्री-दर्शनम् दृष्ट्वा नारी कामाय मज्जति ॥२५॥`  
 
@@ -625,6 +723,8 @@ The Wingman's Role: An essential Mystery Method tactic. A wingman's job is not t
 
 **Mystery Method Field Commentary:**  
 The Pivot / Female Wing: The ultimate pre-selection weapon. When women see you enjoying the company of an attractive female friend, their safety alarms drop and your mate value skyrockets.
+
+</div>
 </details>
 
 ---
@@ -638,6 +738,8 @@ The Pivot / Female Wing: The ultimate pre-selection weapon. When women see you e
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्षणे कृते पश्चात् विश्रम्भः क्रियते महान् । क्रीडाम् विहाय गम्भीरम् संलापम् संप्रयोजयेत् ॥२६॥`  
 
@@ -653,6 +755,8 @@ The Pivot / Female Wing: The ultimate pre-selection weapon. When women see you e
 
 **Mystery Method Field Commentary:**  
 Phase C1: Wide Rapport. Cocky banter must stop once attraction is built. Switch into grounded comfort: ask about her life, her childhood, and her genuine dreams.
+
+</div>
 </details>
 
 #### श्लोकः 27 (अनुष्टुभ्)
@@ -661,6 +765,8 @@ Phase C1: Wide Rapport. Cocky banter must stop once attraction is built. Switch 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `समान-भाव-सम्पत्तिः हृदयेषु प्रजायते । बाल्य-वृत्तान्त-सम्बन्धात् परस्पर-उदितम् सुखम् ॥२७॥`  
 
@@ -676,6 +782,8 @@ Phase C1: Wide Rapport. Cocky banter must stop once attraction is built. Switch 
 
 **Mystery Method Field Commentary:**  
 Commonality: Discover shared childhood memories, shared values, or secret quirky habits. Finding that 'we are the same' creates safety and rapid emotional bonding.
+
+</div>
 </details>
 
 #### श्लोकः 28 (अनुष्टुभ्)
@@ -684,6 +792,8 @@ Commonality: Discover shared childhood memories, shared values, or secret quirky
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `कथाभिः आत्मनः गूढम् विवृणोति शनैः शनैः । विश्रम्भे वर्धिते तस्याः हृदयम् कम्पते मुदा ॥२८॥`  
 
@@ -699,6 +809,8 @@ Commonality: Discover shared childhood memories, shared values, or secret quirky
 
 **Mystery Method Field Commentary:**  
 Strategic Vulnerability: Share a flaw, an honest fear, or a difficult lesson learned. Perfect men are intimidating; authentic men who show calibrated vulnerability inspire deep romantic trust.
+
+</div>
 </details>
 
 #### श्लोकः 29 (अनुष्टुभ्)
@@ -707,6 +819,8 @@ Strategic Vulnerability: Share a flaw, an honest fear, or a difficult lesson lea
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्थान-त्रये प्रणीता सा मन्यते चिर-सङ्गतिम् । स्थानात् स्थानम् प्रणीतायाम् विश्वासः जायते ध्रुवम् ॥२९॥`  
 
@@ -722,6 +836,8 @@ Strategic Vulnerability: Share a flaw, an honest fear, or a difficult lesson lea
 
 **Mystery Method Field Commentary:**  
 The Multiple Venue Rule (3 Locations): If you meet at a bar, bounce to a diner for food, then to an arcade, and then to your rooftop, you have shared four worlds in four hours. It compresses weeks of time.
+
+</div>
 </details>
 
 #### श्लोकः 30 (अनुष्टुभ्)
@@ -730,6 +846,8 @@ The Multiple Venue Rule (3 Locations): If you meet at a bar, bounce to a diner f
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `मार्गात् तु पान-शालायाम् ततः च उद्यान-मन्दिरे । स्थान-भेदात् प्रमदायाः काल-मानम् प्रमुह्यति ॥३०॥`  
 
@@ -745,6 +863,8 @@ The Multiple Venue Rule (3 Locations): If you meet at a bar, bounce to a diner f
 
 **Mystery Method Field Commentary:**  
 Time distortion in venue bouncing: Moving environments resets social vigilance. She stops viewing you as 'a guy I met an hour ago' and begins viewing you as 'my companion of the night'.
+
+</div>
 </details>
 
 ---
@@ -758,6 +878,8 @@ Time distortion in venue bouncing: Moving environments resets social vigilance. 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हस्तम् स्पृष्ट्वा पुरः बाहुम् पश्चात् पार्श्वम् समाश्रयेत् । स्पर्श-क्रमः भवेत् मन्दः संकोचे विरमेत् क्षणात् ॥३१॥`  
 
@@ -773,6 +895,8 @@ Time distortion in venue bouncing: Moving environments resets social vigilance. 
 
 **Mystery Method Field Commentary:**  
 Phase C2: Kino Escalation Ladder. Start physical touch early in the interaction so it feels natural. Never surprise her with an out-of-the-blue sexual grab.
+
+</div>
 </details>
 
 #### श्लोकः 32 (अनुष्टुभ्)
@@ -781,6 +905,8 @@ Phase C2: Kino Escalation Ladder. Start physical touch early in the interaction 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `संकोचे विरते पश्चात् गाढम् स्पर्शम् समाचरेत् । अङ्गेषु अङ्गम् समायोज्य वीर्यम् प्रकाशयेत् सुधीः ॥३२॥`  
 
@@ -796,6 +922,8 @@ Phase C2: Kino Escalation Ladder. Start physical touch early in the interaction 
 
 **Mystery Method Field Commentary:**  
 Deepening touch: When she leans into your touch, draw her hip against yours or place your hand around her lower back. Physical compliance leads directly to sexual readiness.
+
+</div>
 </details>
 
 #### श्लोकः 33 (अनुष्टुभ्)
@@ -804,6 +932,8 @@ Deepening touch: When she leans into your touch, draw her hip against yours or p
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `हस्त-रेखाम् समालोक्य संलापम् कुरुते शुभम् । स्पर्शस्य सौम्य-भावेन तस्याः रोमाञ्चः जायते ॥३३॥`  
 
@@ -819,6 +949,8 @@ Deepening touch: When she leans into your touch, draw her hip against yours or p
 
 **Mystery Method Field Commentary:**  
 Touch routines (Palm reading / Ring test): Mystery popularized using palm reading or hand games as a socially sanctioned excuse to hold her hand for 2 minutes straight.
+
+</div>
 </details>
 
 #### श्लोकः 34 (अनुष्टुभ्)
@@ -827,6 +959,8 @@ Touch routines (Palm reading / Ring test): Mystery popularized using palm readin
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `नेत्रे पश्यन् शनैः गत्वा चुम्बनेन प्रसाधयेत् । न याचते मुखम् धीरः साक्षात् एव समाचरेत् ॥३४॥`  
 
@@ -842,6 +976,8 @@ Touch routines (Palm reading / Ring test): Mystery popularized using palm readin
 
 **Mystery Method Field Commentary:**  
 Phase C3: The Kiss Close. Don't ask, 'Can I kiss you?' Move in slowly (the 90/10 rule: lean in 90% and let her cross the final 10%), look from her eyes to her lips, and kiss her gently.
+
+</div>
 </details>
 
 #### श्लोकः 35 (अनुष्टुभ्)
@@ -850,6 +986,8 @@ Phase C3: The Kiss Close. Don't ask, 'Can I kiss you?' Move in slowly (the 90/10
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `चुम्बित्वा तु क्षणात् पश्चात् विश्राम्यति एव निश्चलः । तनावम् वर्धयन् एवम् सङ्गमाय प्रयोजयेत् ॥३५॥`  
 
@@ -865,6 +1003,8 @@ Phase C3: The Kiss Close. Don't ask, 'Can I kiss you?' Move in slowly (the 90/10
 
 **Mystery Method Field Commentary:**  
 The Kiss Bounce: Pull away first! After a tender kiss, break away, look back into her eyes with a smirk, and continue the conversation. Leaving her wanting more spikes desire.
+
+</div>
 </details>
 
 ---
@@ -878,6 +1018,8 @@ The Kiss Bounce: Pull away first! After a tender kiss, break away, look back int
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `संलाप-बीजम् विन्यस्य काल-सेतुम् प्रसाधयेत् । परेद्युः मेलन-अर्थाय पूर्वम् एव वदेत् वचः ॥३६॥`  
 
@@ -893,6 +1035,8 @@ The Kiss Bounce: Pull away first! After a tender kiss, break away, look back int
 
 **Mystery Method Field Commentary:**  
 The Time Bridge: Don't just grab a phone number. Build a premise for meeting again ('You like art? We have to check out that gallery on Thursday'). The bridge ensures she replies to your text.
+
+</div>
 </details>
 
 #### श्लोकः 37 (अनुष्टुभ्)
@@ -901,6 +1045,8 @@ The Time Bridge: Don't just grab a phone number. Build a premise for meeting aga
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `यन्त्रे संक्षेपतः सन्देशान् प्रेषयेत् सदा । दीर्घ-वार्ताम् परित्यज्य स्मरणम् योजयेत् मुदा ॥३७॥`  
 
@@ -916,6 +1062,8 @@ The Time Bridge: Don't just grab a phone number. Build a premise for meeting aga
 
 **Mystery Method Field Commentary:**  
 Phone Game: Texts are solely for logistics, not conversation. Don't be a pen pal. Send brief callback jokes referencing your inside jokes from the club, then schedule the meet.
+
+</div>
 </details>
 
 #### श्लोकः 38 (अनुष्टुभ्)
@@ -924,6 +1072,8 @@ Phone Game: Texts are solely for logistics, not conversation. Don't be a pen pal
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सभायाः निष्क्रमण-काले हस्तम् धृत्वा नयेत् पुरः । न संशयम् प्रकुर्वीत नेतृत्वेन प्रवर्तते ॥३८॥`  
 
@@ -939,6 +1089,8 @@ Phone Game: Texts are solely for logistics, not conversation. Don't be a pen pal
 
 **Mystery Method Field Commentary:**  
 The Extraction Pull: Never ask, 'Do you want to leave now?' Say, 'Let's get out of here,' take her hand, and walk toward the exit. Leadership removes the burden of decision from her.
+
+</div>
 </details>
 
 #### श्लोकः 39 (अनुष्टुभ्)
@@ -947,6 +1099,8 @@ The Extraction Pull: Never ask, 'Do you want to leave now?' Say, 'Let's get out 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `गृहम् गच्छावः इति एवम् न वदेत् भीति-दायकम् । गीतम् श्रोतुम् गृहम् याहि इति आह्वयेत् मधुरम् सुधीः ॥३९॥`  
 
@@ -962,6 +1116,8 @@ The Extraction Pull: Never ask, 'Do you want to leave now?' Say, 'Let's get out 
 
 **Mystery Method Field Commentary:**  
 Plausible Deniability: Women need a non-sexual pretext to go home with you ('Let's grab a drink on my balcony', 'Come meet my dog'). It protects her from feeling like an easy pickup.
+
+</div>
 </details>
 
 #### श्लोकः 40 (अनुष्टुभ्)
@@ -970,6 +1126,8 @@ Plausible Deniability: Women need a non-sexual pretext to go home with you ('Let
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अहिंसा-भाव-रूपेण गच्छन्ती सा न शङ्कते । एकान्ते नयने यत्नः सु-गमः जायते क्षणात् ॥४०॥`  
 
@@ -985,6 +1143,8 @@ Plausible Deniability: Women need a non-sexual pretext to go home with you ('Let
 
 **Mystery Method Field Commentary:**  
 Low-pressure logistics: Once she is in your car or walking to your apartment under a safe frame, logistics friction vanishes. You have navigated her successfully from public to private.
+
+</div>
 </details>
 
 ---
@@ -998,6 +1158,8 @@ Low-pressure logistics: Once she is in your car or walking to your apartment und
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `सङ्गम-अर्थम् प्रपन्नायाम् कवाटम् संवृणोति अलम् । प्रकाशम् मन्दयन् धीरः काम-तन्त्रम् प्रसाधयेत् ॥४१॥`  
 
@@ -1013,6 +1175,8 @@ Low-pressure logistics: Once she is in your car or walking to your apartment und
 
 **Mystery Method Field Commentary:**  
 Phase S1: Bedroom Logistics. Once inside, close the door, put on dim amber lighting, play lo-fi or ambient music, and seat her somewhere comfortable (couch or bed).
+
+</div>
 </details>
 
 #### श्लोकः 42 (अनुष्टुभ्)
@@ -1021,6 +1185,8 @@ Phase S1: Bedroom Logistics. Once inside, close the door, put on dim amber light
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आसने पार्श्वतः स्थित्वा संलापम् कुरुते सुखम् । मन्दम् मन्दम् प्रवृद्धेन स्पर्शेन कुरुते रतिम् ॥४२॥`  
 
@@ -1036,6 +1202,8 @@ Phase S1: Bedroom Logistics. Once inside, close the door, put on dim amber light
 
 **Mystery Method Field Commentary:**  
 Seating side-by-side: Never sit across a table from her in your apartment. Sit beside her on the sofa so that moving from talking to cuddling to kissing requires zero physical repositioning.
+
+</div>
 </details>
 
 #### श्लोकः 43 (अनुष्टुभ्)
@@ -1044,6 +1212,8 @@ Seating side-by-side: Never sit across a table from her in your apartment. Sit b
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `लज्जा-वारणम् एव अत्र कर्तव्यम् धीमता सदा । न दोषा दृश्यते कान्ता दोष-मुक्तम् समाचरेत् ॥४३॥`  
 
@@ -1059,6 +1229,8 @@ Seating side-by-side: Never sit across a table from her in your apartment. Sit b
 
 **Mystery Method Field Commentary:**  
 Anti-Slut Defense (ASD): Women are socially conditioned to fear being judged as easy. If you say, 'I know, this is crazy, we shouldn't do this,' you align with her ASD and dissolve her fear.
+
+</div>
 </details>
 
 #### श्लोकः 44 (अनुष्टुभ्)
@@ -1067,6 +1239,8 @@ Anti-Slut Defense (ASD): Women are socially conditioned to fear being judged as 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अन्त्य-काले स्थिते रोधे न हठात् प्रवरेत् पुमान् । पश्चात् गत्वा विश्राम्यन् काम-तापम् प्रवर्धयेत् ॥४४॥`  
 
@@ -1082,6 +1256,8 @@ Anti-Slut Defense (ASD): Women are socially conditioned to fear being judged as 
 
 **Mystery Method Field Commentary:**  
 Phase S2: Last-Minute Resistance (LMR). When she puts her hands on your chest and says 'wait', immediately back off 100%. Kiss her forehead, roll over, check your phone, and act completely unbothered.
+
+</div>
 </details>
 
 #### श्लोकः 45 (अनुष्टुभ्)
@@ -1090,6 +1266,8 @@ Phase S2: Last-Minute Resistance (LMR). When she puts her hands on your chest an
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `स्तम्भनेन कृते रोधे काम-दाहः प्रजायते । स्वयम् एव समायाति विमुक्ता सर्व-शङ्कया ॥४५॥`  
 
@@ -1105,6 +1283,8 @@ Phase S2: Last-Minute Resistance (LMR). When she puts her hands on your chest an
 
 **Mystery Method Field Commentary:**  
 The Freeze-Out Mechanism: By removing your attention the second she resists, you eliminate the pressure dynamic. Seeing that you won't force her, she feels safe and reaches out to pull you back.
+
+</div>
 </details>
 
 ---
@@ -1118,6 +1298,8 @@ The Freeze-Out Mechanism: By removing your attention the second she resists, you
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `भये गते विमुक्तायाः सङ्गमः फलवान् भवेत् । परस्पर-अनुरागेण हृदयम् परितुष्यति ॥४६॥`  
 
@@ -1133,6 +1315,8 @@ The Freeze-Out Mechanism: By removing your attention the second she resists, you
 
 **Mystery Method Field Commentary:**  
 Phase S3: Consummation. Great sex occurs when both partners are fully present, unburdened by social shame or performance anxiety, united in mutual, enthusiastic passion.
+
+</div>
 </details>
 
 #### श्लोकः 47 (उपजाति)
@@ -1143,6 +1327,8 @@ Phase S3: Consummation. Great sex occurs when both partners are fully present, u
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `शान्ते भये मुग्धतया प्रपन्ना । तनाव-मुक्ते हृदये विलीना । काम-अनलस्य आहुतिम् अश्नुवाना । सङ्गम्यते सा विजयेन तृप्ता ॥४७॥`  
 
@@ -1158,6 +1344,8 @@ Phase S3: Consummation. Great sex occurs when both partners are fully present, u
 
 **Mystery Method Field Commentary:**  
 The ecstatic climax of the M3 Model: The journey from opening an unfamiliar set across a crowded nightclub to complete, trusting intimacy in the sanctuary of your bedroom.
+
+</div>
 </details>
 
 #### श्लोकः 48 (अनुष्टुभ्)
@@ -1166,6 +1354,8 @@ The ecstatic climax of the M3 Model: The journey from opening an unfamiliar set 
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `प्रातः-काले स्थितायाम् तु प्रेम-भावम् प्रकाशयेत् । न दैन्यम् न च संकोचम् धारयेत् स्थिर-मानसः ॥४८॥`  
 
@@ -1181,6 +1371,8 @@ The ecstatic climax of the M3 Model: The journey from opening an unfamiliar set 
 
 **Mystery Method Field Commentary:**  
 Preventing Buyer's Remorse: The morning after is crucial. Be warm, make breakfast or coffee, and never act cold, distant, or overly clingy. Leave her with a wonderful, dignified memory.
+
+</div>
 </details>
 
 #### श्लोकः 49 (अनुष्टुभ्)
@@ -1189,6 +1381,8 @@ Preventing Buyer's Remorse: The morning after is crucial. Be warm, make breakfas
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `अकाले सङ्गमम् न इच्छेत् आकर्षणम् अकृत्वा न । क्रम-भङ्गे कृते कार्यम् विनश्यति पथि क्षणात् ॥४९॥`  
 
@@ -1204,6 +1398,8 @@ Preventing Buyer's Remorse: The morning after is crucial. Be warm, make breakfas
 
 **Mystery Method Field Commentary:**  
 The Cardinal Law of the Mystery Method: Calibration and sequencing. Skipping Attraction leads to the friendzone; skipping Comfort leads to panic and rejection. Master each stage in order.
+
+</div>
 </details>
 
 #### श्लोकः 50 (अनुष्टुभ्)
@@ -1212,6 +1408,8 @@ The Cardinal Law of the Mystery Method: Calibration and sequencing. Skipping Att
 
 <details>
 <summary>व्याकरणम् · पदच्छेदः · English Analysis</summary>
+
+<div class="prose-text" markdown="1">
 
 **पदच्छेदः:** `आकर्षय पुरः मुग्धाम् विश्रम्भय ततः परम् । सङ्गमय च कान्ताम् त्वम् एषः माया-विधिः स्मृतः ॥५०॥`  
 
@@ -1227,6 +1425,8 @@ The Cardinal Law of the Mystery Method: Calibration and sequencing. Skipping Att
 
 **Mystery Method Field Commentary:**  
 The Grand Seal of the M3 Model: Attract $\to$ Comfort $\to$ Seduce. Internalizing this three-stage behavioral ladder transforms a man from an anxious supplicant into a confident master of courtship.
+
+</div>
 </details>
 
 ---
